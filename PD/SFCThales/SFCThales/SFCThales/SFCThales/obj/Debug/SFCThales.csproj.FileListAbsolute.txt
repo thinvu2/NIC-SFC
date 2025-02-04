@@ -1,0 +1,235 @@
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\SFC_Library.dll
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\stdole.dll
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\SFC_Library.pdb
+D:\CHON\MAIN\SFCThales\SFCThales\bin\Debug\SFC_Library.xml
+D:\CHON\MAIN\SFCThales\SFCThales\obj\Debug\SFCThales.csprojResolveAssemblyReference.cache
+D:\CHON\MAIN\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+D:\CHON\MAIN\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+D:\CHON\MAIN\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.Cache
+D:\CHON\MAIN\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+D:\CHON\MAIN\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.Cache
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\SFC_Library.dll
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\stdole.dll
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\SFC_Library.pdb
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\SFC_Library.xml
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe.config
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe.config
+D:\CHON\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe.config
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+D:\CHON\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\stdole.dll
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\obj\Debug\SFCThales.csprojResolveAssemblyReference.cache
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.Cache
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+C:\Users\V1019802\Desktop\6\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\stdole.dll
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.Cache
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe.config
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe.config
+E:\NIC Source\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe.config
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+E:\NIC Source\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\stdole.dll
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe.config
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe.config
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe.config
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.cache
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe.config
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\System.Net.Http.Formatting.dll
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\Oracle.dll
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\Newtonsoft.Json.xml
+E:\NIC_SOURCE\NIC_SFC\SFCThales\SFCThales\SFCThales\bin\Debug\sfcconnect.pdb
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\stdole.dll
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe.config
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe.config
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe.config
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.cache
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+C:\NIC\SFCThales\SFCThales.exe.config
+C:\NIC\SFCThales\SFCThales.exe
+C:\NIC\SFCThales\SFCThales.pdb
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+D:\SFC_NIC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe.config
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.cache
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\SFC_Library.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\sfcconnect.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\stdole.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\Oracle.dll
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe.config
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe.config
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe.config
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\SFC_Library.pdb
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\SFC_Library.xml
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\bin\Debug\sfcconnect.pdb
+C:\Users\V1019802\Desktop\Thales\SFCThales\SFCThales\obj\Debug\SFCThales.exe.config
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe.config
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+E:\NIC\SFCThales\SFCThales.exe.config
+E:\NIC\SFCThales\SFCThales.exe
+E:\NIC\SFCThales\SFCThales.pdb
+E:\NIC Source\5.0\NIC_SFC\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe.config
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe.config
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.cache
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe.config
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.exe
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\SFCThales.pdb
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\Newtonsoft.Json.dll
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\Sfc.Core.dll
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\Sfc.Library.HttpClient.dll
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\SFC_Library.dll
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\System.Net.Http.Formatting.dll
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\Interop.LabelManager2.dll
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\stdole.dll
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.pdb
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\CHECK_MSL.exe.config
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.pdb
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\GemaltoRoast.exe.config
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.exe.config
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\Newtonsoft.Json.xml
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\SFC_Library.pdb
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\SFC_Library.xml
+E:\SFCThales\SFCThales\SFCThales\SFCThales\bin\Debug\MSL_PRINT.pdb
+E:\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Form1.resources
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.Properties.Resources.resources
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.csproj.CopyComplete
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.exe
+C:\Users\V1039443\Desktop\NIC_SFC\PD\SFCThales\SFCThales\SFCThales\SFCThales\obj\Debug\SFCThales.pdb

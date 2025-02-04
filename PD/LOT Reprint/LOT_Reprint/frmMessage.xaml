@@ -1,0 +1,53 @@
+﻿<Window x:Class="LOT_REPRINT.frmMessage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LOT_REPRINT"
+        mc:Ignorable="d"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        Title="Messages" Height="273.529" Width="486.397" Background="#FFB83131"
+        FontFamily="{DynamicResource MaterialDesignFont}" 
+        Foreground="#FFB83131"
+        WindowStyle="None"
+        FontSize="18"
+        Icon="message.ico"
+        WindowStartupLocation="CenterScreen" Loaded="frmMessage_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2.*"></RowDefinition>
+            <RowDefinition Height="2.*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBox
+            Style="{StaticResource MaterialDesignOutlinedTextBox}"
+            Margin="5,5,5,10"
+            VerticalAlignment="Top"
+            Height="100"
+            AcceptsReturn="True"
+            TextWrapping="Wrap"
+            FontSize="14"
+            VerticalScrollBarVisibility="Auto" Background="White"
+            Name="txtEnglish"  Foreground="Red"
+             />
+        </Grid>
+        <Grid Grid.Row="1">
+            <TextBox
+                Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                Margin="5,5,5,10"
+                VerticalAlignment="Top"
+                Height="100"
+                AcceptsReturn="True"
+                TextWrapping="Wrap"
+                VerticalScrollBarVisibility="Auto" Background="White"
+                FontSize="14"
+                Name="txtVietnamese"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <PasswordBox Name="txtPassWord" Grid.ColumnSpan="2" Margin="189,10" VerticalAlignment="Top" Background="#FFFBF5F5" KeyDown="txtPassWord_KeyDown"/>
+        </Grid>
+
+    </Grid>
+</Window>

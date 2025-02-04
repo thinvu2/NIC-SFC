@@ -1,0 +1,70 @@
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Make_Weight.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\SetupStation.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Show_Params.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\App.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.cache
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.lref
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\SetupStation.baml
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Show_Params.baml
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.g.resources
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe
+E:\NIC Source\5.0\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.pdb
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe.config
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Make_Weight.pdb
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.AssemblyReference.cache
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe.config
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\SetupStation.g.cs
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Show_Params.g.cs
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\MainWindow.g.cs
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\App.g.cs
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.cache
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.lref
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\SetupStation.baml
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Show_Params.baml
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\MainWindow.baml
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.g.resources
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.Properties.Resources.resources
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.GenerateResource.cache
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.CoreCompileInputs.cache
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.CopyComplete
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe
+E:\5.000\NIC_SFC\PD\Make_Weight\Make_Weight\obj\Debug\Make_Weight.pdb

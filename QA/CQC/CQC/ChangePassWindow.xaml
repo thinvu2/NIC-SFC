@@ -1,0 +1,108 @@
+﻿<Window x:Class="CQC.ChangePassWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Change Password" Height="270" Width="300">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Label" x:Key="labeltitle">
+                <Setter Property="HorizontalAlignment" Value="Right"></Setter>
+                <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+                <Setter Property="FontSize" Value="14"></Setter>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--input-->
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="1.2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Style="{StaticResource labeltitle}">Old Password :</Label>
+            <PasswordBox Grid.Column="1" Margin="10 0 30 5"
+                         materialDesign:HintAssist.Hint="Old Password"
+                         Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" />
+            <Label Grid.Row="1" Style="{StaticResource labeltitle}">New Password :</Label>
+            <PasswordBox Grid.Row="1" Grid.Column="1" Margin="10 0 30 5"
+                         materialDesign:HintAssist.Hint="New Password"
+                         Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" />
+            <Label Grid.Row="2" Style="{StaticResource labeltitle}">Confirm Password :</Label>
+            <PasswordBox Grid.Row="2" Grid.Column="1" Margin="10 0 30 5"
+                         materialDesign:HintAssist.Hint="Confirm Password"
+                         Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" />
+        </Grid>
+        <!--confim-->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+                <!--<Button Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                        Width="85"
+                        ToolTip="OK">
+                    OK
+                </Button>-->
+
+                <Button Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="OK">
+                    <StackPanel
+                Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                    Margin="0 .5 0 0"
+                    Kind="Check" />
+                        <TextBlock>
+                    OK
+                        </TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <!--<Button Margin="10" HorizontalAlignment="Left"
+                        Foreground="Red"
+                        Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                        Width="85"
+                        ToolTip="Cancel">
+                    Cancel
+                </Button>-->
+                <Button Margin="10" HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="Cancel">
+                        <StackPanel
+                        Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                        Margin="0 .5 0 0"
+                        Kind="Close" />
+                            <TextBlock>
+                        Cancel
+                            </TextBlock>
+                        </StackPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

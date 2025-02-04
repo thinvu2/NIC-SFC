@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/SmtpService/SmtpService" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s1="http://tempuri.org/SmtpService/SmtpService/AbstractTypes" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/SmtpService/SmtpService" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/SmtpService/SmtpService">
+      <s:element name="GeterrMsg">
+        <s:complexType />
+      </s:element>
+      <s:element name="GeterrMsgResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GeterrMsgResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendMail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="obj" type="tns:MailStruct" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="MailStruct">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="mailto" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="cc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="bcc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="from" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="subject" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="body" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="format" type="tns:MailFormat" />
+          <s:element minOccurs="1" maxOccurs="1" name="priority" type="tns:MailPriority" />
+          <s:element minOccurs="1" maxOccurs="1" name="encode" type="tns:MailEncoding" />
+        </s:sequence>
+      </s:complexType>
+      <s:simpleType name="MailFormat">
+        <s:restriction base="s:string">
+          <s:enumeration value="Text" />
+          <s:enumeration value="Html" />
+        </s:restriction>
+      </s:simpleType>
+      <s:simpleType name="MailPriority">
+        <s:restriction base="s:string">
+          <s:enumeration value="Normal" />
+          <s:enumeration value="Low" />
+          <s:enumeration value="High" />
+        </s:restriction>
+      </s:simpleType>
+      <s:simpleType name="MailEncoding">
+        <s:restriction base="s:string">
+          <s:enumeration value="UUEncode" />
+          <s:enumeration value="Base64" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="SendMailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SendMailResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ContainsKey" type="tns:ContainsKey" />
+      <s:complexType name="ContainsKey">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ContainsKey" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+        </s:sequence>
+        <s:anyAttribute />
+      </s:complexType>
+      <s:element name="WMSendMail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mailto" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="from" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="subject" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="msg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="WMSendMailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="WMSendMailResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SaveAttachment">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Buffer" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SaveAttachmentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SaveAttachmentResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CleanAttach">
+        <s:complexType />
+      </s:element>
+      <s:element name="CleanAttachResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CleanAttachResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="boolean" type="s:boolean" />
+    </s:schema>
+    <s:schema targetNamespace="http://tempuri.org/SmtpService/SmtpService/AbstractTypes">
+      <s:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <s:complexType name="StringArray">
+        <s:complexContent mixed="false">
+          <s:restriction base="soapenc:Array">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="unbounded" name="String" type="s:string" />
+            </s:sequence>
+          </s:restriction>
+        </s:complexContent>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GeterrMsgSoapIn">
+    <wsdl:part name="parameters" element="tns:GeterrMsg" />
+  </wsdl:message>
+  <wsdl:message name="GeterrMsgSoapOut">
+    <wsdl:part name="parameters" element="tns:GeterrMsgResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendMailSoapIn">
+    <wsdl:part name="parameters" element="tns:SendMail" />
+  </wsdl:message>
+  <wsdl:message name="SendMailSoapOut">
+    <wsdl:part name="parameters" element="tns:SendMailResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendMailContainsKey">
+    <wsdl:part name="ContainsKey" element="tns:ContainsKey" />
+  </wsdl:message>
+  <wsdl:message name="WMSendMailSoapIn">
+    <wsdl:part name="parameters" element="tns:WMSendMail" />
+  </wsdl:message>
+  <wsdl:message name="WMSendMailSoapOut">
+    <wsdl:part name="parameters" element="tns:WMSendMailResponse" />
+  </wsdl:message>
+  <wsdl:message name="SaveAttachmentSoapIn">
+    <wsdl:part name="parameters" element="tns:SaveAttachment" />
+  </wsdl:message>
+  <wsdl:message name="SaveAttachmentSoapOut">
+    <wsdl:part name="parameters" element="tns:SaveAttachmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="SaveAttachmentContainsKey">
+    <wsdl:part name="ContainsKey" element="tns:ContainsKey" />
+  </wsdl:message>
+  <wsdl:message name="CleanAttachSoapIn">
+    <wsdl:part name="parameters" element="tns:CleanAttach" />
+  </wsdl:message>
+  <wsdl:message name="CleanAttachSoapOut">
+    <wsdl:part name="parameters" element="tns:CleanAttachResponse" />
+  </wsdl:message>
+  <wsdl:message name="CleanAttachContainsKey">
+    <wsdl:part name="ContainsKey" element="tns:ContainsKey" />
+  </wsdl:message>
+  <wsdl:message name="GeterrMsgHttpGetIn" />
+  <wsdl:message name="GeterrMsgHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="WMSendMailHttpGetIn">
+    <wsdl:part name="mailto" type="s:string" />
+    <wsdl:part name="from" type="s:string" />
+    <wsdl:part name="cc" type="s:string" />
+    <wsdl:part name="subject" type="s:string" />
+    <wsdl:part name="msg" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="WMSendMailHttpGetOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:message name="SaveAttachmentHttpGetIn">
+    <wsdl:part name="name" type="s:string" />
+    <wsdl:part name="Buffer" type="s1:StringArray" />
+  </wsdl:message>
+  <wsdl:message name="SaveAttachmentHttpGetOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:message name="CleanAttachHttpGetIn" />
+  <wsdl:message name="CleanAttachHttpGetOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:message name="GeterrMsgHttpPostIn" />
+  <wsdl:message name="GeterrMsgHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="WMSendMailHttpPostIn">
+    <wsdl:part name="mailto" type="s:string" />
+    <wsdl:part name="from" type="s:string" />
+    <wsdl:part name="cc" type="s:string" />
+    <wsdl:part name="subject" type="s:string" />
+    <wsdl:part name="msg" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="WMSendMailHttpPostOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:message name="SaveAttachmentHttpPostIn">
+    <wsdl:part name="name" type="s:string" />
+    <wsdl:part name="Buffer" type="s1:StringArray" />
+  </wsdl:message>
+  <wsdl:message name="SaveAttachmentHttpPostOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:message name="CleanAttachHttpPostIn" />
+  <wsdl:message name="CleanAttachHttpPostOut">
+    <wsdl:part name="Body" element="tns:boolean" />
+  </wsdl:message>
+  <wsdl:portType name="SmtpServiceSoap">
+    <wsdl:operation name="GeterrMsg">
+      <wsdl:input message="tns:GeterrMsgSoapIn" />
+      <wsdl:output message="tns:GeterrMsgSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SendMail">
+      <wsdl:input message="tns:SendMailSoapIn" />
+      <wsdl:output message="tns:SendMailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="WMSendMail">
+      <wsdl:input message="tns:WMSendMailSoapIn" />
+      <wsdl:output message="tns:WMSendMailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttachment">
+      <wsdl:input message="tns:SaveAttachmentSoapIn" />
+      <wsdl:output message="tns:SaveAttachmentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CleanAttach">
+      <wsdl:input message="tns:CleanAttachSoapIn" />
+      <wsdl:output message="tns:CleanAttachSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="SmtpServiceHttpGet">
+    <wsdl:operation name="GeterrMsg">
+      <wsdl:input message="tns:GeterrMsgHttpGetIn" />
+      <wsdl:output message="tns:GeterrMsgHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="WMSendMail">
+      <wsdl:input message="tns:WMSendMailHttpGetIn" />
+      <wsdl:output message="tns:WMSendMailHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttachment">
+      <wsdl:input message="tns:SaveAttachmentHttpGetIn" />
+      <wsdl:output message="tns:SaveAttachmentHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CleanAttach">
+      <wsdl:input message="tns:CleanAttachHttpGetIn" />
+      <wsdl:output message="tns:CleanAttachHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="SmtpServiceHttpPost">
+    <wsdl:operation name="GeterrMsg">
+      <wsdl:input message="tns:GeterrMsgHttpPostIn" />
+      <wsdl:output message="tns:GeterrMsgHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="WMSendMail">
+      <wsdl:input message="tns:WMSendMailHttpPostIn" />
+      <wsdl:output message="tns:WMSendMailHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttachment">
+      <wsdl:input message="tns:SaveAttachmentHttpPostIn" />
+      <wsdl:output message="tns:SaveAttachmentHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CleanAttach">
+      <wsdl:input message="tns:CleanAttachHttpPostIn" />
+      <wsdl:output message="tns:CleanAttachHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SmtpServiceSoap" type="tns:SmtpServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GeterrMsg">
+      <soap:operation soapAction="http://tempuri.org/SmtpService/SmtpService/GeterrMsg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendMail">
+      <soap:operation soapAction="http://tempuri.org/SmtpService/SmtpService/SendMail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:SendMailContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+        <soap:header message="tns:SendMailContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WMSendMail">
+      <soap:operation soapAction="http://tempuri.org/SmtpService/SmtpService/WMSendMail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttachment">
+      <soap:operation soapAction="http://tempuri.org/SmtpService/SmtpService/SaveAttachment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:SaveAttachmentContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+        <soap:header message="tns:SaveAttachmentContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CleanAttach">
+      <soap:operation soapAction="http://tempuri.org/SmtpService/SmtpService/CleanAttach" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:CleanAttachContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+        <soap:header message="tns:CleanAttachContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SmtpServiceSoap12" type="tns:SmtpServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GeterrMsg">
+      <soap12:operation soapAction="http://tempuri.org/SmtpService/SmtpService/GeterrMsg" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendMail">
+      <soap12:operation soapAction="http://tempuri.org/SmtpService/SmtpService/SendMail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:SendMailContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:SendMailContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WMSendMail">
+      <soap12:operation soapAction="http://tempuri.org/SmtpService/SmtpService/WMSendMail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttachment">
+      <soap12:operation soapAction="http://tempuri.org/SmtpService/SmtpService/SaveAttachment" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:SaveAttachmentContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:SaveAttachmentContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CleanAttach">
+      <soap12:operation soapAction="http://tempuri.org/SmtpService/SmtpService/CleanAttach" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:CleanAttachContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:CleanAttachContainsKey" part="ContainsKey" use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SmtpServiceHttpGet" type="tns:SmtpServiceHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="GeterrMsg">
+      <http:operation location="/GeterrMsg" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WMSendMail">
+      <http:operation location="/WMSendMail" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttachment">
+      <http:operation location="/SaveAttachment" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CleanAttach">
+      <http:operation location="/CleanAttach" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SmtpServiceHttpPost" type="tns:SmtpServiceHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="GeterrMsg">
+      <http:operation location="/GeterrMsg" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WMSendMail">
+      <http:operation location="/WMSendMail" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttachment">
+      <http:operation location="/SaveAttachment" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CleanAttach">
+      <http:operation location="/CleanAttach" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SmtpService">
+    <wsdl:port name="SmtpServiceSoap" binding="tns:SmtpServiceSoap">
+      <soap:address location="http://10.132.48.76/SMTP/smtpService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SmtpServiceSoap12" binding="tns:SmtpServiceSoap12">
+      <soap12:address location="http://10.132.48.76/SMTP/smtpService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SmtpServiceHttpGet" binding="tns:SmtpServiceHttpGet">
+      <http:address location="http://10.132.48.76/SMTP/smtpService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SmtpServiceHttpPost" binding="tns:SmtpServiceHttpPost">
+      <http:address location="http://10.132.48.76/SMTP/smtpService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

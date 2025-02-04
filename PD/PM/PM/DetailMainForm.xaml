@@ -1,0 +1,294 @@
+﻿<Window x:Class="PM.DetailMainForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="DetailMainForm" Height="650" Width="850">
+    <Grid Background="#008082">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Label Content="WIPDetail" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontSize="18"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="90">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="Delete"/>
+                            <Label Content="Clear" Foreground="#008082"/>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="90">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="ExitToApp"/>
+                            <Label Content="Exit" Foreground="#008082"/>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </Grid>
+        </Grid>
+        <Border Grid.Row="2" BorderBrush="White" BorderThickness="1" CornerRadius="1" Margin="3">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="SN :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Label Content="S-SN :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Label Content="Carton :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Label Content="Pallet :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Label Content="SO No :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="MO :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Label Content="Model :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Label Content="Line :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Label Content="QC NO :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Label Content="QC Res :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="4">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="Group :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Label Content="Error Flag :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Label Content="In Line :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Label Content="Out Line :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <TextBox Height="25" Padding="4" Margin="5 0"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0" BorderBrush="White" BorderThickness="1" CornerRadius="1" Margin="3">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="3*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Margin="3 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <Label Content="Station Detail :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <GroupBox Header="SN Status" Foreground="White">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid Grid.Column="0">
+                                        <RadioButton Content="Runtime" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                    </Grid>
+                                    <Grid Grid.Column="1">
+                                        <RadioButton Content="History" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                    </Grid>
+                                </Grid>
+                            </GroupBox>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid Background="#FFF" Margin="3">
+                            <Grid Background="#008082" Margin="3">
+                                <ListView x:Name="Data_gridView" FontSize="13">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridView.ColumnHeaderContainerStyle>
+                                                <Style>
+                                                    <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                                </Style>
+                                            </GridView.ColumnHeaderContainerStyle>
+                                            <GridViewColumn x:Name="GROUP_NAME" Header="GROUP_NAME" DisplayMemberBinding="{Binding GROUP_NAME}" Width="{Binding ElementName=helperFiled_GROUP_NAME,Path=ActualWidth}"></GridViewColumn>
+                                            <GridViewColumn x:Name="IN_STATION_TIME" Header="IN_STATION_TIME" DisplayMemberBinding="{Binding IN_STATION_TIME}" Width="{Binding ElementName=helperField_IN_STATION_TIME, Path=ActualWidth}"></GridViewColumn>
+                                            <GridViewColumn x:Name="EMP_NAME" Header="EMP_NAME" DisplayMemberBinding="{Binding EMP_NAME}" Width="{Binding ElementName=helperField_EMP_NAME, Path=ActualWidth}"></GridViewColumn>
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                                <Grid Visibility="Hidden">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid Grid.Column="0" x:Name="helperFiled_GROUP_NAME"/>
+                                    <Grid Grid.Column="1" x:Name="helperField_IN_STATION_TIME"/>
+                                    <Grid Grid.Column="2" x:Name="helperField_EMP_NAME"/>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Border>
+            <Border Grid.Column="1" BorderBrush="White" BorderThickness="1" CornerRadius="1" Margin="3">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="3*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Margin="3 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <Label Content="Repair records :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid Background="#FFF" Margin="3">
+                            <Grid Background="#008082" Margin="1">
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

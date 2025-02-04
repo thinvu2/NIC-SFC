@@ -1,0 +1,97 @@
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\MainWindow.g.cs
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\App.g.cs
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\MainWindow.baml
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS.csproj.GenerateResource.Cache
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\bin\Debug\CHECK_SYS.exe.config
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\bin\Debug\CHECK_SYS.exe
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\bin\Debug\CHECK_SYS.pdb
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS.csproj.CHECK_SYS.exe.config
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS_MarkupCompile.cache
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS_MarkupCompile.lref
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS.g.resources
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS.Properties.Resources.resources
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS.exe
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\CHECK_SYS.pdb
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe.config
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.pdb
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.pdb
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.CHECK_SYS.exe.config
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.g.cs
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\App.g.cs
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.cache
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.lref
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.baml
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.g.resources
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.Properties.Resources.resources
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.GenerateResource.Cache
+D:\DucDN\SFC\SourceCode\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csprojResolveAssemblyReference.cache
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe.config
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.pdb
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe.config
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.g.cs
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\App.g.cs
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.cache
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.lref
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.baml
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.g.resources
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.Properties.Resources.resources
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.GenerateResource.cache
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.CoreCompileInputs.cache
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.CopyComplete
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.pdb
+C:\SFIS-NIC\CHECK_SYS\CHECK_SYS.exe.config
+C:\SFIS-NIC\CHECK_SYS\CHECK_SYS.exe
+C:\SFIS-NIC\CHECK_SYS\CHECK_SYS.pdb
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.AssemblyReference.cache
+C:\SFIS-NIC\CHECK_SYS\CHECK_SYS.exe.manifest
+C:\SFIS-NIC\CHECK_SYS\CHECK_SYS.application
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.TrustInfo.xml
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe.manifest
+E:\HPP\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.application
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe.config
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\App.g.cs
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.cache
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.lref
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.pdb
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.g.resources
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.Properties.Resources.resources
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.GenerateResource.cache
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.TrustInfo.xml
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe.manifest
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.application
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.CopyComplete
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe.config
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe.manifest
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.application
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.pdb
+E:\NIC Source\5.0\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.AssemblyReference.cache
+E:\5.000\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe.config
+E:\5.000\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe.manifest
+E:\5.000\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.application
+E:\5.000\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.exe
+E:\5.000\CHECK_SYS\CHECK_SYS\bin\Debug\CHECK_SYS.pdb
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe.config
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.g.cs
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\App.g.cs
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.cache
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS_MarkupCompile.lref
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\MainWindow.baml
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.g.resources
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.Properties.Resources.resources
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.GenerateResource.cache
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.CoreCompileInputs.cache
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.TrustInfo.xml
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe.manifest
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.application
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.csproj.CopyComplete
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.exe
+E:\5.000\CHECK_SYS\CHECK_SYS\obj\Debug\CHECK_SYS.pdb

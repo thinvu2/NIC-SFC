@@ -1,0 +1,9 @@
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\bin\Debug\Gemalto Roast.exe
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\bin\Debug\Gemalto Roast.pdb
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\Gemalto_Roast.Login.resources
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\Gemalto_Roast.Properties.Resources.resources
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\Gemalto Roast.exe
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\Gemalto Roast.pdb

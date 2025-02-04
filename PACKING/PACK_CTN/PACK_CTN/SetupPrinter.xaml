@@ -1,0 +1,62 @@
+﻿<Window x:Class="PACK_CTN.SetupPrinter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_CTN"
+        xmlns:uc="clr-namespace:PACK_CTN.UserControlCTN" 
+        mc:Ignorable="d" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="14" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        FontFamily="{DynamicResource MaterialDesignFont}" 
+        Background="#FFE5F2F5"
+        Title="SetupPrinter" Height="300" Width="400" WindowState="Normal" WindowStyle="None"
+        Name="printersetup"  WindowStartupLocation="CenterScreen" Loaded="PrinterSetup_Loaded" >
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title ,ElementName=staionsetup}" ></uc:ControlBarUC>
+        </Grid>
+        <Grid Grid.Row="1" Background="#0889a6">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Background="White" Margin="2 1 2 0.5" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Margin="10 0" >
+                    <CheckBox Name="cbChangeLine" Foreground="#DDD12424" Background="#FF29D3EE" BorderBrush="#FF52CAD6"></CheckBox>
+                    <Label HorizontalAlignment="Center" Foreground="OrangeRed" VerticalAlignment="Center" Content="Select printer" ></Label>
+                </Grid>
+                <Grid Grid.Column="1" Margin="10 0"  >
+                    <ComboBox Name="cbbPrinterName" VerticalAlignment="Center" Foreground="OrangeRed" ItemsSource="{Binding MyDataSource}" IsEditable="True" MaxDropDownHeight="150" KeyUp="CbbPrinterName_KeyUp" ></ComboBox>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="3" Background="White" Margin="2 0.5 2 1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" >
+                    <Button Width="100" Content="OK" Background="#0889a6" Foreground="White" Click="btnOK_Click"  ></Button>
+                </Grid>
+                <Grid Grid.Column="1" >
+                    <Button Width="100" Content="Cancle" Background="#0889a6" Foreground="White" Click="btnCancle_Click" ></Button>
+                </Grid>
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Window>

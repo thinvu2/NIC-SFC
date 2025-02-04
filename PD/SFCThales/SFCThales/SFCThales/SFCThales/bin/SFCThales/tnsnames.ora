@@ -1,0 +1,51 @@
+MMS.WORLD =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 10.143.192.7)(PORT = 1527))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = sfcodb)
+    )
+  )
+
+GL_SFIS.WORLD =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 10.186.90.160)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = sfCODB)
+    )
+  )
+
+OLD_HISTORY.WORLD =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST =10.143.192.3)(PORT = 1527))
+    )
+    (CONNECT_DATA =
+      (sid = sfcodb)
+    )
+  )
+
+
+SFIS.WORLD=
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST =10.224.134.113)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = vnsfc)
+    )
+  )
+
+HISTORY.WORLD =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST =10.143.192.12)(PORT = 1527))
+    )
+    (CONNECT_DATA =
+      (sid = sfcodb)
+    )
+  )
+

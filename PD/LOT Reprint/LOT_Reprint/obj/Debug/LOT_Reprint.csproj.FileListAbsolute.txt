@@ -1,0 +1,144 @@
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint.exe
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmInputBox.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmLogin.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmMessage.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmParam.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\App.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_MarkupCompile.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_MarkupCompile.lref
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\App.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmInputBox.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmLogin.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmMessage.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmParam.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint.g.resources
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint.exe
+E:\NIC Source\5.0\NIC_SFC\PD\LOT_Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputBox.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLogin.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmMessage.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmParam.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\App.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\App.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputBox.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLogin.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmMessage.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmParam.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.exe
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo_MarkupCompile.cache
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo_MarkupCompile.lref
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.g.resources
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.exe
+E:\NIC Source\5.0\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.pdb
+E:\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.exe.config
+E:\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.exe
+E:\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.pdb
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.AssemblyReference.cache
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.exe.config
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputBox.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmLogin.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmMessage.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmParam.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\MainWindow.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\App.g.cs
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo_MarkupCompile.cache
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo_MarkupCompile.lref
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\App.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputBox.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmLogin.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmMessage.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmParam.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\MainWindow.baml
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.g.resources
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.Properties.Resources.resources
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.GenerateResource.cache
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CoreCompileInputs.cache
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CopyComplete
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.exe
+E:\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputBox.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLogin.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmMessage.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmParam.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\MainWindow.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\App.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo_MarkupCompile.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo_MarkupCompile.lref
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.exe
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.exe
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\bin\Debug\LOT_Reprint_demo.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\App.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmCheckAcce.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputBox.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmInputRoute.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmKeyPart.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLabelQTY.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmLogin.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmMessage.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmParam.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\frmSetupStation.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\MainWindow.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.g.resources
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_Reprint_demo.Properties.Resources.resources
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PD\LOT Reprint\LOT_REPRINT\obj\Debug\LOT_REPRINT.csproj.CopyComplete

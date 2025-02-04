@@ -1,0 +1,822 @@
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\Newtonsoft.Json.dll
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\ICSharpCode.AvalonEdit.xml
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\MaterialDesignColors.pdb
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\C#\New folder\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csprojResolveAssemblyReference.cache
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\CloseCarton.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\FrmPassWord.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\CheckCarton.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\CloseCarton.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\FrmPassWord.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\CheckCarton.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.Cache
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\Reprint_label.g.cs
+F:\C#\New folder\PACK_PALT\PACK_PALT\obj\Debug\Reprint_label.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\CloseCarton.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\FrmPassWord.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\Reprint_label.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\CheckCarton.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\CloseCarton.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\FrmPassWord.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\Reprint_label.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\CheckCarton.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.Cache
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csprojResolveAssemblyReference.cache
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT.pdb
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\PACK_PALT.pdb
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT.csprojResolveAssemblyReference.cache
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT.csproj.PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\CloseCarton.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\FrmPassWord.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\LoginWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\MainWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\Reprint_label.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\Setup_Station.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\CheckCarton.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\App.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\App.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\CloseCarton.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\FrmPassWord.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\LoginWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\MainWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\Reprint_label.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\Setup_Station.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\ShowMessageForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\CheckCarton.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+E:\CTR CUA HIEN\PROGRAM SFC\SVN\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.Cache
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT.pdb
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT.csproj.PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\LoginWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\MainWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\Setup_Station.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\App.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\App.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ClosePaletForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\LoginWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\MainWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\Setup_Station.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ShowMessageForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\PACK_PALT.pdb
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\stdole.dll
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.Cache
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PasswordForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ReprintForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PasswordForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ReprintForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ShowParam.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\ShowParam.baml
+E:\CTR CUA HIEN\PROGRAM SFC\PACK_PALT_SVN\PACK_PALT\obj\Debug\PACK_PALT.csprojResolveAssemblyReference.cache
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe.config
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+E:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe.config
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+F:\CTR CUA HIEN\PROGRAM SFC\SVN dang sua\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csprojAssemblyReference.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.1\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csprojResolveAssemblyReference.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.Cache
+D:\PACK_PALT\PACK_PALT_1.0.1.3\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csprojResolveAssemblyReference.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.4\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe.config
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+D:\PACK_PALT\PACK_PALT_1.0.1.5\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe.config
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\5.0\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+D:\5.0\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe.config
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.exe
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.pdb
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.exe
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT.pdb
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csprojResolveAssemblyReference.cache
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.PACK_PALT.exe.config
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.cache
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_MarkupCompile.lref
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.g.resources
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.Properties.Resources.resources
+C:\Users\V0939995\Desktop\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.Cache
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.AssemblyReference.cache
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe.config
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.pdb
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe.config
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.cache
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.lref
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.g.resources
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.Properties.Resources.resources
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe
+F:\SFC 5.0\code\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.pdb
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe.config
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.pdb
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.AssemblyReference.cache
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe.config
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.cache
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.lref
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.g.resources
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.Properties.Resources.resources
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe
+F:\SFC 5.0\NOKIA\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.pdb
+E:\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe.config
+E:\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe
+E:\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.pdb
+E:\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+E:\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+E:\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+E:\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe.config
+E:\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.cache
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.lref
+E:\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.g.resources
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.Properties.Resources.resources
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.pdb
+E:\PACK_PALT\PACK_PALT\obj\Debug\RFIDForm.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\RFIDForm.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\LicenseForm.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\LicenseForm.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe.config
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\PACK_PALT_NEW.pdb
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\stdole.dll
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe.config
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\LabelQty.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\LoginWindow.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\MainWindow.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PasswordForm.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ReprintForm.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\LicenseForm.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\RFIDForm.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\Setup_Station.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ShowParam.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\App.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.cache
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.lref
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\App.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ClosePaletForm.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\LabelQty.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\LoginWindow.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\MainWindow.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PasswordForm.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ReprintForm.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\LicenseForm.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\RFIDForm.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\Setup_Station.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ShowMessageForm.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\ShowParam.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT_NEW.g.resources
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT_NEW.Properties.Resources.resources
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe
+C:\Users\v1039442\Desktop\pack+palt\PACK_PALT\obj\Debug\PACK_PALT_NEW.pdb
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe.config
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.pdb
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.AssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe.config
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LicenseForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\RFIDForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.lref
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LicenseForm.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\RFIDForm.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.g.resources
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.Properties.Resources.resources
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.pdb
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe.config
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LicenseForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\App.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.cache
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW_MarkupCompile.lref
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.exe
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.pdb
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe.config
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.exe
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\PACK_PALT_NEW.pdb
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.dll
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\XamlAnimatedGif.dll
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\stdole.dll
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\bin\Debug\System.Windows.Interactivity.xml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\RFIDForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\App.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ClosePaletForm.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LabelQty.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LoginWindow.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\MainWindow.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PasswordForm.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ReprintForm.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ResourceXAML\MainReource.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\LicenseForm.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\RFIDForm.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\Setup_Station.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowMessageForm.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\ShowParam.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.g.resources
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT_NEW.Properties.Resources.resources
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.GenerateResource.cache
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CoreCompileInputs.cache
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.CopyComplete
+E:\PACK_PALT\PACK_PALT\obj\Debug\Cut_BarcodeForm.g.cs
+E:\PACK_PALT\PACK_PALT\obj\Debug\Cut_BarcodeForm.baml
+E:\PACK_PALT\PACK_PALT\obj\Debug\PACK_PALT.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\Cut_BarcodeForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_PALT\PACK_PALT\obj\Debug\Cut_BarcodeForm.baml

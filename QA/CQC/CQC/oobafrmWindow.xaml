@@ -1,0 +1,43 @@
+﻿<Window x:Class="CQC.oobafrmWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        TextElement.FontSize="14"
+        Title="OOBA Control for Netgear" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Label x:Name="Panel1" FontWeight="Bold" HorizontalAlignment="Center" Margin="0 5 0 0"></Label>
+        </StackPanel>
+        <materialDesign:Card Grid.Row="1" Margin="5" VerticalAlignment="Stretch">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <DataGrid x:Name="ColorStringGrid1" AutoGenerateColumns="False" IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding STT}" Header="" Width="50"/>
+                        <DataGridTextColumn Binding="{Binding MO_NUMBER}" Header="MO__Number"/>
+                        <DataGridTextColumn Binding="{Binding MODEL_NAME}" Header="Model__name" />
+                        <DataGridTextColumn Binding="{Binding VERSION_CODE}" Header="Version"/>
+                        <DataGridTextColumn Binding="{Binding MO_QTY}" Header="M/O-QTY"/>
+                        <DataGridTextColumn Binding="{Binding PA_NO}" Header="PA__No"/>
+                        <DataGridTextColumn Binding="{Binding QTY}" Header="QTY"/>
+                        <DataGridTextColumn Binding="{Binding AQL}" Header="AQL"/>
+                        <DataGridTextColumn Binding="{Binding PACK_PARAM}" Header="PACK__Param"/>
+                        <DataGridTextColumn Binding="{Binding MO_NEED}" Header="MO__Need"/>
+                        <DataGridTextColumn Binding="{Binding PA_NEED}" Header="PA__Need"/>
+                        <DataGridTextColumn Binding="{Binding PA_HAVE}" Header="PA__Have"/>
+                        <DataGridTextColumn Binding="{Binding DIF}" Header="Dif"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </ScrollViewer>
+        </materialDesign:Card>
+    </Grid>
+    
+</Window>

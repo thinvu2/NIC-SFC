@@ -1,0 +1,175 @@
+﻿<Window x:Class="CQC.ChkRelationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        Title="FormChkRelation" Height="600" Width="1100" Initialized="Window_Initialized" Closed="Window_Closed">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Label" x:Key="lbShow">
+                <Setter Property="Margin" Value="20 0 0 0"></Setter>
+                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                <Setter Property="FontSize" Value="35"></Setter>
+                <Setter Property="Foreground" Value="Navy"></Setter>
+            </Style>
+            <Style TargetType="Label" x:Key="lbtitle">
+                <Setter Property="FontSize" Value="13"></Setter>
+                <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+                <Setter Property="HorizontalAlignment" Value="Right"></Setter>
+                
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="41"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="45"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <!--Menu-->
+        <Menu IsMainMenu="True" Margin="0,0,0,0">
+            <MenuItem
+                        x:Name="Query2"
+                        Header="_Option">
+                <MenuItem
+                x:Name="SSNSN1"
+                Header="SSN = SN"
+                IsCheckable="True"/>
+                <MenuItem
+                x:Name="itemMcarton"
+                Header="Mcarton" IsCheckable="True" />
+            </MenuItem>
+        </Menu>
+       
+        <!--panel show-->
+        <StackPanel Grid.Row="1" Background="Green">
+            <Label x:Name="PanelTitle" Content="Packing Relation Check"
+                   HorizontalAlignment="Center"
+                   FontSize="28"
+                   Foreground="White"></Label>
+        </StackPanel>
+        
+        <!--main-->
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.7*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <DockPanel LastChildFill="False">
+                <Label x:Name="lblTotal" Content="Total Qty : " Style="{StaticResource lbShow}"></Label>
+                <Label x:Name="Label1" Content="Qty Checked : " Style="{StaticResource lbShow}"></Label>
+                <Label x:Name="lblChecked" Margin="10 0 0 0" Content="0" Style="{StaticResource lbShow}"></Label>
+            </DockPanel>
+            <DockPanel Grid.Row="0" Grid.Column="1" LastChildFill="False">
+                <Label x:Name="lbl1" Content="Check Tray:" Style="{StaticResource lbShow}"></Label>
+            </DockPanel>
+            
+            <!--data grid-->
+            <!--<DataGrid x:Name="DataGrid" Grid.Row="1"></DataGrid>-->
+
+            <materialDesign:Card Grid.Row="1" Margin="5" VerticalAlignment="Stretch">
+                <ListView x:Name="DataGrid"  Margin="10">
+                    <ListView.View>
+                        <GridView x:Name="gridview1">
+                            <GridViewColumn Header=" SN" x:Name="sn" Width="auto" DisplayMemberBinding="{Binding SERIAL_NUMBER}"></GridViewColumn>
+                            <GridViewColumn Header=" Box SSN" x:Name="ssn" Width="auto" DisplayMemberBinding="{Binding SHIPPING_SN}"></GridViewColumn>
+                            <GridViewColumn Header=" Tray" x:Name="tray" Width="auto" DisplayMemberBinding="{Binding TRAY_NO}"></GridViewColumn>
+                            <GridViewColumn Header=" MCarton" x:Name="mcarton" Width="auto" DisplayMemberBinding="{Binding MCARTON_NO}"></GridViewColumn>
+                            <GridViewColumn Header="Status" Width="auto" DisplayMemberBinding="{Binding CARTON_NO}"></GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </materialDesign:Card>
+
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Label x:Name="lblSN" Style="{StaticResource lbtitle}">Serial Number</Label>
+                <TextBox Grid.Column="1" x:Name="txtSN" FontWeight="Bold" FontSize="20" Width="250"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="txtSN_KeyDown" />
+
+                <Label Grid.Row="1" x:Name="lblSSN" Style="{StaticResource lbtitle}">Box SSN</Label>
+                <TextBox Grid.Row="1" Grid.Column="1" x:Name="txtSSN" FontWeight="Bold" FontSize="20" Width="250"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="txtSSN_KeyDown" />
+
+                <Label Grid.Row="2" x:Name="lblTray" Style="{StaticResource lbtitle}">Tray</Label>
+                <TextBox Grid.Row="2" Grid.Column="1" x:Name="txtTray" FontWeight="Bold" FontSize="20" Width="250"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                <Label Grid.Row="3" x:Name="lblCarton" Style="{StaticResource lbtitle}">Carton</Label>
+                <TextBox Grid.Row="3" Grid.Column="1" x:Name="txtCarton" FontWeight="Bold" FontSize="20" Width="250"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="txtCarton_KeyDown" />
+
+                <Label Grid.Row="4" x:Name="LblFinishGN" Style="{StaticResource lbtitle}">Finish GN</Label>
+                <TextBox Grid.Row="4" Grid.Column="1" x:Name="txtFinishGN" FontWeight="Bold" FontSize="20" Width="250"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="txtFinishGN_KeyDown" />
+
+                <Grid Grid.Row="5" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel>
+                        <Button
+                            x:Name="cmdOK"
+                            FontWeight="Bold"
+                            HorizontalAlignment="Right"
+                            Margin="0 8 10 0"
+                            Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                            Width="90"
+                            Click="cmdOK_Click">
+                                CHECK
+                        </Button>
+                    </StackPanel>
+                    <StackPanel Grid.Column="1">
+                        <Button
+                            x:Name="cmdExit"
+                            FontWeight="Bold"
+                            HorizontalAlignment="Left"
+                            Margin="10 8 10 0"
+                            Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                            Width="90"
+                            Click="cmdExit_Click">
+                                EXIT
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+            
+        </Grid>
+        
+        <!--SHOW ERROR-->
+        <StackPanel Grid.Row="3" Background="Yellow">
+            <Label x:Name="PanelMSG"
+                   HorizontalAlignment="Center"
+                   FontSize="20"></Label>
+        </StackPanel>
+    </Grid>
+</Window>

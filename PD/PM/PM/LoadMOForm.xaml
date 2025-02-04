@@ -1,0 +1,225 @@
+﻿<Window x:Class="PM.LoadMOForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="LoadMOForm" Height="700" Width="900">
+    <Grid Background="#008082" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="MO Number : " Foreground="White"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBox x:Name="Edt_SearchMO" VerticalAlignment="Center" FontWeight="Bold" Padding="8" KeyDown="SearchMO_KeyDown"/>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <ListView x:Name="Lv_DataMO" FontSize="13" Grid.ColumnSpan="2">
+                    <ListView.View>
+                        <GridView>
+                            <GridView.ColumnHeaderContainerStyle>
+                                <Style>
+                                    <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                </Style>
+                            </GridView.ColumnHeaderContainerStyle>
+                            <GridViewColumn Header="MO_NUMBER" DisplayMemberBinding="{Binding MO_NUMBER}"></GridViewColumn>
+                            <GridViewColumn Header="MO_TYPE" DisplayMemberBinding="{Binding MO_TYPE}"></GridViewColumn>
+                            <GridViewColumn Header="MODEL_NAME" DisplayMemberBinding="{Binding MODEL_NAME}"></GridViewColumn>
+                            <GridViewColumn Header="TARGET_QTY" DisplayMemberBinding="{ Binding TARGET_QTY}"></GridViewColumn>
+                            <GridViewColumn Header="MO_SCHEDULE_DATE" DisplayMemberBinding="{ Binding 
+                                }"></GridViewColumn>
+                            <GridViewColumn Header="MO_DUE_DATE" DisplayMemberBinding="{Binding MO_DUE_DATE}"></GridViewColumn>
+                            <GridViewColumn Header="SO_NUMBER" DisplayMemberBinding="{Binding SO_NUMBER}"></GridViewColumn>
+                            <GridViewColumn Header="SO_LINE" DisplayMemberBinding="{Binding SO_LINE}"></GridViewColumn>
+                            <GridViewColumn Header="KEY_PART_NO" DisplayMemberBinding="{ Binding KEY_PART_NO}"></GridViewColumn>
+                            <GridViewColumn Header="CUST_CODE" DisplayMemberBinding="{ Binding CUST_CODE}"></GridViewColumn>
+                            <GridViewColumn Header="CUSTPN" DisplayMemberBinding="{Binding CUSTPN}"></GridViewColumn>
+                            <GridViewColumn Header="MO_KP_START_DATE" DisplayMemberBinding="{Binding MO_KP_START_DATE}"></GridViewColumn>
+                            <GridViewColumn Header="MO_KP_FINISH_DATE" DisplayMemberBinding="{Binding MO_KP_FINISH_DATE}"></GridViewColumn>
+                            <GridViewColumn Header="CIS_SO" DisplayMemberBinding="{ Binding CIS_SO}"></GridViewColumn>
+                            <GridViewColumn Header="CIS_SO_LINE" DisplayMemberBinding="{ Binding CIS_SO_LINE}"></GridViewColumn>
+                            <GridViewColumn Header="TO846" DisplayMemberBinding="{Binding TO846}"></GridViewColumn>
+                            <GridViewColumn Header="WHS" DisplayMemberBinding="{Binding WHS}"></GridViewColumn>
+                            <GridViewColumn Header="LOC" DisplayMemberBinding="{Binding LOC}"></GridViewColumn>
+                            <GridViewColumn Header="SITE" DisplayMemberBinding="{ Binding SITE}"></GridViewColumn>
+                            <GridViewColumn Header="CUST_PO" DisplayMemberBinding="{ Binding CUST_PO}"></GridViewColumn>
+                            <GridViewColumn Header="REFERENCE_MO" DisplayMemberBinding="{Binding REFERENCE_MO}"></GridViewColumn>
+                            <GridViewColumn Header="SAP_MODEL_NAME" DisplayMemberBinding="{Binding SAP_MODEL_NAME}"></GridViewColumn>
+                            <GridViewColumn Header="SAP_MO_TYPE" DisplayMemberBinding="{ Binding SAP_MO_TYPE}"></GridViewColumn>
+                            <GridViewColumn Header="MODEL_NAME_2" DisplayMemberBinding="{ Binding MODEL_NAME}"></GridViewColumn>
+                            <GridViewColumn Header="MODEL_SERIAL" DisplayMemberBinding="{Binding MODEL_SERIAL}"></GridViewColumn>
+                            <GridViewColumn Header="MODEL_TYPE" DisplayMemberBinding="{Binding MODEL_TYPE}"></GridViewColumn>
+                            <GridViewColumn Header="BOM_NO" DisplayMemberBinding="{Binding BOM_NO}"></GridViewColumn>
+                            <GridViewColumn Header="STANDARD" DisplayMemberBinding="{ Binding STANDARD}"></GridViewColumn>
+                            <GridViewColumn Header="CUSTOMER" DisplayMemberBinding="{ Binding CUSTOMER}"></GridViewColumn>
+                            <GridViewColumn Header="MODEL_RANGE1" DisplayMemberBinding="{Binding MODEL_RANGE1}"></GridViewColumn>
+                            <GridViewColumn Header="MODEL_RANGE2" DisplayMemberBinding="{Binding MODEL_RANGE2}"></GridViewColumn>
+                            <GridViewColumn Header="ROUTE_CODE" DisplayMemberBinding="{Binding ROUTE_CODE}"></GridViewColumn>
+                            <GridViewColumn Header="DEFAULT_GROUP" DisplayMemberBinding="{ Binding DEFAULT_GROUP}"></GridViewColumn>
+                            <GridViewColumn Header="END_GROUP" DisplayMemberBinding="{ Binding END_GROUP}"></GridViewColumn>
+                            <GridViewColumn Header="PRODUCT_NAME" DisplayMemberBinding="{Binding PRODUCT_NAME}"></GridViewColumn>
+                            <GridViewColumn Header="LEAD_FREE" DisplayMemberBinding="{Binding LEAD_FREE}"></GridViewColumn>
+                            <GridViewColumn Header="REPAIR_1A2A_PROCESS" DisplayMemberBinding="{Binding REPAIR_1A2A_PROCESS}"></GridViewColumn>
+                            <GridViewColumn Header="VERSION_CODE" DisplayMemberBinding="{ Binding VERSION_CODE}"></GridViewColumn>
+                            <GridViewColumn Header="CHECKFLAG" DisplayMemberBinding="{ Binding CHECKFLAG}"></GridViewColumn>
+                            <GridViewColumn Header="INI_FNAME" DisplayMemberBinding="{Binding INI_FNAME}"></GridViewColumn>
+                            <GridViewColumn Header="INI_FVER" DisplayMemberBinding="{Binding INI_FVER}"></GridViewColumn>
+                            <GridViewColumn Header="BOARD_TYPE" DisplayMemberBinding="{ Binding BOARD_TYPE}"></GridViewColumn>
+                            <GridViewColumn Header="ROUTE_NAME" DisplayMemberBinding="{ Binding ROUTE_NAME}"></GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <Setter Property="Foreground" Value="Black"/>
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                </ListView>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid Background="#FFF">
+                    <ListView x:Name="Lv_ReasonMO" FontSize="13" Grid.ColumnSpan="2">
+                        <ListView.View>
+                            <GridView>
+                                <GridView.ColumnHeaderContainerStyle>
+                                    <Style>
+                                        <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                    </Style>
+                                </GridView.ColumnHeaderContainerStyle>
+                                <GridViewColumn Header="MONUMBER" DisplayMemberBinding="{Binding MO_NUMBER}" Width="{Binding ElementName=helperFiled_MO_NUMBER,Path=ActualWidth}"></GridViewColumn>
+                                <GridViewColumn Header="Reason" DisplayMemberBinding="{Binding REASON}" Width="{Binding ElementName=helperField_REASON, Path=ActualWidth}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="Foreground" Value="Black"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                    </ListView>
+                    <Grid Grid.ColumnSpan="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" x:Name="helperFiled_MO_NUMBER"/>
+                        <Grid Grid.Column="1" x:Name="helperField_REASON"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Label x:Name="Lb_Count" Content="Total Record :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+            </Grid>
+            <Grid Grid.Row="1" VerticalAlignment="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Button x:Name="btn_OK" Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Click="Btn_OK_Click">
+                        <Button.Content>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="Check"/>
+                                <Label Content="OK" Foreground="#008082"/>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Button x:Name="btn_Cancel" Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Click="Btn_Cancel_Click">
+                        <Button.Content>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Foreground="Red" VerticalAlignment="Center" Kind="Close"/>
+                                <Label Content="Cancel" Foreground="#008082"/>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Button x:Name="btnPrint" Background="#FFF" BorderBrush="{x:Null}" IsEnabled="False" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Click="btn_Print">
+                        <Button.Content>
+                            <StackPanel Orientation="Horizontal">
+                                <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="ContentSave"/>
+                                <Label Content="Save to Excel" Foreground="#008082"/>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                </Grid>
+            </Grid>
+        </Grid>
+        
+    </Grid>
+</Window>

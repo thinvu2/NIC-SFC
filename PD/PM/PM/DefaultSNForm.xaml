@@ -1,0 +1,48 @@
+﻿<Window x:Class="PM.DefaultSNForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="DefaultSNForm" Height="150" Width="350">
+    <Grid Background="#008082">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Label Content="Default  SN" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+        </Grid>
+        <Grid Grid.Row="1" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="90">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="Check"/>
+                            <Label Content="OK" Foreground="#008082"/>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="90">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="Red" VerticalAlignment="Center" Kind="Close"/>
+                            <Label Content="Cancel" Foreground="#008082"/>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

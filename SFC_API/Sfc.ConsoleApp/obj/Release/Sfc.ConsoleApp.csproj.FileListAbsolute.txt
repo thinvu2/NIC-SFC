@@ -1,0 +1,7 @@
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\bin\Release\ClientIdGenerate.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\bin\Release\ClientIdGenerate.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\bin\Release\ClientIdGenerate.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Release\Sfc.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Release\Sfc.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Release\ClientIdGenerate.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Release\ClientIdGenerate.pdb

@@ -1,0 +1,110 @@
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_IC_CONFIG.resources
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_PN_CONFIG.resources
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Form1.resources
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Query.resources
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\BRCM_B2B.exe.config
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\BRCM_B2B.exe
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\BRCM_B2B.pdb
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ClosedXML.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ClosedXML.Parser.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\DocumentFormat.OpenXml.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ExcelNumberFormat.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\RBush.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\SixLabors.Fonts.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Buffers.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.IO.Packaging.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Memory.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Numerics.Vectors.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.ValueTuple.dll
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.exe
+E:\NIC Source\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.pdb
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\BRCM_B2B.exe.config
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\BRCM_B2B.exe
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\BRCM_B2B.pdb
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ClosedXML.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ClosedXML.Parser.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\DocumentFormat.OpenXml.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ExcelNumberFormat.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\RBush.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\SixLabors.Fonts.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Buffers.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.IO.Packaging.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Memory.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Numerics.Vectors.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.ValueTuple.dll
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_IC_CONFIG.resources
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_PN_CONFIG.resources
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Form1.resources
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Properties.Resources.resources
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Query.resources
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.GenerateResource.cache
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CoreCompileInputs.cache
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CopyComplete
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.exe
+E:\5.0\NIC_SFC\PM\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.pdb
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\BRCM_B2B.exe.config
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\BRCM_B2B.exe
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\BRCM_B2B.pdb
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\ClosedXML.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\ClosedXML.Parser.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\ExcelNumberFormat.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\RBush.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\SixLabors.Fonts.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\System.Buffers.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\System.IO.Packaging.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\System.Memory.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\bin\Debug\System.ValueTuple.dll
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_IC_CONFIG.resources
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_PN_CONFIG.resources
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.Form1.resources
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.Properties.Resources.resources
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.Query.resources
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.GenerateResource.cache
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CoreCompileInputs.cache
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CopyComplete
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.exe
+C:\Users\V1038047\Desktop\B2B\BRCM_B2B\obj\Debug\BRCM_B2B.pdb
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ClosedXML.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ClosedXML.Parser.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\DocumentFormat.OpenXml.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\ExcelNumberFormat.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\RBush.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\SixLabors.Fonts.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Buffers.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.IO.Packaging.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Memory.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Numerics.Vectors.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\System.ValueTuple.dll
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_IC_CONFIG.resources
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.BRCM_PN_CONFIG.resources
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Form1.resources
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Properties.Resources.resources
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.Query.resources
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.GenerateResource.cache
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CoreCompileInputs.cache
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\BRCM_B2B.csproj.CopyComplete
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\B2B_BRCM.exe.config
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\B2B_BRCM.exe
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\bin\Debug\B2B_BRCM.pdb
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\B2B_BRCM.exe
+E:\BRCM_B2B\BRCM_B2B For VN-20210326_Transfar_VN\BRCM_B2B\obj\Debug\B2B_BRCM.pdb

@@ -1,0 +1,240 @@
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-11月-2020 08:56:57
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-11月-2020 08:57:07
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-11月-2020 08:58:00
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-11月-2020 09:02:55
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-11月-2020 09:06:06
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 07-11月-2020 09:54:47
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 07-11月-2020 09:55:23
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 07-11月-2020 09:55:35
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 07-11月-2020 09:57:56
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST={0})(PORT={1}))(CONNECT_DATA=(SERVICE_NAME={2})(CID=(PROGRAM=D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0939996-IT-BN2)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 07-11月-2020 09:58:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: 連線失敗, 因為目標主機或物件不存在
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 連線失敗, 因為目標主機或物件不存在
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.225.35.61)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=NBBDBTEST)(CID=(PROGRAM=D:\LINH\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0979503-IT-BN2)(USER=V0979503))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 09-2月 -2021 15:01:26
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:作業逾時
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 作業逾時
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.225.35.61)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=NBBDBTEST)(CID=(PROGRAM=D:\LINH\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.vshost.exe)(HOST=V0979503-IT-BN2)(USER=V0979503))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 09-2月 -2021 15:02:01
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:作業逾時
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 作業逾時
+    nt secondary err code: 60
+    nt OS err code: 0

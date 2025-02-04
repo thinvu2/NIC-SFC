@@ -1,0 +1,209 @@
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\LoginWindow.g.cs
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\MainWindow.g.cs
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\App.g.cs
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\Interop.LabelManager2.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\MaterialDesignColors.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\Newtonsoft.Json.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\Sfc.Core.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\Sfc.Library.HttpClient.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\SharpSvn.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\System.Net.Http.Formatting.dll
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\MaterialDesignColors.pdb
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\Newtonsoft.Json.xml
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\SharpSvn.pdb
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\SharpSvn.xml
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\SharpPlink-Win32.svnExe
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\App.baml
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\LoginWindow.baml
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\MainWindow.baml
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMSLabel.csproj.GenerateResource.cache
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMSLabel.csproj.CoreCompileInputs.cache
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMSLabel.csproj.CopyComplete
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\AMS_Label.exe.config
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\AMS_Label.exe
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\bin\Debug\AMS_Label.pdb
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMS_Label_MarkupCompile.cache
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMS_Label_MarkupCompile.lref
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMS_Label.g.resources
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMS_Label.Properties.Resources.resources
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMS_Label.exe
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMS_Label.pdb
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\InputBox.baml
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\InputBox.g.cs
+D:\2021\C# PROJECT\AMSLabel\AMSLabel\obj\Debug\AMSLabel.csprojAssemblyReference.cache
+F:\AMS_LABEL\bin\Debug\AMS_Label.exe.config
+F:\AMS_LABEL\obj\Debug\AMS_Label.exe
+F:\AMS_LABEL\obj\Debug\AMS_Label.pdb
+F:\AMS_LABEL\bin\Debug\AMS_Label.exe
+F:\AMS_LABEL\bin\Debug\AMS_Label.pdb
+F:\AMS_LABEL\bin\Debug\Interop.LabelManager2.dll
+F:\AMS_LABEL\bin\Debug\MaterialDesignColors.dll
+F:\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\AMS_LABEL\bin\Debug\Newtonsoft.Json.dll
+F:\AMS_LABEL\bin\Debug\Sfc.Core.dll
+F:\AMS_LABEL\bin\Debug\Sfc.Library.HttpClient.dll
+F:\AMS_LABEL\bin\Debug\SharpSvn.dll
+F:\AMS_LABEL\bin\Debug\System.Net.Http.Formatting.dll
+F:\AMS_LABEL\bin\Debug\MaterialDesignColors.pdb
+F:\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\AMS_LABEL\bin\Debug\Newtonsoft.Json.xml
+F:\AMS_LABEL\bin\Debug\SharpPlink-Win32.svnExe
+F:\AMS_LABEL\obj\Debug\InputBox.baml
+F:\AMS_LABEL\obj\Debug\InputBox.g.cs
+F:\AMS_LABEL\obj\Debug\LoginWindow.g.cs
+F:\AMS_LABEL\obj\Debug\MainWindow.g.cs
+F:\AMS_LABEL\obj\Debug\App.g.cs
+F:\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.cache
+F:\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.lref
+F:\AMS_LABEL\obj\Debug\App.baml
+F:\AMS_LABEL\obj\Debug\LoginWindow.baml
+F:\AMS_LABEL\obj\Debug\MainWindow.baml
+F:\AMS_LABEL\obj\Debug\AMS_Label.g.resources
+F:\AMS_LABEL\obj\Debug\AMS_Label.Properties.Resources.resources
+F:\AMS_LABEL\obj\Debug\AMSLabel.csproj.GenerateResource.Cache
+F:\AMS_LABEL\obj\Debug\AMSLabel.csprojAssemblyReference.cache
+F:\AMS_LABEL\obj\Debug\AMSLabel.csproj.CoreCompileInputs.cache
+F:\AMS_LABEL\obj\Debug\AMSLabel.csproj.CopyComplete
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\InputBox.baml
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\InputBox.g.cs
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\LoginWindow.g.cs
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\MainWindow.g.cs
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\App.g.cs
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.cache
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.lref
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMS_Label.exe
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMS_Label.pdb
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\AMS_Label.exe.config
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\AMS_Label.exe
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\AMS_Label.pdb
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\Interop.LabelManager2.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\MaterialDesignColors.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\Newtonsoft.Json.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\Sfc.Core.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\Sfc.Library.HttpClient.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\SharpSvn.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\System.Net.Http.Formatting.dll
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\MaterialDesignColors.pdb
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\Newtonsoft.Json.xml
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\SharpSvn.pdb
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\SharpSvn.xml
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\bin\Debug\SharpPlink-Win32.svnExe
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\App.baml
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\LoginWindow.baml
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\MainWindow.baml
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMS_Label.g.resources
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMS_Label.Properties.Resources.resources
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMSLabel.csproj.GenerateResource.cache
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMSLabel.csproj.CoreCompileInputs.cache
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMSLabel.csproj.CopyComplete
+E:\2021\DELPHI TO CSHARP\AMS_LABEL\obj\Debug\AMSLabel.csprojAssemblyReference.cache
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\AMS_Label.exe.config
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\AMS_Label.exe
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\AMS_Label.pdb
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\Interop.LabelManager2.dll
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\MaterialDesignColors.dll
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\Sfc.Core.dll
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\SharpSvn.pdb
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\SharpSvn.xml
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\bin\Debug\SharpPlink-Win32.svnExe
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMSLabel.csprojAssemblyReference.cache
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\InputBox.baml
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\InputBox.g.cs
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\LoginWindow.g.cs
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\MainWindow.g.cs
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\App.g.cs
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.cache
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.lref
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\App.baml
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\LoginWindow.baml
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\MainWindow.baml
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMS_Label.g.resources
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMS_Label.Properties.Resources.resources
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMSLabel.csproj.GenerateResource.cache
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMSLabel.csproj.CoreCompileInputs.cache
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMSLabel.csproj.CopyComplete
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMS_Label.exe
+C:\Users\BUII THAII BAOO\Desktop\AMS_LABEL\obj\Debug\AMS_Label.pdb
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\AMS_Label.exe.config
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\AMS_Label.exe
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\AMS_Label.pdb
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\Interop.LabelManager2.dll
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignColors.dll
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\Newtonsoft.Json.dll
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\Sfc.Core.dll
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\Sfc.Library.HttpClient.dll
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\System.Net.Http.Formatting.dll
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignColors.pdb
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\Newtonsoft.Json.xml
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\SharpSvn.pdb
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\SharpSvn.xml
+D:\SFC_NIC\LABEL\AMS_LABEL\bin\Debug\SharpPlink-Win32.svnExe
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\InputBox.baml
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\InputBox.g.cs
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\LoginWindow.g.cs
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\MainWindow.g.cs
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\App.g.cs
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.cache
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.lref
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\App.baml
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\LoginWindow.baml
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\MainWindow.baml
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.g.resources
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.Properties.Resources.resources
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.GenerateResource.cache
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.CoreCompileInputs.cache
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.CopyComplete
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.exe
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.pdb
+C:\NIC\AMS_Label\AMS_Label.exe.config
+C:\NIC\AMS_Label\AMS_Label.exe
+C:\NIC\AMS_Label\AMS_Label.pdb
+D:\SFC_NIC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\InputBox.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\InputBox.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\LoginWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\App.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMS_Label_MarkupCompile.lref
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\App.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\LoginWindow.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.g.resources
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMSLabel.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.exe
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\obj\Debug\AMS_Label.pdb
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignColors.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\Newtonsoft.Json.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\System.Net.Http.Formatting.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignColors.pdb
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\Newtonsoft.Json.xml
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\SharpPlink-Win32.svnExe
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\AMS_Label.exe.config
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\AMS_Label.exe
+E:\NIC Source\5.0\NIC_SFC\LABEL\AMS_LABEL\bin\Debug\AMS_Label.pdb

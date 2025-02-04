@@ -1,0 +1,15 @@
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Sfc.Library.HttpClient.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Sfc.Library.HttpClient.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Sfc.Library.HttpClient.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\obj\Release\Sfc.Library.HttpClient.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\obj\Release\Sfc.Library.HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\obj\Release\Sfc.Library.HttpClient.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\obj\Release\Sfc.Library.HttpClient.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Library.HttpClient\obj\Release\Sfc.Library.HttpClient.pdb

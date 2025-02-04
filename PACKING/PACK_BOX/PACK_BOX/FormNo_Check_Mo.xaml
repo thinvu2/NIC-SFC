@@ -1,0 +1,40 @@
+﻿<Window x:Class="PACK_BOX.FormNo_Check_Mo"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_BOX"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Normal" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="16" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextElement.FontFamily="Arial"
+        Title="FormNo_Check_Mo" Height="250" Width="600">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                <GradientStop Color="#034E70" Offset="0"/>
+                <GradientStop Color="#0889A6" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="10" Background="White">
+            <ListBox Name="lst_message">
+
+            </ListBox>
+        </Grid>
+        <Grid Grid.Row="1" Margin="10 5">
+            <PasswordBox Name="edt_pwd"
+                Background="White" KeyDown="edt_pwdKeyDown">
+            </PasswordBox>
+        </Grid>
+    </Grid>
+</Window>

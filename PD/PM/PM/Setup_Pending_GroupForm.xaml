@@ -1,0 +1,111 @@
+﻿<Window x:Class="PM.Setup_Pending_GroupForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:self="clr-namespace:PM.Model"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        FontWeight="Bold"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="Setup_Pending_GroupForm" Height="450" Width="800" Initialized="Setup_Pending_GroupForm_Initialized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="0.5*"/>
+                <ColumnDefinition Width="0.5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <TreeView x:Name="Treeview_Group">
+                    <TreeView.Resources>
+                        <HierarchicalDataTemplate DataType="{x:Type self:Root}" ItemsSource="{Binding ItemsRoot}">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Width="30" Source="/Asset/icons8-thick-vertical-line-48.png"/>
+                                <TextBlock Text="{Binding TitleRoot}" Margin="5" Foreground="Blue"/>
+                            </StackPanel>
+                        </HierarchicalDataTemplate>
+                        <HierarchicalDataTemplate DataType="{x:Type self:Family}" ItemsSource="{Binding Members}">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Width="20" Source="/Asset/icons8-route-48.png"/>
+                                <TextBlock Text="{Binding Title}" Margin="5" Foreground="Blue"/>
+                            </StackPanel>
+                        </HierarchicalDataTemplate>
+                        <DataTemplate DataType="{x:Type self:FamilyMemebr}">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Width="20" Source="/Asset/icons8-red-triangle-pointed-up-48.png"/>
+                                <TextBlock Text="{Binding Name}" Margin="5" Foreground="Blue"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </TreeView.Resources>
+                </TreeView>
+            </Grid>
+            <Grid Grid.Column="1">
+                <ListBox x:Name="LstSectionName" Foreground="Blue">
+                    <ListBox.Template>
+                        <ControlTemplate>
+                            <DockPanel LastChildFill="True">
+                                <Grid DockPanel.Dock="Top" Background="#008082">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Grid.Column="0" Foreground="Yellow" HorizontalAlignment="Center" >SectionName</Label>
+                                </Grid>
+                                <ItemsPresenter></ItemsPresenter>
+                            </DockPanel>
+                        </ControlTemplate>
+                    </ListBox.Template>
+                </ListBox>
+            </Grid>
+            <Grid Grid.Column="2">
+                <ListBox x:Name="LstGroupName" Foreground="Blue">
+                    <ListBox.Template>
+                        <ControlTemplate>
+                            <DockPanel LastChildFill="True">
+                                <Grid DockPanel.Dock="Top" Background="#008082">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Grid.Column="0" Foreground="Yellow" HorizontalAlignment="Center" >GroupName</Label>
+                                </Grid>
+                                <ItemsPresenter></ItemsPresenter>
+                            </DockPanel>
+                        </ControlTemplate>
+                    </ListBox.Template>
+                </ListBox>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" Background="#008082">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="90" Click="btn_OK">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="Check"/>
+                            <Label Content="OK" Foreground="#008082"/>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="90" Click="btn_Cancel">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="Red" VerticalAlignment="Center" Kind="Close"/>
+                            <Label Content="Cancel" Foreground="#008082"/>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

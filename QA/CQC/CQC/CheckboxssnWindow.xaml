@@ -1,0 +1,87 @@
+﻿<Window x:Class="CQC.CheckboxssnWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="CHECK SSN" Height="687" Width="956" Initialized="Window_Initialized">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Label" x:Key="stylelabel">
+                <Setter Property="FontSize" Value="20"></Setter>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="170"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <materialDesign:ColorZone Grid.Row="0" VerticalAlignment="Top">
+            <!--begin menu viet o day-->
+            <Menu IsMainMenu="True" Margin="0,0,0,0">
+                <MenuItem Header="LOGIN..." Name="LOGIN1" Click="LOGIN1_Click"></MenuItem>
+                <MenuItem
+                        x:Name="Setup1"
+                        Header="Setup">
+                    <MenuItem
+                            x:Name="SetupScanCustSN1" IsCheckable="True"
+                            Header="Setup Scan CustSN" Click="SetupScanCustSN1_Click"></MenuItem>
+                    </MenuItem>
+                
+            </Menu>
+            <!--end menu viet o day-->
+        </materialDesign:ColorZone>
+        <Grid Grid.Row="1" HorizontalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="400"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <materialDesign:Card HorizontalAlignment="Stretch">
+                <Label Content="PASS"
+                       x:Name="label_pass"
+                       HorizontalAlignment="Stretch" 
+                       VerticalAlignment="Center"
+                       Foreground="Blue"
+                       FontSize="135" Background="Lime">
+                </Label>
+            </materialDesign:Card>
+            <DockPanel Grid.Column="1" Margin="10 0 0 0">
+                <TextBox x:Name="checkssn"
+                         FontSize="18"
+                         Height="50"
+                         Width="370"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="checkssn_KeyDown" />
+                <CheckBox x:Name="chkMBD" Width="75" Height="45" IsEnabled="False" Content="MBD"></CheckBox>
+            </DockPanel>
+        </Grid>
+        
+        <!--memo1 show-->
+        <Grid Grid.Row="2" x:Name="PanelShow">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="270"></ColumnDefinition>
+                <ColumnDefinition Width="270"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel >
+                <Button Name="pnl1" Visibility="Hidden" FontSize="30" Foreground="Blue" Background="White" Height="57"></Button>
+                <Label Content="HOUSING SSN:" Name="Label2" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="N/A" Name="lb_hoursing" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="BOX SSN:" Name="Label1" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="N/A" Name="lb_box" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="KEYPART SN:" Name="lbl1" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="N/A" Name="lblKPN" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="ADAPTER PN:" Name="Label3" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="N/A" Name="lb_KP" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="DATA  CUST" Name="Label5" Style="{StaticResource stylelabel}"></Label>
+                <Label Content="N/A" Name="lb_dataCust" Style="{StaticResource stylelabel}"></Label>
+            </StackPanel>
+            <TextBlock Grid.Column="1" x:Name="memoRec" Width="260" Height="310" FontSize="16" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBlock>
+            <TextBlock Grid.Column="2" x:Name="Memo1" Width="217" Height="310" FontSize="16" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBlock>
+            
+        </Grid>
+    </Grid>
+</Window>

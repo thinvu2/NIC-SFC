@@ -1,0 +1,172 @@
+CREATE OR REPLACE PROCEDURE GEMALTO_TRAY_VI_NG (
+   LINE        IN     VARCHAR2,
+   SECTION     IN     VARCHAR2,
+   MYGROUP     IN     VARCHAR2,
+   W_STATION   IN     VARCHAR2,
+   DATA        IN     VARCHAR2,
+   EMPNO       IN     VARCHAR2,
+   EC          IN     VARCHAR2,
+   RES            OUT VARCHAR2
+)
+AS
+   C_MO           VARCHAR2 (25);
+   C_MODEL        VARCHAR2 (25);
+   C_EMPNO        VARCHAR2 (25);
+   C_NUM          NUMBER;
+   C_SN           VARCHAR2 (25);
+   C_TMP_STR      VARCHAR2 (50);
+   C_DATA         VARCHAR2 (128);
+   C_ROUTE        VARCHAR2 (25);
+   C_GROUP_NAME   VARCHAR2 (25);
+   G_NEXT         VARCHAR2 (25);
+   C_ERROR        VARCHAR2 (2);
+   C_FLAG         VARCHAR2 (2);
+   C_SCRAP        VARCHAR2 (2);
+   C_WIP          VARCHAR2 (25);
+   C_ERROR_CODE   VARCHAR2 (10);
+   C_WORK_SECTION   VARCHAR2 (10);
+BEGIN
+   C_TMP_STR := 'Start Err';
+   C_MO := '';
+   C_DATA := RTRIM (LTRIM (UPPER (DATA)));
+   C_NUM := 0;
+
+   --Gemalto 20150901 導入TrayNo過ROastIn/out/vi
+   --Packtray--->ROAST_IN--->ROAST_OUT--->VI---
+   --新增GemaltoRoast應用程序
+   --PackTray先Scan Tray Barcode,每Scan一片產品判斷一下Route
+   --並更新TrayNo欄位,其他欄位不動,當Finish Tray時,調用此SP
+   --ROAST_IN--->ROAST_OUT 直接用TrayNo過站
+   --VI站則會先把Tray的不良品處理掉,然後才能用TrayNo過站,並把Tray_no置為'N/A'
+   
+   SELECT  TO_CHAR (SYSDATE, 'HH24') 
+     INTO  C_WORK_SECTION
+     FROM  DUAL;
+     
+   SELECT   COUNT (SERIAL_NUMBER)
+     INTO   C_NUM
+     FROM   SFISM4.R_WIP_TRACKING_T
+    WHERE   SERIAL_NUMBER = C_DATA AND ROWNUM = 1;
+
+   IF C_NUM = 0
+   THEN
+      RES := 'SN Not Found!';
+      GOTO ENDPROC;
+   END IF;
+
+   SELECT   SERIAL_NUMBER,
+            GROUP_NAME,
+            MO_NUMBER,
+            MODEL_NAME,
+            SPECIAL_ROUTE,
+            ERROR_FLAG,
+            SCRAP_FLAG,
+            WIP_GROUP
+     INTO   C_SN,
+            C_GROUP_NAME,
+            C_MO,
+            C_MODEL,
+            C_ROUTE,
+            C_ERROR,
+            C_SCRAP,
+            C_WIP
+     FROM   SFISM4.R_WIP_TRACKING_T
+    WHERE   SERIAL_NUMBER = C_DATA AND ROWNUM = 1;
+
+
+   IF C_ERROR = '1'
+   THEN
+      BEGIN
+         SELECT   TEST_CODE
+           INTO   C_ERROR_CODE
+           FROM   (  SELECT   SERIAL_NUMBER, TEST_CODE, TEST_TIME
+                       FROM   SFISM4.R_REPAIR_T
+                      WHERE   SERIAL_NUMBER = C_SN AND REASON_CODE IS NULL
+                   ORDER BY   TEST_TIME DESC)
+          WHERE   ROWNUM = 1;
+      EXCEPTION
+         WHEN NO_DATA_FOUND
+         THEN
+            RES := C_WIP;
+            GOTO ENDPROC;
+      END;
+
+      RES := C_WIP || '(' || C_ERROR_CODE || ')';
+      GOTO ENDPROC;
+   END IF;
+
+   IF C_SCRAP <> '0'
+   THEN
+      RES := 'Hold or Scrap';
+      GOTO ENDPROC;
+   END IF;
+
+   C_TMP_STR := 'Select Route';
+
+   IF LENGTH (EC) > 3
+   THEN
+      C_FLAG := 1;
+   ELSE
+      C_FLAG := 0;
+   END IF;
+
+   SELECT   GROUP_NEXT
+     INTO   G_NEXT
+     FROM   SFIS1.C_ROUTE_CONTROL_T
+    WHERE       STATE_FLAG = C_FLAG
+            AND ROUTE_CODE = C_ROUTE
+            AND GROUP_NAME = MYGROUP
+            AND ROWNUM = 1;
+
+
+
+   C_TMP_STR := 'NEW_STN_REC_PCS';
+   NEW_STN_REC_PCS (LINE,
+                    SECTION,
+                    MYGROUP,
+                    W_STATION,
+                    C_MO,
+                    C_SN,
+                    '1');
+                    
+                    
+   UPDATE   SFISM4.R_WIP_TRACKING_T
+      SET   TRACK_NO = TRAY_NO, TRAY_NO = 'N/A'
+    WHERE   SERIAL_NUMBER = C_SN AND ROWNUM = 1;
+        
+                  
+   C_TMP_STR := 'NEW_UPDATE_R107';
+   NEW_UPDATE_R107 (LINE,
+                    SECTION,
+                    MYGROUP,
+                    W_STATION,
+                    C_MO,
+                    C_SN,
+                    '1',
+                    EMPNO,
+                    'GEMATLOROAST');
+
+
+
+   C_TMP_STR := 'R109 Error';
+   INSERT_R109_CPE1 (C_SN,
+                     C_MO,
+                     EC,
+                     SECTION,
+                     MYGROUP,
+                     W_STATION,
+                     LINE,
+                     C_MODEL,
+                     EMPNO,
+                     C_WORK_SECTION,
+                     'GEMATLOROAST',
+                     C_TMP_STR);
+
+
+  <<ENDPROC>>
+   C_NUM := 0;
+EXCEPTION
+   WHEN OTHERS
+   THEN
+      RES := C_TMP_STR;
+END; 

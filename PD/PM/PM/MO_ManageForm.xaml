@@ -1,0 +1,831 @@
+﻿<Window x:Class="PM.MO_ManageForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="MO_ManageForm" Height="800" Width="1100" Closed="MO_ManageForm_Closed">
+    <Grid>
+        <Grid.Resources>
+            <!--Content-->
+            <Style TargetType="TextBlock" x:Key="Content">
+                <Setter Property="Padding" Value="4"/>
+                <Setter Property="Height" Value="25"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="Foreground" Value="Black"/>
+            </Style>
+            <Style TargetType="Label" x:Key="Content_Label">
+                <Setter Property="Padding" Value="4"/>
+                <Setter Property="Height" Value="25"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Style>
+            <!--Edt-->
+            <Style TargetType="Grid" x:Key="Edt_Content">
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="Height" Value="25"/>
+                <Setter Property="Margin" Value="15 0"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="10 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid x:Name="Gotop" Grid.Column="0" Margin="5" Background="#008082" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Logout"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Go Top</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="New" Grid.Column="1" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="NewBox"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">New</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Online" Grid.Column="2" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Pause"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">On Line</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="UnOnline" Grid.Column="3" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Power"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Un Online</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Mofinish" Grid.Column="4" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Close"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">MO Finish</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="DeleteMO" Grid.Column="5" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Delete"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Delete MO</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Pending" Grid.Column="6" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Stop"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Pending</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Save" Grid.Column="7" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="ContentSave"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Save</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="ModifyMO" Grid.Column="8" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Monitor"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Modify MO</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="KPCompleted" Grid.Column="9" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="CheckAll"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">KP Completed</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="RefreshMO" Grid.Column="10" Margin="5" Background="#008082" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Refresh"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Refresh MO</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Setting" Grid.Column="11" Margin="5" Background="#008082" IsEnabled="False" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="SettingsBox"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">System</Label>
+                </StackPanel>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Background="#008082"  Margin="15 5 5 0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1.5*"/>
+                        <RowDefinition Height="7*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <GroupBox Header="MO Status" Margin="3" Foreground="#FFF">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="3*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="3*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <Viewbox Height="20">
+                                            <RadioButton x:Name="Rb_NotIn" GroupName="Group_MoStatus" Checked="radioButtons_CheckedChanged"/>
+                                        </Viewbox>
+                                    </Grid>
+                                    <Grid Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <Viewbox Height="20">
+                                            <RadioButton x:Name="Rb_Input" GroupName="Group_MoStatus" Checked="radioButtons_CheckedChanged"/>
+                                        </Viewbox>
+                                    </Grid>
+                                    <Grid Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <Viewbox Height="20">
+                                            <RadioButton x:Name="Rb_Finish" GroupName="Group_MoStatus" Checked="radioButtons_CheckedChanged"/>
+                                        </Viewbox>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0" VerticalAlignment="Center">
+                                        <Label Content="1.Not In" FontSize="16" Foreground="White"/>
+                                    </Grid>
+                                    <Grid Grid.Row="1" VerticalAlignment="Center">
+                                        <Label Content="2.Input" FontSize="16" Foreground="White"/>
+                                    </Grid>
+                                    <Grid Grid.Row="2" VerticalAlignment="Center">
+                                        <Label Content="3.Finish" FontSize="16" Foreground="White"/>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="2">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <Viewbox Height="20">
+                                            <RadioButton x:Name="Rb_Pending" GroupName="Group_MoStatus" Checked="radioButtons_CheckedChanged"/>
+                                        </Viewbox>
+                                    </Grid>
+                                    <Grid Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <Viewbox Height="20">
+                                            <RadioButton x:Name="Rb_All" GroupName="Group_MoStatus" Checked="radioButtons_CheckedChanged"/>
+                                        </Viewbox>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="3">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0" VerticalAlignment="Center">
+                                        <Label Content="4.Pending"  FontSize="16" Foreground="White"/>
+                                    </Grid>
+                                    <Grid Grid.Row="1" VerticalAlignment="Center">
+                                        <Label Content="5.All" FontSize="16" Foreground="White"/>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </GroupBox>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid x:Name="Grid_">
+                            <ListView x:Name="Lv_DataMO" Background="#FFF5F5E5" FontSize="13" MouseLeftButtonUp="Lv_DataMO_MouseLeftButtonUp">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridView.ColumnHeaderContainerStyle>
+                                            <Style>
+                                                <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                            </Style>
+                                        </GridView.ColumnHeaderContainerStyle>
+                                        <GridViewColumn x:Name="Close_flag" Header="FLAG" DisplayMemberBinding="{Binding CLOSE_FLAG}" Width="{Binding ElementName=helperFiled_Close_flag,Path=ActualWidth}"></GridViewColumn>
+                                        <GridViewColumn x:Name="Mo_number" Header="MO NUMBER" DisplayMemberBinding="{Binding MO_NUMBER}" Width="{Binding ElementName=helperField_Mo_number, Path=ActualWidth}"></GridViewColumn>
+                                        <GridViewColumn x:Name="Default_line" Header="LINE NAME" DisplayMemberBinding="{Binding DEFAULT_LINE}" Width="{Binding ElementName=helperField_Default_line, Path=ActualWidth}"></GridViewColumn>
+                                        <GridViewColumn x:Name="Key_part_no" Header="KEYPART NO" DisplayMemberBinding="{ Binding KEY_PART_NO}" Width="{Binding ElementName=helperField_Key_part_no, Path=ActualWidth}"></GridViewColumn>
+                                        <GridViewColumn x:Name="Target_qty" Header="QTY" DisplayMemberBinding="{ Binding TARGET_QTY}" Width="{Binding ElementName=helperField_Target_qty, Path=ActualWidth}"></GridViewColumn>
+                                    </GridView>
+                                </ListView.View>
+                                <ListView.ItemContainerStyle>
+                                    <Style TargetType="ListViewItem">
+                                        <Setter Property="Foreground" Value="Black"/>
+                                    </Style>
+                                </ListView.ItemContainerStyle>
+                            </ListView>
+                            <Grid Grid.ColumnSpan="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0" x:Name="helperFiled_Close_flag"/>
+                                <Grid Grid.Column="1" x:Name="helperField_Mo_number"/>
+                                <Grid Grid.Column="2" x:Name="helperField_Default_line"/>
+                                <Grid Grid.Column="3" x:Name="helperField_Key_part_no"/>
+                                <Grid Grid.Column="4" x:Name="helperField_Target_qty"/>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <Label Content="MO : " Foreground="White"/>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <TextBox x:Name="Edt_SearchMO" VerticalAlignment="Center" FontWeight="Bold" Padding="8" Margin="25 0" KeyDown="SearchMO_KeyDown"/>
+                        </Grid>
+                        <Grid Grid.Column="2"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <Label x:Name="Lb_CountMO" Foreground="White"/>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1" Background="#008082" Margin="5 5 15 0">
+                <Grid Background="#FFF" Margin="3">
+                    <Grid Margin="3" Background="#008082">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="5*"/>
+                            <RowDefinition Height="1*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" x:Name="_Grid_ShowData">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="2*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="MO :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Model :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="2">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Target QTY :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="3">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Input QTY :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="4">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Output QTY :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="5">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Close Flag :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="6">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Route Code :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="7">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Plan Input :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="8">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Line Name :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="9">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="FW :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="10">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Scrap_Qty :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="11">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="SW BOM :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_MO" Text="{Binding Path=MO_NUMBER}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="1" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Model" Text="{Binding Path=MODEL_NAME}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="2" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Target" Text="{Binding Path=TARGET_QTY}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="3" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Input_Qty" Text="{Binding Path=INPUT_QTY}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="4" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Output_Qty" Text="{Binding Path=OUTPUT_QTY}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="5" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Close_Flag" Text="{Binding Path=CLOSE_FLAG}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="6" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_RouteCode" Text="{Binding Path=ROUTE_CODE}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="7" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Plan" Text="{Binding Path=MO_CREATE_DATE}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="8" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Line" Text="{Binding Path=DEFAULT_LINE}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="9" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_FW" Text="{Binding Path=PO_NO}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="10" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Scrap" Text="{Binding Path=SIGN_EMP}"/>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="11" VerticalAlignment="Center">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_SWBOM" Text="{Binding Path=SW_BOM}"/>
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="MO Type :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Version :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="2">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="BOM NO :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="3">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Part NO :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="4">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="FirstGroup :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="5">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="LastGroup :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="6">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Plan Start :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="7">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="PlanFinish :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="8">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="Factory :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="9">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="SHIP TO :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="10">
+                                        <Label x:Name="Lb_Cust_PNo" Style="{StaticResource Content_Label}"
+                                           Content="Cust_PNo :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="11">
+                                        <Label Style="{StaticResource Content_Label}"
+                                           Content="TA VER :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Mo_type" Text="{Binding Path=MO_TYPE}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Ver" Text="{Binding Path=VERSION_CODE}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="2">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Bom" Text="{Binding Path=BOM_NO}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="3">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Part" Text="{Binding Path=KEY_PART_NO}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="4">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Frist" Text="{Binding Path=DEFAULT_GROUP}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="5">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Last" Text="{Binding Path=END_GROUP}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="6">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Planstart" Text="{Binding Path=MO_SCHEDULE_DATE}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="7">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Planfinish" Text="{Binding Path=MO_DUE_DATE}" 
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="8">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Factory" Text="{Binding Path=SITE}" 
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="9">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Ship" Text="{Binding Path=OPTION_DESC}" 
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="10">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Cust" Text="{Binding Path=CUST_PART_NO}" 
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="11">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_TA" Text="{Binding Path=VENDER_PART_NO}" 
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="2">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Label x:Name="Lb_DeviceConfig" Style="{StaticResource Content_Label}"
+                                           Content="Device Config :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Label x:Name="Lb_LinkTO" Style="{StaticResource Content_Label}"
+                                           Content="LinkTO :"
+                                           >
+                                        </Label>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="3">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_Device_Config" Text="{Binding Path=CUST_PART_NO}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Grid Style="{StaticResource Edt_Content}" >
+                                            <TextBlock Style="{StaticResource Content}"   
+                                                     x:Name="Edt_LinkTO" Text="{Binding Path=JOB_MO_OPTION}"
+                                                />
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="1" Margin="3" Background="White">
+                            <Grid Background="#FFF" Margin="3">
+                                <Grid Margin="3">
+                                    <ListView x:Name="Lv_DataRange" Background="#FFF5F5E5" FontSize="13" Grid.ColumnSpan="2">
+                                        <ListView.View>
+                                            <GridView>
+                                                <GridView.ColumnHeaderContainerStyle>
+                                                    <Style>
+                                                        <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                                    </Style>
+                                                </GridView.ColumnHeaderContainerStyle>
+                                                <GridViewColumn  Header="MO_NUMBER" DisplayMemberBinding="{Binding MO_NUMBER}" Width="{Binding ElementName=helperFiled_MO_NUMBER,Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="ITEM_1" DisplayMemberBinding="{Binding ITEM_1}" Width="{Binding ElementName=helperField_ITEM_1, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="VER_1" DisplayMemberBinding="{Binding VER_1}" Width="{Binding ElementName=helperField_VER_1, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="ITEM_2" DisplayMemberBinding="{ Binding ITEM_2}" Width="{Binding ElementName=helperField_ITEM_2, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="VER_2" DisplayMemberBinding="{ Binding VER_2}" Width="{Binding ElementName=helperField_VER_2, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="ITEM_3" DisplayMemberBinding="{Binding ITEM_3}" Width="{Binding ElementName=helperFiled_ITEM_3,Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="VER_3" DisplayMemberBinding="{Binding VER_3}" Width="{Binding ElementName=helperField_VER_3, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="ITEM_4" DisplayMemberBinding="{ Binding ITEM_4}" Width="{Binding ElementName=helperField_ITEM_4, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="VER_4" DisplayMemberBinding="{ Binding VER_4}" Width="{Binding ElementName=helperField_VER_4, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="ITEM_5" DisplayMemberBinding="{Binding ITEM_5}" Width="{Binding ElementName=helperFiled_ITEM_5,Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="VER_5" DisplayMemberBinding="{Binding VER_5}" Width="{Binding ElementName=helperField_VER_5, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="ITEM_6" DisplayMemberBinding="{ Binding ITEM_5}" Width="{Binding ElementName=helperField_ITEM_6, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn  Header="VER_6" DisplayMemberBinding="{ Binding VER_6}" Width="{Binding ElementName=helperField_VER_6, Path=ActualWidth}"></GridViewColumn>
+                                            </GridView>
+                                        </ListView.View>
+                                        <ListView.ItemContainerStyle>
+                                            <Style TargetType="ListViewItem">
+                                                <Setter Property="Foreground" Value="Black"/>
+                                            </Style>
+                                        </ListView.ItemContainerStyle>
+                                    </ListView>
+                                    <Grid Grid.ColumnSpan="2">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Grid Grid.Column="0" x:Name="helperFiled_MO_NUMBER"/>
+                                        <Grid Grid.Column="1" x:Name="helperField_ITEM_1"/>
+                                        <Grid Grid.Column="2" x:Name="helperField_VER_1"/>
+                                        <Grid Grid.Column="3" x:Name="helperField_ITEM_2"/>
+                                        <Grid Grid.Column="4" x:Name="helperField_VER_2"/>
+                                        <Grid Grid.Column="5" x:Name="helperFiled_ITEM_3"/>
+                                        <Grid Grid.Column="6" x:Name="helperField_VER_3"/>
+                                        <Grid Grid.Column="7" x:Name="helperField_ITEM_4"/>
+                                        <Grid Grid.Column="8" x:Name="helperField_VER_4"/>
+                                        <Grid Grid.Column="9" x:Name="helperFiled_ITEM_5"/>
+                                        <Grid Grid.Column="10" x:Name="helperField_VER_5"/>
+                                        <Grid Grid.Column="11" x:Name="helperField_ITEM_6"/>
+                                        <Grid Grid.Column="12" x:Name="helperField_VER_6"/>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+        <!--Footer-->
+        <Grid Grid.Row="2" x:Name="View_Bottom" VerticalAlignment="Bottom"  
+              Margin="0 5 0 0" >
+
+            <materialDesign:Card Background="#008082" Margin="10 0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Border BorderBrush="White">
+                            <TextBlock x:Name="Edt_User" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">USER:</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Border BorderBrush="White">
+                            <TextBlock x:Name="Edt_DB" HorizontalAlignment="Center" Foreground="White">DATABASE:</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <Border BorderBrush="White">
+                            <TextBlock x:Name="Edt_Version" HorizontalAlignment="Center" Foreground="White">VERSION:</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="3">
+                        <Border BorderBrush="White">
+                            <TextBlock x:Name="Edt_IP" HorizontalAlignment="Center" Foreground="White">IP:</TextBlock>
+                        </Border>
+                    </Grid>
+                </Grid>
+            </materialDesign:Card>
+        </Grid>
+    </Grid>
+</Window>

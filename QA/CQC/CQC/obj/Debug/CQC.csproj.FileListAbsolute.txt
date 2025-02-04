@@ -1,0 +1,838 @@
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\CQC.exe.config
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\CQC.exe
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\CQC.pdb
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\Sfc.Core.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V0939996\Desktop\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ComWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Form2Window.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Form3Window.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Form4Window.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\frloginWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\InquireWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Login.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\MainWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\MessageWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SystemWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\TransferWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\App.g.cs
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\App.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ChangePassWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CompanyWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ComWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\DefaultWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ErrorListWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Form2Window.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Form3Window.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Form4Window.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\formPasswdWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\frloginWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\frmGroupWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\InquireWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\Login.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\MainWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\MessageWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\ModelFileWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\oobafrmWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\PDPassWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\qryoobaWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\RMAPOWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SetupLineWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\SystemWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\TransferWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\UnitCountWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\YesDlgWindow.baml
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.g.resources
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.exe
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.pdb
+C:\Users\V0939996\Desktop\CQC\CQC\obj\Debug\CQC.csproj.AssemblyReference.cache
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\CQC.exe.config
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\CQC.exe
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\CQC.pdb
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\Sfc.Core.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+D:\Xuan\du an CQC\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ComWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Form2Window.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Form3Window.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Form4Window.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\frloginWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\InquireWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Login.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\MainWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\MessageWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SystemWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\TransferWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\App.g.cs
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\App.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ChangePassWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CompanyWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ComWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\DefaultWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ErrorListWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Form2Window.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Form3Window.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Form4Window.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\formPasswdWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\frloginWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\frmGroupWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\InquireWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\Login.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\MainWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\MessageWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\ModelFileWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\oobafrmWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\PDPassWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\qryoobaWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\RMAPOWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SetupLineWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\SystemWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\TransferWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\UnitCountWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\YesDlgWindow.baml
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.g.resources
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.exe
+D:\Xuan\du an CQC\CQC\CQC\obj\Debug\CQC.pdb
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\CQC.exe.config
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\CQC.exe
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\CQC.pdb
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\Sfc.Core.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ComWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Form2Window.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Form3Window.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Form4Window.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\frloginWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\InquireWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Login.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\MessageWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SystemWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\TransferWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ChangePassWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CompanyWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ComWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\DefaultWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ErrorListWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Form2Window.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Form3Window.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Form4Window.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\formPasswdWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\frloginWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\frmGroupWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\InquireWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\Login.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\MessageWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\ModelFileWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\oobafrmWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\PDPassWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\qryoobaWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\RMAPOWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SetupLineWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\SystemWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\TransferWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\UnitCountWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\YesDlgWindow.baml
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.g.resources
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.exe
+C:\Users\V0957266\Desktop\cqc_c#\CQC\CQC\obj\Debug\CQC.pdb
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ComWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Form2Window.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Form3Window.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Form4Window.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\frloginWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\InquireWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Login.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\MessageWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SystemWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\TransferWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.exe
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.pdb
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\CQC.exe.config
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\CQC.exe
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\CQC.pdb
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\Sfc.Core.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V0957266\Desktop\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ChangePassWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CompanyWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ComWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\DefaultWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ErrorListWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Form2Window.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Form3Window.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Form4Window.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\formPasswdWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\frloginWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\frmGroupWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\InquireWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\Login.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\MessageWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\ModelFileWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\oobafrmWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\PDPassWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\qryoobaWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\RMAPOWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SetupLineWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\SystemWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\TransferWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\UnitCountWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\YesDlgWindow.baml
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.g.resources
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+D:\Xuan\CQC\CQC\bin\Debug\CQC.exe.config
+D:\Xuan\CQC\CQC\bin\Debug\CQC.exe
+D:\Xuan\CQC\CQC\bin\Debug\CQC.pdb
+D:\Xuan\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+D:\Xuan\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+D:\Xuan\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Xuan\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Xuan\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+D:\Xuan\CQC\CQC\bin\Debug\Sfc.Core.dll
+D:\Xuan\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+D:\Xuan\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+D:\Xuan\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+D:\Xuan\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+D:\Xuan\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Xuan\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Xuan\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Xuan\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+D:\Xuan\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+D:\Xuan\CQC\CQC\obj\Debug\CQC.csproj.AssemblyReference.cache
+D:\Xuan\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+D:\Xuan\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\ComWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\Form2Window.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\Form3Window.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\Form4Window.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\frloginWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\InquireWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\Login.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\MainWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\MessageWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\SystemWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\TransferWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\App.g.cs
+D:\Xuan\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+D:\Xuan\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+D:\Xuan\CQC\CQC\obj\Debug\App.baml
+D:\Xuan\CQC\CQC\obj\Debug\ChangePassWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\CompanyWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\ComWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\DefaultWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\ErrorListWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\Form2Window.baml
+D:\Xuan\CQC\CQC\obj\Debug\Form3Window.baml
+D:\Xuan\CQC\CQC\obj\Debug\Form4Window.baml
+D:\Xuan\CQC\CQC\obj\Debug\formPasswdWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\frloginWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\frmGroupWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\InquireWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\Login.baml
+D:\Xuan\CQC\CQC\obj\Debug\MainWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\MessageWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\ModelFileWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\oobafrmWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\PDPassWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\qryoobaWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\RMAPOWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\SetupLineWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\SystemWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\TransferWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\UnitCountWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\YesDlgWindow.baml
+D:\Xuan\CQC\CQC\obj\Debug\CQC.g.resources
+D:\Xuan\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+D:\Xuan\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+D:\Xuan\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+D:\Xuan\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+D:\Xuan\CQC\CQC\obj\Debug\CQC.exe
+D:\Xuan\CQC\CQC\obj\Debug\CQC.pdb
+E:\WenJun\CQC\CQC\bin\Debug\CQC.exe.config
+E:\WenJun\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+E:\WenJun\CQC\CQC\obj\Debug\CQC.exe
+E:\WenJun\CQC\CQC\obj\Debug\CQC.pdb
+E:\WenJun\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\ComWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\Form2Window.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\Form3Window.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\Form4Window.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\frloginWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\InquireWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\Login.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\MainWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\MessageWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\SystemWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\TransferWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\App.g.cs
+E:\WenJun\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+E:\WenJun\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+E:\WenJun\CQC\CQC\bin\Debug\CQC.exe
+E:\WenJun\CQC\CQC\bin\Debug\CQC.pdb
+E:\WenJun\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+E:\WenJun\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+E:\WenJun\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\WenJun\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\WenJun\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+E:\WenJun\CQC\CQC\bin\Debug\Sfc.Core.dll
+E:\WenJun\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+E:\WenJun\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+E:\WenJun\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+E:\WenJun\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+E:\WenJun\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\WenJun\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\WenJun\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\WenJun\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+E:\WenJun\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+E:\WenJun\CQC\CQC\obj\Debug\CQC.csprojAssemblyReference.cache
+E:\WenJun\CQC\CQC\obj\Debug\App.baml
+E:\WenJun\CQC\CQC\obj\Debug\ChangePassWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\CompanyWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\ComWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\DefaultWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\ErrorListWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\Form2Window.baml
+E:\WenJun\CQC\CQC\obj\Debug\Form3Window.baml
+E:\WenJun\CQC\CQC\obj\Debug\Form4Window.baml
+E:\WenJun\CQC\CQC\obj\Debug\formPasswdWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\frloginWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\frmGroupWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\InquireWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\Login.baml
+E:\WenJun\CQC\CQC\obj\Debug\MainWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\MessageWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\ModelFileWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\oobafrmWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\PDPassWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\qryoobaWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\RMAPOWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\SetupLineWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\SystemWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\TransferWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\UnitCountWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\YesDlgWindow.baml
+E:\WenJun\CQC\CQC\obj\Debug\CQC.g.resources
+E:\WenJun\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+E:\WenJun\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+E:\WenJun\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+E:\WenJun\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\CQC.exe.config
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\CQC.exe
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\CQC.pdb
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\Sfc.Core.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ComWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Form2Window.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Form3Window.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Form4Window.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\frloginWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\InquireWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Login.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\MessageWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SystemWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\TransferWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ChangePassWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CompanyWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ComWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\DefaultWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ErrorListWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Form2Window.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Form3Window.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Form4Window.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\formPasswdWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\frloginWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\frmGroupWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\InquireWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\Login.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\MessageWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\ModelFileWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\oobafrmWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\PDPassWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\qryoobaWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\RMAPOWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SetupLineWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\SystemWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\TransferWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\UnitCountWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\YesDlgWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.g.resources
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.exe
+C:\Users\V0957266\Desktop\FileCode\C#\CQC\CQC\obj\Debug\CQC.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\CQC.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\CQC.exe
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\CQC.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\FontAwesome.WPF.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\MaterialDesignColors.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\FontAwesome.WPF.xml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.csproj.ResolveComReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ChangePassWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ChkRelationWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CheckboxssnWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CompanyWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ComWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ConfigDlgWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQCUnitWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\DefaultWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\DeleteLotWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\DutyTypeWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ErrorListWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Form2Window.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Form3Window.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Form4Window.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\formPasswdWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\formWarehouseNOWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\frloginWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\frmGroupWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\inputpasswordWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\InquireWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\IPQCPassWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Login.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\MainWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\MessageWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ModelFileWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\oobafrmWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\PDPassWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\qryoobaWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\RejectReasonWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\RMAPOWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SetupGroupWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SetUpLengthWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SetupLineWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SystemWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\TransferWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\UnitCountWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\YesDlgWindow.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\App.g.cs
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC_MarkupCompile.cache
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC_MarkupCompile.lref
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\App.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ChangePassWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ChkRelationWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CheckboxssnWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CompanyWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ComWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ConfigDlgWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQCUnitWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\DefaultWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\DeleteLotWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\DutyTypeWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ErrorListWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Form2Window.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Form3Window.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Form4Window.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\formPasswdWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\formWarehouseNOWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\frloginWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\frmGroupWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\inputpasswordWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\InquireWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\IPQCPassWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\Login.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\MainWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\MessageWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\ModelFileWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\oobafrmWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\PDPassWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\qryoobaWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\RejectReasonWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\RMAPOWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SetupGroupWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SetUpLengthWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SetupLineWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\SystemWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\TransferWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\UnitCountWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\YesDlgWindow.baml
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.g.resources
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.Properties.Resources.resources
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.csproj.GenerateResource.cache
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.exe
+C:\Users\V1041643\Desktop\SFC_NIC\CQC\CQC\obj\Debug\CQC.pdb

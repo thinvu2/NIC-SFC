@@ -1,0 +1,30 @@
+﻿<Window x:Class="REWORK.showDataSelected"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:REWORK.UserControlRework"
+        xmlns:local="clr-namespace:REWORK"
+        mc:Ignorable="d"
+        WindowState="Normal" WindowStyle="None"
+        Name="frmShowdata"
+        Title="DataSelected" Height="150" Width="300" FontFamily="Arial" FontSize="14"  WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title ,ElementName = frmShowdata}"></uc:ControlBarUC>
+        </Grid>
+        <Grid Grid.Row="1" >
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBox Grid.Row="0" Name="txtData"  VerticalAlignment="Center" HorizontalAlignment="Left" > </TextBox>
+            <Button Width="100" Name="btnOK" Grid.Row="1" Content="OK" Click="btnOK_Click"></Button>
+        </Grid>
+
+    </Grid>
+</Window>

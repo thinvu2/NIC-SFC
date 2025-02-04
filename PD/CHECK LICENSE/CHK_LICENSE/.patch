@@ -1,0 +1,1347 @@
+Index: CHK_LICENSE.csproj
+===================================================================
+--- CHK_LICENSE.csproj	(revision 82)
++++ CHK_LICENSE.csproj	(working copy)
+@@ -98,6 +98,10 @@
+   </ItemGroup>
+   <ItemGroup>
+     <Compile Include="CHKDUP.cs" />
++    <Compile Include="fCheck.cs">
++      <SubType>Form</SubType>
++    </Compile>
++    <Compile Include="fCheck.Designer.cs" />
+     <Compile Include="Form1.cs">
+       <SubType>Form</SubType>
+     </Compile>
+@@ -107,6 +111,7 @@
+     <Compile Include="OracleDB.cs" />
+     <Compile Include="Program.cs" />
+     <Compile Include="Properties\AssemblyInfo.cs" />
++    <EmbeddedResource Include="fCheck.resx" />
+     <EmbeddedResource Include="Form1.resx">
+       <DependentUpon>Form1.cs</DependentUpon>
+     </EmbeddedResource>
+Index: fCheck.cs
+===================================================================
+--- fCheck.cs	(nonexistent)
++++ fCheck.cs	(working copy)
+@@ -0,0 +1,563 @@
++﻿using Oracle.ManagedDataAccess.Client;
++using OracleOperation;
++using System;
++using System.Collections.Generic;
++using System.Data;
++using System.Diagnostics;
++using System.Windows.Forms;
++
++namespace CHK_LICENSE
++{
++    public partial class fCheck : Form
++    {
++        OracleDB orac = new OracleDB();
++        DataTable dt = new DataTable();
++        DataTable dtPass = new DataTable();
++        public String line;
++        public String routecode;
++        public static string empno = string.Empty;
++        public static int checkMax = 0;
++        public static int checkPass = 0;
++        public static string sqlPass = "select to_char(sysdate+1/48,'HH24') AS W_SECTION,to_char(sysdate,'YYYYMMDD') AS MO_DATE,LINE_NAME AS LINE,WIP_GROUP W_STATION,'N/A' EC,SERIAL_NUMBER DATA,WIP_GROUP MYGROUP,SECTION_NAME SECTION,serial_number, carton_no , shipping_sn from sfism4.r107 where carton_no <>'N/A' and shipping_sn <> 'N/A' and mcarton_no = '{0}'";
++
++        public static string[] strString;
++        public static string[] arrSeialNumber;
++        public static string[] arrShippingSN;
++        public static string[] arrCarton;
++        public fCheck()
++        {
++            InitializeComponent();
++            checklabel();
++        }
++
++        private void employeeno_KeyPress(object sender, KeyPressEventArgs e)
++        {
++            if (e.KeyChar == 13)
++            {
++                if (employeeno.Text == "UNDO")
++                {
++                    Reset();
++                }
++                String str = "select EMP_NAME,EMP_NO from sfis1.c_emp_desc_t where emp_bc='" + employeeno.Text + "' ";
++                orac.ExcuteSelectSQL(str, ref dt);
++                if (dt.Rows.Count == 0)
++                {
++                    employeeno.SelectAll();
++                    errorMessage.Text = "Ma the sai";
++                }
++                else
++                {
++                    employeeno.PasswordChar = (char)0;
++                    employeeno.Text = dt.Rows[0]["EMP_NAME"].ToString();
++                    empno = dt.Rows[0]["EMP_NO"].ToString();
++                    employeeno.Enabled = false;
++                    txtck1.Enabled = true;
++                    txtck1.Focus();
++                }
++            }
++        }
++
++        private void txtck1_KeyPress(object sender, KeyPressEventArgs e)
++        {
++            if (e.KeyChar == 13)
++            {
++                if (txtck1.Text == "UNDO")
++                {
++                    Reset();
++                    UnlogRadioButom();
++                    return;
++                }
++                logRadioButom();
++                string sql = string.Format(@sqlPass, txtck1.Text);
++                orac.ExcuteSelectSQL(sql, ref dt);
++                if (dt.Rows.Count == 0)
++                {
++                    txtck1.SelectAll();
++                    errorMessage.Text = strString[0] + ": " + txtck1.Text + " No data. Please check.";
++                    return;
++                }
++                else
++                {
++                    List<string> listSN = new List<string>();
++                    List<string> listSSN = new List<string>();
++                    List<string> listCTN = new List<string>();
++                    for (int i = 0; i < dt.Rows.Count; i++)
++                    {
++                        listSN.Add(dt.Rows[i]["serial_number"].ToString());
++                        listSSN.Add(dt.Rows[i]["shipping_sn"].ToString());
++                        listCTN.Add(dt.Rows[i]["mcarton_no"].ToString());
++                    }
++                    arrSeialNumber = listSN.ToArray();
++                    arrShippingSN = listSSN.ToArray();
++                    arrCarton = listCTN.ToArray();
++
++                    checkMax += 1;
++                    if (checkMax == checkPass)
++                    {
++                        if (cPassStation() != "OK")
++                        {
++                            return;
++                        }
++                        Reset();
++                        errorMessage.Text = "OK";
++                        return;
++                    }
++                    errorMessage.Text = strString[0] + ": OK";
++                    txtck1.Enabled = false;
++                    txtck2.Enabled = true;
++                    txtck2.Focus();
++                }
++            }
++        }
++
++        private void txtck2_KeyPress(object sender, KeyPressEventArgs e)
++        {
++            if (e.KeyChar == 13)
++            {
++                if (txtck2.Text == "UNDO")
++                {
++                    Reset();
++                    UnlogRadioButom();
++                    return;
++                }
++                logRadioButom();
++                if (Check(txtck2.Text, strString[1]) == "FALSE")
++                {
++                    txtck2.SelectAll();
++                    errorMessage.Text = strString[1] + ": " + txtck2.Text + " No data. Please check.";
++                    return;
++                }
++                else
++                {
++                    checkMax += 1;
++                    if (checkMax == checkPass)
++                    {
++                        if (cPassStation() != "OK")
++                        {
++                            return;
++                        }
++                        Reset();
++                        errorMessage.Text = "OK";
++                        return;
++                    }
++                    errorMessage.Text = strString[1] + ": OK";
++                    txtck2.Enabled = false;
++                    txtck3.Enabled = true;
++                    txtck3.Focus();
++                }
++            }
++        }
++
++        private void txtck3_KeyPress(object sender, KeyPressEventArgs e)
++        {
++            if (e.KeyChar == 13)
++            {
++                if (txtck3.Text == "UNDO")
++                {
++                    Reset();
++                    UnlogRadioButom();
++                    return;
++                }
++                logRadioButom();
++                if (Check(txtck3.Text, strString[2]) == "FALSE")
++                {
++                    txtck3.SelectAll();
++                    errorMessage.Text = strString[2] + ": " + txtck3.Text + " No data. Please check.";
++                    return;
++                }
++                else
++                {
++                    checkMax += 1;
++                    if (checkMax == checkPass)
++                    {
++                        if (cPassStation() != "OK")
++                        {
++                            return;
++                        }
++                        Reset();
++                        errorMessage.Text = ": OK";
++                        return;
++                    }
++                    errorMessage.Text = strString[2] + "OK";
++                    txtck3.Enabled = false;
++                    txtck4.Enabled = true;
++                    txtck4.Focus();
++                }
++            }
++        }
++        private void txtck4_KeyPress(object sender, KeyPressEventArgs e)
++        {
++            if (e.KeyChar == 13)
++            {
++                if (txtck4.Text == "UNDO")
++                {
++                    Reset();
++                    UnlogRadioButom();
++                    return;
++                }
++                logRadioButom();
++                if (Check(txtck4.Text, strString[3]) == "FALSE")
++                {
++                    txtck4.SelectAll();
++                    errorMessage.Text = strString[3] + ": " + txtck4.Text + " No data. Please check.";
++                    return;
++                }
++                else
++                {
++                    checkMax += 1;
++                    if (checkMax == checkPass)
++                    {
++                        if (cPassStation() != "OK")
++                        {
++                            return;
++                        }
++                        Reset();
++                        errorMessage.Text = "OK";
++                        return;
++                    }
++                    errorMessage.Text = strString[3] + ": OK";
++                    txtck4.Enabled = false;
++                    txtck5.Enabled = true;
++                    txtck5.Focus();
++                }
++            }
++        }
++
++        private void txtck5_KeyPress(object sender, KeyPressEventArgs e)
++        {
++            if (e.KeyChar == 13)
++            {
++                if (txtck5.Text == "UNDO")
++                {
++                    Reset();
++                    UnlogRadioButom();
++                    return;
++                }
++                logRadioButom();
++                if (Check(txtck5.Text, strString[4]) == "FALSE")
++                {
++                    txtck5.SelectAll();
++                    errorMessage.Text = strString[4] + ": " + txtck5.Text + " No data. Please check.";
++                    return;
++                }
++                else
++                {
++                    checkMax += 1;
++                    if (checkMax == checkPass)
++                    {
++                        if (cPassStation() != "OK")
++                        {
++                            return;
++                        }
++                        Reset();
++                        errorMessage.Text = "OK";
++                        return;
++                    }
++                }
++            }
++        }
++        public string Check(string data, string coulum)
++        {
++            if (coulum == "SHIPPING_SN")
++            {
++                for (int i = 0; i < arrShippingSN.Length; i++)
++                {
++                    if (data == arrShippingSN[i])
++                    {
++                        return "OK";
++                    }
++                }
++            }
++            if (coulum == "SERIAL_NUMBER")
++            {
++                for (int i = 0; i < arrSeialNumber.Length; i++)
++                {
++                    if (data == arrSeialNumber[i])
++                    {
++                        return "OK";
++                    }
++                }
++            }
++            if (coulum == "CARTON_NO")
++            {
++                for (int i = 0; i < arrCarton.Length; i++)
++                {
++                    if (data == arrCarton[i])
++                    {
++                        return "OK";
++                    }
++                }
++            }
++            return "FALSE";
++        }
++        public string cPassStationBySP(string varLine, string varSection, string varw_station, string varEc, string varData, string varMoDate, string varWSection)
++        {
++            List<OracleParameter> sqlPrams = new List<OracleParameter>();
++            sqlPrams.Add(new OracleParameter("LINE", OracleDbType.Varchar2, varLine, ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("SECTION", OracleDbType.Varchar2, 50, varSection, ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("w_station", OracleDbType.Varchar2, 50, varw_station, ParameterDirection.Input));
++            OracleParameter datetime = new OracleParameter()
++            {
++                ParameterName = "datetime",
++                OracleDbType = OracleDbType.Date,
++                Direction = ParameterDirection.Input,
++                Value = DateTime.Now,
++                Size = 200
++            };
++            sqlPrams.Add(datetime);
++            sqlPrams.Add(new OracleParameter("EC", OracleDbType.Varchar2, varEc, ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("DATA", OracleDbType.Varchar2, 50, varData, ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("mo_date", OracleDbType.Varchar2, 50, varMoDate, ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("w_section", OracleDbType.Decimal, varWSection, ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("MYGROUP", OracleDbType.Varchar2, "COMPARE_LABEL", ParameterDirection.Input));
++            OracleParameter Res = new OracleParameter()
++            {
++                ParameterName = "Res",
++                OracleDbType = OracleDbType.NVarchar2,
++                Direction = ParameterDirection.Output,
++                Size = 200
++            };
++            sqlPrams.Add(Res);
++            sqlPrams.Add(new OracleParameter("emp", OracleDbType.NVarchar2, 50, empno, ParameterDirection.Input));
++            orac.ExcuteSP("SFIS1.test_input", sqlPrams);
++            return sqlPrams[9].Value.ToString();
++        }
++        public string cRouteStationBySP(string varLine, string varMyGroup, string varData)
++        {
++            List<OracleParameter> sqlPrams = new List<OracleParameter>();
++            sqlPrams.Add(new OracleParameter("LINE", (OracleDbType)OracleDbType.Varchar2, varLine, ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("MYGROUP", (OracleDbType)OracleDbType.Varchar2, "", ParameterDirection.Input));
++            sqlPrams.Add(new OracleParameter("DATA", (OracleDbType)OracleDbType.Varchar2, varData, ParameterDirection.Input));
++            OracleParameter Res = new OracleParameter()
++            {
++                ParameterName = "Res",
++                OracleDbType = OracleDbType.NVarchar2,
++                Direction = ParameterDirection.Output,
++                Size = 200
++            };
++            sqlPrams.Add(Res);
++            orac.ExcuteSP("SFIS1.CHECK_ROUTE", sqlPrams);
++            return sqlPrams[3].Value.ToString();
++        }
++        public string cPassStation()
++        {
++            string strResult = string.Empty;
++            string sql = string.Format(@sqlPass, txtck1.Text);
++            orac.ExcuteSelectSQL(sql, ref dtPass);
++            if (dtPass.Rows.Count > 0)
++            {
++                for (int i = 0; i < dtPass.Rows.Count; i++)
++                {
++                    strResult = cRouteStationBySP(dtPass.Rows[0]["LINE"].ToString(), dtPass.Rows[0]["MYGROUP"].ToString(), dtPass.Rows[0]["SERIAL_NUMBER"].ToString());
++                    if (strResult != "COMPARE_LABEL")
++                    {
++                        errorMessage.Text = "Next group not in Compare_Label. Please check";
++                        return "False";
++                    }
++                }
++                for (int i = 0; i < dtPass.Rows.Count; i++)
++                {
++                    strResult = cPassStationBySP(dtPass.Rows[i]["LINE"].ToString(), dtPass.Rows[i]["SECTION"].ToString(), dtPass.Rows[i]["W_STATION"].ToString(), dtPass.Rows[i]["EC"].ToString(), dtPass.Rows[i]["DATA"].ToString(), dtPass.Rows[i]["MO_DATE"].ToString(), dtPass.Rows[i]["W_SECTION"].ToString());
++                    if (strResult != "OK")
++                    {
++                        errorMessage.Text = strResult;
++                        return "FALSE";
++                    }
++                }
++                return "OK";
++            }
++            return "FALSE";
++        }
++
++        private void rcp1_CheckedChanged(object sender, EventArgs e)
++        {
++            checklabel1();
++        }
++
++        private void rcp2_CheckedChanged(object sender, EventArgs e)
++        {
++            checklabel1();
++        }
++
++        private void rcp3_CheckedChanged(object sender, EventArgs e)
++        {
++            checklabel1();
++        }
++
++        private void rcp4_CheckedChanged(object sender, EventArgs e)
++        {
++            checklabel1();
++        }
++        public void checklabel()
++        {
++            label1.Visible = false;
++            label2.Visible = false;
++            label3.Visible = false;
++            label4.Visible = false;
++            label5.Visible = false;
++            label10.Visible = false;
++            txtck1.Visible = false;
++            txtck2.Visible = false;
++            txtck3.Visible = false;
++            txtck4.Visible = false;
++            txtck5.Visible = false;
++            employeeno.Visible = false;
++        }
++
++        public void logRadioButom()
++        {
++            rcp1.Enabled = false;
++            rcp2.Enabled = false;
++            rcp3.Enabled = false;
++            rcp4.Enabled = false;
++        }
++        public void UnlogRadioButom()
++        {
++            rcp1.Enabled = true;
++            rcp2.Enabled = true;
++            rcp3.Enabled = true;
++            rcp4.Enabled = true;
++        }
++        public void checklabel1()
++        {
++            if (rcp1.Checked)
++            {
++                strString = new string[5] { "CARTON_NO", "SERIAL_NUMBER", "SHIPPING_SN", "SERIAL_NUMBER", "SHIPPING_SN" };
++                checkPass = 5;
++                label1.Visible = true;
++                label2.Visible = true;
++                label3.Visible = true;
++                label4.Visible = true;
++                label5.Visible = true;
++                label1.Text = strString[0] + " : ";
++                label2.Text = strString[1] + " : ";
++                label3.Text = strString[2] + " : ";
++                label4.Text = strString[3] + " : ";
++                label5.Text = strString[4] + " : ";
++                txtck1.Visible = true;
++                txtck2.Visible = true;
++                txtck3.Visible = true;
++                txtck4.Visible = true;
++                txtck5.Visible = true;
++                label10.Visible = true;
++            }
++            else if (rcp2.Checked)
++            {
++                strString = new string[5] { "CARTON_NO", "SHIPPING_SN", "CARTON_NO", "SHIPPING_SN", "CARTON_NO" };
++                checkPass = 5;
++                label1.Visible = true;
++                label2.Visible = true;
++                label3.Visible = true;
++                label4.Visible = true;
++                label5.Visible = true;
++                label1.Text = strString[0] + " : ";
++                label2.Text = strString[1] + " : ";
++                label3.Text = strString[2] + " : ";
++                label4.Text = strString[3] + " : ";
++                label5.Text = strString[4] + " : ";
++                txtck1.Visible = true;
++                txtck2.Visible = true;
++                txtck3.Visible = true;
++                txtck4.Visible = true;
++                txtck5.Visible = true;
++                label10.Visible = true;
++
++            }
++            else if (rcp3.Checked)
++            {
++                strString = new string[5] { "CARTON_NO", "SHIPPING_SN", "CARTON_NO", "SHIPPING_SN", "" };
++                checkPass = 4;
++                label1.Visible = true;
++                label2.Visible = true;
++                label3.Visible = true;
++                label4.Visible = true;
++                label5.Visible = false;
++                label1.Text = strString[0] + " : ";
++                label2.Text = strString[1] + " : ";
++                label3.Text = strString[2] + " : ";
++                label4.Text = strString[3] + " : ";
++                txtck1.Visible = true;
++                txtck2.Visible = true;
++                txtck3.Visible = true;
++                txtck4.Visible = true;
++                txtck5.Visible = false;
++                label10.Visible = true;
++            }
++            else if (rcp4.Checked)
++            {
++                strString = new string[5] { "CARTON_NO", "SHIPPING_SN", "SHIPPING_SN", "", "" };
++                checkPass = 3;
++                label1.Visible = true;
++                label2.Visible = true;
++                label3.Visible = true;
++                label4.Visible = false;
++                label5.Visible = false;
++                label1.Text = strString[0] + " : ";
++                label2.Text = strString[1] + " : ";
++                label3.Text = strString[2] + " : ";
++                txtck1.Visible = true;
++                txtck2.Visible = true;
++                txtck3.Visible = true;
++                txtck4.Visible = false;
++                txtck5.Visible = false;
++                label10.Visible = true;
++            }
++            if (empno != null && empno != "")
++            {
++                employeeno.Enabled = false;
++                txtck1.Enabled = true;
++                txtck1.Focus();
++            }
++            else
++            {
++                employeeno.Visible = true;
++                employeeno.Enabled = true;
++                employeeno.Focus();
++            }
++        }
++        public void Reset()
++        {
++            label1.Visible = false;
++            label2.Visible = false;
++            label3.Visible = false;
++            label4.Visible = false;
++            label5.Visible = false;
++            label10.Visible = false;
++            txtck1.Visible = false;
++            txtck2.Visible = false;
++            txtck3.Visible = false;
++            txtck4.Visible = false;
++            txtck5.Visible = false;
++            txtck1.Clear();
++            txtck2.Clear();
++            txtck3.Clear();
++            txtck4.Clear();
++            txtck5.Clear();
++            txtck1.Enabled = false;
++            txtck2.Enabled = false;
++            txtck3.Enabled = false;
++            txtck4.Enabled = false;
++            txtck5.Enabled = false;
++            employeeno.Enabled = false;
++            checkMax = 0;
++            checkPass = 0;
++            checklabel1();
++            if (errorMessage.Text != "OK")
++                errorMessage.Text = "";
++        }
++        private void fCheck_FormClosing(object sender, FormClosingEventArgs e)
++        {
++            foreach (var process in Process.GetProcessesByName("CHK_LICENSE"))
++            {
++                process.Kill();
++            }
++        }
++
++        private void button1_Click_1(object sender, EventArgs e)
++        {
++            Form1 main = new Form1();
++            this.Visible = false;
++            main.Show();
++        }
++    }
++}
+Index: fCheck.Designer.cs
+===================================================================
+--- fCheck.Designer.cs	(nonexistent)
++++ fCheck.Designer.cs	(working copy)
+@@ -0,0 +1,349 @@
++﻿
++namespace CHK_LICENSE
++{
++    partial class fCheck
++    {
++        /// <summary>
++        /// Required designer variable.
++        /// </summary>
++        private System.ComponentModel.IContainer components = null;
++
++        /// <summary>
++        /// Clean up any resources being used.
++        /// </summary>
++        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
++        protected override void Dispose(bool disposing)
++        {
++            if (disposing && (components != null))
++            {
++                components.Dispose();
++            }
++            base.Dispose(disposing);
++        }
++
++        #region Windows Form Designer generated code
++
++        /// <summary>
++        /// Required method for Designer support - do not modify
++        /// the contents of this method with the code editor.
++        /// </summary>
++        private void InitializeComponent()
++        {
++            this.rcp3 = new System.Windows.Forms.RadioButton();
++            this.rcp2 = new System.Windows.Forms.RadioButton();
++            this.txtck4 = new System.Windows.Forms.TextBox();
++            this.txtck3 = new System.Windows.Forms.TextBox();
++            this.txtck2 = new System.Windows.Forms.TextBox();
++            this.txtck1 = new System.Windows.Forms.TextBox();
++            this.employeeno = new System.Windows.Forms.TextBox();
++            this.label4 = new System.Windows.Forms.Label();
++            this.label3 = new System.Windows.Forms.Label();
++            this.label2 = new System.Windows.Forms.Label();
++            this.rcp1 = new System.Windows.Forms.RadioButton();
++            this.panel1 = new System.Windows.Forms.Panel();
++            this.CHK_Check = new System.Windows.Forms.Label();
++            this.txtck5 = new System.Windows.Forms.TextBox();
++            this.label5 = new System.Windows.Forms.Label();
++            this.label1 = new System.Windows.Forms.Label();
++            this.label10 = new System.Windows.Forms.Label();
++            this.rcp4 = new System.Windows.Forms.RadioButton();
++            this.label9 = new System.Windows.Forms.Label();
++            this.panel3 = new System.Windows.Forms.Panel();
++            this.errorMessage = new System.Windows.Forms.Label();
++            this.panel2 = new System.Windows.Forms.Panel();
++            this.button1 = new System.Windows.Forms.Button();
++            this.panel1.SuspendLayout();
++            this.panel3.SuspendLayout();
++            this.panel2.SuspendLayout();
++            this.SuspendLayout();
++            // 
++            // rcp3
++            // 
++            this.rcp3.AutoSize = true;
++            this.rcp3.Location = new System.Drawing.Point(623, 196);
++            this.rcp3.Name = "rcp3";
++            this.rcp3.Size = new System.Drawing.Size(158, 17);
++            this.rcp3.TabIndex = 17;
++            this.rcp3.TabStop = true;
++            this.rcp3.Text = "Carton->SSN->Carton->SSN";
++            this.rcp3.UseVisualStyleBackColor = true;
++            this.rcp3.CheckedChanged += new System.EventHandler(this.rcp3_CheckedChanged);
++            // 
++            // rcp2
++            // 
++            this.rcp2.AutoSize = true;
++            this.rcp2.Location = new System.Drawing.Point(623, 144);
++            this.rcp2.Name = "rcp2";
++            this.rcp2.Size = new System.Drawing.Size(201, 17);
++            this.rcp2.TabIndex = 16;
++            this.rcp2.TabStop = true;
++            this.rcp2.Text = "Carton->SSN->Carton->SSN->Carton ";
++            this.rcp2.UseVisualStyleBackColor = true;
++            this.rcp2.CheckedChanged += new System.EventHandler(this.rcp2_CheckedChanged);
++            // 
++            // txtck4
++            // 
++            this.txtck4.Enabled = false;
++            this.txtck4.Location = new System.Drawing.Point(212, 156);
++            this.txtck4.Name = "txtck4";
++            this.txtck4.Size = new System.Drawing.Size(181, 20);
++            this.txtck4.TabIndex = 12;
++            this.txtck4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtck4_KeyPress);
++            // 
++            // txtck3
++            // 
++            this.txtck3.Enabled = false;
++            this.txtck3.Location = new System.Drawing.Point(212, 124);
++            this.txtck3.Name = "txtck3";
++            this.txtck3.Size = new System.Drawing.Size(181, 20);
++            this.txtck3.TabIndex = 11;
++            this.txtck3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtck3_KeyPress);
++            // 
++            // txtck2
++            // 
++            this.txtck2.Enabled = false;
++            this.txtck2.Location = new System.Drawing.Point(212, 88);
++            this.txtck2.Name = "txtck2";
++            this.txtck2.Size = new System.Drawing.Size(181, 20);
++            this.txtck2.TabIndex = 10;
++            this.txtck2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtck2_KeyPress);
++            // 
++            // txtck1
++            // 
++            this.txtck1.Enabled = false;
++            this.txtck1.Location = new System.Drawing.Point(212, 51);
++            this.txtck1.Name = "txtck1";
++            this.txtck1.Size = new System.Drawing.Size(181, 20);
++            this.txtck1.TabIndex = 9;
++            this.txtck1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtck1_KeyPress);
++            // 
++            // employeeno
++            // 
++            this.employeeno.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.AllUrl;
++            this.employeeno.Location = new System.Drawing.Point(212, 15);
++            this.employeeno.Name = "employeeno";
++            this.employeeno.PasswordChar = '*';
++            this.employeeno.Size = new System.Drawing.Size(181, 20);
++            this.employeeno.TabIndex = 8;
++            this.employeeno.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.employeeno_KeyPress);
++            // 
++            // label4
++            // 
++            this.label4.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.label4.Location = new System.Drawing.Point(26, 155);
++            this.label4.Name = "label4";
++            this.label4.Size = new System.Drawing.Size(163, 29);
++            this.label4.TabIndex = 4;
++            this.label4.Text = "Carton:";
++            this.label4.TextAlign = System.Drawing.ContentAlignment.TopRight;
++            // 
++            // label3
++            // 
++            this.label3.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.label3.Location = new System.Drawing.Point(26, 123);
++            this.label3.Name = "label3";
++            this.label3.Size = new System.Drawing.Size(163, 24);
++            this.label3.TabIndex = 3;
++            this.label3.Text = "Carton:";
++            this.label3.TextAlign = System.Drawing.ContentAlignment.TopRight;
++            // 
++            // label2
++            // 
++            this.label2.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.label2.Location = new System.Drawing.Point(26, 84);
++            this.label2.Name = "label2";
++            this.label2.Size = new System.Drawing.Size(163, 24);
++            this.label2.TabIndex = 2;
++            this.label2.Text = "Carton:";
++            this.label2.TextAlign = System.Drawing.ContentAlignment.TopRight;
++            // 
++            // rcp1
++            // 
++            this.rcp1.AutoSize = true;
++            this.rcp1.Location = new System.Drawing.Point(623, 93);
++            this.rcp1.Name = "rcp1";
++            this.rcp1.Size = new System.Drawing.Size(166, 17);
++            this.rcp1.TabIndex = 15;
++            this.rcp1.TabStop = true;
++            this.rcp1.Text = "Carton->SN->SSN->SN->SSN";
++            this.rcp1.UseVisualStyleBackColor = true;
++            this.rcp1.CheckedChanged += new System.EventHandler(this.rcp1_CheckedChanged);
++            // 
++            // panel1
++            // 
++            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
++            this.panel1.Controls.Add(this.CHK_Check);
++            this.panel1.Location = new System.Drawing.Point(98, 5);
++            this.panel1.Name = "panel1";
++            this.panel1.Size = new System.Drawing.Size(732, 46);
++            this.panel1.TabIndex = 12;
++            // 
++            // CHK_Check
++            // 
++            this.CHK_Check.Font = new System.Drawing.Font("PMingLiU", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.CHK_Check.Location = new System.Drawing.Point(287, 2);
++            this.CHK_Check.Name = "CHK_Check";
++            this.CHK_Check.Size = new System.Drawing.Size(235, 38);
++            this.CHK_Check.TabIndex = 0;
++            this.CHK_Check.Text = "Compare Label";
++            // 
++            // txtck5
++            // 
++            this.txtck5.Enabled = false;
++            this.txtck5.Location = new System.Drawing.Point(212, 202);
++            this.txtck5.Name = "txtck5";
++            this.txtck5.Size = new System.Drawing.Size(181, 20);
++            this.txtck5.TabIndex = 14;
++            this.txtck5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtck5_KeyPress);
++            // 
++            // label5
++            // 
++            this.label5.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.label5.Location = new System.Drawing.Point(33, 201);
++            this.label5.Name = "label5";
++            this.label5.Size = new System.Drawing.Size(156, 29);
++            this.label5.TabIndex = 13;
++            this.label5.Text = "Carton:";
++            this.label5.TextAlign = System.Drawing.ContentAlignment.TopRight;
++            // 
++            // label1
++            // 
++            this.label1.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.label1.Location = new System.Drawing.Point(26, 50);
++            this.label1.Name = "label1";
++            this.label1.Size = new System.Drawing.Size(163, 24);
++            this.label1.TabIndex = 1;
++            this.label1.Text = "Carton:";
++            this.label1.TextAlign = System.Drawing.ContentAlignment.TopRight;
++            // 
++            // label10
++            // 
++            this.label10.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.label10.Location = new System.Drawing.Point(35, 16);
++            this.label10.Name = "label10";
++            this.label10.Size = new System.Drawing.Size(154, 25);
++            this.label10.TabIndex = 0;
++            this.label10.Text = "Employee:";
++            this.label10.TextAlign = System.Drawing.ContentAlignment.TopRight;
++            // 
++            // rcp4
++            // 
++            this.rcp4.AutoSize = true;
++            this.rcp4.Location = new System.Drawing.Point(623, 238);
++            this.rcp4.Name = "rcp4";
++            this.rcp4.Size = new System.Drawing.Size(118, 17);
++            this.rcp4.TabIndex = 18;
++            this.rcp4.TabStop = true;
++            this.rcp4.Text = "Carton->SSN->SSN";
++            this.rcp4.UseVisualStyleBackColor = true;
++            this.rcp4.CheckedChanged += new System.EventHandler(this.rcp4_CheckedChanged);
++            // 
++            // label9
++            // 
++            this.label9.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.label9.Location = new System.Drawing.Point(108, 10);
++            this.label9.Name = "label9";
++            this.label9.Size = new System.Drawing.Size(101, 20);
++            this.label9.TabIndex = 5;
++            this.label9.Text = "Message:";
++            // 
++            // panel3
++            // 
++            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
++            this.panel3.Controls.Add(this.errorMessage);
++            this.panel3.Controls.Add(this.label9);
++            this.panel3.Location = new System.Drawing.Point(14, 364);
++            this.panel3.Name = "panel3";
++            this.panel3.Size = new System.Drawing.Size(763, 73);
++            this.panel3.TabIndex = 14;
++            // 
++            // errorMessage
++            // 
++            this.errorMessage.BackColor = System.Drawing.SystemColors.Info;
++            this.errorMessage.Font = new System.Drawing.Font("PMingLiU", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
++            this.errorMessage.Location = new System.Drawing.Point(193, 7);
++            this.errorMessage.Name = "errorMessage";
++            this.errorMessage.Size = new System.Drawing.Size(509, 59);
++            this.errorMessage.TabIndex = 6;
++            // 
++            // panel2
++            // 
++            this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
++            this.panel2.Controls.Add(this.txtck5);
++            this.panel2.Controls.Add(this.label5);
++            this.panel2.Controls.Add(this.txtck4);
++            this.panel2.Controls.Add(this.txtck3);
++            this.panel2.Controls.Add(this.txtck2);
++            this.panel2.Controls.Add(this.txtck1);
++            this.panel2.Controls.Add(this.employeeno);
++            this.panel2.Controls.Add(this.label4);
++            this.panel2.Controls.Add(this.label3);
++            this.panel2.Controls.Add(this.label2);
++            this.panel2.Controls.Add(this.label1);
++            this.panel2.Controls.Add(this.label10);
++            this.panel2.Location = new System.Drawing.Point(14, 86);
++            this.panel2.Name = "panel2";
++            this.panel2.Size = new System.Drawing.Size(513, 260);
++            this.panel2.TabIndex = 13;
++            // 
++            // button1
++            // 
++            this.button1.Location = new System.Drawing.Point(1, 3);
++            this.button1.Name = "button1";
++            this.button1.Size = new System.Drawing.Size(96, 48);
++            this.button1.TabIndex = 19;
++            this.button1.Text = "Ck_Compare";
++            this.button1.UseVisualStyleBackColor = true;
++            this.button1.Click += new System.EventHandler(this.button1_Click_1);
++            // 
++            // fCheck
++            // 
++            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
++            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
++            this.ClientSize = new System.Drawing.Size(831, 439);
++            this.Controls.Add(this.button1);
++            this.Controls.Add(this.rcp3);
++            this.Controls.Add(this.rcp2);
++            this.Controls.Add(this.rcp1);
++            this.Controls.Add(this.panel1);
++            this.Controls.Add(this.rcp4);
++            this.Controls.Add(this.panel3);
++            this.Controls.Add(this.panel2);
++            this.Name = "fCheck";
++            this.Text = "fCheck";
++            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.fCheck_FormClosing);
++            this.panel1.ResumeLayout(false);
++            this.panel3.ResumeLayout(false);
++            this.panel2.ResumeLayout(false);
++            this.panel2.PerformLayout();
++            this.ResumeLayout(false);
++            this.PerformLayout();
++
++        }
++
++        #endregion
++        private System.Windows.Forms.RadioButton rcp3;
++        private System.Windows.Forms.RadioButton rcp2;
++        private System.Windows.Forms.TextBox txtck4;
++        private System.Windows.Forms.TextBox txtck3;
++        private System.Windows.Forms.TextBox txtck2;
++        private System.Windows.Forms.TextBox txtck1;
++        private System.Windows.Forms.TextBox employeeno;
++        private System.Windows.Forms.Label label4;
++        private System.Windows.Forms.Label label3;
++        private System.Windows.Forms.Label label2;
++        private System.Windows.Forms.RadioButton rcp1;
++        private System.Windows.Forms.Panel panel1;
++        private System.Windows.Forms.Label CHK_Check;
++        private System.Windows.Forms.TextBox txtck5;
++        private System.Windows.Forms.Label label5;
++        private System.Windows.Forms.Label label1;
++        private System.Windows.Forms.Label label10;
++        private System.Windows.Forms.RadioButton rcp4;
++        private System.Windows.Forms.Label label9;
++        private System.Windows.Forms.Panel panel3;
++        private System.Windows.Forms.Label errorMessage;
++        private System.Windows.Forms.Panel panel2;
++        private System.Windows.Forms.Button button1;
++    }
++}
+\ No newline at end of file
+Index: fCheck.resx
+===================================================================
+--- fCheck.resx	(nonexistent)
++++ fCheck.resx	(working copy)
+@@ -0,0 +1,120 @@
++﻿<?xml version="1.0" encoding="utf-8"?>
++<root>
++  <!-- 
++    Microsoft ResX Schema 
++    
++    Version 2.0
++    
++    The primary goals of this format is to allow a simple XML format 
++    that is mostly human readable. The generation and parsing of the 
++    various data types are done through the TypeConverter classes 
++    associated with the data types.
++    
++    Example:
++    
++    ... ado.net/XML headers & schema ...
++    <resheader name="resmimetype">text/microsoft-resx</resheader>
++    <resheader name="version">2.0</resheader>
++    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
++    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
++    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
++    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
++    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
++        <value>[base64 mime encoded serialized .NET Framework object]</value>
++    </data>
++    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
++        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
++        <comment>This is a comment</comment>
++    </data>
++                
++    There are any number of "resheader" rows that contain simple 
++    name/value pairs.
++    
++    Each data row contains a name, and value. The row also contains a 
++    type or mimetype. Type corresponds to a .NET class that support 
++    text/value conversion through the TypeConverter architecture. 
++    Classes that don't support this are serialized and stored with the 
++    mimetype set.
++    
++    The mimetype is used for serialized objects, and tells the 
++    ResXResourceReader how to depersist the object. This is currently not 
++    extensible. For a given mimetype the value must be set accordingly:
++    
++    Note - application/x-microsoft.net.object.binary.base64 is the format 
++    that the ResXResourceWriter will generate, however the reader can 
++    read any of the formats listed below.
++    
++    mimetype: application/x-microsoft.net.object.binary.base64
++    value   : The object must be serialized with 
++            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
++            : and then encoded with base64 encoding.
++    
++    mimetype: application/x-microsoft.net.object.soap.base64
++    value   : The object must be serialized with 
++            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
++            : and then encoded with base64 encoding.
++
++    mimetype: application/x-microsoft.net.object.bytearray.base64
++    value   : The object must be serialized into a byte array 
++            : using a System.ComponentModel.TypeConverter
++            : and then encoded with base64 encoding.
++    -->
++  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
++    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
++    <xsd:element name="root" msdata:IsDataSet="true">
++      <xsd:complexType>
++        <xsd:choice maxOccurs="unbounded">
++          <xsd:element name="metadata">
++            <xsd:complexType>
++              <xsd:sequence>
++                <xsd:element name="value" type="xsd:string" minOccurs="0" />
++              </xsd:sequence>
++              <xsd:attribute name="name" use="required" type="xsd:string" />
++              <xsd:attribute name="type" type="xsd:string" />
++              <xsd:attribute name="mimetype" type="xsd:string" />
++              <xsd:attribute ref="xml:space" />
++            </xsd:complexType>
++          </xsd:element>
++          <xsd:element name="assembly">
++            <xsd:complexType>
++              <xsd:attribute name="alias" type="xsd:string" />
++              <xsd:attribute name="name" type="xsd:string" />
++            </xsd:complexType>
++          </xsd:element>
++          <xsd:element name="data">
++            <xsd:complexType>
++              <xsd:sequence>
++                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
++                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
++              </xsd:sequence>
++              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
++              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
++              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
++              <xsd:attribute ref="xml:space" />
++            </xsd:complexType>
++          </xsd:element>
++          <xsd:element name="resheader">
++            <xsd:complexType>
++              <xsd:sequence>
++                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
++              </xsd:sequence>
++              <xsd:attribute name="name" type="xsd:string" use="required" />
++            </xsd:complexType>
++          </xsd:element>
++        </xsd:choice>
++      </xsd:complexType>
++    </xsd:element>
++  </xsd:schema>
++  <resheader name="resmimetype">
++    <value>text/microsoft-resx</value>
++  </resheader>
++  <resheader name="version">
++    <value>2.0</value>
++  </resheader>
++  <resheader name="reader">
++    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
++  </resheader>
++  <resheader name="writer">
++    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
++  </resheader>
++</root>
+\ No newline at end of file
+Index: obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+===================================================================
+Cannot display: file marked as a binary type.
+svn:mime-type = application/octet-stream
+Index: OracleDB.cs
+===================================================================
+--- OracleDB.cs	(revision 82)
++++ OracleDB.cs	(working copy)
+@@ -5,12 +5,13 @@
+ using System.Runtime.InteropServices;
+ using System.Configuration;
+ using Oracle.ManagedDataAccess.Client;
++using System.Windows.Forms;
+ 
+ namespace OracleOperation
+ {
+     public class OracleDB
+     {
+-        private static string dbConnectString;
++        public static string dbConnectString;
+         private static string sql_type;
+         private OracleConnection OraConn = new OracleConnection();
+         private OracleCommand oCmd = new OracleCommand();
+@@ -28,6 +29,28 @@
+             set { if (sql_type != value) { sql_type = value; } }
+             get { return sql_type; }
+         }
++        void OpenCn()
++        {
++            try
++            {
++                if (OraConn.State == ConnectionState.Closed)
++                {
++                    OraConn.Open();
++                }
++            }
++            catch (Exception ex)
++            {
++                MessageBox.Show(ex.Message);
++            }
++        }
++        void CloseCn()
++        {
++            if (OraConn.State == ConnectionState.Open)
++            {
++                OraConn.Close();
++                OraConn.Dispose();
++            }
++        }
+ 
+         /// <summary>
+         /// 測試庫連接構造函數Data Source=CBT_TEST;User ID=sfis1;Password=sfis1
+@@ -36,20 +59,20 @@
+         {
+             try
+             {
+-                string ServerIP = ConfigurationSettings.AppSettings.Get("ServerIP");
+-                string ServerPort = ConfigurationSettings.AppSettings.Get("ServerPort");
+-                string SERVICE_NAME = ConfigurationSettings.AppSettings.Get("SERVICE_NAME");
+-                string user = ConfigurationSettings.AppSettings.Get("user");
+-                string pw1 = ConfigurationSettings.AppSettings.Get("pw1");
+-                string pw2 = ConfigurationSettings.AppSettings.Get("pw2");
+-                string pw3 = ConfigurationSettings.AppSettings.Get("pw3");
+-                string pw5 = ConfigurationSettings.AppSettings.Get("pw5");
+-                string password = pw1.Trim() + pw2.Trim() + pw3.Trim() + pw5.Trim();
+-                //dbConnectString = "Data Source=CQCBT_TEST;User ID=sfis1;Password=sfis1";
+-                //dbConnectString = "Data Source=CQSFIS.WORLD;User ID=sfis1;Password=dog2007#!";
+-                dbConnectString = "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=" + ServerIP.Trim() + ")(PORT=" + ServerPort.Trim() + "))(CONNECT_DATA=(SERVICE_NAME=" + SERVICE_NAME.Trim() + ")));Persist Security info=True;User Id=" + user.Trim() + ";Password=" + password + "";
++                //string ServerIP = ConfigurationSettings.AppSettings.Get("ServerIP");
++                //string ServerPort = ConfigurationSettings.AppSettings.Get("ServerPort");
++                //string SERVICE_NAME = ConfigurationSettings.AppSettings.Get("SERVICE_NAME");
++                //string user = ConfigurationSettings.AppSettings.Get("user");
++                //string pw1 = ConfigurationSettings.AppSettings.Get("pw1");
++                //string pw2 = ConfigurationSettings.AppSettings.Get("pw2");
++                //string pw3 = ConfigurationSettings.AppSettings.Get("pw3");
++                //string pw5 = ConfigurationSettings.AppSettings.Get("pw5");
++                //string password = pw1.Trim() + pw2.Trim() + pw3.Trim() + pw5.Trim();
++                // string password = "dog2007#!";
++                dbConnectString = "Data Source=SFIS.WORLD;User ID=sfis1;Password=vnsfis2014#!";
++                //dbConnectString = "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=" + ServerIP.Trim() + ")(PORT=" + ServerPort.Trim() + "))(CONNECT_DATA=(SERVICE_NAME=" + SERVICE_NAME.Trim() + ")));Persist Security info=True;User Id=" + user.Trim() + ";Password=" + password + "";
+                 OraConn = CreateConnection();
+-                OraConn.Open();
++                OpenCn();
+             }
+             catch (Exception ex)
+             {
+@@ -67,7 +90,7 @@
+             {
+                 DbConnectString = connString;
+                 OraConn = CreateConnection();
+-                OraConn.Open();
++                OpenCn();
+             }
+             catch (Exception ex)
+             {
+@@ -92,16 +115,16 @@
+ 
+         public void Reconnectdb()
+         {
+-            if (OraConn.State == ConnectionState.Open)
+-            {
+-                OraConn.Close();
+-                OraConn.Open();
+-
+-            }
+-            else
+-            {
+-                OraConn.Open();
+-            }
++            OpenCn();
++            //if (OraConn.State == ConnectionState.Open)
++            //{
++            //    OraConn.Close();
++            //    OraConn.Open();
++            //}
++            //else
++            //{
++            //    OraConn.Open();
++            //}
+         }
+ 
+         #region 生成OracleCommand, OracleDataAdapter
+@@ -114,10 +137,11 @@
+         private OracleCommand CreateCommand(string strSql, List<OracleParameter> prams)
+         {
+             // 創建數據庫連接
+-            OracleConnection oCn = CreateConnection();
+-            if (oCn == null) return null;
+-            if (oCn.State == ConnectionState.Closed) { oCn.Open(); }
+-            OracleCommand cmd = new OracleCommand(strSql, oCn);
++            //OracleConnection oCn = CreateConnection();
++            //if (oCn == null) return null;
++            //if (oCn.State == ConnectionState.Closed) { oCn.Open(); }
++            OpenCn();
++            OracleCommand cmd = new OracleCommand(strSql, OraConn);
+             // 確認Sql類型
+             if (Sql_Type == null)
+             {
+@@ -137,7 +161,6 @@
+                     cmd.Parameters.Add(str);
+                 }
+             }
+-
+             // 返回cmd
+             return cmd;
+         }
+@@ -148,12 +171,12 @@
+         private OracleDataAdapter CreateDataAdapter(string strSql, List<OracleParameter> prams)
+         {
+             // 創建數據庫連接
+-            OracleConnection oCn = CreateConnection();
+-            if (oCn == null) return null;
+-            if (oCn.State == ConnectionState.Closed) { oCn.Open(); }
++            //OracleConnection oCn = CreateConnection();
++            //if (oCn == null) return null;
++            //if (oCn.State == ConnectionState.Closed) { oCn.Open(); }
+             // 創建OracleDataAdapter屬性
+-
+-            OracleDataAdapter da = new OracleDataAdapter(strSql, oCn);
++            OpenCn();
++            OracleDataAdapter da = new OracleDataAdapter(strSql, OraConn);
+             if (Sql_Type == "SP")
+             {
+                 da.SelectCommand.CommandType = CommandType.StoredProcedure;
+@@ -170,6 +193,7 @@
+                     da.SelectCommand.Parameters.Add(op);
+                 }
+             }
++            CloseCn();
+             return da;
+         }
+ 
+@@ -185,8 +209,9 @@
+         {
+             try
+             {
+-                OraConn.Close();
+-                OraConn.Dispose();
++                //OraConn.Close();
++                //OraConn.Dispose();
++                CloseCn();
+             }
+             catch (Exception ex)
+             {
+@@ -201,6 +226,7 @@
+         /// <param name="ds">傳出DataSet</param>
+         public void ExcuteSelectSQL(string strSQL, ref DataSet ds)
+         {
++            OpenCn();
+             // 初始化ds
+             if (ds == null) ds = new DataSet();
+             //oCmd = new OracleCommand(strSQL, OraConn);
+@@ -212,6 +238,7 @@
+             // 填充數據
+             try { oAdp.Fill(ds); }
+             catch (Exception ex) { throw new Exception(ex.Message, ex); }
++            OraConn.Close();
+         }
+ 
+         /// <summary>
+@@ -221,6 +248,7 @@
+         /// <param name="dt">傳出DataTable</param>
+         public void ExcuteSelectSQL(string strSQL, ref DataTable dt)
+         {
++            OpenCn();
+             // 初始化dt
+             // if (dt == null) 
+             dt = new DataTable();
+@@ -232,9 +260,11 @@
+             if (oAdp == null) return;
+             // 填充DataTable
+             try { oAdp.Fill(dt); }
+-            catch (Exception ex) {
++            catch (Exception ex)
++            {
+                 //throw new Exception(ex.Message, ex);
+             }
++            OraConn.Close();
+         }
+ 
+         /// <summary>
+@@ -267,6 +297,7 @@
+             {
+                 oCmd.Parameters.Clear();
+             }
++            OraConn.Close();
+         }
+ 
+         /// <summary>
+@@ -299,6 +330,7 @@
+             {
+                 oCmd.Parameters.Clear();
+             }
++            OraConn.Close();
+         }
+ 
+         /// <summary>
+@@ -318,6 +350,7 @@
+                 return oCmd.ExecuteNonQuery();
+             }
+             catch (Exception ex) { throw new Exception(ex.Message, ex); }
++            OraConn.Close();
+         }
+ 
+         /// <summary>
+@@ -349,6 +382,7 @@
+             {
+                 oCmd.Parameters.Clear();
+             }
++            OraConn.Close();
+         }
+ 
+         /// <summary>
+@@ -356,10 +390,11 @@
+         /// </summary>
+         /// <param name="strSQL">存儲過程名稱</param>
+         /// <param name="sqlPrams">傳入參數</param>
+-        public void ExcuteSP(string spname, List<OracleParameter> sqlPrams)
++        public List<OracleParameter> ExcuteSP(string spname, List<OracleParameter> sqlPrams)
+         {
+             // 創建CMD對象
+             oCmd.Connection = OraConn;
++            OraConn.Open();
+             oCmd.CommandText = spname;
+             oCmd.CommandType = CommandType.StoredProcedure;
+             if (sqlPrams != null)
+@@ -380,6 +415,8 @@
+             {
+                 oCmd.Parameters.Clear();
+             }
++            OraConn.Close();
++            return sqlPrams;
+         }
+ 
+         #endregion

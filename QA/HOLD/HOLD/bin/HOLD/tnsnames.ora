@@ -1,0 +1,10 @@
+SFIS.WORLD =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST =10.224.81.33)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = NBBDBTEST)
+    )
+  )
+

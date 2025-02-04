@@ -1,0 +1,51 @@
+﻿<Window Name="ShowMessageForm1" x:Class="PACKINGBOXID_CFG.ShowMessageForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACKINGBOXID_CFG"
+        mc:Ignorable="d"
+        Title="Messages" Height="273.529" Width="486.397" Background="#FFB83131"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        WindowStyle="None"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="16"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}" WindowStartupLocation="CenterScreen" Loaded="ShowMessageForm1_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2.*"></RowDefinition>
+            <RowDefinition Height="2.*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBox
+            Style="{StaticResource MaterialDesignTextAreaTextBox}"
+            Margin="5,3,5,0"
+            VerticalAlignment="Top"
+            Height="100"
+            AcceptsReturn="True"
+            TextWrapping="Wrap"
+            VerticalScrollBarVisibility="Auto" Background="White"
+             x:Name="txbenglish"  Foreground="Red"
+             />
+        </Grid>
+        <Grid Grid.Row="1">
+            <TextBox
+                Style="{StaticResource MaterialDesignTextAreaTextBox}"
+                Margin="4,8,6,-1"
+                VerticalAlignment="Top"
+                Height="100"
+                AcceptsReturn="True"
+                TextWrapping="Wrap"
+                VerticalScrollBarVisibility="Auto" Background="White"
+                x:Name="txbvietnamese"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <PasswordBox x:Name="passwordBox" Grid.ColumnSpan="2" Margin="189,10" VerticalAlignment="Top" Background="#FFFBF5F5" KeyDown="passwordBox_KeyDown" />
+        </Grid>
+
+    </Grid>
+</Window>

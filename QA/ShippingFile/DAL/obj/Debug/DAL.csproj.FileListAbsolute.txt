@@ -1,0 +1,557 @@
+C:\Users\A0217184\Desktop\ShopFloor\DAL\bin\Debug\DAL.dll
+C:\Users\A0217184\Desktop\ShopFloor\DAL\bin\Debug\DAL.pdb
+C:\Users\A0217184\Desktop\ShopFloor\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\A0217184\Desktop\ShopFloor\DAL\obj\Debug\DAL.dll
+C:\Users\A0217184\Desktop\ShopFloor\DAL\obj\Debug\DAL.pdb
+C:\Users\zhengguang.liu\Desktop\ShopFloor\DAL\bin\Debug\DAL.dll
+C:\Users\zhengguang.liu\Desktop\ShopFloor\DAL\bin\Debug\DAL.pdb
+C:\Users\zhengguang.liu\Desktop\ShopFloor\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhengguang.liu\Desktop\ShopFloor\DAL\obj\Debug\DAL.dll
+C:\Users\zhengguang.liu\Desktop\ShopFloor\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.4\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.4\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.4\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.4\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.5\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.5\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.5\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.5\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.5\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.6\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.6\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.6\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.6\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.2.6\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.7\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.7\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.7\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.7\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.7\DAL\obj\Debug\DAL.pdb
+D:\ShopFloor 1.0.2.7\DAL\bin\Debug\DAL.dll
+D:\ShopFloor 1.0.2.7\DAL\bin\Debug\DAL.pdb
+D:\ShopFloor 1.0.2.7\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ShopFloor 1.0.2.7\DAL\obj\Debug\DAL.dll
+D:\ShopFloor 1.0.2.7\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.9\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.9\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.9\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.9\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.2.9\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.3.1\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.3.1\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.3.1\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.3.1\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.3.1\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.2\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.2\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.2\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.2\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.2\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.3\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.3\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.3\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.3\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.3\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.5\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.5\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.5\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.5\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.3.5\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.0\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.0\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.0\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.0\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.0\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.0\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.0\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.0\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.0\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.0\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.1\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.1\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.1\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.1\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.1\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.1\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.1\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.1\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.1\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.1\DAL\obj\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.2\DAL\bin\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.2\DAL\bin\Debug\DAL.pdb
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.2\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.2\DAL\obj\Debug\DAL.dll
+C:\WINDOWS\dwrcs\Uploads\ShopFloor 1.0.4.2\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.2\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.2\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.2\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.2\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.2\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.3\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.3\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.3\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.3\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.3\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.3\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.3\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.3\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.3\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.3\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.4\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.4\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.4\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.4\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.4\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.4\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.4\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\A0225204\桌面\ShopFloor 1.0.4.4\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.6\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.6\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.6\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.6\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.4.6\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.6\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.6\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.6\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.6\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.6\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.6\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.6\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.6\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.4.6\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.6\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.7\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.7\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.7\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.7\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.7\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.8\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.8\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.8\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.8\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.4.8\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.8\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.8\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.8\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.4.8\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.8\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_shiliang\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_shiliang\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_shiliang\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_shiliang\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_shiliang\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_zdh\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_zdh\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_zdh\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_zdh\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.4.9_zdh\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.1\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.1\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.1\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.1\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.1\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.3\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.3\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.3\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.3\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.3\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3_zfl\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3_zfl\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3_zfl\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3_zfl\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.3_zfl\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.4\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.4\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.4\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.4\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.4\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.4\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.4\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.4\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.5\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.5\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.5\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.5\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.5\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.7\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.7\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.7\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.7\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.5.7\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.7\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.7\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.7\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.7\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.5.7\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.0\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.0\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.0\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.0\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.0\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\A0222533\桌面\ShopFloor 1.0.6.0\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\A0222533\桌面\ShopFloor 1.0.6.0\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\A0222533\桌面\ShopFloor 1.0.6.0\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A0222533\桌面\ShopFloor 1.0.6.0\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\A0222533\桌面\ShopFloor 1.0.6.0\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.1\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.1\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.6.1\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.1\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.2\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.2\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.6.2\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.2\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.3\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.3\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.6.3\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.3\DAL\obj\Debug\DAL.pdb
+E:\Visual Studio\ShopFloor 1.0.6.4\DAL\bin\Debug\DAL.dll
+E:\Visual Studio\ShopFloor 1.0.6.4\DAL\bin\Debug\DAL.pdb
+E:\Visual Studio\ShopFloor 1.0.6.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio\ShopFloor 1.0.6.4\DAL\obj\Debug\DAL.dll
+E:\Visual Studio\ShopFloor 1.0.6.4\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.4\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.4\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.6.4\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.4\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.5\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.5\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.6.5\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.5\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.7\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.7\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.7\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.7\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.7\DAL\obj\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.8\DAL\bin\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.8\DAL\bin\Debug\DAL.pdb
+E:\sfc sc\cpei\ShopFloor 1.0.6.8\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\sfc sc\cpei\ShopFloor 1.0.6.8\DAL\obj\Debug\DAL.dll
+E:\sfc sc\cpei\ShopFloor 1.0.6.8\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.9\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.9\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.9\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.9\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.6.9\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.9\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.9\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.9\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.9\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.6.9\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.0\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.0\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.0\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.0\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.0\DAL\obj\Debug\DAL.pdb
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.2\DAL\bin\Debug\DAL.dll
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.2\DAL\bin\Debug\DAL.pdb
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.2\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.2\DAL\obj\Debug\DAL.dll
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.2\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.2\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.2\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.2\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.2\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.2\DAL\obj\Debug\DAL.pdb
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.3\DAL\bin\Debug\DAL.dll
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.3\DAL\bin\Debug\DAL.pdb
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.3\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.3\DAL\obj\Debug\DAL.dll
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.3\DAL\obj\Debug\DAL.pdb
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.4\DAL\bin\Debug\DAL.dll
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.4\DAL\bin\Debug\DAL.pdb
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.4\DAL\obj\Debug\DAL.dll
+G:\WORKSPACE\ericsson\ShopFloor 1.0.7.4\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.5\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.5\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.5\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.5\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.5\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.5\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.5\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.5\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.5\DAL\obj\Debug\DAL.pdb
+E:\WORKSPS\ERICSSON\ShopFloor 1.0.7.6\DAL\bin\Debug\DAL.dll
+E:\WORKSPS\ERICSSON\ShopFloor 1.0.7.6\DAL\bin\Debug\DAL.pdb
+E:\WORKSPS\ERICSSON\ShopFloor 1.0.7.6\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\WORKSPS\ERICSSON\ShopFloor 1.0.7.6\DAL\obj\Debug\DAL.dll
+E:\WORKSPS\ERICSSON\ShopFloor 1.0.7.6\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.7\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.7\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.7\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.7\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\ShopFloor 1.0.7.7\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.7.8\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.7.8\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.7.8\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.7.8\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\ShopFloor 1.0.7.8\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.8\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.8\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.8\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.8\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.8\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.9\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.9\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.9\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.9\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.7.9\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.0\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.0\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.0\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.0\DAL\obj\Debug\DAL.pdb
+G:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.2\DAL\bin\Debug\DAL.dll
+G:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.2\DAL\bin\Debug\DAL.pdb
+G:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.2\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.2\DAL\obj\Debug\DAL.dll
+G:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.2\DAL\obj\Debug\DAL.pdb
+C:\Sources\ShopFloor 1.0.8.3\DAL\bin\Debug\DAL.dll
+C:\Sources\ShopFloor 1.0.8.3\DAL\bin\Debug\DAL.pdb
+C:\Sources\ShopFloor 1.0.8.3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Sources\ShopFloor 1.0.8.3\DAL\obj\Debug\DAL.dll
+C:\Sources\ShopFloor 1.0.8.3\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.3\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.3\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.3\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.3\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.5\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.5\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.5\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.8.5\DAL\obj\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.7\DAL\bin\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.7\DAL\bin\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.7\DAL\obj\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.7\DAL\obj\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.8\DAL\bin\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.8\DAL\bin\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.8\DAL\obj\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.8\DAL\obj\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.9\DAL\bin\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.9\DAL\bin\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.9\DAL\obj\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.8.9\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.0\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.0\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.0\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.0\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.1\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.1\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.1\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.1\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.2\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.2\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.2\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.2\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.3\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.3\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.3\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.3\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.4\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.4\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.4\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.4\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.5\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.5\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.5\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.0.9.5\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.7\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.7\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.7\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.7\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.7\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.8\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.8\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.8\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.0.9.8\DAL\obj\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.9.9\DAL\bin\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.9.9\DAL\bin\Debug\DAL.pdb
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.9.9\DAL\obj\Debug\DAL.dll
+E:\SFC_SC\SFC_A6\NewSource\ShopFloor\ShopFloor 1.0.9.9\DAL\obj\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\bin\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\bin\Debug\DAL.pdb
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\obj\Debug\DAL.dll
+E:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\obj\Debug\DAL.pdb
+C:\Users\A0245988\Desktop\ShopFloor 1.1.0.0X\DAL\bin\Debug\DAL.dll
+C:\Users\A0245988\Desktop\ShopFloor 1.1.0.0X\DAL\bin\Debug\DAL.pdb
+C:\Users\A0245988\Desktop\ShopFloor 1.1.0.0X\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\A0245988\Desktop\ShopFloor 1.1.0.0X\DAL\obj\Debug\DAL.dll
+C:\Users\A0245988\Desktop\ShopFloor 1.1.0.0X\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.0\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.1\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.1\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.1\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.1\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.2\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.2\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.2\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.2\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.2\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.3\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.3\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.3\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.3\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.3\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.4\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.4\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.4\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.4\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.4\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.5\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.5\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.5\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.5\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.5\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.6\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.6\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.6\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.6\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.6\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.7\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.7\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.7\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.7\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.7\DAL\obj\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.8\DAL\bin\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.8\DAL\bin\Debug\DAL.pdb
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.8\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.8\DAL\obj\Debug\DAL.dll
+D:\temp\SHOPFLOOR\ShopFloor 1.1.0.8\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.9\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.9\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio\Projects\ShopFloor 1.1.0.9\DAL\bin\Debug\DAL.dll
+D:\Documents\Visual Studio\Projects\ShopFloor 1.1.0.9\DAL\bin\Debug\DAL.pdb
+D:\Documents\Visual Studio\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.dll
+D:\Documents\Visual Studio\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.pdb
+D:\Documents\Visual Studio\Projects\ShopFloor 1.1.0.9\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Git\Repository\DingHong\ShopFloor\DAL\bin\Debug\DAL.dll
+D:\Git\Repository\DingHong\ShopFloor\DAL\bin\Debug\DAL.pdb
+D:\Git\Repository\DingHong\ShopFloor\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Git\Repository\DingHong\ShopFloor\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Git\Repository\DingHong\ShopFloor\DAL\obj\Debug\DAL.dll
+D:\Git\Repository\DingHong\ShopFloor\DAL\obj\Debug\DAL.pdb
+D:\ViVanTham\Gemalto\ShopFloor\DAL\bin\Debug\DAL.dll.config
+D:\ViVanTham\Gemalto\ShopFloor\DAL\bin\Debug\DAL.dll
+D:\ViVanTham\Gemalto\ShopFloor\DAL\bin\Debug\DAL.pdb
+D:\ViVanTham\Gemalto\ShopFloor\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ViVanTham\Gemalto\ShopFloor\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ViVanTham\Gemalto\ShopFloor\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ViVanTham\Gemalto\ShopFloor\DAL\obj\Debug\DAL.dll
+D:\ViVanTham\Gemalto\ShopFloor\DAL\obj\Debug\DAL.pdb
+E:\NIC Source\Z_ShippingFile\DAL\bin\Debug\DAL.dll.config
+E:\NIC Source\Z_ShippingFile\DAL\bin\Debug\DAL.dll
+E:\NIC Source\Z_ShippingFile\DAL\bin\Debug\DAL.pdb
+E:\NIC Source\Z_ShippingFile\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\NIC Source\Z_ShippingFile\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\NIC Source\Z_ShippingFile\DAL\obj\Debug\DAL.dll
+E:\NIC Source\Z_ShippingFile\DAL\obj\Debug\DAL.pdb
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.dll.config
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.pdb
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.pdb
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.dll.config
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.pdb
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.pdb
+C:\Users\v1039442\Desktop\ShippingFile\DAL\bin\Debug\DAL.dll.config
+C:\Users\v1039442\Desktop\ShippingFile\DAL\bin\Debug\DAL.dll
+C:\Users\v1039442\Desktop\ShippingFile\DAL\bin\Debug\DAL.pdb
+C:\Users\v1039442\Desktop\ShippingFile\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\v1039442\Desktop\ShippingFile\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\ShippingFile\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\ShippingFile\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\v1039442\Desktop\ShippingFile\DAL\obj\Debug\DAL.dll
+C:\Users\v1039442\Desktop\ShippingFile\DAL\obj\Debug\DAL.pdb
+C:\Users\V1047047\Desktop\shipping_file\DAL\bin\Debug\DAL.dll.config
+C:\Users\V1047047\Desktop\shipping_file\DAL\bin\Debug\DAL.dll
+C:\Users\V1047047\Desktop\shipping_file\DAL\bin\Debug\DAL.pdb
+C:\Users\V1047047\Desktop\shipping_file\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V1047047\Desktop\shipping_file\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\shipping_file\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\shipping_file\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\V1047047\Desktop\shipping_file\DAL\obj\Debug\DAL.dll
+C:\Users\V1047047\Desktop\shipping_file\DAL\obj\Debug\DAL.pdb
+C:\Users\V1047047\Desktop\SHipping\DAL\bin\Debug\DAL.dll.config
+C:\Users\V1047047\Desktop\SHipping\DAL\bin\Debug\DAL.dll
+C:\Users\V1047047\Desktop\SHipping\DAL\bin\Debug\DAL.pdb
+C:\Users\V1047047\Desktop\SHipping\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V1047047\Desktop\SHipping\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\SHipping\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\SHipping\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\V1047047\Desktop\SHipping\DAL\obj\Debug\DAL.dll
+C:\Users\V1047047\Desktop\SHipping\DAL\obj\Debug\DAL.pdb
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\bin\Debug\DAL.dll.config
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\bin\Debug\DAL.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\bin\Debug\DAL.pdb
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\obj\Debug\DAL.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\DAL\obj\Debug\DAL.pdb
+C:\Users\v1039442\Desktop\New folder\DAL\bin\Debug\DAL.dll.config
+C:\Users\v1039442\Desktop\New folder\DAL\bin\Debug\DAL.dll
+C:\Users\v1039442\Desktop\New folder\DAL\bin\Debug\DAL.pdb
+C:\Users\v1039442\Desktop\New folder\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\v1039442\Desktop\New folder\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\New folder\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\New folder\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\v1039442\Desktop\New folder\DAL\obj\Debug\DAL.dll
+C:\Users\v1039442\Desktop\New folder\DAL\obj\Debug\DAL.pdb
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.dll.config
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\DAL.pdb
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\DAL\obj\Debug\DAL.pdb

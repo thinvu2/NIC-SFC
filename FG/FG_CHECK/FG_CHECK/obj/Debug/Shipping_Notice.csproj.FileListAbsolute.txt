@@ -1,0 +1,77 @@
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.exe.config
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.exe
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.pdb
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fMain.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.Properties.Resources.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.GenerateResource.Cache
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.exe
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.pdb
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fPackNotice.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fDetail.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csprojResolveAssemblyReference.cache
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.ResolveComReference.cache
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\bin\Debug\SFC_Library.dll
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.exe.config
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.ResolveComReference.cache
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.exe
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.pdb
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.exe
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.pdb
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\bin\Debug\SFC_Library.dll
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\bin\Debug\AxInterop.WMPLib.dll
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\bin\Debug\Interop.WMPLib.dll
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csprojResolveAssemblyReference.cache
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fDetail.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fMain.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fPackNotice.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.Properties.Resources.resources
+D:\Xuan\C# Winform\Shipping_Notice\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.GenerateResource.Cache
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.exe.config
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.ResolveComReference.cache
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.exe
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.pdb
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.exe
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\bin\Debug\Shipping_Notice.pdb
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\bin\Debug\SFC_Library.dll
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\bin\Debug\AxInterop.WMPLib.dll
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\bin\Debug\Interop.WMPLib.dll
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csprojResolveAssemblyReference.cache
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fDetail.resources
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fMain.resources
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.fPackNotice.resources
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.Properties.Resources.resources
+D:\Xuan\chuong trinh\Shipping_Notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.GenerateResource.Cache
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.ResolveComReference.cache
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.fDetail.resources
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.fMain.resources
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.fPackNotice.resources
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.GenerateResource.cache
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.CoreCompileInputs.cache
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\bin\Debug\SFC_Library.dll
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.CopyComplete
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.AssemblyReference.cache
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\HOLD.FormLogin.resources
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\bin\Debug\FG_CHECK.exe.config
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\bin\Debug\FG_CHECK.exe
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\bin\Debug\FG_CHECK.pdb
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.exe.config
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.Properties.Resources.resources
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.exe
+E:\NIC_SOURCE\NIC_SFC\FG\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.pdb
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\bin\Debug\FG_CHECK.exe.config
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\bin\Debug\FG_CHECK.exe
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\bin\Debug\FG_CHECK.pdb
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\bin\Debug\SFC_Library.dll
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.exe.config
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.ResolveComReference.cache
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.fDetail.resources
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.fMain.resources
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\HOLD.FormLogin.resources
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.fPackNotice.resources
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.Properties.Resources.resources
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.GenerateResource.cache
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\Shipping_Notice.csproj.CopyComplete
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.exe
+C:\Users\V1041643\Desktop\Shipping_notice\Shipping_Notice\obj\Debug\FG_CHECK.pdb

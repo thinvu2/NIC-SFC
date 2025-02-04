@@ -1,0 +1,328 @@
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+E:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Sfc.Core.pdb
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Sfc.Core.dll.config
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Sfc.Library.HttpClient.pdb
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Sfc.Library.HttpClient.dll.config
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csprojAssemblyReference.cache
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+D:\CODE_NIC\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Sfc.Core.pdb
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Sfc.Core.dll.config
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Sfc.Library.HttpClient.pdb
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\bin\Debug\Sfc.Library.HttpClient.dll.config
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+C:\Users\v1039442\Desktop\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+E:\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+E:\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+E:\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+E:\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+E:\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+E:\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+E:\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+E:\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\ShippingFile.exe.config
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\ShippingFile.exe
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\ShippingFile.pdb
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.exe.config
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.exe
+C:\Users\V1047047\Desktop\shipping_file\ShippingFile\obj\Debug\ShippingFile.pdb
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\ShippingFile.exe.config
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\ShippingFile.exe
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\ShippingFile.pdb
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.exe.config
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.exe
+C:\Users\V1047047\Desktop\SHipping\ShippingFile\obj\Debug\ShippingFile.pdb
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+C:\Users\v1039442\Desktop\shipping_file\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\ShippingFile.exe.config
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\ShippingFile.exe
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\ShippingFile.pdb
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.exe.config
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.exe
+C:\Users\v1039442\Desktop\New folder\ShippingFile\obj\Debug\ShippingFile.pdb
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v1039442\Desktop\New folder\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+D:\NIC Source\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+E:\5.0\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.exe
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ShippingFile.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.LoginForm.resources
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.ShipingFile.resources
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.Properties.Resources.resources
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.WebsiteUpload.resources
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.csproj.CopyComplete
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.exe
+C:\Users\V1039443\Desktop\NIC_SFC\QA\ShippingFile\ShippingFile\obj\Debug\ShippingFile.pdb

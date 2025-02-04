@@ -1,0 +1,2023 @@
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.dll
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.dll
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\ShowMeTheXAML.AvalonEdit.dll
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\ShowMeTheXAML.dll
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+c:\users\v0957266\documents\visual studio 2015\Projects\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.dll
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.pdb
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.xml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Dowload\WPF\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.dll
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.xml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.dll
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.pdb
+G:\C_CodeC#\PACK_CTN\PACK_CTN\bin\Debug\WpfAnimatedGif.xml
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+G:\C_CodeC#\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN.exe
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN.pdb
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\PACK_CTN.exe
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\PACK_CTN.pdb
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\WpfAnimatedGif.dll
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\WpfAnimatedGif.pdb
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\bin\Debug\WpfAnimatedGif.xml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\CloseCarton.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\LoginWindow.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\MainWindow.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\CheckCarton.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\App.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\App.baml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\CloseCarton.baml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\LoginWindow.baml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\MainWindow.baml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\CheckCarton.baml
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+G:\C_CodeC#\PACK_CTN_ver1.2\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN.exe
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN.pdb
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\PACK_CTN.exe
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\PACK_CTN.pdb
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\CloseCarton.g.cs
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\LoginWindow.g.cs
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\MainWindow.g.cs
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\CheckCarton.g.cs
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\App.g.cs
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\App.baml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\CloseCarton.baml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\LoginWindow.baml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\MainWindow.baml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\CheckCarton.baml
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+E:\Dowload\WPF\PACK_CTN_ver1.3\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.exe
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.pdb
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\PACK_CTN.exe
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\PACK_CTN.pdb
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\CloseCarton.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\LoginWindow.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\MainWindow.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\CheckCarton.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\App.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\App.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\CloseCarton.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\LoginWindow.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\MainWindow.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\CheckCarton.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\Newtonsoft.Json.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\Sfc.Core.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\Sfc.Library.HttpClient.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\bin\Debug\System.Net.Http.Formatting.dll
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\ShowError.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\ShowError.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\MessageError.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\MessageError.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\SetupStation.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\SetupStation.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\Reprint.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\Reprint.baml
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\CSParam.g.cs
+G:\C_CodeC#\PACK_CTN_ver1.4\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Sfc.Core.dll
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ShowError.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ShowError.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266\Desktop\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ShowError.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ShowError.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.PACK_CTN.exe.config
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Interop.LabelManager2.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\ShowError.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\ShowError.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0991290\Desktop\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\ShowError.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\ShowError.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+G:\C_Program\code_c#\C#_API\CUONG_Dzai\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\PACK_CTN.exe
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\PACK_CTN.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\stdole.dll
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CloseCarton.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CSParam.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\LoginWindow.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MainWindow.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MessageError.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Reprint.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetupStation.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\ShowError.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCarton.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\App.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\App.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CloseCarton.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CSParam.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\LoginWindow.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MainWindow.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MessageError.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Reprint.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetLabelQTY.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetupStation.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\ShowError.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCarton.baml
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.exe
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.pdb
+G:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\PACK_CTN.exe
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\PACK_CTN.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\stdole.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\ICSharpCode.AvalonEdit.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\MaterialDesignColors.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CloseCarton.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CSParam.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\LoginWindow.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MainWindow.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MessageError.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Reprint.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetupStation.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\ShowError.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCarton.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\App.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\App.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CloseCarton.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CSParam.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\LoginWindow.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MainWindow.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\MessageError.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Reprint.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetLabelQTY.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\SetupStation.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\ShowError.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\CheckCarton.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.exe
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\fakes.args
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\ICSharpCode.AvalonEdit.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\ICSharpCode.AvalonEdit.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Interop.LabelManager2.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Interop.TkxRFTAG.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\MaterialDesignColors.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\MaterialDesignColors.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\MaterialDesignThemes.Wpf.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\MaterialDesignThemes.Wpf.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\MaterialDesignThemes.Wpf.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Microsoft.Expression.Interactions.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Microsoft.Expression.Interactions.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Microsoft.QualityTools.Testing.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Newtonsoft.Json.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Sfc.Core.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\Sfc.Library.HttpClient.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\ShowMeTheXAML.AvalonEdit.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\ShowMeTheXAML.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\stdole.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\System.Net.Http.Formatting.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\System.Windows.Forms.4.0.0.0.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\System.Windows.Forms.4.0.0.0.Fakes.fakesconfig
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\System.Windows.Forms.4.0.0.0.Fakes.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\System.Windows.Forms.4.0.0.0.Fakes.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\System.Windows.Interactivity.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\System.Windows.Interactivity.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\b\XamlAnimatedGif.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\f.ah
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\f.ch
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\f.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\f.csproj
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\f.fakes
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\f.fakesconfig
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\f.snk
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\o\f.csproj.CopyComplete
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\o\f.csproj.CoreCompileInputs.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\o\f.csproj.FileListAbsolute.txt
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\o\f.csprojAssemblyReference.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\o\System.Windows.Forms.4.0.0.0.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\Fakes\swf\o\System.Windows.Forms.4.0.0.0.Fakes.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\System.Windows.Forms.4.0.0.0.Fakes.fakesconfig
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\System.Windows.Forms.4.0.0.0.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\bin\Debug\System.Windows.Forms.4.0.0.0.Fakes.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\InputBox.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN_1.3\PACK_CTN\obj\Debug\InputBox.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ShowError.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Forms.4.0.0.0.Fakes.fakesconfig
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\ShowError.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\fakes.args
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\ICSharpCode.AvalonEdit.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Interop.LabelManager2.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Interop.TkxRFTAG.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\MaterialDesignColors.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\MaterialDesignThemes.Wpf.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Microsoft.Expression.Interactions.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Microsoft.Expression.Interactions.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Microsoft.QualityTools.Testing.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Newtonsoft.Json.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Sfc.Core.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\Sfc.Library.HttpClient.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\ShowMeTheXAML.AvalonEdit.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\ShowMeTheXAML.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\stdole.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\System.Deployment.4.0.0.0.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\System.Deployment.4.0.0.0.Fakes.fakesconfig
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\System.Deployment.4.0.0.0.Fakes.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\System.Deployment.4.0.0.0.Fakes.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\System.Net.Http.Formatting.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\System.Windows.Interactivity.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\System.Windows.Interactivity.xml
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\b\XamlAnimatedGif.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\f.ah
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\f.ch
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\f.cs
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\f.csproj
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\f.fakes
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\f.fakesconfig
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\f.snk
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\o\f.csproj.CopyComplete
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\o\f.csproj.CoreCompileInputs.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\o\f.csproj.FileListAbsolute.txt
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\o\f.csprojAssemblyReference.cache
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\o\System.Deployment.4.0.0.0.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\obj\Debug\Fakes\sd\o\System.Deployment.4.0.0.0.Fakes.pdb
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Deployment.4.0.0.0.Fakes.fakesconfig
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Forms.4.0.0.0.Fakes.dll
+F:\C_Program\code_c#\C#_API\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Forms.4.0.0.0.Fakes.xml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\FileCode\myProject\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\New folder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Label_Tracking.pdb
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\Label_Tracking.dll
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\Interop.TkxRFTAG.dll
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\Label_Tracking.pdb
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266\Desktop\DesktopFolder\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\Administrator\Downloads\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V0957266-PC-1\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V0957266-PC-1\Desktop\PACK\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojResolveAssemblyReference.cache
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.PACK_CTN.exe.config
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\5.0\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+D:\5.0\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.Cache
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+E:\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+E:\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+E:\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+E:\5.000\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+E:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\IsBracket.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\App.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckPrivilege.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\IsBracket.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\v1039442\Desktop\pack_ctn\PACK_CTN\obj\Debug\PACK_CTN.pdb
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+D:\NIC Source\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+E:\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.baml
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\IsBracket.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\IsCheckBox_Tray.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\RfidForm.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\App.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckPrivilege.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\IsBracket.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\RfidForm.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\IsCheckBox_Tray.baml
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V1047047\Desktop\asas\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V1047047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+E:\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.g.cs
+E:\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.baml
+E:\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN_DEMO.exe.config
+E:\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN_DEMO.exe
+E:\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN_DEMO.pdb
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_DEMO.exe.config
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_DEMO_MarkupCompile.cache
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_DEMO_MarkupCompile.lref
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_DEMO.g.resources
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_DEMO.Properties.Resources.resources
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_DEMO.exe
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_DEMO.pdb
+E:\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V1038047\Desktop\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+E:\5.0\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.exe
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\PACK_CTN.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\stdole.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csprojFakesResolveAssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN_MarkupCompile.lref
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\App.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckLabel.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCartonLabel.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckPrivilege.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CloseCarton.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CSParam.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\InputBox.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsBracket.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\IsCheckBox_Tray.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\LoginWindow.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MainWindow.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\MessageError.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\Reprint.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\ResourceXAML\MainReource.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\RfidForm.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetLabelQTY.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupPrinter.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\SetupStation.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\UserControlCTN\ControlBarUC.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\CheckCarton.baml
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.g.resources
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.Properties.Resources.resources
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.csproj.CopyComplete
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.exe
+C:\Users\V1039443\Desktop\NIC_SFC\PACKING\PACK_CTN\PACK_CTN\obj\Debug\PACK_CTN.pdb

@@ -1,0 +1,67 @@
+﻿<Window x:Class="REPAIR.Login"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:REPAIR.UserControlRepair"
+        xmlns:local="clr-namespace:REPAIR"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Name="LoginUC"
+        Title="Đăng nhập" Height="300" Width="400" WindowState="Normal" WindowStartupLocation="CenterScreen" Loaded="LoginUC_Loaded" >
+
+    <Grid>
+        <Border BorderThickness="1" BorderBrush="#FFECC6C6" Background="#FFF5EEEE">
+            <materialDesign:Card HorizontalAlignment="Center" VerticalAlignment="Center"  Height="200" Width="300" Grid.Row="1">
+                <Grid>
+                    <Grid.Resources>
+                        <Style  TargetType="Grid">
+                            <Setter Property="Margin" Value="15 0 15 0"></Setter>
+                        </Style>
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="Đăng Nhập" FontSize="24"  HorizontalAlignment="Center" Foreground="#FFD31919" VerticalAlignment="Center" />
+                    </Grid>
+                    <!--<Grid Grid.Row="1">
+                        <ComboBox x:Name="cbbStation" FontSize="18"  Height="40" SelectedIndex="0"   Visibility="Hidden"  >
+                            <ComboBoxItem Content="REPAIR" />
+                            <ComboBoxItem Content="CHECK_IN" />
+                            <ComboBoxItem Content="CHECK_OUT" />
+                            <ComboBoxItem Content="UN_Link" />
+                        </ComboBox>
+                    </Grid>-->
+                    <Grid Grid.Row="1">
+                        <PasswordBox x:Name="PasswordBox" FontSize="18"  materialDesign:HintAssist.Hint="Password" KeyDown="PasswordBox_Keydown" />
+                    </Grid>
+                    <Grid Grid.Row="2" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="0" Name="btnOK" Click="btnOK_Click" Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#00c700"  Width="100"  ToolTip="Resource name: MaterialDesignRaisedLightButton">
+                            Login
+                        </Button>
+
+                        <Button Grid.Column="1" Name="btnCancle" Click="btnCancle_Click" Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#ff8080"  Width="100" ToolTip="Resource name: MaterialDesignRaisedLightButton">
+                            Cancel
+                        </Button>
+                    </Grid>
+                </Grid>
+            </materialDesign:Card>
+        </Border>
+    </Grid>
+</Window>

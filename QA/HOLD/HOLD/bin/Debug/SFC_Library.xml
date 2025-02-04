@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SFC_Library</name>
+    </assembly>
+    <members>
+        <member name="M:SFC_Library.LabelTracking.doMD5Label(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Check MD5 of label file 
+            </summary>
+            <param name="LabelName">Name of file label</param>
+            <param name="PathIndex">PATH_NAME of label</param>
+            <returns></returns>
+        </member>
+        <member name="M:SFC_Library.LabelTracking.doLabelTracking(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Check label content with Label tracking system, file label must add parameter value before check
+            </summary>
+            <param name="LabelName">Name of file label</param>
+            <param name="PathIndex">PATH_NAME of label</param>
+            <returns></returns>
+        </member>
+        <member name="M:SFC_Library.LabelTracking.doLabelTracking_AddParamValue(System.String,System.Int32,System.Data.DataTable,System.Boolean)">
+            <summary>
+            Check label content with LabelTracking system, Add parameters value before check
+            </summary>
+            <param name="LabelName">Name of file label</param>
+            <param name="PathIndex">Type PATH_NAME of label</param>
+            <param name="paramTable">List parameter will add to label file, have 2 columns: Name and Value. Name is Parameter name in label, Value is value set into parameter</param>
+            <returns>true: </returns>
+        </member>
+        <member name="M:SFC_Library.MultiLanguageHelper.GetResource(System.String,System.String)">
+            <summary>
+            Get resource value from muliti-language api
+            </summary>
+            <param name="_ResourceName">Name of resource, you must setup it in web http://10.224.69.100/MultiLanguage before use</param>
+            <param name="_LanguageID">Language [EN,VI,ZH]</param>
+            <returns>resource string with input language</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:SFC_Library.MultiLanguageHelper.UpdateControlText(System.Windows.Forms.Control,System.String,System.String)" -->
+        <member name="T:SFC_Library.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.background_1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.background_2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.background_3">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.background_5">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_blue">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_blue_200x26">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_blue_200x26_hover">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_blue_hover">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_default">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_default_hover">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_green">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_green_hover">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_orange">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.button_bg_orange_hover">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.cancel">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.CloseBtnBg">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.CloseBtnBg_hover">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.conversation">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.info">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.PanelLogin">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.SFCForms_messageBg">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.stop">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.tick">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.Properties.Resources.warning">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="M:SFC_Library.SFCLogin.Login(System.Boolean,System.String)">
+            <summary>
+            Login with SFC account
+            </summary>
+            <param name="_checkEmpNo">True: Login with both EmpNo and password. False: only Login with password.</param>
+            <param name="_programName">The program name will display in right bottom of login form</param>
+            <returns>EmployeeInfomation class</returns>
+        </member>
+        <member name="M:SFC_Library.SFCLogin.RefreshUserInfo(SFC_Library.EmployeeInfomation@)">
+            <summary>
+            Get newest infomation of user
+            </summary>
+            <param name="_UserInfo">Class of user infomation</param>
+        </member>
+        <member name="F:SFC_Library.SFCLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SFC_Library.SFCLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SFC_Library.SFCLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:SFC_Library.EmployeeInfomation.LoginStatus">
+            <summary>
+            Result message of login process. Login success -> return: LoginMessage.Success
+            </summary>
+        </member>
+        <member name="P:SFC_Library.EmployeeInfomation.LoginException">
+            <summary>
+            Exceptions message in login process
+            </summary>
+        </member>
+        <member name="P:SFC_Library.EmployeeInfomation.Groups">
+            <summary>
+            List group in SFIS1.C_EMP_2_GROUP_T
+            </summary>
+        </member>
+        <member name="P:SFC_Library.EmployeeInfomation.dtPrivileges">
+            <summary>
+            List permission in SFIS1.C_PRIVILEGE
+            </summary>
+        </member>
+        <member name="M:SFC_Library.EmployeeInfomation.GetPrivilege(System.String)">
+            <summary>
+            Get list function of the program- user can be use
+            </summary>
+            <param name="_programName">Program name (PRG_NAME)</param>
+            <returns>List functions</returns>
+        </member>
+        <member name="M:SFC_Library.EmployeeInfomation.CheckPrivilege(System.String,System.String)">
+            <summary>
+            Check employee have privilege to use the function of program or not
+            </summary>
+            <param name="_programName">Name of program (PRG_NAME)</param>
+            <param name="_function">Function name (FUN)</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:SFC_Library.EmployeeInfomation.CheckSpecialPrivilege(System.String,System.String,System.String)">
+            <summary>
+            Check special privilege (check with data of column PASSW)
+            </summary>
+            <param name="_programName">Name of program (PRG_NAME)</param>
+            <param name="_function">Function name (FUN)</param>
+            <param name="_privilegeContent">Special privilege, save in column PASSW of table C_PRIVILEGE</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:SFC_Library.EmployeeInfomation.CheckInGroup(System.String)">
+            <summary>
+            Check employee can work in that station or not
+            </summary>
+            <param name="_groupName">The station name in route</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:SFC_Library.SFCMessage.Show(System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxDefaultButton,System.String)">
+            <summary>
+            Show the message form with Error code save in C_PROMT_CODE_T table
+            </summary>
+            <param name="_title">Title of message form</param>
+            <param name="_errorCode">Error code of message</param>
+            <param name="_msgBoxButton">Buttons show in message form</param>
+            <param name="_msgBoxDefaultButton">Default button</param>
+            <returns></returns>
+        </member>
+        <member name="M:SFC_Library.SFCMessage.Show(System.String,System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxDefaultButton,System.String)">
+            <summary>
+            Show the message form with content (inlcude English message and Vietnamese message)
+            </summary>
+            <param name="_title">Title of message form</param>
+            <param name="_messageEnglish">Message in English</param>
+            <param name="_messageVietnamese">Message in Vietnamese</param>
+            <param name="_msgBoxButton">Buttons show in message form</param>
+            <param name="_msgBoxDefaultButton">Default button</param>
+            <returns></returns>
+        </member>
+        <member name="M:SFC_Library.SFCMessage.Show(System.String,System.String[],System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxDefaultButton,System.String)">
+            <summary>
+            Show message box with list message content. Each message have english message and vietnamese message.
+            Format: [English message]#[Vietnamese message] Exam: Hello world#Xin chào!
+            </summary>
+            <param name="_title">Title of message form</param>
+            <param name="_listMessage">List message</param>
+            <param name="_msgBoxButton">Buttons show in message form</param>
+            <param name="_msgBoxDefaultButton">Default button</param>
+            <returns></returns>
+        </member>
+        <member name="F:SFC_Library.SFCMessage.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SFC_Library.SFCMessage.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SFC_Library.SFCMessage.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:SFC_Library.SFC_Log.SaveLog(System.String,System.String,System.String,System.String,System.Windows.Forms.Label)">
+            <summary>
+            Save log into SFISM4.R_SYSTEM_LOG_T table
+            </summary>
+            <param name="_EmpNo">Employee no</param>
+            <param name="_ProgramName">Program name</param>
+            <param name="_ActionType">Type: INSERT / UPDATE / DELETE ...</param>
+            <param name="_ActionDesc">Change contents...</param>
+            <param name="_LabelError">Window Form label save exception message if have exception when execute SQL</param>
+            <returns>True for save success and False for not save</returns>
+        </member>
+        <member name="M:SFC_Library.SFC_Log.Save_Log_Reprint_OLD(System.String,System.String,System.String,System.String,System.Windows.Forms.Label)">
+            <summary>
+            Save log into SFISM4.R_SYSTEM_LOG_T table
+            </summary>
+            <param name="_EmpNo">Employee ID</param>
+            <param name="_ProgramName">Program name</param>
+            <param name="_ActionType">Action type</param>
+            <param name="_ActionDesc">Action desc</param>
+            <param name="_LabelError">Window Form label save exception message if have exception when execute SQL</param>
+            <returns>True if save success</returns>
+        </member>
+        <member name="M:SFC_Library.SFC_Log.Save_Log_Print(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.Windows.Forms.Label)">
+            <summary>
+            Save print log into SFISM4.R_PRINT_REPRINT_T. Need have PRINT_LOG (Type: CLOB) column.
+            </summary>
+            <param name="_ProgramName">Application name</param>
+            <param name="_ModelName">Model name of packing</param>
+            <param name="_MO_Number">Mo number</param>
+            <param name="_ActionType">PACK_BOX | PACK_CTN | PACK_PALT | SHIPPING</param>
+            <param name="_PrintQty">Number SN in this</param>
+            <param name="_SN_Box_Carton_PalletID">SN| BOXID | CARTON_NO | PALLET_NO</param>
+            <param name="_EmpNo">Employee ID</param>
+            <param name="_ErrorMessage">Error message of system when print FAIL</param>
+            <param name="_ProgramVersion">Version of application</param>
+            <param name="_IsReprint">True if use re-print permission</param>
+            <param name="_LabelError">Window Form label save exception message if have exception when execute SQL</param>
+            <returns>True if save success</returns>
+        </member>
+        <member name="M:SFC_Library.SFC_Log.Save_Log_PrintFinish(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.Windows.Forms.Label)">
+            <summary>
+            Save Log when Print is Finished
+            </summary>
+            <param name="_ProgramName">Name of program</param>
+            <param name="_ModelName">Model name</param>
+            <param name="_MO_Number">MO</param>
+            <param name="_ActionType">PACK_BOX | PACK_CTN | PACK_PALT | SHIPPING</param>
+            <param name="_PrintQty">Number SN in this</param>
+            <param name="_SN_Box_Carton_PalletID">SN | BOXID | CARTON_NO | PALLET_NO</param>
+            <param name="_EmpNo">Employee</param>
+            <param name="_ProgramVersion">Version of application</param>
+            <param name="_IsReprint">True if use re-print permission</param>
+            <param name="_LabelError">Window Form label save exception message if have exception when execute SQL</param>
+            <returns>True if save success</returns>
+        </member>
+        <member name="M:SFC_Library.UserHelper.RefreshUserInfo(SFC_Library.EmployeeInfomation@)">
+            <summary>
+            Get newest infomation of user
+            </summary>
+            <param name="_UserInfo">Class of user infomation</param>
+        </member>
+        <member name="M:CommonString.getConnStr(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Get connection string
+            </summary>
+            <param name="_server">IP of Database server</param>
+            <param name="_port">Port of Database server</param>
+            <param name="_serviceName">Database service name</param>
+            <param name="_dbUser">User to login</param>
+            <param name="_dbPass">Password to login</param>
+            <returns></returns>
+        </member>
+        <member name="M:OracleClientDBHelper.#ctor">
+            <summary>
+            Create Oracle Connection, default Connect string is SFC Alias in BDE
+            </summary>
+        </member>
+        <member name="M:OracleClientDBHelper.#ctor(System.String)">
+            <summary>
+            Create Oracle Connection
+            </summary>
+            <param name="_connectionString">Connection string to connect database</param>
+        </member>
+        <member name="M:OracleClientDBHelper.Connect(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Connect to database
+            </summary>
+            <param name="_server">IP of Database server</param>
+            <param name="_port">Port of Database server</param>
+            <param name="_serviceName">Database service name</param>
+            <param name="_dbUser">User to login</param>
+            <param name="_dbPass">Password to login</param>
+        </member>
+        <member name="M:OracleClientDBHelper.ConnectSFC(System.String,System.String,System.String,System.String)">
+            <summary>
+            Connect to database with SFC account
+            </summary>
+            <param name="_server">IP of Database server</param>
+            <param name="_port">Port of Database server</param>
+            <param name="_serviceName">Database service name</param>
+        </member>
+        <member name="M:OracleClientDBHelper.ConnectAllpart(System.String,System.String,System.String,System.String)">
+            <summary>
+            Connect to database with Allpart account
+            </summary>
+            <param name="_server">IP of Database server</param>
+            <param name="_port">Port of Database server</param>
+            <param name="_serviceName">Database service name</param>
+        </member>
+        <member name="M:OracleClientDBHelper.ConnectAlias(System.String,System.String)">
+            <summary>
+            Connect to database via BDE Alias, configuration in Network/Admin/TNSName.ORA file.
+            Login with SFC account, default ALIAS = SFIS.WORLD
+            </summary>
+            <param name="_alias">BDE Database Alias in TNSName.ORA file</param>
+        </member>
+        <member name="M:OracleClientDBHelper.ConnectAliasAllpart(System.String,System.String)">
+            <summary>
+            Connect to database via BDE Alias, configuration in Network/Admin/TNSName.ORA file.
+            Login with AP2 account, default ALIAS = VNAP
+            </summary>
+            <param name="_alias">BDE Database Alias in TNSName.ORA file</param>
+        </member>
+        <member name="M:OracleClientDBHelper.ConnectAlias(System.String,System.String,System.String)">
+            <summary>
+            Connect to database via BDE Alias, configuration in Network/Admin/TNSName.ORA file.
+            </summary>
+            <param name="_alias">BDE Database Alias in TNSName.ORA file</param>
+            <param name="_dbUser">User to login</param>
+            <param name="_dbPass">Password to login</param>
+        </member>
+        <member name="M:OracleClientDBHelper.ReOpenConnection">
+            <summary>
+            Refresh connection if it Closed or broken
+            </summary>
+        </member>
+        <member name="M:OracleClientDBHelper.TestConnect(System.Windows.Forms.Label)">
+            <summary>
+            Test connect to Database. Connect result set into CommonString.isConnectOK too.
+            </summary>
+            <param name="_lblError">Winform Label object- which show connect error message</param>
+            <returns></returns>
+        </member>
+        <member name="M:OracleClientDBHelper.DoSelectQuery(System.String,System.Windows.Forms.Label)">
+            <summary>
+            Execute select query
+            </summary>
+            <param name="_sqlString">SQL string to select data</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text </param>
+            <returns>System.Data.DataTable result</returns>
+        </member>
+        <member name="M:OracleClientDBHelper.DoSelectSingleValueQuery(System.String,System.Windows.Forms.Label)">
+            <summary>
+            Select first value in query result (Rows[0][0])
+            </summary>
+            <param name="_sqlString">Query sql string to select data</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text</param>
+            <returns>(object) result in row 0 column 0</returns>
+        </member>
+        <member name="M:OracleClientDBHelper.DoSelectSingleValueQueryString(System.String,System.Windows.Forms.Label)">
+            <summary>
+            Select first value in query result (Rows[0][0])
+            </summary>
+            <param name="_sqlString">Query sql string to select data</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text</param>
+            <returns>(object) result string in row 0 column 0</returns>
+        </member>
+        <member name="M:OracleClientDBHelper.GetNumberRowSelectQuery(System.String,System.Windows.Forms.Label)">
+            <summary>
+            Get number of result when select query
+            </summary>
+            <param name="_sqlString">Query sql string to select data</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text</param>
+            <returns>Number row of result</returns>
+        </member>
+        <member name="M:OracleClientDBHelper.ExecuteNonQuery(System.String,System.Windows.Forms.Label)">
+            <summary>
+            Execute sql string without select query
+            </summary>
+            <param name="_sqlString">Query sql string to select data</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text</param>
+            <returns>Number of rows affected</returns>
+        </member>
+        <member name="M:OracleClientDBHelper.ExecuteStoredProcedure(System.String,System.Data.OracleClient.OracleParameterCollection@,System.Windows.Forms.Label,System.Boolean,System.Windows.Forms.TextBox)">
+            <summary>
+            Execute procedure
+            </summary>
+            <param name="_procedureName">Stored Procedure name</param>
+            <param name="_parameters">List parameter include: input and output paramter</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text</param>
+        </member>
+        <member name="M:OracleClientDBHelper.ExecuteStoredProcedure(System.String,System.Data.OracleClient.OracleParameterCollection,System.Windows.Forms.Label,System.Boolean,System.Windows.Forms.TextBox)">
+            <summary>
+            Execute procedure
+            </summary>
+            <param name="_procedureName">Stored Procedure name</param>
+            <param name="_parameters">List parameter include: input and output paramter</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text</param>
+            <returns>List parameter, result will into OUT type parameters</returns>
+        </member>
+        <member name="M:OracleClientDBHelper.ExecuteStoredProcedure_Cursor(System.String,System.Data.OracleClient.OracleParameterCollection,System.Windows.Forms.Label,System.Boolean,System.Windows.Forms.TextBox)">
+            <summary>
+            Execute procedure with cursor result
+            </summary>
+            <param name="_procedureName">Stored Procedure name</param>
+            <param name="_parameters">List parameter include: input and output paramter</param>
+            <param name="_lblError">Winform.Label, If have an exception while select data, exception message will set into Label.Text</param>
+            <returns>result is type OracleDataReader</returns>
+        </member>
+    </members>
+</doc>

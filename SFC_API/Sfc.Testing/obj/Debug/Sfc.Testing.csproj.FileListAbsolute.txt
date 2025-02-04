@@ -1,0 +1,14 @@
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Sfc.Testing.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Sfc.Testing.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\obj\Debug\Sfc.Testing.csproj.CoreCompileInputs.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\obj\Debug\Sfc.Testing.csproj.CopyComplete
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\obj\Debug\Sfc.Testing.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\obj\Debug\Sfc.Testing.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Testing\obj\Debug\Sfc.Testing.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Release\Sfc.Library.HttpClient.V2.dll.config
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Release\Sfc.Library.HttpClient.V2.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Release\Sfc.Library.HttpClient.V2.pdb
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Release\Newtonsoft.Json.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Release\Sfc.Core.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Release\Sfc.Core.pdb
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Release\Newtonsoft.Json.xml
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Release\Sfc.Library.HttpClient.V2.csproj.AssemblyReference.cache
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Release\Sfc.Library.HttpClient.V2.csproj.CoreCompileInputs.cache
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Release\Sfc.Library.HttpClient.V2.csproj.CopyComplete
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Release\Sfc.Library.HttpClient.V2.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Release\Sfc.Library.HttpClient.V2.pdb

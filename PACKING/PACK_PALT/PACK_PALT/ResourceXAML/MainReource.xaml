@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel="clr-namespace:PACK_PALT.ViewModel"
+                    xmlns:local="clr-namespace:PACK_PALT.ResourceXAML">
+    <viewmodel:MainViewModel x:Key="MainVM"></viewmodel:MainViewModel>
+    <viewmodel:ClosePalletViewModel x:Key="ClosepalletVM"></viewmodel:ClosePalletViewModel>
+    <viewmodel:ReprintPalletViewModel x:Key="ReprintpalletVM"></viewmodel:ReprintPalletViewModel>
+    <viewmodel:PasswordViewModel x:Key="PasswordVM"></viewmodel:PasswordViewModel>
+    <viewmodel:ShowParamViewModel x:Key="ShowParamVM"></viewmodel:ShowParamViewModel>
+</ResourceDictionary>

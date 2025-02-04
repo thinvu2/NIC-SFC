@@ -1,0 +1,79 @@
+c:\users\v1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe.config
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csprojResolveAssemblyReference.cache
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\MainWindow.g.cs
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\App.g.cs
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.cache
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.lref
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\bin\Debug\Make_Weight.pdb
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\MainWindow.baml
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight.g.resources
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight.Properties.Resources.resources
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.GenerateResource.Cache
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight.pdb
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.Make_Weight.exe.config
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\bin\Debug\Sfc.Core.dll
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V1044237\documents\visual studio 2015\Projects\Make_Weight\Make_Weight\bin\Debug\System.Net.Http.Formatting.dll
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe.config
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight.pdb
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\Make_Weight.pdb
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\Newtonsoft.Json.dll
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\Sfc.Core.dll
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\Sfc.Library.HttpClient.dll
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\System.Net.Http.Formatting.dll
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\MainWindow.g.cs
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\App.g.cs
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.cache
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.lref
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\MainWindow.baml
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight.g.resources
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight.Properties.Resources.resources
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.GenerateResource.Cache
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Show_Params.g.cs
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Show_Params.baml
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.Make_Weight.exe.config
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\bin\Debug\Interop.LabelManager2.dll
+D:\DucDN\MySourceCode\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csprojResolveAssemblyReference.cache
+E:\NIC Source\5.0\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe.config
+E:\NIC Source\5.0\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe
+E:\NIC Source\5.0\Make_Weight\Make_Weight\bin\Debug\Make_Weight.pdb
+E:\NIC Source\5.0\Make_Weight\Make_Weight\bin\Debug\Newtonsoft.Json.dll
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Show_Params.g.cs
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\App.g.cs
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.cache
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.lref
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Show_Params.baml
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.g.resources
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.Properties.Resources.resources
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.GenerateResource.cache
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.CopyComplete
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe
+E:\NIC Source\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.pdb
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe.config
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\bin\Debug\Make_Weight.exe
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\bin\Debug\Make_Weight.pdb
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.Make_Weight.exe.config
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Show_Params.g.cs
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\MainWindow.g.cs
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\App.g.cs
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.cache
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight_MarkupCompile.lref
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Show_Params.baml
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\MainWindow.baml
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.g.resources
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.Properties.Resources.resources
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.csproj.GenerateResource.Cache
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.exe
+D:\DucDN\SFC\SourceCode\5.0\Make_Weight\Make_Weight\obj\Debug\Make_Weight.pdb
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\bin\Debug\Make_Weight.exe.config
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\Make_Weight.exe
+D:\DucDN\MySourceCode\CHECK_SYS\Make_Weight\obj\Debug\Make_Weight.pdb

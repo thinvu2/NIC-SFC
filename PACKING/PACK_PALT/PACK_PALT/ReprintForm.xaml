@@ -1,0 +1,130 @@
+﻿<Window x:Class="PACK_PALT.ReprintForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_PALT"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="14" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"
+        DataContext="{StaticResource ReprintpalletVM}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="ReprintForm" x:Name="reprintVM" Height="300" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#03405D" Offset="0"/>
+                <GradientStop Color="#0AABCF" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2.*"></RowDefinition>
+            <RowDefinition Height="2.*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Margin="5" VerticalAlignment="Center">
+                <CheckBox
+                    x:Name="CheckBoxWH"
+                    IsThreeState="False"
+                    Foreground="White" 
+                    Margin="0 8 0 0" IsChecked="{Binding ZWipTrackingCheck,UpdateSourceTrigger=PropertyChanged}"
+                    >
+                    Z_WIP_TRACKING_T(WHS)
+                </CheckBox>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1.2*"></ColumnDefinition>
+                    <ColumnDefinition Width="2.*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" VerticalAlignment="Center">
+                    <materialDesign:Chip Foreground="White" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" IconBackground="{DynamicResource PrimaryHueDarkBrush}">
+                        Label Qty :
+                    </materialDesign:Chip>
+                </Grid>
+                <Grid Grid.Column="1" Margin="0 10 10 10">
+                    <ComboBox   FontSize="14" Foreground="Black" Text="{Binding TxtQtyLable,UpdateSourceTrigger=PropertyChanged}" Background="White" Name="cbb_Line_name" IsEditable="True"
+                          >
+                        <ComboBoxItem>1</ComboBoxItem>
+                        <ComboBoxItem>2</ComboBoxItem>
+                        <ComboBoxItem>3</ComboBoxItem>
+                        <ComboBoxItem>4</ComboBoxItem>
+                        <!--<i:Interaction.Triggers>
+                            <i:EventTrigger EventName="TextChanged">
+                                <i:InvokeCommandAction Command="{Binding LabelqtyComboxCommand}"
+                                                       CommandParameter="{Binding ElementName=Labelqty}" />
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>-->
+                    </ComboBox>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1"  Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Label VerticalAlignment="Center" Foreground="White">Caton No / Pallet No :</Label>
+                
+            </Grid>
+            <Grid Grid.Row="1">
+                <materialDesign:Card>
+                    <TextBox x:Name="txt_data" Text="{Binding txtdata,UpdateSourceTrigger=PropertyChanged}"
+                             materialDesign:TransitionAssist.DisableTransitions="True" 
+                             Height="30" FontSize="22"
+                             >
+                        <TextBox.InputBindings>
+                            <KeyBinding Key="Enter"  Command="{Binding txt_dataKeyEnterCommand}"
+                                            CommandParameter="{Binding ElementName=txt_data}"></KeyBinding>
+                        </TextBox.InputBindings>
+                    </TextBox>
+                </materialDesign:Card>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button
+                    Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedAccentButton" Content="OK"
+                    >
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="Click">
+                            <i:InvokeCommandAction Command="{Binding OKButtomCommad}" 
+                                                   CommandParameter="{Binding ElementName=reprintVM}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button
+                Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                Width="100" Content="Close"
+                ToolTip="Resource name: MaterialDesignRaisedLightDarkButton">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="Click">
+                            <i:InvokeCommandAction Command="{Binding CloseButtomCommad}" 
+                                                   CommandParameter="{Binding ElementName=reprintVM}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </Button>
+            </Grid>
+        </Grid>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,416 @@
+﻿<Window x:Class="PACK_BOX.MainWindow"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_BOX"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowState="Normal"
+        WindowStartupLocation="CenterScreen"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontSize="16" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextElement.FontFamily="Arial"
+        TextElement.FontWeight="Regular"
+        Title="PACK_BOX" Height="900" Width="1200" Initialized="mainWindow_Initialized" Closed="FormClose">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                <GradientStop Color="#034E70" Offset="0"/>
+                <GradientStop Color="#0889A6" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="61.5"/>
+            <RowDefinition Height="51.5"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid.Resources>
+            <Style TargetType="Label" x:Key="Label_Content">
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="Padding" Value="5"/>
+                <Setter Property="Height" Value="30"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+            </Style>
+            <Style TargetType="Grid" x:Key="Grid">
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="Height" Value="30"/>
+            </Style>
+            <Style TargetType="TextBlock" x:Key="Content">
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="Padding" Value="5"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="FontWeight" Value="Normal"/>
+                <Setter Property="FontWeight" Value="Black"/>
+            </Style>
+            <Style TargetType="StackPanel" x:Key="Stack_Checkbox">
+                <Setter Property="Orientation" Value="Horizontal"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="970*"/>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="521*"/>
+                <ColumnDefinition Width="75*"/>
+            </Grid.ColumnDefinitions>
+            <Menu Grid.ColumnSpan="2">
+                <Menu.Background>
+                    <LinearGradientBrush EndPoint="0.504,1.5"
+                                         StartPoint="0.504,0.03">
+                        <GradientStop Color="#034E70" Offset="0"/>
+                    </LinearGradientBrush>
+                </Menu.Background>
+                <MenuItem Header="Setup" Foreground="White" FontFamily="Arial" FontSize="16" Click="MenuItem_Click">
+                    <MenuItem Header="Station" IsCheckable="True" Background="#0889A6" Click="item_station_Click"/>
+                    <MenuItem x:Name="item_Nocheck" Header="No Check"  Background="#0889A6" IsCheckable="True" Click="item_NOCHECK_Click"/>
+                    <MenuItem x:Name="CAPS_LOCK" Header="CAPS_LOCK" IsCheckable="True" Background="#0889A6" Click="CAPS_LOCK_Click"/>
+                    <MenuItem x:Name="item_writeLog" Header="Write Log" IsCheckable="True" IsChecked="True" Background="#0889A6" Click="item_writeLog_Click"/>
+                    <MenuItem x:Name="item_2dinput" Header="2D INPUT" IsCheckable="True"  Background="#0889A6"  Click="item_2Dinput_Click"/>
+                    <MenuItem x:Name="item_scan" Header="SCAN SSN" IsCheckable="True" Background="#0889A6" Click="item_scan_sn_Click"/>
+                    <MenuItem x:Name="item_Setsn" Header="Set SN location in barcode" IsCheckable="True" Background="#0889A6"  Click="item_SETsn_Click"/>
+                    <MenuItem x:Name="item_nocheckmo1" Header="NO CHECK MO" IsCheckable="True" Background="#0889A6" Click="item_nocheckmo1_Cick"/>
+                    <MenuItem x:Name="item_automation" Header="Automation" Background="#0889A6" IsCheckable="True" Click="item_automation_Click"/>
+                    <MenuItem x:Name="item_ASN" Header="@SN" Background="#0889A6" IsCheckable="True" />
+                    <MenuItem x:Name="item_ASSN1" Header="@SSN1" Background="#0889A6" IsCheckable="True" />
+                    <MenuItem x:Name="item_showdatainput" Header="Show data input" Background="#0889A6" IsCheckable="True" />
+
+                    <MenuItem x:Name="item_labelcombine" Header="LabelCombine" Background="#0889A6">
+                        <MenuItem x:Name="item_labelcombine1" Header="LabelCombine: PN,SN,SSN..." Background="#0889A6" IsCheckable="True" Click="item_item_labelcombine1_Click" />
+                        <MenuItem x:Name="item_labelcombine2" Header="LabelCombine: PN,SSN,SN..." Background="#0889A6" IsCheckable="True" Click="item_item_labelcombine2_Click" />
+                        <MenuItem x:Name="item_labelcombine3" Header="LabelCombine: PN,SN,..." Background="#0889A6" IsCheckable="True" Click="item_item_labelcombine3_Click" />
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem x:Name="menu_item_exit" Header="Exit" FontFamily="Arial" Foreground="White" FontSize="16" Click="menu_item_exit_Click"/>
+                <MenuItem Name="item_Help" Header="Help" FontFamily="Arial" Foreground="White" FontSize="16" Click="menu_item_help_Click"/>
+            </Menu>
+            <Label x:Name="lbTitle" Content="PACKING" FontWeight="Bold" HorizontalAlignment="Center" FontSize="90" Foreground="White" FontFamily="Arial Black" Margin="365,0,3,0" Width="674"/>
+        </Grid>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="5.5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="5*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Row="0" Margin="20 0 0 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <materialDesign:Chip Content="Employee" Foreground="White" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" FontSize="14">
+                                <materialDesign:Chip.Icon>
+                                    <materialDesign:PackIcon  Kind="AccountCircle"/>
+                                </materialDesign:Chip.Icon>
+                            </materialDesign:Chip>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <materialDesign:Chip Content="Input Data" Foreground="White" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" FontSize="14">
+                                <materialDesign:Chip.Icon>
+                                    <materialDesign:PackIcon Kind="Import" />
+                                </materialDesign:Chip.Icon>
+                            </materialDesign:Chip>
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <materialDesign:Chip x:Name="lbinputPass" Content="Input Pass"  Foreground="White" Visibility="Hidden" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" FontSize="14">
+                                <materialDesign:Chip.Icon>
+                                    <materialDesign:PackIcon Kind="Import" />
+                                </materialDesign:Chip.Icon>
+                            </materialDesign:Chip>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="1" Margin="20 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" >
+                            <TextBox x:Name="edtpassword" materialDesign:HintAssist.Hint="Password" VerticalAlignment="Center" Foreground="White" Height="30" TextChanged="editEmployeeChange"/>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <TextBox x:Name="InputData" materialDesign:HintAssist.Hint="Input Data" Background="White" Foreground="Black" FontWeight="Bold" VerticalAlignment="Center" Height="30" KeyDown="InputData_KeyDown"/>
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <PasswordBox  x:Name="Edt_pass" materialDesign:HintAssist.Hint="INPUT PASS WORD" Background="White" Foreground="Black" FontWeight="Bold" VerticalAlignment="Center" Visibility="Hidden" Height="30" KeyDown="Input_Pass_KeyDown"/>
+                        </Grid>
+                    </Grid>
+                </Grid>
+                <Border Grid.Row="1" BorderBrush="White" BorderThickness="3" CornerRadius="1" Background="White" Margin="20 0">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.Background>
+                            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                                <GradientStop Color="#034E70" Offset="-0.38"/>
+                                <GradientStop Color="#0889A6" Offset="0.567"/>
+                            </LinearGradientBrush>
+                        </Grid.Background>
+                        <Grid Grid.Column="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <Label Style="{StaticResource Label_Content}" Content="Mo Number : "/>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <Label Style="{StaticResource Label_Content}" Content="Model Name : "/>
+                            </Grid>
+                            <Grid Grid.Row="2">
+                                <Label Style="{StaticResource Label_Content}" Content="Line Name : "/>
+                            </Grid>
+                            <Grid Grid.Row="3">
+                                <Label Style="{StaticResource Label_Content}" Content="Version Code : "/>
+                            </Grid>
+                            <Grid Grid.Row="4">
+                                <Label Style="{StaticResource Label_Content}" Content="Last Section : "/>
+                            </Grid>
+                            <Grid Grid.Row="5">
+                                <Label Style="{StaticResource Label_Content}" Content="Last Group : "/>
+                            </Grid>
+                            <Grid Grid.Row="6">
+                                <Label Style="{StaticResource Label_Content}" Content="Last Station : "/>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Column="1" Margin="15 0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0" Style="{StaticResource Grid}">
+                                <TextBlock Style="{StaticResource Content}" x:Name="Edt_moNumber"/>
+                            </Grid>
+                            <Grid Grid.Row="1" Style="{StaticResource Grid}">
+                                <TextBlock Style="{StaticResource Content}" x:Name="Edt_modelName"/>
+                            </Grid>
+                            <Grid Grid.Row="2" Style="{StaticResource Grid}">
+                                <TextBlock Style="{StaticResource Content}" x:Name="Edt_lineName"/>
+                            </Grid>
+                            <Grid Grid.Row="3" Style="{StaticResource Grid}">
+                                <TextBlock Style="{StaticResource Content}" x:Name="Edt_versionCode"/>
+                            </Grid>
+                            <Grid Grid.Row="4" Style="{StaticResource Grid}">
+                                <TextBlock Style="{StaticResource Content}" x:Name="Edt_lastSection"/>
+                            </Grid>
+                            <Grid Grid.Row="5" Style="{StaticResource Grid}">
+                                <TextBlock Style="{StaticResource Content}" x:Name="Edt_lastGroup"/>
+                            </Grid>
+                            <Grid Grid.Row="6" Style="{StaticResource Grid}">
+                                <TextBlock Style="{StaticResource Content}" x:Name="Edt_lastStation"/>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Border>
+            </Grid>
+            <Grid Grid.Column="1" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5*"/>
+                    <RowDefinition Height="1.5*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Margin="20 20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="9*" />
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <DockPanel>
+                            <DockPanel.Background>
+                                <LinearGradientBrush EndPoint="0.504,1.5"
+                                                     StartPoint="0.504,0.03">
+                                    <GradientStop Color="#034E70" Offset="0"/>
+                                    <GradientStop Color="#0889A6" Offset="0.567"/>
+                                </LinearGradientBrush>
+                            </DockPanel.Background>
+                            <Label Content="List Data SN" Foreground="White" VerticalAlignment="Center"/>
+                        </DockPanel>
+                    </Grid>
+                    <Grid Grid.Row="1" >
+                        <Grid.Background>
+                            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                                <GradientStop Color="#034E70" Offset="0"/>
+                                <GradientStop Color="#0889A6" Offset="0.567"/>
+                            </LinearGradientBrush>
+                        </Grid.Background>
+                        <Grid Background="White" Margin="3">
+                            <ListView x:Name="Data_gridView" FontSize="16">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridView.ColumnHeaderContainerStyle>
+                                            <Style>
+                                                <Setter Property="TextElement.FontWeight" Value="Black"/>
+                                            </Style>
+                                        </GridView.ColumnHeaderContainerStyle>
+                                        <GridViewColumn x:Name="Step" Header="Next_Step" DisplayMemberBinding="{Binding STEP}" Width="{Binding ElementName=helperFiled_Step,Path=ActualWidth}"/>
+                                        <GridViewColumn x:Name="SN" Header="SN" DisplayMemberBinding="{Binding SN}" Width="{Binding ElementName=helperField_SN, Path=ActualWidth}"/>
+                                        <GridViewColumn x:Name="Prefix" Header="Prefix" DisplayMemberBinding="{Binding PREFIX}" Width="{Binding ElementName=helperField_Prefix, Path=ActualWidth}"/>
+                                        <GridViewColumn x:Name="Length" Header="Length" DisplayMemberBinding="{ Binding LENGTH}" Width="{Binding ElementName=helperField_Length, Path=ActualWidth}"/>
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                            <Grid Visibility="Hidden">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="2*"/>
+                                    <ColumnDefinition Width="2.5*"/>
+                                    <ColumnDefinition Width="1.5*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0" x:Name="helperFiled_Step"/>
+                                <Grid Grid.Column="1" x:Name="helperField_SN"/>
+                                <Grid Grid.Column="2" x:Name="helperField_Prefix"/>
+                                <Grid Grid.Column="3" x:Name="helperField_Length"/>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0" Margin="20 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="3*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <DockPanel>
+                                <DockPanel.Background>
+                                    <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                                        <GradientStop Color="#034E70" Offset="0"/>
+                                        <GradientStop Color="#0889A6" Offset="0.567"/>
+                                    </LinearGradientBrush>
+                                </DockPanel.Background>
+                                <Label Content="Error message" Foreground="White" VerticalAlignment="Center"/>
+                            </DockPanel>
+                        </Grid>
+                        <Border Grid.Row="1" BorderBrush="White" BorderThickness="3" CornerRadius="1" Background="White">
+                            <Grid Margin="0,0,1,-5">
+                                <Grid.Background>
+                                    <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                                        <GradientStop Color="#0889A6" Offset="0"/>
+                                    </LinearGradientBrush>
+                                </Grid.Background>
+                                <TextBlock x:Name="lbError" Foreground="White" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Height="auto" FontSize="20"/>
+                            </Grid>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="1" Margin="0 0 20 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="30"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" >
+                            <StackPanel 
+                                Style="{StaticResource Stack_Checkbox}" Grid.ColumnSpan="2">
+                                <CheckBox x:Name="cb_rework" Content="Rework Model" Foreground="White" Background="White" Click="item_cb_rework_Click">
+                                    <CheckBox.Resources>
+                                        <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                                    </CheckBox.Resources>
+                                </CheckBox>
+                            </StackPanel>
+                        </Grid>
+                        <!--<Grid Grid.Row="1" >
+                            <StackPanel 
+                                Style="{StaticResource Stack_Checkbox}" Grid.ColumnSpan="2">
+                                -->
+                        <!--<CheckBox x:Name="cb_chk1" Content="CHECKCUSTSN" Foreground="White" Background="White" Click="item_cb_rework_Click">
+                                    <CheckBox.Resources>
+                                        <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                                    </CheckBox.Resources>
+                                </CheckBox>-->
+                        <!--
+
+                            </StackPanel>
+                        </Grid>-->
+                        <Grid Grid.Row="2">
+                            <StackPanel Style="{StaticResource Stack_Checkbox}">
+                                <CheckBox x:Name="cb_witemac"  Content="Write MAC" Foreground="White" Background="White">
+                                    <CheckBox.Resources>
+                                        <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                                    </CheckBox.Resources>
+                                </CheckBox>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Row="3">
+                            <StackPanel Style="{StaticResource Stack_Checkbox}">
+                                <CheckBox x:Name="cb_custsn" Content="CUST_SN" Foreground="White" Background="White" Click="item_cb_rework_Click">
+                                    <CheckBox.Resources>
+                                        <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                                    </CheckBox.Resources>
+                                </CheckBox>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </Grid>
+
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3" x:Name="View_Bottom" VerticalAlignment="Bottom" Grid.ColumnSpan="3" >
+            <materialDesign:Card Background="#0AABCF" Margin="10 0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.5*"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Border BorderBrush="White">
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" x:Name="Lb_User">User:</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Border BorderBrush="White">
+                            <TextBlock HorizontalAlignment="Center" Foreground="White" x:Name="txt_Database">DATABASE:</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <Border BorderBrush="White">
+                            <TextBlock HorizontalAlignment="Center" Foreground="White" x:Name="txtVerAp">VERSION:</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="3">
+                        <Border BorderBrush="White">
+                            <TextBlock HorizontalAlignment="Center" Foreground="White" x:Name="txtIp">IP:</TextBlock>
+                        </Border>
+                    </Grid>
+                </Grid>
+            </materialDesign:Card>
+        </Grid>
+    </Grid>
+</Window>

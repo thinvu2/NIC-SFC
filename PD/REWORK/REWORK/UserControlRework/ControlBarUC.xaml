@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="REWORK.UserControlRework.ControlBarUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:REWORK.UserControlRework"
+             xmlns:material ="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             Name="ucControlBar"
+             mc:Ignorable="d" >
+    <Grid>
+        <i:Interaction.Triggers>
+            <i:EventTrigger EventName="MouseLeftButtonDown">
+                <i:InvokeCommandAction Command="{Binding MouseMoveWindowCommand}" 
+                            CommandParameter="{Binding ElementName=ucControlBar}"  />
+            </i:EventTrigger>
+        </i:Interaction.Triggers>
+
+        <Grid VerticalAlignment="Top">
+            <material:ColorZone  >
+                <DockPanel>
+                    <StackPanel DockPanel.Dock="Right"  Orientation="Horizontal"  >
+                        <StackPanel.Resources>
+                            <Style TargetType="Button">
+                                <Setter Property="Margin" Value="5 2 5 2"></Setter>
+                                <Setter Property="Width"    Value="40"></Setter>
+                                <Setter Property="Background" Value="#FFFF"></Setter>
+                            </Style>
+                        </StackPanel.Resources>
+                        <Button Command="{Binding MiniMizeWindowCommand}" 
+                            CommandParameter="{Binding ElementName=ucControlBar }" 
+                        ToolTip="Minimize" BorderBrush="{x:Null}"  >
+                            <material:PackIcon Kind="WindowMinimize" Foreground="Orange"  />
+                        </Button>
+                        <Button Command="{Binding MaxiMizeWindowCommand}" 
+                            CommandParameter="{Binding ElementName=ucControlBar}" 
+                        ToolTip="Maximize" BorderBrush="{x:Null}" >
+                            <material:PackIcon Kind="WindowMaximize" Foreground="Green" />
+                        </Button>
+                        <Button Command="{Binding CloseWindowCommand}" Name="btnClose"
+                            CommandParameter="{Binding ElementName=ucControlBar }"
+                            ToolTip="Close" BorderBrush="{x:Null}" Click="btnClose_Click">
+                            <material:PackIcon Kind="Close" Foreground="Red"  />
+                        </Button>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" DockPanel.Dock="Left" >
+                        <Button Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#DD151414" >
+                            <material:PackIcon Kind="PackageVariantClosed" Height="27" Width="37" Foreground="OrangeRed" RenderTransformOrigin="0.272,0.381" />
+                        </Button>
+                        <TextBlock VerticalAlignment="Center"  Text="{Binding Tag , ElementName=ucControlBar}" >
+                        </TextBlock>
+                    </StackPanel>
+                </DockPanel>
+            </material:ColorZone>
+        </Grid>
+    </Grid>
+</UserControl>

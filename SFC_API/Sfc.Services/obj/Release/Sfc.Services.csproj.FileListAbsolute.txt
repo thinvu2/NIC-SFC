@@ -1,0 +1,63 @@
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.Services.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.Services.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.Services.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Newtonsoft.Json.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.OracleDatabase.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Dapper.Oracle.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Dapper.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.OracleDatabase.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.OracleDatabase.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Newtonsoft.Json.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.Core.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Sfc.Core.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Dapper.Oracle.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\bin\Release\Dapper.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\obj\Release\Sfc.Services.csprojAssemblyReference.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\obj\Release\Sfc.Services.csproj.CoreCompileInputs.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\obj\Release\Sfc.Services.csproj.CopyComplete
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\obj\Release\Sfc.Services.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Services\obj\Release\Sfc.Services.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.Services.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.Services.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.Services.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.OracleDatabase.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Dapper.Oracle.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Dapper.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.OracleDatabase.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.OracleDatabase.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Dapper.Oracle.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\bin\Release\Dapper.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\obj\Release\Sfc.Services.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\obj\Release\Sfc.Services.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\obj\Release\Sfc.Services.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\obj\Release\Sfc.Services.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Services\obj\Release\Sfc.Services.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.Services.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.Services.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.Services.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.OracleDatabase.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Dapper.Oracle.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Dapper.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.OracleDatabase.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.OracleDatabase.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Dapper.Oracle.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\bin\Release\Dapper.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\obj\Release\Sfc.Services.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\obj\Release\Sfc.Services.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\obj\Release\Sfc.Services.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\obj\Release\Sfc.Services.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Services\obj\Release\Sfc.Services.pdb

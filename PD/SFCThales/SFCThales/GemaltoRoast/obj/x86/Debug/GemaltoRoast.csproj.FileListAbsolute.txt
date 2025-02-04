@@ -1,0 +1,581 @@
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\bin\Debug\Gemalto Roast.exe
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\bin\Debug\Gemalto Roast.pdb
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\Gemalto Roast.exe
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\Gemalto Roast.pdb
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\GemaltoRoast.Login.resources
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+d:\Documents\Visual Studio 2010\Projects\Gemalto Roast\Gemalto Roast\bin\Debug\Oracle.DataAccess.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\Interop.LabelManager2.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\Interop.LCC11.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Interop.LabelManager2.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Interop.LCC11.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.1\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.2\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.3\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.4\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.5\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\Interop.LabelManager2.dll
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\office.dll
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\bin\Debug\office.xml
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.8.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.8.tlog
+D:\程式集\GemaltoRoast 1.0.0.6\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\office.dll
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\office.xml
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.8.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.8.tlog
+C:\Documents and Settings\A0225204\桌面\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+\\10.117.2.32\d$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+\\10.117.2.32\d$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+\\10.117.2.32\d$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\office.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\bin\Debug\office.xml
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.8.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.read.9.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.7.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.8.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource-ResGen.write.9.tlog
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.7\GemaltoRoast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\bin\Debug\office.xml
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+C:\Users\Administrator\Desktop\GemaltoRoast 1.0.0.8\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\stdole.dll
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\office.dll
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\office.xml
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+C:\Users\A0225204.SH\Desktop\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.0.9\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.0\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.1\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.2--02\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\bin\Debug\GemaltoRoast.exe.config
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.exe
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.pdb
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\bin\Debug\GemaltoRoast.exe
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\bin\Debug\GemaltoRoast.pdb
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.MainForm.resources
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.Login.resources
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+\\10.64.32.145\sfc_source$\SFC_SC\SFC_A6\NewSource\GemaltoRoast\GemaltoRoast 1.0.1.2\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio 2010\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\GemaltoRoast.exe.config
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\GemaltoRoast.pdb
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\Interop.LabelManager2.dll
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\bin\Debug\stdole.dll
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.csprojAssemblyReference.cache
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.exe
+D:\Documents\Visual Studio\Projects\完成\GemaltoRoast 1.0.1.3\obj\x86\Debug\GemaltoRoast.pdb
+E:\VN project\Thales Project\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\VN project\Thales Project\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\VN project\Thales Project\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\VN project\Thales Project\GemaltoRoast\bin\Debug\stdole.dll
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\VN project\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+D:\CHON\Thales Project\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\CHON\Thales Project\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\CHON\Thales Project\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\CHON\Thales Project\GemaltoRoast\bin\Debug\stdole.dll
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\CHON\Thales Project\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+D:\CHON\MAIN\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\CHON\MAIN\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\CHON\MAIN\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\CHON\MAIN\GemaltoRoast\bin\Debug\stdole.dll
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\CHON\MAIN\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\CHON\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\CHON\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\CHON\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\CHON\SFCThales\GemaltoRoast\bin\Debug\stdole.dll
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+D:\CHON\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+C:\Users\V1019802\Desktop\6\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+C:\Users\V1019802\Desktop\6\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+C:\Users\V1019802\Desktop\6\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+C:\Users\V1019802\Desktop\6\GemaltoRoast\bin\Debug\stdole.dll
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csprojResolveAssemblyReference.cache
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+C:\Users\V1019802\Desktop\6\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\NIC Source\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\NIC Source\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\NIC Source\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\NIC Source\SFCThales\GemaltoRoast\bin\Debug\stdole.dll
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.Cache
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+E:\NIC Source\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\bin\Debug\stdole.dll
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe.config
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\bin\Debug\System.Net.Http.Formatting.dll
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\bin\Debug\Newtonsoft.Json.xml
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\bin\Debug\sfcconnect.pdb
+E:\NIC_SOURCE\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe.config
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.exe
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\GemaltoRoast.pdb
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\SFCThales.exe
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\stdole.dll
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\System.Net.Http.Formatting.dll
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\SFC_Library.dll
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\CHECK_MSL.exe
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\MSL_PRINT.exe
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\Newtonsoft.Json.xml
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\sfcconnect.pdb
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\SFCThales.pdb
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\SFCThales.exe.config
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\CHECK_MSL.pdb
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\CHECK_MSL.exe.config
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\MSL_PRINT.pdb
+D:\SFC_NIC\SFCThales\GemaltoRoast\bin\Debug\MSL_PRINT.exe.config
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Login.resources
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+D:\SFC_NIC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+C:\NIC\SFCThales\GemaltoRoast.exe.config
+C:\NIC\SFCThales\GemaltoRoast.exe
+C:\NIC\SFCThales\GemaltoRoast.pdb
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+C:\Users\V1019802\Desktop\Thales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe.config
+E:\NIC\SFCThales\GemaltoRoast.exe.config
+E:\NIC\SFCThales\GemaltoRoast.exe
+E:\NIC\SFCThales\GemaltoRoast.pdb
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe.config
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\NIC Source\5.0\NIC_SFC\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe.config
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe.config
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.AssemblyReference.cache
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe.config
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.MainForm.resources
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.Properties.Resources.resources
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.StationSetup.resources
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.TraySetup.resources
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.GenerateResource.cache
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CoreCompileInputs.cache
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.csproj.CopyComplete
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.exe
+E:\SFCThales\SFCThales\GemaltoRoast\obj\x86\Debug\GemaltoRoast.pdb

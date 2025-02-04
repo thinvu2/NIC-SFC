@@ -1,0 +1,108 @@
+﻿<Window x:Class="LOT_REPRINT.frmCheckAcce"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LOT_REPRINT"
+        mc:Ignorable="d"
+        Icon="printer.ico"
+        ResizeMode="NoResize"
+        Title="Setup Station" Height="270" Width="450"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        FontSize="18"
+        WindowStartupLocation="CenterScreen"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="6*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu IsMainMenu="True" DockPanel.Dock="Right" Grid.Row="0" FontSize="12">
+            <MenuItem Header="Setup" Height="20">
+                <MenuItem Name="itemSetStation" Header="Set Station" Click="itemSetStation_Click">
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Grid Grid.Row="1">
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                    <GradientStop Color="#FFF36919" Offset="0.0" />
+                    <GradientStop Color="#F7FBF7" Offset="0.5" />
+                    <GradientStop Color="#FFF36919" Offset="1.0" />
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Label x:Name="lblStation" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Black" FontFamily="Arial" FontSize="20">LINK STATION</Label>
+        </Grid>
+        <Grid Grid.Row="2" Background="Green">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition Width="4*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <materialDesign:Chip Foreground="White" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        SEND:
+                    </materialDesign:Chip>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                        <TextBox Name="txtSend" Style="{StaticResource MaterialDesignComboBoxEditableTextBox}" Width="280" Foreground="#FF0A7AAC" FontSize="17" KeyDown="txtSend_KeyDown"></TextBox>
+                    </materialDesign:Chip>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Label FontWeight="Bold" Foreground="White">Accessories:</Label>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <ListBox x:Name="lstLong" Background="White" Margin="10 0" Style="{StaticResource MaterialDesignListBox}"></ListBox>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <ListBox x:Name="lstShost" Background="White" Margin="10 0"></ListBox>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Label FontWeight="Bold" Foreground="White">S/N:</Label>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Label x:Name="lblSerial" HorizontalAlignment="Left" FontWeight="Bold" Foreground="White"></Label>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Label FontWeight="Bold" Foreground="White">Rec:</Label>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Label x:Name="lblRec" HorizontalAlignment="Left" FontWeight="Bold" Foreground="White"></Label>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

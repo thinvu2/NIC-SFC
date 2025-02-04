@@ -1,0 +1,137 @@
+C:\NIC\CodeSoft_New\CodeSoft_New.exe.config
+C:\NIC\CodeSoft_New\CodeSoft_New.exe
+C:\NIC\CodeSoft_New\CodeSoft_New.pdb
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\PasswordForm.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowMessageForm.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowParam.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\BackGround.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\CodeSoft_NIC.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\LabelHHVN.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\QueryData.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\ReleaseLabel.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetModel.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetPrintData.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\App.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New_MarkupCompile.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New_MarkupCompile.lref
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\PasswordForm.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowMessageForm.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowParam.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\BackGround.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\CodeSoft_NIC.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\LabelHHVN.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\QueryData.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\ReleaseLabel.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetModel.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetPrintData.baml
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.g.resources
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.exe
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.pdb
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.exe.config
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.exe
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.pdb
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Newtonsoft.Json.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Oracle.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Sfc.Core.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Sfc.Library.HttpClient.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\SFC_Library.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\stdole.dll
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CheckLabelForm.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NIC Source\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CheckLabelForm.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.exe.config
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.exe
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.pdb
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Newtonsoft.Json.dll
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Oracle.dll
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Sfc.Core.dll
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Sfc.Library.HttpClient.dll
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\SFC_Library.dll
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\stdole.dll
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\MainWindow.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\PasswordForm.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowMessageForm.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowParam.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\BackGround.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\CodeSoft_NIC.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\LabelHHVN.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\QueryData.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\ReleaseLabel.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetModel.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetPrintData.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CheckLabelForm.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\App.g.cs
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New_MarkupCompile.cache
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New_MarkupCompile.lref
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\MainWindow.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\PasswordForm.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowMessageForm.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowParam.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\BackGround.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\CodeSoft_NIC.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\LabelHHVN.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\QueryData.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\ReleaseLabel.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetModel.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetPrintData.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CheckLabelForm.baml
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.g.resources
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.Properties.Resources.resources
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.GenerateResource.cache
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.CoreCompileInputs.cache
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.CopyComplete
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.exe
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.pdb
+E:\5.0\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.exe
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\CodeSoft_New.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Oracle.dll
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Sfc.Core.dll
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\SFC_Library.dll
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\bin\Debug\stdole.dll
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\MainWindow.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\PasswordForm.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowParam.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\BackGround.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\CodeSoft_NIC.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\LabelHHVN.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\QueryData.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\ReleaseLabel.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetModel.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetPrintData.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CheckLabelForm.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\App.g.cs
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New_MarkupCompile.cache
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New_MarkupCompile.lref
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\MainWindow.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\PasswordForm.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowMessageForm.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\ShowParam.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\BackGround.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\CodeSoft_NIC.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\LabelHHVN.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\QueryData.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\ReleaseLabel.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetModel.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\View\SetPrintData.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CheckLabelForm.baml
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.g.resources
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.Properties.Resources.resources
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft.csproj.CopyComplete
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.exe
+C:\Users\V1039443\Desktop\NIC_SFC\LABEL\CodeSoft_9Codes\CodeSoft_9Codes\obj\Debug\CodeSoft_New.pdb

@@ -1,0 +1,25 @@
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Library.HttpClient.V2.dll.config
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Library.HttpClient.V2.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Library.HttpClient.V2.pdb
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Debug\Newtonsoft.Json.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Core.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Core.pdb
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\bin\Debug\Newtonsoft.Json.xml
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.csproj.AssemblyReference.cache
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.csproj.CoreCompileInputs.cache
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.csproj.CopyComplete
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.dll
+F:\Workspace\Sfc_Project\Sfc_Api_Project\Svn\Sfc\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Library.HttpClient.V2.dll.config
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Library.HttpClient.V2.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Library.HttpClient.V2.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Newtonsoft.Json.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Core.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Core.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Sfc.Core.dll.config
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\bin\Debug\Newtonsoft.Json.xml
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.csproj.AssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Library.HttpClient.V2\obj\Debug\Sfc.Library.HttpClient.V2.pdb

@@ -1,0 +1,187 @@
+﻿<Window x:Class="PACKINGBOXID_CFG.FormReprint"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACKINGBOXID_CFG"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        WindowStartupLocation="CenterScreen"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="16" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        TextElement.FontFamily="Arial"
+        Background="{DynamicResource MaterialDesignPaper}"
+        Title="FormReprint" Height="650" Width="450" Closed="Window_Closed">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                <GradientStop Color="#034E70" Offset="0"/>
+                <GradientStop Color="#0889A6" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <RadioButton x:Name="Rbtn_BOXID" IsChecked="True" GroupName="GroupInput" VerticalAlignment="Center" HorizontalAlignment="Right" Background="YellowGreen" Click="Rbtn_BOXID_Click">
+                        <RadioButton.Resources>
+                            <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                        </RadioButton.Resources>
+                    </RadioButton>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Label Content="BOXID Label" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <RadioButton x:Name="Rbtn_CustBOXID" IsEnabled="False" GroupName="GroupInput" VerticalAlignment="Center" HorizontalAlignment="Right"  Background="YellowGreen" Click="Rbtn_BOXID_Click">
+                        <RadioButton.Resources>
+                            <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                        </RadioButton.Resources>
+                    </RadioButton>
+                </Grid>
+                <Grid Grid.Column="3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Cust BOXID Label" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.RowSpan="2" Margin="18,8,18,9"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Margin="10 0">
+                    <RadioButton x:Name="Rbtn_SSN" GroupName="GroupInput" VerticalAlignment="Center" HorizontalAlignment="Right"  Background="YellowGreen" IsEnabled="False" Click="Rbtn_BOXID_Click">
+                        <RadioButton.Resources>
+                            <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                        </RadioButton.Resources>
+                    </RadioButton>
+                </Grid>
+                <Grid Grid.Column="1" Margin="10 0">
+                    <Label Content="SSN Label" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Label Content="Label QTY" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Width="100">
+                <materialDesign:Card>
+                    <TextBox x:Name="Edt_Count" Height="25"/>
+                </materialDesign:Card>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <CheckBox x:Name="Cb_CE" Visibility="Hidden" Content="CE" BorderBrush="White" Foreground="White" Background="White" Margin="30 0">
+                        <CheckBox.Resources>
+                            <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                        </CheckBox.Resources>
+                    </CheckBox>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Content="MAC/SN/TRAY_NO :" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <CheckBox x:Name="Cb_Address" Visibility="Hidden" Content="MADE IN TAIWAN" BorderBrush="White" Foreground="White" Background="White" Margin="30 0">
+                        <CheckBox.Resources>
+                            <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White"/>
+                        </CheckBox.Resources>
+                    </CheckBox>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3" VerticalAlignment="Center" Margin="50,30">
+            <materialDesign:Card>
+                <TextBox x:Name="Edt_SN" Height="25" KeyDown="Edt_SN_KeyDown"/>
+            </materialDesign:Card>
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <ListBox x:Name="Item_Name" Background="White" Margin="3 3 1.5 3"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <ListBox x:Name="Item_Data" Background="White" Margin="1.5 3 3 3"/>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="5" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Background="YellowGreen" Foreground="Red" Width="90" BorderBrush="{x:Null}" Click="Btn_OK_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Check"/>
+                        <TextBlock Text="OK"/>
+                    </StackPanel>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Background="YellowGreen" Foreground="Red" Width="90" BorderBrush="{x:Null}" Click="Btn_Cancel_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Close"/>
+                        <TextBlock Text="Cancel"/>
+                    </StackPanel>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Button Background="YellowGreen" Foreground="Red" Width="90" BorderBrush="{x:Null}" Click="Btn_Close_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Close"/>
+                        <TextBlock Text="Close"/>
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,545 @@
+﻿<Window x:Class="CodeSoft_9Codes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CodeSoft_9Codes"
+        FontFamily="Times New Roman" FontSize="16" WindowState="Maximized"      
+        mc:Ignorable="d"
+        Title="CodeSoft_9Codes" Height="700" Width="800" Initialized="mainWindow_Initialized">
+    <Window.Resources>
+
+        <!--// Toggle Button Style Template //-->
+
+        <ImageBrush x:Key="tb_mouse_over"
+                    ImageSource="Assets/tgBtn_MouseOver.png"/>
+
+        <!--// Text font style //-->
+
+        <Style x:Key="font_style" TargetType="TextBlock">
+
+            <Setter Property="FontFamily"
+                    Value="Fonts/Roboto-Light.ttf #Roboto"/>
+
+            <Setter Property="VerticalAlignment"
+                    Value="Center"/>
+
+            <Setter Property="HorizontalAlignment"
+                    Value="Left"/>
+
+            <Setter Property="Foreground"
+                    Value="White"/>
+
+            <Setter Property="FontSize"
+                    Value="20"/>
+
+        </Style>
+
+        <!--// Tooltip Style Template //-->
+
+        <Style TargetType="ToolTip" x:Key="tt_style">
+
+            <Setter Property="Placement" Value="Right"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Margin" Value="20,0,0,0"/>
+            <Setter Property="Background" Value="#4A5668"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Fonts/Roboto-Light.ttf #Roboto"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="PlacementRectangle" Value="60,0,0,0"/>
+            <Setter Property="HorizontalOffset" Value="15"/>
+            <Setter Property="VerticalOffset" Value="6"/>
+            <Setter Property="HasDropShadow" Value="True"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+
+        </Style>
+
+        <!--// App Close Button Style Template //-->
+
+        <ImageBrush x:Key="CloseBtn_MouseOver" ImageSource="Assets/closeBtn_MouseOver.png"/>
+
+        <Style x:Key="Close_btn" TargetType="{x:Type Button}">
+
+            <Setter Property="Template">
+
+                <Setter.Value>
+
+                    <ControlTemplate TargetType="{x:Type Button}">
+
+                        <Border x:Name="button"
+                                BorderThickness="0"
+                                Background="{TemplateBinding Background}"
+                                SnapsToDevicePixels="True">
+
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+
+                            <Trigger Property="IsMouseOver"
+                                     Value="True">
+
+                                <Setter Property="Background"
+                                        TargetName="button"
+                                        Value="{StaticResource CloseBtn_MouseOver}"/>
+
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+
+                </Setter.Value>
+
+            </Setter>
+
+        </Style>
+
+
+
+
+        <Style x:Key="tb_style" TargetType="{x:Type ToggleButton}">
+
+            <Setter Property="Template">
+
+                <Setter.Value>
+
+                    <ControlTemplate TargetType="{x:Type ToggleButton}">
+
+                        <Border  x:Name="border"
+                                 BorderThickness="{TemplateBinding BorderThickness}"
+                                 Background="{TemplateBinding Background}"
+                                 SnapsToDevicePixels="True">
+
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+
+                            <Trigger Property="IsMouseOver" Value="true">
+
+                                <Setter Property="Background"
+                                        TargetName="border"
+                                        Value="{StaticResource tb_mouse_over}"/>
+
+                                <Setter Property="BorderBrush"
+                                        TargetName="border"
+                                        Value="{StaticResource tb_mouse_over}"/>
+
+                            </Trigger>
+
+                            <Trigger Property="IsChecked" Value="true">
+
+                                <Setter Property="Background"
+                                        TargetName="border"
+                                        Value="{StaticResource tb_mouse_over}"/>
+
+                                <Setter Property="BorderBrush"
+                                        TargetName="border"
+                                        Value="{StaticResource tb_mouse_over}"/>
+
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+
+                </Setter.Value>
+
+            </Setter>
+
+        </Style>
+
+    </Window.Resources>
+
+    <Border Padding="2" Background="White">
+        <Grid  PreviewMouseLeftButtonDown="BG_PreviewMouseLeftButtonDown">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="20"/>
+            </Grid.RowDefinitions>
+            <!--// Background Color //-->
+            <Grid Grid.Row="0" Background="#034563">
+                <!--// Background Image //-->
+                <Grid x:Name="BG"  Panel.ZIndex="-1"  Margin="0,-10,-0.4,9.6">
+                    <Grid.Background>
+                        <ImageBrush x:Name="img_bg"
+                                ImageSource="Assets/img_background.jpg"
+                                Stretch="Fill"/>
+                    </Grid.Background>
+                </Grid>
+                <Grid x:Name="Content_Main" Background="AliceBlue"  Margin="56,-10,-0.4,5" Loaded="Content_Main_Loaded">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="173*"></RowDefinition>
+                        <RowDefinition Height="392*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Background="#034563" Margin="0,0,0.4,0" >
+                        <Label x:Name="lblContent" FontWeight="Bold" HorizontalContentAlignment="Center" FontSize="48" FontStyle="Italic" Foreground="White" Margin="91,10" HorizontalAlignment="Center" Width="auto">PRINT LABEL</Label>
+                    </Grid>
+                    <Grid Grid.Row="1" Name="panelLoad" Margin="0,0,0.4,0" Grid.RowSpan="2">
+                        <!--<Grid.Background>
+                            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                                <GradientStop Color="#034563" Offset="0"/>
+                                <GradientStop Color="#0AABCF" Offset="0.567"/>
+                            </LinearGradientBrush>
+                        </Grid.Background>-->
+
+                    </Grid>
+                </Grid>
+                <!--// Navigation Panel //-->
+
+                <Grid   x:Name="nav_pnl"
+                    MouseDown="Grid_MouseDown" 
+                    HorizontalAlignment="Left"
+                    Width="56"
+                    Background="#034563" >
+                    <!--#194350-->
+                    <StackPanel x:Name="st_pnl">
+                        <!--// Grid for the Menu Toggle Button //-->
+                        <Grid Height="90">
+                            <!--// Menu title text //-->
+                            <TextBlock  Grid.Row="1"
+                                    Grid.Column="0"
+                                    Margin="73,-20,0,0"
+                                    Text="M E N U"
+                                    Foreground="White"
+                                    FontSize="22"
+                                    Background="Transparent"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center"
+                                    Style="{StaticResource font_style}">
+                            
+                            <!--// Shadow Effect //-->
+
+                                <TextBlock.Effect>
+
+                                    <DropShadowEffect  BlurRadius="10"
+                                                   ShadowDepth="1"
+                                                   Direction="-90"
+                                                   Color="White"/>
+
+                                </TextBlock.Effect>
+
+                            </TextBlock>
+
+                            <!--// Toggle Button //-->
+
+                            <ToggleButton x:Name="Tg_Btn"  Cursor="Hand"
+                                      Grid.Column="0"
+                                      VerticalAlignment="Center"
+                                      HorizontalAlignment="Left"
+                                      Margin="15,-20,0,0"
+                                      Height="30"
+                                      Width="30"
+                                      BorderThickness="0"
+                                      Style="{StaticResource tb_style}" Unchecked="Tg_Btn_Unchecked" Checked="Tg_Btn_Checked">
+
+                                <!--// Toggle button default background image //-->
+
+                                <ToggleButton.Background>
+
+                                    <ImageBrush ImageSource="Assets/tgBtn_default.png"
+                                            Stretch="None"/>
+
+                                </ToggleButton.Background>
+
+                                <!--// Toggle Button - Checked, Unchecked events //-->
+
+                                <ToggleButton.Triggers>
+
+                                    <EventTrigger RoutedEvent="ToggleButton.Unchecked">
+
+                                        <BeginStoryboard>
+
+                                            <Storyboard x:Name="HideStackPanel">
+
+                                                <DoubleAnimation    
+                                                
+                                                Storyboard.TargetName="nav_pnl"
+                                                Storyboard.TargetProperty="Width"
+                                                BeginTime="0:0:0"
+                                                From="250" To="56"
+                                                Duration="0:0:0.2">
+
+                                                </DoubleAnimation>
+
+                                            </Storyboard>
+
+                                        </BeginStoryboard>
+
+                                    </EventTrigger>
+
+                                    <EventTrigger RoutedEvent="ToggleButton.Checked">
+
+                                        <BeginStoryboard>
+
+                                            <Storyboard x:Name="ShowStackPanel">
+
+                                                <DoubleAnimation
+                                                
+                                                Storyboard.TargetName="nav_pnl"
+                                                Storyboard.TargetProperty="Width"
+                                                BeginTime="0:0:0"
+                                                From="56" To="250"
+                                                Duration="0:0:0.3">
+
+                                                </DoubleAnimation>
+
+                                            </Storyboard>
+
+                                        </BeginStoryboard>
+
+                                    </EventTrigger>
+
+                                </ToggleButton.Triggers>
+
+
+                            </ToggleButton>
+
+                        </Grid>
+
+                        <!--// ListView with menu list items //-->
+
+                        <ListView  x:Name="LV"
+                               Background="Transparent"
+                               BorderBrush="Transparent"
+                               ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+
+                            <!--// Home //-->
+
+                            <ListViewItem HorizontalAlignment="Left"
+                                      Margin="0,0,0,15" MouseEnter="ListViewItem_MouseEnter" Cursor="Hand"
+                                      >
+
+                                <StackPanel Orientation="Horizontal"
+                                            MouseLeftButtonDown="Home_Mouse_Click" 
+                                        Width="529" >
+
+                                    <Image Source="Assets/home_32px.png"
+                                       Stretch="None"
+                                       Margin="5,0,0,0"/>
+
+                                    <TextBlock Text="Home"
+                                           Margin="15,0,0,0"
+                                           Style="{StaticResource font_style}"/>
+
+                                </StackPanel>
+
+                                <!--// Tooltip //-->
+
+                                <ListViewItem.ToolTip>
+                                    <ToolTip x:Name="tt_home"   Width="200"
+                                         Content="Home"
+                                         Style="{StaticResource tt_style}"/>
+
+                                </ListViewItem.ToolTip>
+
+                            </ListViewItem>
+
+                            <!--// Contacts //-->
+
+                            <ListViewItem HorizontalAlignment="Left"  Cursor="Hand"
+                              Margin="0,0,0,15" MouseEnter="ListViewItem_MouseEnter"
+                                     
+                                      >
+
+                                <StackPanel Orientation="Horizontal"
+                                        Width="250" MouseLeftButtonDown="HHVN_MouseLeftButtonDown">
+
+                                    <Image Source="Assets/print_32px.png"
+                                       Stretch="None"
+                                       Margin="5,0,0,0"/>
+
+                                    <TextBlock Text="Label Hon Hai"
+                                           Margin="15,0,0,0"
+                                           Style="{StaticResource font_style}"
+                                        />
+
+                                </StackPanel>
+
+                                <!--// Tooltip //-->
+
+                                <ListViewItem.ToolTip>
+
+                                    <ToolTip x:Name="tt_vn"  Width="200"
+                                         Content="Print Label HH"
+                                         Style="{StaticResource tt_style}"/>
+
+                                </ListViewItem.ToolTip>
+
+                            </ListViewItem>
+
+                            <!--// Messages //-->
+
+                            <ListViewItem HorizontalAlignment="Left"  Cursor="Hand" 
+                                      Margin="0,0,0,15" MouseEnter="ListViewItem_MouseEnter"
+                                      >
+
+                                <StackPanel Orientation="Horizontal"
+                                        Width="250" MouseLeftButtonDown="ReleaseHH_MouseLeftButtonDown">
+
+                                    <Image Source="Assets/file_settings_32px.png"
+                                       Stretch="None"
+                                       Margin="5,0,0,0"/>
+
+                                    <TextBlock Text="Release HH Label"
+                                           Margin="15,0,0,0"
+                                           Style="{StaticResource font_style}"/>
+
+                                </StackPanel>
+
+                                <!--// Tooltip //-->
+
+                                <ListViewItem.ToolTip>
+
+                                    <ToolTip x:Name="tt_nn" Width="200"
+                                         Content="Release Label HonHai"  
+                                         Style="{StaticResource tt_style}"/>
+
+                                </ListViewItem.ToolTip>
+
+                            </ListViewItem>
+
+                            <!--// Maps //-->
+
+
+
+                            <!--// Settings //-->
+
+
+
+                            <!--// Sign Out //-->
+
+                            <ListViewItem HorizontalAlignment="Left"  Cursor="Hand"
+                                      Margin="0,0,0,15" MouseEnter="ListViewItem_MouseEnter"
+                                      >
+
+                                <StackPanel Orientation="Horizontal"
+                                            MouseLeftButtonDown="Exit_Click"
+                                        Width="250">
+
+                                    <Image Source="Assets/exit_32px.png"
+                                       Stretch="None"
+                                       Margin="5,0,0,0"/>
+
+                                    <TextBlock Text="Sign Out"
+                                           Margin="15,0,0,0"
+                                           Style="{StaticResource font_style}"/>
+
+                                </StackPanel>
+
+                                <!--// Tooltip //-->
+
+                                <ListViewItem.ToolTip>
+
+                                    <ToolTip x:Name="tt_signout"   Width="200"
+                                         Content="Sign Out"
+                                         Style="{StaticResource tt_style}"/>
+
+                                </ListViewItem.ToolTip>
+
+                            </ListViewItem>
+
+                            <!--// Listview items style template //-->
+
+                            <ListView.ItemContainerStyle>
+
+                                <Style TargetType="ListViewItem">
+
+                                    <Setter Property="Template">
+
+                                        <Setter.Value>
+
+                                            <ControlTemplate TargetType="{x:Type ListViewItem}">
+
+                                                <Border x:Name="Bd"
+                                                    Height="50"
+                                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                                    Background="{TemplateBinding Background}"
+                                                    Padding="{TemplateBinding Padding}"
+                                                    SnapsToDevicePixels="True">
+
+                                                    <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                                                  SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"
+                                                                  VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+
+                                                </Border>
+
+                                                <ControlTemplate.Triggers>
+
+                                                    <MultiTrigger>
+
+                                                        <MultiTrigger.Conditions>
+
+                                                            <Condition Property="IsMouseOver" Value="True"/>
+
+                                                        </MultiTrigger.Conditions>
+
+                                                        <Setter Property="Background"
+                                                            TargetName="Bd"
+                                                            Value="#00af91"/>
+
+                                                        <Setter Property="BorderBrush"
+                                                            TargetName="Bd"
+                                                            Value="#00af91"/>
+
+                                                    </MultiTrigger>
+
+                                                </ControlTemplate.Triggers>
+
+                                            </ControlTemplate>
+
+                                        </Setter.Value>
+
+                                    </Setter>
+
+                                </Style>
+
+                            </ListView.ItemContainerStyle>
+
+                        </ListView>
+
+                    </StackPanel>
+                </Grid>
+            </Grid>
+            <Border Grid.Row="1" BorderBrush="White" BorderThickness="2" CornerRadius="5">
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Resources>
+                        <Style TargetType="Grid">
+                            <Setter Property="Background" Value="#034563"></Setter>
+                        </Style>
+                    </Grid.Resources>
+                    <Grid Grid.Column="0">
+                        <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label x:Name="lblVersion" FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">Code Soft 9 Codes Version: 1.0.0.0</Label>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label x:Name="lblDB" FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">Database connect: UI</Label>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label x:Name="lblName" FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">User: Mr Chon Tran</Label>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Grid.Column="3">
+                        <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label x:Name="lblIP" FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">IP address: 10.220.15.138</Label>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </Border>
+
+        </Grid>
+    </Border>
+</Window>

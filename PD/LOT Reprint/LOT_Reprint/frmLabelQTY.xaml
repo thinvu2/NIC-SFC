@@ -1,0 +1,144 @@
+﻿<Window x:Class="LOT_REPRINT.frmLabelQTY"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LOT_REPRINT"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:smtx="clr-namespace:ShowMeTheXAML;assembly=ShowMeTheXAML"
+        Title="Set Label QTY" Height="400" Width="300"
+        mc:Ignorable="d"
+        Icon="printer.ico"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="9*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#FF056793" Offset="0"/>
+                <GradientStop Color="#FF0CC0E8" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="SN QTY/Label:" />
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="Carton Label QTY:" />
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="Carton Max QTY:" />
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="Margin Top:" />
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="Margin Left:" />
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="VerticalGap:" />
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="7" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="HorizontalGap:" />
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="8" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15px 0px 0px 0px" >
+                <TextBlock Foreground="White" FontSize="13" 
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="Use Print Config:" />
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="1" Grid.Column="1">
+                <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                    <TextBox Style="{StaticResource MaterialDesignDataGridComboBoxEditableTextBox}" x:Name="SNQty" TextAlignment="Center" BorderThickness="0" FontSize="17" Width="80" Foreground="Black" />
+                </materialDesign:Chip>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="2" Grid.Column="1">
+                <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                    <TextBox Style="{StaticResource MaterialDesignDataGridComboBoxEditableTextBox}" Name="CartonQty" TextAlignment="Center" BorderThickness="0" FontSize="17" Width="80" Foreground="Black" />
+                </materialDesign:Chip>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="3" Grid.Column="1">
+                <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                    <TextBox Style="{StaticResource MaterialDesignDataGridComboBoxEditableTextBox}" Name="PalletQty" TextAlignment="Center" BorderThickness="0" FontSize="17" Width="80" Foreground="Black" />
+                </materialDesign:Chip>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="4" Grid.Column="1">
+                <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                    <TextBox Style="{StaticResource MaterialDesignDataGridComboBoxEditableTextBox}" Name="se_top" TextAlignment="Center" BorderThickness="0" FontSize="17" Width="80" Foreground="Black" />
+                </materialDesign:Chip>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="5" Grid.Column="1">
+                <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                    <TextBox Style="{StaticResource MaterialDesignDataGridComboBoxEditableTextBox}" Name="se_left" TextAlignment="Center" BorderThickness="0" FontSize="17" Width="80" Foreground="Black" />
+                </materialDesign:Chip>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="6" Grid.Column="1">
+                <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                    <TextBox Style="{StaticResource MaterialDesignDataGridComboBoxEditableTextBox}" Name="se_Vertical" TextAlignment="Center" BorderThickness="0" FontSize="17" Width="80" Foreground="Black" />
+                </materialDesign:Chip>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="7" Grid.Column="1">
+                <materialDesign:Chip Background="white" HorizontalAlignment="Center">
+                    <TextBox Style="{StaticResource MaterialDesignDataGridComboBoxEditableTextBox}" Name="se_Horizontal" TextAlignment="Center" BorderThickness="0" FontSize="17" Width="80" Foreground="Black" />
+                </materialDesign:Chip>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Grid.Row="8" Grid.Column="1">
+                
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="25 0" Width="100">
+                <Button Name="btnOK" Foreground="black" Style="{StaticResource MaterialDesignFlatAccentBgButton}" Background="#A7E600" BorderBrush="Bisque" Click="btnOK_Click" >
+                    <DockPanel>
+                        <materialDesign:PackIcon Kind="Tick" />
+                        <TextBlock Margin="5 0">OK</TextBlock>
+                    </DockPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="25 0" Width="100">
+                <Button Name="btnCancel" Foreground="black" Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#b0bec5" BorderBrush="Beige" Click="btnCancel_Click"  >
+                    <DockPanel>
+                        <materialDesign:PackIcon Kind="CloseThick" />
+                        <TextBlock Margin="5 0">Cancel</TextBlock>
+                    </DockPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

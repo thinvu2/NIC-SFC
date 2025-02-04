@@ -1,0 +1,1157 @@
+D:\SON\WPF\PM\PM\bin\Debug\PM.exe.config
+D:\SON\WPF\PM\PM\bin\Debug\PM.exe
+D:\SON\WPF\PM\PM\bin\Debug\PM.pdb
+D:\SON\WPF\PM\PM\obj\Debug\AuorthityForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\CapacityForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\ChangePWForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\CheckBOMForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\CheckConfigForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\CompanyForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\ConfirmDlg.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\DefaultSNForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\DelMOForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\DelUserForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\DetailMainForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\GroupForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\HistoryMOForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\InformationForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\InitForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\ItemEditForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\KPCompletedForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\LineViewForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\LoadMOForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MainWindow.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MoLinkForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MoreForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MO_InputForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MO_InsertForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\MO_ManageForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\OptionForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\OrderForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\PM_ModelForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\POForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\RefreshMOForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\RManageForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\RouteGraphForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\ShowMessageForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\SNSearchForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\StbKeyForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\TravelCardForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\App.g.cs
+D:\SON\WPF\PM\PM\obj\Debug\PM_MarkupCompile.cache
+D:\SON\WPF\PM\PM\obj\Debug\PM_MarkupCompile.lref
+D:\SON\WPF\PM\PM\obj\Debug\App.baml
+D:\SON\WPF\PM\PM\obj\Debug\AuorthityForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\CapacityForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\CapacitySearchForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\ChangePWForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\CheckBOMForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\CheckConfigForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\CompanyForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\ConfirmDlg.baml
+D:\SON\WPF\PM\PM\obj\Debug\DefaultSNForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\DelMOForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\DelMOPWDForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\DelUserForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\DetailMainForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\Dlg_ModelForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\GroupForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\HistoryMOForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\InformationForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\InitForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\ItemEditForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\KPCompletedForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\LineViewForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\LoadMOForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\MainWindow.baml
+D:\SON\WPF\PM\PM\obj\Debug\MoLinkForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\MoLinkPIForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\MoreForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\MO_InputForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\MO_InputOemForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\MO_InsertForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\MO_ManageForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\OptionForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\OrderForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\PM_ModelForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\POForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\RefreshMOForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\RManageForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\RouteGraphForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\ShowMessageForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\SNSearchForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\StbKeyForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\TravelCardForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\TravelCardSearchForm.baml
+D:\SON\WPF\PM\PM\obj\Debug\PM.g.resources
+D:\SON\WPF\PM\PM\obj\Debug\PM.Properties.Resources.resources
+D:\SON\WPF\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+D:\SON\WPF\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+D:\SON\WPF\PM\PM\obj\Debug\PM.csproj.CopyComplete
+D:\SON\WPF\PM\PM\obj\Debug\PM.exe
+D:\SON\WPF\PM\PM\obj\Debug\PM.pdb
+D:\SON\WPF\PM\PM\bin\Debug\Newtonsoft.Json.dll
+D:\SON\WPF\PM\PM\obj\Debug\PM.exe.config
+D:\SON\WPF\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+D:\SON\WPF\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SON\WPF\PM\PM\bin\Debug\MaterialDesignColors.dll
+D:\SON\WPF\PM\PM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0958956\Desktop\PM\PM\bin\Debug\PM.exe.config
+C:\Users\V0958956\Desktop\PM\PM\bin\Debug\PM.exe
+C:\Users\V0958956\Desktop\PM\PM\bin\Debug\PM.pdb
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.exe.config
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\AuorthityForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CapacityForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ChangePWForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CheckBOMForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CheckConfigForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CompanyForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ConfirmDlg.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DefaultSNForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DelMOForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DelUserForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DetailMainForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\GroupForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\HistoryMOForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\InformationForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\InitForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ItemEditForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\KPCompletedForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\LineViewForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\LoadMOForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MainWindow.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MoLinkForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MoreForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_InputForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_InsertForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_ManageForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\OptionForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\OrderForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM_ModelForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\POForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\RefreshMOForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\RManageForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\RouteGraphForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\SNSearchForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\StbKeyForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\TravelCardForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\App.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.cache
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.lref
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\App.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\AuorthityForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CapacityForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CapacitySearchForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ChangePWForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CheckBOMForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CheckConfigForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\CompanyForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ConfirmDlg.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DefaultSNForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DelMOForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DelMOPWDForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DelUserForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\DetailMainForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\GroupForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\HistoryMOForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\InformationForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\InitForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ItemEditForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\KPCompletedForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\LineViewForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\LoadMOForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MainWindow.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MoLinkForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MoLinkPIForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MoreForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_InputForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_InputOemForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_InsertForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\MO_ManageForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\OptionForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\OrderForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM_ModelForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\POForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\RefreshMOForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\RManageForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\RouteGraphForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\ShowMessageForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\SNSearchForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\StbKeyForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\TravelCardForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.baml
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.g.resources
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.csproj.CopyComplete
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.exe
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.pdb
+C:\Users\V0958956\Desktop\PM\PM\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0958956\Desktop\PM\PM\obj\Debug\PM.csprojAssemblyReference.cache
+C:\Users\V0990943\Desktop\PM\PM\bin\Debug\PM.exe.config
+C:\Users\V0990943\Desktop\PM\PM\bin\Debug\PM.exe
+C:\Users\V0990943\Desktop\PM\PM\bin\Debug\PM.pdb
+C:\Users\V0990943\Desktop\PM\PM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\AuorthityForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CapacityForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ChangePWForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CheckBOMForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CheckConfigForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CompanyForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ConfirmDlg.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DefaultSNForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DelMOForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DelUserForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DetailMainForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\GroupForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\HistoryMOForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\InformationForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\InitForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ItemEditForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\KPCompletedForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\LineViewForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\LoadMOForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MainWindow.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MoLinkForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MoreForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_InputForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_InsertForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_ManageForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\OptionForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\OrderForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM_ModelForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\POForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\RefreshMOForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\RManageForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\RouteGraphForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\SNSearchForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\StbKeyForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\TravelCardForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\App.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.cache
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.lref
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\App.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\AuorthityForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CapacityForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CapacitySearchForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ChangePWForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CheckBOMForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CheckConfigForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\CompanyForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ConfirmDlg.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DefaultSNForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DelMOForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DelMOPWDForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DelUserForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\DetailMainForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\GroupForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\HistoryMOForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\InformationForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\InitForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ItemEditForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\KPCompletedForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\LineViewForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\LoadMOForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MainWindow.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MoLinkForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MoLinkPIForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MoreForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_InputForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_InputOemForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_InsertForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\MO_ManageForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\OptionForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\OrderForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM_ModelForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\POForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\RefreshMOForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\RManageForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\RouteGraphForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\ShowMessageForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\SNSearchForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\StbKeyForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\TravelCardForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.baml
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.g.resources
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.csproj.CopyComplete
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.exe
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.pdb
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.exe.config
+C:\Users\V0990943\Desktop\PM\PM\obj\Debug\PM.csprojAssemblyReference.cache
+D:\SON\WPF\PM\PM\obj\Debug\PM.csprojAssemblyReference.cache
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\bin\Debug\PM.exe.config
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\bin\Debug\PM.exe
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\bin\Debug\PM.pdb
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\AuorthityForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CapacityForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ChangePWForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CheckBOMForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CheckConfigForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CompanyForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ConfirmDlg.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DefaultSNForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DelMOForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DelUserForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DetailMainForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\GroupForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\HistoryMOForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\InformationForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\InitForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ItemEditForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\KPCompletedForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\LineViewForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\LoadMOForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MainWindow.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MoLinkForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MoreForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_InputForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_InsertForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_ManageForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\OptionForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\OrderForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM_ModelForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\POForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\RefreshMOForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\RManageForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\RouteGraphForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\SNSearchForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\StbKeyForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\TravelCardForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\App.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM_MarkupCompile.cache
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM_MarkupCompile.lref
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\App.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\AuorthityForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CapacityForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CapacitySearchForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ChangePWForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CheckBOMForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CheckConfigForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\CompanyForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ConfirmDlg.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DefaultSNForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DelMOForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DelMOPWDForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DelUserForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\DetailMainForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\Dlg_ModelForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\GroupForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\HistoryMOForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\InformationForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\InitForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ItemEditForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\KPCompletedForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\LineViewForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\LoadMOForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MainWindow.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MoLinkForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MoLinkPIForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MoreForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_InputForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_InputOemForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_InsertForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\MO_ManageForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\OptionForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\OrderForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM_ModelForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\POForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\RefreshMOForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\RManageForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\RouteGraphForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\ShowMessageForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\SNSearchForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\StbKeyForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\TravelCardForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\TravelCardSearchForm.baml
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.g.resources
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.csproj.CopyComplete
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.exe
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.pdb
+C:\Users\V0990926\Desktop\Convert C#\PM\PM\obj\Debug\PM.exe.config
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\bin\Debug\PM.exe.config
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\bin\Debug\PM.exe
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\bin\Debug\PM.pdb
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.exe.config
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\AuorthityForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CapacityForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ChangePWForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CheckBOMForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CheckConfigForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CompanyForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ConfirmDlg.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DefaultSNForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DelMOForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DelUserForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DetailMainForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\GroupForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\HistoryMOForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\InformationForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\InitForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ItemEditForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\KPCompletedForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\LineViewForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\LoadMOForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MainWindow.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MoLinkForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MoreForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_InputForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_InsertForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_ManageForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\OptionForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\OrderForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM_ModelForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\POForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\RefreshMOForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\RManageForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\RouteGraphForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\SNSearchForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\StbKeyForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\TravelCardForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\App.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM_MarkupCompile.cache
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM_MarkupCompile.lref
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\App.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\AuorthityForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CapacityForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CapacitySearchForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ChangePWForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CheckBOMForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CheckConfigForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\CompanyForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ConfirmDlg.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DefaultSNForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DelMOForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DelMOPWDForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DelUserForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\DetailMainForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\Dlg_ModelForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\GroupForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\HistoryMOForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\InformationForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\InitForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ItemEditForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\KPCompletedForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\LineViewForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\LoadMOForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MainWindow.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MoLinkForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MoLinkPIForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MoreForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_InputForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_InputOemForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_InsertForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\MO_ManageForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\OptionForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\OrderForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM_ModelForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\POForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\RefreshMOForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\RManageForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\RouteGraphForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\ShowMessageForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\SNSearchForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\StbKeyForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\TravelCardForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\TravelCardSearchForm.baml
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.g.resources
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.csproj.CopyComplete
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.exe
+C:\Users\V1013894\Desktop\Convert to C#\PM\PM\obj\Debug\PM.pdb
+C:\Users\V1013894\Desktop\PM\PM\bin\Debug\PM.exe.config
+C:\Users\V1013894\Desktop\PM\PM\bin\Debug\PM.exe
+C:\Users\V1013894\Desktop\PM\PM\bin\Debug\PM.pdb
+C:\Users\V1013894\Desktop\PM\PM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\AuorthityForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CapacityForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ChangePWForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CheckBOMForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CheckConfigForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CompanyForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ConfirmDlg.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DefaultSNForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DelMOForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DelUserForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DetailMainForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\GroupForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\HistoryMOForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\InformationForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\InitForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ItemEditForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\KPCompletedForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\LineViewForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\LoadMOForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MainWindow.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MoLinkForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MoreForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_InputForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_InsertForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_ManageForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\OptionForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\OrderForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM_ModelForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\POForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\RefreshMOForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\RManageForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\RouteGraphForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\SNSearchForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\StbKeyForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\TravelCardForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\App.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.cache
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.lref
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\App.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\AuorthityForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CapacityForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CapacitySearchForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ChangePWForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CheckBOMForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CheckConfigForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\CompanyForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ConfirmDlg.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DefaultSNForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DelMOForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DelMOPWDForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DelUserForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\DetailMainForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\GroupForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\HistoryMOForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\InformationForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\InitForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ItemEditForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\KPCompletedForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\LineViewForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\LoadMOForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MainWindow.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MoLinkForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MoLinkPIForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MoreForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_InputForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_InputOemForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_InsertForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\MO_ManageForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\OptionForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\OrderForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM_ModelForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\POForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\RefreshMOForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\RManageForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\RouteGraphForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\ShowMessageForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\SNSearchForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\StbKeyForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\TravelCardForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.baml
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.g.resources
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.csproj.CopyComplete
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.exe
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.pdb
+C:\Users\V1013894\Desktop\PM\PM\obj\Debug\PM.exe.config
+D:\Kiệm\PM\PM\bin\Debug\Newtonsoft.Json.dll
+D:\Kiệm\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+D:\Kiệm\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+D:\Kiệm\PM\PM\obj\Debug\AuorthityForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\CapacityForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\ChangePWForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\CheckBOMForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\CheckConfigForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\CompanyForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\ConfirmDlg.g.cs
+D:\Kiệm\PM\PM\obj\Debug\DefaultSNForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\DelMOForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\DelUserForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\DetailMainForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\GroupForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\HistoryMOForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\InformationForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\InitForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\ItemEditForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\KPCompletedForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\LineViewForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\LoadMOForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MainWindow.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MoLinkForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MoreForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MO_InputForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MO_InsertForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\MO_ManageForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\OptionForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\OrderForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\PM_ModelForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\POForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\RefreshMOForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\RManageForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\RouteGraphForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\ShowMessageForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\SNSearchForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\StbKeyForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\TravelCardForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+D:\Kiệm\PM\PM\obj\Debug\App.g.cs
+D:\Kiệm\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Kiệm\PM\PM\obj\Debug\App.baml
+D:\Kiệm\PM\PM\obj\Debug\AuorthityForm.baml
+D:\Kiệm\PM\PM\obj\Debug\CapacityForm.baml
+D:\Kiệm\PM\PM\obj\Debug\CapacitySearchForm.baml
+D:\Kiệm\PM\PM\obj\Debug\ChangePWForm.baml
+D:\Kiệm\PM\PM\obj\Debug\CheckBOMForm.baml
+D:\Kiệm\PM\PM\obj\Debug\CheckConfigForm.baml
+D:\Kiệm\PM\PM\obj\Debug\CompanyForm.baml
+D:\Kiệm\PM\PM\obj\Debug\ConfirmDlg.baml
+D:\Kiệm\PM\PM\obj\Debug\DefaultSNForm.baml
+D:\Kiệm\PM\PM\obj\Debug\DelMOForm.baml
+D:\Kiệm\PM\PM\obj\Debug\DelMOPWDForm.baml
+D:\Kiệm\PM\PM\obj\Debug\DelUserForm.baml
+D:\Kiệm\PM\PM\obj\Debug\DetailMainForm.baml
+D:\Kiệm\PM\PM\obj\Debug\Dlg_ModelForm.baml
+D:\Kiệm\PM\PM\obj\Debug\GroupForm.baml
+D:\Kiệm\PM\PM\obj\Debug\HistoryMOForm.baml
+D:\Kiệm\PM\PM\obj\Debug\InformationForm.baml
+D:\Kiệm\PM\PM\obj\Debug\InitForm.baml
+D:\Kiệm\PM\PM\obj\Debug\ItemEditForm.baml
+D:\Kiệm\PM\PM\obj\Debug\KPCompletedForm.baml
+D:\Kiệm\PM\PM\obj\Debug\LineViewForm.baml
+D:\Kiệm\PM\PM\obj\Debug\LoadMOForm.baml
+D:\Kiệm\PM\PM\obj\Debug\MainWindow.baml
+D:\Kiệm\PM\PM\obj\Debug\MoLinkForm.baml
+D:\Kiệm\PM\PM\obj\Debug\MoLinkPIForm.baml
+D:\Kiệm\PM\PM\obj\Debug\MoreForm.baml
+D:\Kiệm\PM\PM\obj\Debug\MO_InputForm.baml
+D:\Kiệm\PM\PM\obj\Debug\MO_InputOemForm.baml
+D:\Kiệm\PM\PM\obj\Debug\MO_InsertForm.baml
+D:\Kiệm\PM\PM\obj\Debug\MO_ManageForm.baml
+D:\Kiệm\PM\PM\obj\Debug\OptionForm.baml
+D:\Kiệm\PM\PM\obj\Debug\OrderForm.baml
+D:\Kiệm\PM\PM\obj\Debug\PM_ModelForm.baml
+D:\Kiệm\PM\PM\obj\Debug\POForm.baml
+D:\Kiệm\PM\PM\obj\Debug\RefreshMOForm.baml
+D:\Kiệm\PM\PM\obj\Debug\RManageForm.baml
+D:\Kiệm\PM\PM\obj\Debug\RouteGraphForm.baml
+D:\Kiệm\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+D:\Kiệm\PM\PM\obj\Debug\ShowMessageForm.baml
+D:\Kiệm\PM\PM\obj\Debug\SNSearchForm.baml
+D:\Kiệm\PM\PM\obj\Debug\StbKeyForm.baml
+D:\Kiệm\PM\PM\obj\Debug\TravelCardForm.baml
+D:\Kiệm\PM\PM\obj\Debug\TravelCardSearchForm.baml
+D:\Kiệm\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+D:\Kiệm\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+D:\Kiệm\PM\PM\obj\Debug\PM.csproj.CopyComplete
+D:\Kiệm\PM\PM\bin\Debug\Newtonsoft.Json.xml
+D:\Kiệm\PM\PM\bin\Debug\PM_DEMO.exe.config
+D:\Kiệm\PM\PM\bin\Debug\PM_DEMO.exe
+D:\Kiệm\PM\PM\bin\Debug\PM_DEMO.pdb
+D:\Kiệm\PM\PM\obj\Debug\PM_DEMO.exe.config
+D:\Kiệm\PM\PM\obj\Debug\PM_DEMO_MarkupCompile.cache
+D:\Kiệm\PM\PM\obj\Debug\PM_DEMO_MarkupCompile.lref
+D:\Kiệm\PM\PM\obj\Debug\PM_DEMO.g.resources
+D:\Kiệm\PM\PM\obj\Debug\PM_DEMO.Properties.Resources.resources
+D:\Kiệm\PM\PM\obj\Debug\PM_DEMO.exe
+D:\Kiệm\PM\PM\obj\Debug\PM_DEMO.pdb
+C:\Users\V1047047\Desktop\PM NIC\PM\bin\Debug\PM_DEMO.exe.config
+C:\Users\V1047047\Desktop\PM NIC\PM\bin\Debug\PM_DEMO.exe
+C:\Users\V1047047\Desktop\PM NIC\PM\bin\Debug\PM_DEMO.pdb
+C:\Users\V1047047\Desktop\PM NIC\PM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1047047\Desktop\PM NIC\PM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_DEMO.exe.config
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\AuorthityForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CapacityForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CapacitySearchForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ChangePWForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CheckBOMForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CheckConfigForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CompanyForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ConfirmDlg.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DefaultSNForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DelMOForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DelMOPWDForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DelUserForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DetailMainForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\Dlg_ModelForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\GroupForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\HistoryMOForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\InformationForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\InitForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ItemEditForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\KPCompletedForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\LineViewForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\LoadMOForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MainWindow.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MoLinkForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MoLinkPIForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MoreForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_InputForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_InputOemForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_InsertForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_ManageForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\OptionForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\OrderForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_ModelForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\POForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\RefreshMOForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\RManageForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\RouteGraphForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ShowMessageForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\SNSearchForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\StbKeyForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\TravelCardForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\TravelCardSearchForm.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\App.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_DEMO_MarkupCompile.cache
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_DEMO_MarkupCompile.lref
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\App.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\AuorthityForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CapacityForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CapacitySearchForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ChangePWForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CheckBOMForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CheckConfigForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\CompanyForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ConfirmDlg.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DefaultSNForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DelMOForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DelMOPWDForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DelUserForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\DetailMainForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\Dlg_ModelForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\GroupForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\HistoryMOForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\InformationForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\InitForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ItemEditForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\KPCompletedForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\LineViewForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\LoadMOForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MainWindow.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MoLinkForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MoLinkPIForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MoreForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_InputForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_InputOemForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_InsertForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\MO_ManageForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\OptionForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\OrderForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_ModelForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\POForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\RefreshMOForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\RManageForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\RouteGraphForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\Setup_Pending_GroupForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\ShowMessageForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\SNSearchForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\StbKeyForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\TravelCardForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\TravelCardSearchForm.baml
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_DEMO.g.resources
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_DEMO.Properties.Resources.resources
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM.csproj.CopyComplete
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_DEMO.exe
+C:\Users\V1047047\Desktop\PM NIC\PM\obj\Debug\PM_DEMO.pdb
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\AuorthityForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacityForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ChangePWForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckBOMForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckConfigForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CompanyForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ConfirmDlg.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DefaultSNForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelUserForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DetailMainForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\GroupForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\HistoryMOForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InformationForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InitForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ItemEditForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\KPCompletedForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LineViewForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LoadMOForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MainWindow.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoreForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InsertForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_ManageForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OptionForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OrderForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_ModelForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\POForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RefreshMOForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RManageForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RouteGraphForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ShowMessageForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\SNSearchForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\StbKeyForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\App.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\App.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\AuorthityForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacityForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacitySearchForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ChangePWForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckBOMForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckConfigForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CompanyForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ConfirmDlg.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DefaultSNForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOPWDForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelUserForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DetailMainForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Dlg_ModelForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\GroupForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\HistoryMOForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InformationForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InitForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ItemEditForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\KPCompletedForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LineViewForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LoadMOForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MainWindow.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkPIForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoreForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputOemForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InsertForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_ManageForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OptionForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OrderForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_ModelForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\POForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RefreshMOForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RManageForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RouteGraphForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ShowMessageForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\SNSearchForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\StbKeyForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardSearchForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\bin\Debug\Newtonsoft.Json.xml
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\bin\Debug\PM.exe.config
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\bin\Debug\PM.exe
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\bin\Debug\PM.pdb
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.exe.config
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_MarkupCompile.cache
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_MarkupCompile.lref
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.g.resources
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.Properties.Resources.resources
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.exe
+D:\NIC Source\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.pdb
+C:\Users\v1039442\Desktop\PM\PM\bin\Debug\PM.exe.config
+C:\Users\v1039442\Desktop\PM\PM\bin\Debug\PM.exe
+C:\Users\v1039442\Desktop\PM\PM\bin\Debug\PM.pdb
+C:\Users\v1039442\Desktop\PM\PM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.exe.config
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\AuorthityForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CapacityForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ChangePWForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CheckBOMForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CheckConfigForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CompanyForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ConfirmDlg.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DefaultSNForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DelMOForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DelUserForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DetailMainForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\GroupForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\HistoryMOForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\InformationForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\InitForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ItemEditForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\KPCompletedForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\LineViewForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\LoadMOForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MainWindow.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MoLinkForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MoreForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_InputForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_InsertForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_ManageForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\OptionForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\OrderForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM_ModelForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\POForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\RefreshMOForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\RManageForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\RouteGraphForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ShowMessageForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\SNSearchForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\StbKeyForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\TravelCardForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\App.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.cache
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM_MarkupCompile.lref
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\App.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\AuorthityForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CapacityForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CapacitySearchForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ChangePWForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CheckBOMForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CheckConfigForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\CompanyForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ConfirmDlg.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DefaultSNForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DelMOForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DelMOPWDForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DelUserForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\DetailMainForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\Dlg_ModelForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\GroupForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\HistoryMOForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\InformationForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\InitForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ItemEditForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\KPCompletedForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\LineViewForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\LoadMOForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MainWindow.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MoLinkForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MoLinkPIForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MoreForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_InputForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_InputOemForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_InsertForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\MO_ManageForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\OptionForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\OrderForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM_ModelForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\POForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\RefreshMOForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\RManageForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\RouteGraphForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\ShowMessageForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\SNSearchForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\StbKeyForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\TravelCardForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\TravelCardSearchForm.baml
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.g.resources
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.csproj.CopyComplete
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.exe
+C:\Users\v1039442\Desktop\PM\PM\obj\Debug\PM.pdb
+E:\5.0\NIC_SFC\PD\PM\PM\bin\Debug\PM.exe.config
+E:\5.0\NIC_SFC\PD\PM\PM\bin\Debug\PM.exe
+E:\5.0\NIC_SFC\PD\PM\PM\bin\Debug\PM.pdb
+E:\5.0\NIC_SFC\PD\PM\PM\bin\Debug\Newtonsoft.Json.xml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.exe.config
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.ResolveComReference.cache
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\AuorthityForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacityForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacitySearchForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ChangePWForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckBOMForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckConfigForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CompanyForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ConfirmDlg.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DefaultSNForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOPWDForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelUserForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DetailMainForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Dlg_ModelForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\GroupForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\HistoryMOForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InformationForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InitForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ItemEditForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\KPCompletedForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LineViewForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LoadMOForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MainWindow.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkPIForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoreForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputOemForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InsertForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_ManageForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OptionForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OrderForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_ModelForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\POForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RefreshMOForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RManageForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RouteGraphForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Setup_Pending_GroupForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ShowMessageForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\SNSearchForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\StbKeyForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardSearchForm.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\App.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_MarkupCompile.cache
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_MarkupCompile.lref
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\App.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\AuorthityForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacityForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CapacitySearchForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ChangePWForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckBOMForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CheckConfigForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\CompanyForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ConfirmDlg.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DefaultSNForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelMOPWDForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DelUserForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\DetailMainForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Dlg_ModelForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\GroupForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\HistoryMOForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InformationForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\InitForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ItemEditForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\KPCompletedForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LineViewForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\LoadMOForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MainWindow.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoLinkPIForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MoreForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InputOemForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_InsertForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\MO_ManageForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OptionForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\OrderForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM_ModelForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\POForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RefreshMOForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RManageForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\RouteGraphForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\Setup_Pending_GroupForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\ShowMessageForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\SNSearchForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\StbKeyForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\TravelCardSearchForm.baml
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.g.resources
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.Properties.Resources.resources
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.csproj.CopyComplete
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.exe
+E:\5.0\NIC_SFC\PD\PM\PM\obj\Debug\PM.pdb

@@ -1,0 +1,126 @@
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe.config
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.pdb
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Interop.LabelManager2.dll
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\bin\x86\Debug\stdole.dll
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.MSL_PRINT.resources
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Properties.Resources.resources
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Reprint_Form.resources
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.ShowVariable.resources
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.VisibleForm.resources
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.GenerateResource.Cache
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb
+D:\CHON\MAIN\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csprojResolveAssemblyReference.cache
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe.config
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.pdb
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Interop.LabelManager2.dll
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\stdole.dll
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.MSL_PRINT.resources
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Properties.Resources.resources
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Reprint_Form.resources
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.ShowVariable.resources
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.VisibleForm.resources
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.GenerateResource.Cache
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.AssemblyReference.cache
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CoreCompileInputs.cache
+D:\CHON\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CopyComplete
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe.config
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.pdb
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\bin\x86\Debug\stdole.dll
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csprojResolveAssemblyReference.cache
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.MSL_PRINT.resources
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Properties.Resources.resources
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Reprint_Form.resources
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.ShowVariable.resources
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.VisibleForm.resources
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.GenerateResource.Cache
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+C:\Users\V1019802\Desktop\6\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe.config
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.pdb
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\stdole.dll
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.MSL_PRINT.resources
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Properties.Resources.resources
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Reprint_Form.resources
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.ShowVariable.resources
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.VisibleForm.resources
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.GenerateResource.Cache
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.AssemblyReference.cache
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CoreCompileInputs.cache
+E:\NIC Source\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CopyComplete
+D:\CODE_NIC\NIC_SFC\SFCThales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe.config
+D:\CODE_NIC\NIC_SFC\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+D:\CODE_NIC\NIC_SFC\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe.config
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.exe
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\MSL_PRINT.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Sfc.Core.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\SFCThales.exe
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\stdole.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\SFC_Library.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\CHECK_MSL.exe
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\GemaltoRoast.exe
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\sfcconnect.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Oracle.dll
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\SFCThales.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\SFCThales.exe.config
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\SFC_Library.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\SFC_Library.xml
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\CHECK_MSL.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\CHECK_MSL.exe.config
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\GemaltoRoast.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\GemaltoRoast.exe.config
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\bin\x86\Debug\sfcconnect.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.AssemblyReference.cache
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.MSL_PRINT.resources
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Properties.Resources.resources
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Reprint_Form.resources
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.ShowVariable.resources
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.VisibleForm.resources
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.GenerateResource.cache
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CoreCompileInputs.cache
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CopyComplete
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb
+C:\NIC\SFCThales\MSL_PRINT.exe.config
+C:\NIC\SFCThales\MSL_PRINT.exe
+C:\NIC\SFCThales\MSL_PRINT.pdb
+C:\Users\V1019802\Desktop\Thales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe.config
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.AssemblyReference.cache
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe.config
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.MSL_PRINT.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Properties.Resources.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Reprint_Form.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.ShowVariable.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.VisibleForm.resources
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.GenerateResource.cache
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CoreCompileInputs.cache
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+C:\Users\V1047047\Desktop\sfc_thasles\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.AssemblyReference.cache
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe.config
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.MSL_PRINT.resources
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Properties.Resources.resources
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.Reprint_Form.resources
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.ShowVariable.resources
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.VisibleForm.resources
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.GenerateResource.cache
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.csproj.CoreCompileInputs.cache
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.exe
+E:\SFCThales\SFCThales\MSL_PRINT\MSL_PRINT\obj\x86\Debug\MSL_PRINT.pdb

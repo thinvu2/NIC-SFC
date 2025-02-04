@@ -1,0 +1,40 @@
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.245.212.61)(PORT=1903))(CONNECT_DATA=(SERVICE_NAME=sfcodb)(CID=(PROGRAM=C:\Users\V0000637\Desktop\HANG Trung Khanh\CHK_LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.exe)(HOST=V0000637-IT)(USER=V0000637))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 08-10月-2018 08:38:06
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:作業逾時
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 作業逾時
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.245.212.61)(PORT=1903))(CONNECT_DATA=(SERVICE_NAME=sfcodb)(CID=(PROGRAM=C:\Users\V0000637\Desktop\HANG Trung Khanh\CHK_LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.exe)(HOST=V0000637-IT)(USER=V0000637))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 08-10月-2018 13:58:15
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:作業逾時
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 作業逾時
+    nt secondary err code: 60
+    nt OS err code: 0

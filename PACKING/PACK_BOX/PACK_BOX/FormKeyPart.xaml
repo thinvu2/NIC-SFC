@@ -1,0 +1,112 @@
+﻿<Window x:Class="PACK_BOX.FormKeyPart"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_BOX"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Normal" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="16" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextElement.FontFamily="Arial"
+        Title="FormKeyPart" Height="400" Width="600" Initialized="Window_Initialized" Closed="FormKeyPart_Close">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                <GradientStop Color="#034E70" Offset="0"/>
+                <GradientStop Color="#0889A6" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <DockPanel>
+                <DockPanel.Background>
+                    <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                        <GradientStop Color="#034E70" Offset="0"/>
+                        <GradientStop Color="#0889A6" Offset="0.567"/>
+                    </LinearGradientBrush>
+                </DockPanel.Background>
+                <Label Name="lb_keypart" Content="KEYPART STATION" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Foreground="White" FontWeight="ExtraBlack"/>
+            </DockPanel>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <TextBlock Text="Send :" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid  Margin="5">
+                    <materialDesign:Card Foreground="{DynamicResource PrimaryHueLightForegroundBrush}" Height="35" VerticalAlignment="Center">
+                        <TextBox Name="Edt_scan_keypart" Margin="10 0" FontWeight="Normal" VerticalAlignment="Center" KeyDown="Edt_scan_keypart_KeyDown"/>
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <TextBlock Text="Accessories :" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0"  Margin="5">
+                    <ListBox Name="lstlong" Background="White"/>
+                    <TextBox x:Name="Edt_monumber"  Height="30" Width="200"/>
+                </Grid>
+                <Grid Grid.Column="1" Margin="5">
+                    <ListBox Name="lstshost" Background="White"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <TextBlock Text="S/N :" Foreground="White" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Label Name="lb_serial" VerticalAlignment="Center" Foreground="White"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <TextBlock Text="Rec :" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Label Name="lb_mmorec" VerticalAlignment="Center" Foreground="White"/>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

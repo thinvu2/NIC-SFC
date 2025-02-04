@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfc.Api", "Sfc.Api\Sfc.Api.csproj", "{863D12B3-B198-43F5-806E-B1E1B512F843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfc.Core", "Sfc.Core\Sfc.Core.csproj", "{03F14C6A-221F-487F-AB63-EF6D359014A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfc.OracleDatabase", "Sfc.OracleDatabase\Sfc.OracleDatabase.csproj", "{1C4FED5B-1F73-44B5-B2C1-93A9C5D8461B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfc.Services", "Sfc.Services\Sfc.Services.csproj", "{A98DBEB9-A855-4967-8DA2-21B67191C9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfc.ConsoleApp", "Sfc.ConsoleApp\Sfc.ConsoleApp.csproj", "{72654044-0783-40E3-92A3-A0DB7A28F6FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfc.Library.HttpClient", "Sfc.Library.HttpClient\Sfc.Library.HttpClient.csproj", "{707065FD-3EE0-43BB-9C9C-B91A698953CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfc.Library.HttpClient.V2", "Sfc.Library.HttpClient.V2\Sfc.Library.HttpClient.V2.csproj", "{902EE672-F356-411F-8A10-07C96F89ACC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863D12B3-B198-43F5-806E-B1E1B512F843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863D12B3-B198-43F5-806E-B1E1B512F843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863D12B3-B198-43F5-806E-B1E1B512F843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863D12B3-B198-43F5-806E-B1E1B512F843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F14C6A-221F-487F-AB63-EF6D359014A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F14C6A-221F-487F-AB63-EF6D359014A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F14C6A-221F-487F-AB63-EF6D359014A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F14C6A-221F-487F-AB63-EF6D359014A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4FED5B-1F73-44B5-B2C1-93A9C5D8461B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4FED5B-1F73-44B5-B2C1-93A9C5D8461B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4FED5B-1F73-44B5-B2C1-93A9C5D8461B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4FED5B-1F73-44B5-B2C1-93A9C5D8461B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98DBEB9-A855-4967-8DA2-21B67191C9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98DBEB9-A855-4967-8DA2-21B67191C9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98DBEB9-A855-4967-8DA2-21B67191C9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98DBEB9-A855-4967-8DA2-21B67191C9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72654044-0783-40E3-92A3-A0DB7A28F6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72654044-0783-40E3-92A3-A0DB7A28F6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72654044-0783-40E3-92A3-A0DB7A28F6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72654044-0783-40E3-92A3-A0DB7A28F6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707065FD-3EE0-43BB-9C9C-B91A698953CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707065FD-3EE0-43BB-9C9C-B91A698953CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707065FD-3EE0-43BB-9C9C-B91A698953CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707065FD-3EE0-43BB-9C9C-B91A698953CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902EE672-F356-411F-8A10-07C96F89ACC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902EE672-F356-411F-8A10-07C96F89ACC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902EE672-F356-411F-8A10-07C96F89ACC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902EE672-F356-411F-8A10-07C96F89ACC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D90FF4C-C0EB-41A2-A721-0B8741FA4C73}
+	EndGlobalSection
+EndGlobal

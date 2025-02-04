@@ -1,0 +1,67 @@
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Sfc.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Sfc.Core.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Debug\Sfc.Core.csproj.CoreCompileInputs.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Debug\Sfc.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Debug\Sfc.Core.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Newtonsoft.Json.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Debug\Sfc.Core.csproj.CopyComplete
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Sfc.Core.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Microsoft.Owin.Security.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\Microsoft.Owin.Security.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\System.Buffers.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Debug\System.Memory.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Debug\Sfc.Core.csprojAssemblyReference.cache
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.dll.config
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.pdb
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Microsoft.Owin.Security.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Newtonsoft.Json.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\System.Buffers.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\System.Memory.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\bin\Debug\Microsoft.Owin.Security.xml
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.AssemblyReference.cache
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.CoreCompileInputs.cache
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.CopyComplete
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\System.Buffers.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\System.Memory.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.dll.config
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Sfc.Core.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Microsoft.Owin.Security.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Newtonsoft.Json.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\System.Buffers.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\System.Memory.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\bin\Debug\Microsoft.Owin.Security.xml
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.Core\obj\Debug\Sfc.Core.pdb

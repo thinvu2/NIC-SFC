@@ -1,0 +1,140 @@
+﻿<Window x:Class="PACK_CTN.SetLabelQTY"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:local="clr-namespace:PACK_CTN" 
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:uc="clr-namespace:PACK_CTN.UserControlCTN" 
+        mc:Ignorable="d" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="14" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        FontFamily="{DynamicResource MaterialDesignFont}" 
+        Background="#FFE5F2F5"
+        Title="Set Label QTY" Height="400" Width="300" WindowState="Normal" WindowStyle="None"
+        Foreground="OrangeRed"
+        Name="SetLabel" Loaded="SetLabelQTY_Loaded" 
+         WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <SolidColorBrush x:Key="header" Color="#0889a6"/>
+        <SolidColorBrush x:Key="MenuItem" Color="#0889a6"/>
+        <SolidColorBrush x:Key="Label_text" Color="#0889a6"/>
+        <SolidColorBrush x:Key="Colortext" Color="OrangeRed"/>
+        <SolidColorBrush x:Key="Icon" Color="#0889a6"/>
+    </Window.Resources>
+    <Grid Background="#0889a6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="AUTO"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title ,ElementName=SetLabel}"></uc:ControlBarUC>
+        </Grid>
+        <Grid Grid.Row="1" Background="{StaticResource header}">
+            <Label Content="Setup Label QTY" VerticalAlignment="Center" HorizontalAlignment="Center" Background="{x:Null}" FontFamily="Arial" FontSize="16"  Foreground="White"></Label>
+        </Grid>
+        <Grid Grid.Row="2" Background="#0889a6"
+                 >
+            <!--<Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF75DBF1" Offset="0.975"/>
+                    <GradientStop Color="#FFC6E0E6" Offset="0.519"/>
+                </LinearGradientBrush>
+            </Grid.Background>-->
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1.5*" ></ColumnDefinition>
+                    <ColumnDefinition ></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0"  Background="#0889a6" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition ></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Margin="0 0.5"  Background="White" >
+                        <Label Grid.Row="0" Content="SN QTY Label" HorizontalAlignment="Center" VerticalAlignment="Bottom"  />
+                    </Grid>
+                    <Grid Grid.Row="1" Margin="0 0.5"   Background="White" >
+                        <Label Grid.Row="1" Content="Carton Label QTY" HorizontalAlignment="Center" VerticalAlignment="Bottom"  />
+                    </Grid>
+                    <Grid Grid.Row="2" Margin="0 0.5"  Background="White" >
+                        <Label Grid.Row="2" Content="Carton Max QTY" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                    <Grid Grid.Row="3"  Margin="0 0.5"  Background="White">
+                        <Label Grid.Row="3" Content="Margin Top" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                    <Grid Grid.Row="4"  Margin="0 0.5"   Background="White" >
+                        <Label Grid.Row="4" Content="Margin Left" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                    <Grid Grid.Row="5"  Margin="0 0.5"  Background="White" >
+                        <Label Grid.Row="5" Content="VerticalGap" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                    <Grid Grid.Row="6"  Margin="0 0.5"  Background="White" >
+                        <Label Grid.Row="6" Content="HorixontalGap" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="1" Margin="0 0 0 0" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Margin="0 0.5" Background="White">
+                        <ComboBox Name="cbbsnQty" Grid.Row="0" ItemsSource="{Binding MyDataSource}" IsEditable="True" MaxDropDownHeight="150" Margin="0 0 20 0" IsEnabled="False" />
+                    </Grid>
+                    <Grid Grid.Row="1" Margin="0 0.5"  Background="White" >
+                        <ComboBox Name="cbbLabelQty" Grid.Row="1" ItemsSource="{Binding MyDataSource}"  IsEditable="True" MaxDropDownHeight="150"  Margin="0 0 20 0" IsEnabled="False" ></ComboBox>
+                    </Grid>
+                    <Grid Grid.Row="2" Margin="0 0.5"  Background="White">
+                        <ComboBox Name="cbbMaxQty" Grid.Row="2"  ItemsSource="{Binding MyDataSource}" IsEditable="True" MaxDropDownHeight="150"  Margin="0 0 20 0" IsEnabled="False" ></ComboBox>
+                    </Grid>
+                    <Grid Grid.Row="3" Margin="0 0.5"  Background="White">
+                        <ComboBox Name="cbbMarginTop"  Grid.Row="3" ItemsSource="{Binding MyDataSource}"  IsEditable="True" MaxDropDownHeight="150" Margin="0 0 20 0" ></ComboBox>
+                    </Grid>
+                    <Grid Grid.Row="4" Margin="0 0.5"  Background="White">
+                        <ComboBox Name="cbbMarginLeft" Grid.Row="4" ItemsSource="{Binding MyDataSource}" IsEditable="True" MaxDropDownHeight="150"  Margin="0 0 20 0" ></ComboBox>
+                    </Grid>
+                    <Grid Grid.Row="5" Margin="0 0.5" Background="White">
+                        <ComboBox Name="cbbVertical" Grid.Row="5"  ItemsSource="{Binding MyDataSource}" IsEditable="True" MaxDropDownHeight="150"  Margin="0 0 20 0" ></ComboBox>
+                    </Grid>
+                    <Grid Grid.Row="6" Margin="0 0.5"  Background="White" >
+                        <ComboBox Name="cbbHorixontal" Grid.Row="6" ItemsSource="{Binding MyDataSource}"  IsEditable="True" MaxDropDownHeight="150"  Margin="0 0 20 0"></ComboBox>
+                    </Grid>
+
+                      
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1" Margin="0.5" Background="White" >
+                <Border BorderBrush="White" BorderThickness="1" Margin="1" >
+                    <DockPanel HorizontalAlignment="Center" >
+                        <Button Name="btOK" Content="OK" Style="{StaticResource MaterialDesignRaisedLightButton}"  Margin="0 0 10 0" Width="90" ToolTip="Resource name: MaterialDesignRaisedLightButton" 
+                                BorderBrush="#FF7349C1"  Background="{StaticResource Label_text}" Foreground="White" Click="btOK_Click" ></Button>
+                        <Button Name="btCancel" Content="CANCEL"  Style="{StaticResource MaterialDesignRaisedLightButton}"  Margin="0 0 10 0" Width="90" ToolTip="Resource name: MaterialDesignRaisedLightButton" 
+                                BorderBrush="#FF7349C1" Background="{StaticResource Label_text}" Foreground="White" Click="btCancel_Click" ></Button>
+                    </DockPanel>
+                </Border>
+            </Grid>
+                  
+
+        </Grid>
+    </Grid>
+</Window>

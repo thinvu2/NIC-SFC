@@ -1,0 +1,354 @@
+﻿<Window x:Class="CHECK_SYS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" ResizeMode="CanResize" WindowStyle="None"
+        xmlns:local="clr-namespace:CHECK_SYS"
+        mc:Ignorable="d"
+        Icon="Images/checksys.ico"
+        Closed="MainWindow_Closed"
+        Title="CHECK SYS" Height="750" Width="1200"
+        >
+    <Window.Resources>
+        <SolidColorBrush x:Key="GotFocusColor" Color="#FFECECD6" />
+        <SolidColorBrush x:Key="LostFocusColor" Color="Transparent" />
+        <Style TargetType="Button" x:Key="btnStyle">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Background" Value="White" />
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border CornerRadius="10" Background="White"  BorderThickness="0,0,0,0" >
+                            <ContentPresenter x:Name="contentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="Gray"/>
+                    <Setter Property="Foreground" Value="Gray"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="{x:Type DataGridRow}">
+            <Setter Property="Foreground" Value="#FF000000"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+            <Setter Property="FontSize" Value="11"/>
+            <Setter Property="FontFamily" Value="Arial" />
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="#FFCC33"/>
+                    <Setter Property="Foreground" Value="#FF000000"/>
+                </Trigger>
+
+                <Trigger Property="IsSelected" Value="False">
+                    <Setter Property="Background" Value="White"/>
+                    <Setter Property="Foreground" Value="#FF000000"/>
+                </Trigger>
+
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="ComboboxButtonStyle" TargetType="{x:Type ToggleButton}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ToggleButton}">
+                        <Border   
+             Background="White"   
+             x:Name="border"   
+             CornerRadius="0,10,10,0"   
+             BorderThickness="0,1,1,1"  
+             BorderBrush="#FFCC33">
+                            <ContentPresenter />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+
+        <Style x:Key="ComboboxTextBoxStyle" TargetType="{x:Type TextBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border CornerRadius="10,0,0,10"  
+               BorderThickness="1,1,0,1"
+               HorizontalAlignment="Stretch"               
+               Background="White"
+               IsEnabled="True"
+               BorderBrush="#FFCC33">
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontWeight" Value="12"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+
+        <Style x:Key="ComboBoxItemStyle" TargetType="{x:Type ComboBoxItem}">
+            <Style.Triggers>
+                <Trigger Property="IsSelected"
+                     Value="True">
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="ComboboxStyle" TargetType="{x:Type ComboBox}">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ComboBox}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="185"/>
+                                <ColumnDefinition Width="15"/>
+                            </Grid.ColumnDefinitions>
+                            <ComboBoxItem Style="{StaticResource ComboBoxItemStyle}"></ComboBoxItem>
+                            <TextBox Name="PART_EditableTextBox"  
+                Style="{StaticResource ComboboxTextBoxStyle}" 
+                HorizontalContentAlignment="Center" 
+                IsEnabled="true"
+                Padding="0,0,0,0"  
+                Height="22"/>
+                            <ToggleButton Grid.Column="1" Margin="0"  
+               Height="22"  
+               Style="{StaticResource ComboboxButtonStyle}"  
+               Focusable="False"  
+               IsChecked="{Binding Path=IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}"  
+               ClickMode="Press">
+                                <Path Grid.Column="1"  
+                  HorizontalAlignment="Center"                                     
+                  VerticalAlignment="Center"  
+                  Data="M 0 0 L 4 4 L 8 0 Z"  
+                  Fill="DodgerBlue" />
+                            </ToggleButton>
+                            <ContentPresenter Name="ContentSite"  
+               Content="{TemplateBinding SelectionBoxItem}"  
+               ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"  
+               ContentTemplateSelector="{TemplateBinding ItemTemplateSelector}"  
+               VerticalAlignment="Center"  
+               HorizontalAlignment="Center"                                              
+               Margin="5,0,0,0"/>
+                            <Popup Name="Popup"  
+               Placement="Bottom"  
+               IsOpen="{TemplateBinding IsDropDownOpen}"  
+               AllowsTransparency="False"   
+               Focusable="False"               
+               PopupAnimation="Slide">
+
+                                <Grid Name="DropDown"  
+                 SnapsToDevicePixels="True"
+                  
+                 MinWidth="{TemplateBinding ActualWidth}"  
+                 MaxHeight="{TemplateBinding MaxDropDownHeight}"
+                                      >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="163*"/>
+                                        <ColumnDefinition Width="11*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Border   
+                   x:Name="DropDownBorder"  
+                   BorderThickness="1"  
+                   CornerRadius="10"
+                   
+                   Background="#FF23536A"
+                   
+                   BorderBrush="#FFCC33" Grid.ColumnSpan="2"/>
+                                    <ScrollViewer Margin="4,6,4,6" SnapsToDevicePixels="True" Grid.ColumnSpan="2">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained" Background="#FF23536A"/>
+                                    </ScrollViewer>
+                                </Grid>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="Background" Value="#FFCC33"/>
+            <Setter Property="Foreground" Value="#FF000000" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="IsTabStop" Value="False" />
+            <Setter Property="SeparatorBrush" Value="#FFC9CACA" />
+            <Setter Property="Padding" Value="4" />
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+
+        <Style x:Key="TextBoxBaseControlTemplate" TargetType="{x:Type TextBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border Background="White" BorderBrush="#FFCC33"
+                    IsEnabled="True"                    
+                x:Name="Bd"  
+                BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="10">
+                            <ScrollViewer Margin="0"
+                        x:Name="PART_ContentHost" />
+                        </Border>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontWeight" Value="13"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="DataGridCell">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontSize" Value="18"/>
+        </Style>
+
+        <Style x:Key="TextBoxWeightControlTemplate" TargetType="{x:Type TextBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border Background="White" BorderBrush="#FFCC33"
+                    IsEnabled="True"                    
+                x:Name="Bd"  
+                BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="10">
+                            <ScrollViewer Margin="0"
+                        x:Name="PART_ContentHost" />
+                        </Border>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Background" Value="#FF32C732"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+
+        <Style x:Key="PWBoxBaseControlTemplate" TargetType="{x:Type PasswordBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type PasswordBox}">
+                        <Border Background="White" BorderBrush="#FFCC33"
+                    IsEnabled="True"                    
+                x:Name="Bd"  
+                BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="10">
+                            <ScrollViewer Margin="0"
+                        x:Name="PART_ContentHost" />
+                        </Border>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontWeight" Value="13"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+
+    </Window.Resources>
+    <Border x:Name="borderFrame" Margin="0,0,2,0" BorderBrush="White" BorderThickness="1,1,1,23" Background="#FF23536A" >
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="0*"/>
+            </Grid.RowDefinitions>
+            <Grid x:Name="containerFrame" Margin="0,0,0,-23" Grid.RowSpan="2">
+                <Grid x:Name="homeHeader" VerticalAlignment="Top" HorizontalAlignment="Stretch" Height="81" Background="#FF23536A">
+                    <Canvas Width="38.099" Clip="F1 M 0,0L 666.667,0L 666.667,666.667L 0,666.667L 0,0" HorizontalAlignment="Left" Margin="8,8,0,13.833" d:LayoutOverrides="VerticalAlignment">
+                        <Path Width="37.334" Height="37.337" Stretch="Fill" Data="F1 M 309.961,50.3724C 358.72,46.1458 408.534,54.6138 453.081,74.9191C 516.428,103.387 568.521,155.812 596.534,219.359C 623.641,279.706 628.734,349.56 610.748,413.212C 597.121,462.239 570.081,507.466 533.348,542.679C 496.454,578.252 449.814,603.586 399.88,615.159C 332.121,631.212 258.654,621.292 197.6,587.787C 168.254,571.812 141.694,550.692 119.641,525.599C 86.6543,488.306 63.7076,442.239 53.8009,393.454C 42.8543,340.319 47.4676,284.107 66.9463,233.466C 84.0529,188.679 112.613,148.292 149.254,117.359C 194.148,79.0671 251.173,55.3724 309.961,50.3724 Z ">
+                            <Path.Fill>
+                                <SolidColorBrush Color="Pink"/>
+                            </Path.Fill>
+                        </Path>
+                        <Path Width="29.175" Height="31.526" Canvas.Left="4.078" Canvas.Top="2.86" Stretch="Fill" Fill="Azure" Data="F1 M 282.6,98.5729C 330.427,88.733 381.28,92.3864 426.667,110.693C 453.015,121.386 477.814,136.386 498.654,155.773C 498.962,164.64 498.068,173.626 499.094,182.426C 515.508,200.48 529.334,221 539.2,243.36C 557.534,284.173 563.134,330.56 555.08,374.573C 547.628,415.986 528.227,455.226 499.64,486.12C 498.282,487.72 498.8,490.013 498.628,491.946C 498.694,499.586 498.628,507.226 498.694,514.866C 454.56,555.48 394.534,577.945 334.64,577.346C 274.72,577.933 214.654,555.426 170.534,514.773C 170.747,506.266 170.707,497.746 170.64,489.24C 170.814,486.053 167.76,484.253 166.015,482.026C 135.84,447.773 116.774,404 111.947,358.626C 104.894,295.76 126.16,230.266 169.187,183.826C 171.054,182.173 170.587,179.493 170.707,177.266C 170.64,170.093 170.667,162.933 170.694,155.76C 201.88,127.04 241.187,107.373 282.6,98.5729 Z "/>
+                        <Path Width="15.107" Height="13.373" Canvas.Left="11.157" Canvas.Top="12.416" Stretch="Fill" Data="F1 M 276.094,239.986C 315.587,240 355.08,240 394.574,239.986C 414.027,274.812 432.6,310.12 451.334,345.347C 443.107,360.014 434.948,374.72 426.64,389.347C 406.16,389.306 385.68,389.372 365.2,389.306C 354.788,407.812 344.907,426.626 334.88,445.359C 315.28,445.319 295.694,445.334 276.094,445.347C 256.667,412.306 238.08,378.787 219.334,345.347C 238.067,310.12 256.64,274.827 276.094,239.986 Z ">
+                            <Path.Fill>
+                                <SolidColorBrush Color="Blue"/>
+                            </Path.Fill>
+                        </Path>
+                        <Path Width="6.364" Height="5.639" Canvas.Left="19.396" Canvas.Top="22.751" Stretch="Fill" Data="F1 M 369.854,398.879C 386.559,398.56 403.279,398.787 419.987,398.759C 427.761,413.479 435.934,428 443.481,442.84L 443.587,443.812C 435.854,457.639 428.321,471.667 420.027,485.132C 403.226,485.412 386.414,485.28 369.601,485.186C 361.574,471.412 354.134,457.294 345.867,443.692C 353.747,428.692 361.867,413.827 369.854,398.879 Z ">
+                            <Path.Fill>
+                                <SolidColorBrush Color="blue"/>
+                            </Path.Fill>
+                        </Path>
+                    </Canvas>
+                    <TextBlock x:Name="lblTitle" Text="" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Stretch" FontSize="15" Margin="54,16,906,0" TextTrimming="CharacterEllipsis" FontFamily="Arial" TextDecorations="{x:Null}"/>
+                    <Rectangle Margin="0,80,0,-21" HorizontalAlignment="Stretch"  Fill="White" Height="0.8"/>
+
+
+                    <DockPanel>
+                        <Menu DockPanel.Dock="Top" Margin="10,55,1100,0" Height="22" Background="#FF23536A">
+                            <MenuItem Header="_Language" FontFamily="Arial" FontWeight="Bold" FontSize="14" Foreground="#FFF0DB0C" Background="#FF23536A" Height="22">
+                                <MenuItem Header="English" Name="EN"  FontFamily="Arial" FontWeight="Normal"  IsCheckable="True" IsChecked="True" Foreground="Black"  FontSize="13" Click="EN_Click" />
+                                <MenuItem Header="Tiếng Việt" Name="VI"  FontFamily="Arial" FontWeight="Normal" IsCheckable="True" Foreground="Black" IsChecked="False" Click="VI_Click"/>
+                            </MenuItem>
+                        </Menu>
+                        <StackPanel></StackPanel>
+                    </DockPanel>
+
+                    <TextBlock x:Name="lblTitleFunc" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" Text="CHECK_SYS" Foreground="#FFF0DB0C"  FontSize="48" Margin="376,21,291,5" TextTrimming="CharacterEllipsis" FontFamily="Arial" TextDecorations="{x:Null}" Height="55" FontWeight="Bold" Width="529"/>
+                    <Button x:Name="btnExit" Click="MainWindow_Closed"  HorizontalAlignment="Right" Margin="1156,0,0,0" VerticalAlignment="Top" Width="35" Height="35" Background="#FF23536A" >
+                        <StackPanel>
+                            <Image Source="/Images/exit.png" />
+                        </StackPanel>
+                    </Button>
+                </Grid>
+
+                <Grid x:Name="homeContent" Margin="0,97,0,8" Background="#FF23536A">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="45*" />
+                        <ColumnDefinition Width="190*"/>
+                        <ColumnDefinition Width="961*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label x:Name="lblSeries" Content="P/N:" FontFamily="Arial" Foreground="White" HorizontalAlignment="Left" Margin="19,153,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Grid.Column="2"/>
+                    <Label x:Name="label1" Content="PASSWORD:" HorizontalAlignment="Right" Margin="0,0,461,588" VerticalAlignment="Bottom" FontFamily="Arial" FontSize="24" Foreground="#FFF9F4F4" FontWeight="Bold" Grid.Column="2"/>
+                    <PasswordBox x:Name="txtEmpPwd" Style="{StaticResource PWBoxBaseControlTemplate}" HorizontalAlignment="Left" Height="40" Margin="509,17,0,0"  VerticalAlignment="Top" Width="199" FontFamily="Arial" IsEnabled="True"  Grid.Column="2"  FontSize="21.333" KeyUp="txtEmpPwd_Keypress" FontWeight="Bold" />
+                    <TextBox x:Name="txtModelName" Style="{StaticResource TextBoxBaseControlTemplate}" HorizontalAlignment="Left" Height="40" Margin="115,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="593" FontFamily="Arial" Grid.Column="2" FontSize="21.333" IsEnabled="False" FontWeight="Bold" KeyUp="txtModelName_Keypress" TextChanged="txtModelName_TextChanged" />
+                    <Rectangle Margin="280,319,681,274" HorizontalAlignment="Stretch"  Fill="White" Height="0.8" Grid.Column="2"/>
+                    <DataGrid x:Name="dtgRS"  IsReadOnly="True" SelectionMode="Single" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="150" Margin="10,364,0,0" VerticalAlignment="Top" Width="1176" Background="White" GridLinesVisibility="None"  FontFamily="Arial" FontSize="18" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Width="220" Header="CARTON NO" Binding="{Binding CARTON_NO }"></DataGridTextColumn>
+                            <DataGridTextColumn Width="220" Header="CARTON WEIGHT" Binding="{Binding CARTON_WEIGHT}"></DataGridTextColumn>
+                            <DataGridTextColumn Width="220" Header="RESULT" Binding="{Binding RESULT}"></DataGridTextColumn>
+                            <DataGridTextColumn Width="300" Header="NOTE" Binding="{Binding NOTE}"></DataGridTextColumn>
+
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+                    <Label x:Name="lblMacPrint_Copy" Content="CARTON NO:" FontFamily="Arial" Foreground="White" HorizontalAlignment="Left" Margin="104,83,0,0" VerticalAlignment="Top" FontSize="24" RenderTransformOrigin="0.553,3.304" FontWeight="Bold" Grid.Column="1" Width="161" Grid.ColumnSpan="2"/>
+                    <Label x:Name="lblVerCode_Copy" Content="LICENSE:" FontFamily="Arial" Foreground="White" HorizontalAlignment="Left" Margin="146,222,0,0" VerticalAlignment="Top" FontSize="24" RenderTransformOrigin="0.553,3.304" Width="119" FontWeight="Bold" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <TextBox x:Name="txtCartonNo"   Style="{StaticResource TextBoxBaseControlTemplate}" HorizontalAlignment="Left" Height="40" Margin="115,82,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="593" FontFamily="Arial" Grid.Column="2" FontSize="21.333" IsEnabled="False" FontWeight="Bold" KeyUp="txtCatxtCartonNo_Keypress" />
+                    <TextBox x:Name="txtLicense" Style="{StaticResource TextBoxBaseControlTemplate}" HorizontalAlignment="Left" Height="40" Margin="115,220,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="593" RenderTransformOrigin="0.506,2.957" FontFamily="Arial" Grid.Column="2" FontSize="21.333" FontWeight="Bold" IsEnabled="False"  KeyUp="txtLicense_Keypress"/>
+                    <Label x:Name="lblVerCode_Copy2" Content="QTY:" FontFamily="Arial" Foreground="White" HorizontalAlignment="Left" Margin="12,291,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.553,3.304" Width="75" FontWeight="Bold" Grid.Column="2" FontSize="24"/>
+                    <TextBox x:Name="txtQty"  Style="{StaticResource TextBoxBaseControlTemplate}" HorizontalAlignment="Left" Height="40" Margin="115,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="593" RenderTransformOrigin="0.506,2.957" FontFamily="Arial" Grid.Column="2" FontSize="21.333" FontWeight="Bold" KeyUp="txtQty_Keypress" IsEnabled="False"/>
+                    <TextBox x:Name="txtError" Style="{StaticResource TextBoxBaseControlTemplate}" HorizontalAlignment="Center" TextAlignment="Center" Height="68" Margin="10,552,10,24" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="1176" Background="White" Foreground="#FFE60707" RenderTransformOrigin="0.506,2.957" FontFamily="Arial" FontSize="18" FontWeight="Bold" Grid.ColumnSpan="3" IsEnabled="False"/>
+                    <Label x:Name="label1_Copy" Content="USER:" HorizontalAlignment="Left" Margin="184,0,0,586" VerticalAlignment="Bottom" FontFamily="Arial" FontSize="24" Foreground="#FFF9F4F4" FontWeight="Bold" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <TextBox x:Name="txtEmpNo" Style="{StaticResource TextBoxBaseControlTemplate}" HorizontalAlignment="Left" Height="40" Margin="115,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199" FontFamily="Arial" IsEnabled="True"  Grid.Column="2" TextChanged="txtEmpNo_TextChanged" FontSize="21.333" FontWeight="Bold" KeyUp="txtEmpNO_Keypress"/>
+                    <Label x:Name="lblSSID_Copy1" Content="MESSAGE:" FontFamily="Arial" Foreground="White" HorizontalAlignment="Left" Margin="10,522,0,0" VerticalAlignment="Top" FontSize="18.667" RenderTransformOrigin="0.553,3.304" Width="134" Grid.ColumnSpan="2" FontWeight="Bold"/>
+                </Grid>
+                <Rectangle Margin="0,644,0,115" HorizontalAlignment="Stretch" Fill="White" Height="0.6"/>
+                <Grid x:Name="footer" Margin="0,726,0,-2" Background="#FF23536A">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="665*"/>
+                        <ColumnDefinition Width="531*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock x:Name="Status" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment ="Center"  Background="#FF23536A" Text="gfhfghg" Foreground="White" FontFamily="Arial" FontWeight="Bold" Margin="10,4,29,7" Width="1157" Grid.ColumnSpan="2" />
+                </Grid>
+                <Rectangle Margin="0,723,0,25" HorizontalAlignment="Stretch" Fill="White" Height="0.6"/>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

@@ -1,0 +1,46 @@
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.Form1.resources
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.Form2.resources
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.CoreCompileInputs.cache
+C:\SFIS-NIC\CHK_LICENSE\CHK_LICENSE.exe.config
+C:\SFIS-NIC\CHK_LICENSE\CHK_LICENSE.exe
+C:\SFIS-NIC\CHK_LICENSE\CHK_LICENSE.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.exe
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.exe
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\Oracle.dll
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\Sfc.Core.dll
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\Sfc.Library.HttpClient.dll
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\SFC_Library.dll
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\stdole.dll
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\Newtonsoft.Json.xml
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\sfcconnect.pdb
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\Label_Tracking_roku.dll
+E:\NIC Source\5.0\NIC_SFC\PD\CHECK LICENSE\CHK_LICENSE\bin\Debug\Label_Tracking_roku.pdb
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.AssemblyReference.cache
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.exe.config
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.Form1.resources
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.Form2.resources
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.Properties.Resources.resources
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.GenerateResource.cache
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.CoreCompileInputs.cache
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.exe
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.pdb
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.exe.config
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.exe
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\CHK_LICENSE.pdb
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\Oracle.dll
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\Sfc.Core.dll
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\sfcconnect.dll
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\SFC_Library.dll
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\stdole.dll
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\bin\Debug\sfcconnect.pdb
+C:\Users\V1019802\Desktop\CHECK LICENSE\CHK_LICENSE\obj\x86\Debug\CHK_LICENSE.csproj.CopyComplete

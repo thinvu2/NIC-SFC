@@ -1,0 +1,432 @@
+﻿<Window x:Class="LOT_REPRINT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:smtx="clr-namespace:ShowMeTheXAML;assembly=ShowMeTheXAML"
+        xmlns:local="clr-namespace:LOT_REPRINT"
+        mc:Ignorable="d"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        Title="LOT Reprint" Height="630" Width="550"
+        FontFamily="{DynamicResource MaterialDesignFont}" 
+        Foreground="White"
+        FontSize="18"
+        WindowStartupLocation="CenterScreen" MouseMove="Window_MouseMove" KeyDown="Window_KeyDown" Loaded="Window_Loaded" Icon="printer.ico" Closing="Window_Closing">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="White" Offset="0"/>
+                <GradientStop Color="White" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2.5*"></RowDefinition>
+            <RowDefinition Height="2.5*"></RowDefinition>
+            <RowDefinition Height="10.5*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Menu IsMainMenu="True" DockPanel.Dock="Right" Grid.Row="0" FontSize="12">
+            <MenuItem Header="Code Soft" Height="28">
+                <MenuItem
+                            x:Name="itemStationName"
+                            Header="Start Link"
+                            IsChecked="False" />
+                <MenuItem
+                            x:Name="CheckSSN1"
+                            Header="Stop Link"
+                            IsCheckable="False" />
+                <MenuItem x:Name="itemCheckMethod"
+                                  Header="Label">
+                    <MenuItem Height="33"
+                                x:Name="itemCheckCarton"
+                                Header="Open Label"
+                                IsCheckable="False" />
+                    <MenuItem Height="33"
+                                x:Name="itemCheckPallet"
+                                Header="Close Label"
+                                IsCheckable="False" />
+                </MenuItem>
+                <MenuItem Name="Visible"
+                            Header="Visible"
+                            IsCheckable="False" Click="Visible_Click" />
+                <MenuItem Name="NicMode"  Header="NicMode" IsChecked="True" IsCheckable="True" IsEnabled="False" />
+            </MenuItem>
+            <MenuItem Header="Setup" Height="28">
+                <MenuItem Name="setupStation"
+                          Header="SetStation"
+                          IsCheckable="False" Click="setupStation_Click" />
+                <MenuItem Name="labelQTY" InputGestureText="F8" IsEnabled="False" Header="Label" Click="labelQTY_Click">
+                </MenuItem>
+                <MenuItem Header="InputCustData"
+                          Name="inputCustData"
+                          IsCheckable="True" IsEnabled="False">
+                </MenuItem>
+                <MenuItem Header="Print Test(X)"
+                          Name="PrintTest"
+                          IsCheckable="True" IsEnabled="true">
+                </MenuItem>
+                <MenuItem Name="shipPing"
+                          Header="Shipping(Shipping Reprint)"
+                          IsCheckable="True" IsEnabled="False">
+                </MenuItem>
+                <MenuItem Header="Check Route"
+                          Name="checkRoute" Click="checkRoute_Click">
+                </MenuItem>
+                <MenuItem Header="Box Label">
+                    <MenuItem Height="33" IsChecked="False" Name="LinkSNSSN" Header="Link SN vs SSN" IsCheckable="True" IsEnabled="False" />
+                    <MenuItem Height="33" IsChecked="True"  Name="CancelWhenMacisNA"  Header="Cancel when Mac is N/A" IsCheckable="True" />
+                    <MenuItem Name="checkMac" Height="33" IsChecked="True" Header="CHECKMAC" IsCheckable="True" />
+                    <MenuItem Name="BB" Height="33" Header="BB" IsCheckable="true" IsEnabled="False" />
+                    <MenuItem Name="CHECK_PONO" Height="33" IsChecked="False" Header="CHECK_PONO" IsCheckable="True" IsEnabled="False" />
+                    <MenuItem Name="noCheckSSN" Height="33" Header="nocheckssn" IsCheckable="True" IsChecked="True" />
+                    <MenuItem Name="plModel" Height="33" Header="PL_Model" IsCheckable="False" IsEnabled="False"/>
+                    <MenuItem Name="DCI5211" Height="33" Header="DCI5211" IsCheckable="True" IsEnabled="False"/>
+                    <MenuItem Name="printBoxLabelForEnskyRework" Height="33" Header="rePrintLabel for Ensky Rework" IsCheckable="True" IsEnabled="False"/>
+                    <MenuItem Name="rework" Height="33" Header="Rework(undp)" IsCheckable="True" IsEnabled="False"/>
+                </MenuItem>
+                <MenuItem Name="InputGroup" Header="Input">
+                    <MenuItem Name="InputSN" Header="InputSN" IsCheckable="True" IsChecked="False" Checked="InputSN_Checked" />
+                    <MenuItem Name="InputSSN" Header="InputSSN" IsCheckable="True" IsChecked="False" Checked="InputSSN_Checked" />
+                    <MenuItem Name="InputSNT" Header="InputSN(T)" IsCheckable="True" IsEnabled="False" Checked="InputSNT_Checked"/>
+                    <MenuItem Name="ScanQR"  Header="ScanQR(Label combine)" IsCheckable="True" IsChecked="False" Checked="ScanQR_Checked"/>
+                    <MenuItem Name="Input2MAC" Header="Input MAC 2/3/4" IsCheckable="True" Checked="Input2MAC_Checked"/>
+                    <MenuItem Name="InputASN"  Header="Input @SN(For Telit Gator)" IsCheckable="True" Checked="InputASN_Checked"/>
+                    <MenuItem Name="InputBoxID"  Header="Input BoxID(For Telit)" IsCheckable="True" Checked="InputBoxID_Checked"/>
+                </MenuItem>
+                
+                <MenuItem Name="printPalt"
+                            Header="Print_Palt"
+                            IsCheckable="True" IsEnabled="False"/>
+                <MenuItem Name="printCtn"
+                            Header="Print_Ctn"
+                            IsCheckable="True" IsEnabled="False"/>
+                <MenuItem Header="Label">
+                    <MenuItem Name="LH" Height="33"
+                              IsChecked="True"
+                                Header="LH"
+                                IsCheckable="True" Click="LH_Click" />
+                    <MenuItem Name="GL" Height="33"
+                                Header="GL"
+                                IsCheckable="True" Click="GL_Click" />
+                    <MenuItem Name="Local" Height="33" Header="Local" IsCheckable="True" Click="Local_Click" />
+                </MenuItem>
+                <MenuItem Name="PinCode"
+                            Header="PinCode"
+                            IsCheckable="True" IsEnabled="False"/>
+                <MenuItem Name="BPinCode"
+                            Header="Buffola Bincode"
+                            IsCheckable="True" IsEnabled="False"/>
+                <MenuItem Name="PCBLabel"
+                            Header="PCBLabel"
+                            IsCheckable="True" IsEnabled="False"/>
+                <MenuItem Name="STBLabel"
+                            Header="STBLabel"
+                            IsCheckable="True" IsEnabled="False"/>
+                <MenuItem Name="rmaDataInput"
+                            Header="RMADATAINPUT"
+                            IsCheckable="True" IsEnabled="False"/>
+                <MenuItem Name="autoMation"
+                            Header="Automation"
+                            IsCheckable="True" Click="autoMation_Click" IsEnabled="False"/>
+            </MenuItem>
+            <MenuItem Header="Help" Height="28" Visibility="Visible">
+                <MenuItem
+                            x:Name="showParam"
+                            Header="Show Param"
+                            IsCheckable="False" Click="showParam_Click" />
+                <MenuItem
+                            x:Name="testComport"
+                            Header="Test Comport"
+                            IsCheckable="False" Click="testComport_Click" />
+                <MenuItem
+                            x:Name="about"
+                            Header="About"
+                            IsCheckable="False" />
+            </MenuItem>
+            <MenuItem Header="CHECKNETGER" Height="28" Visibility="Hidden" IsEnabled="False">
+            </MenuItem>
+            <MenuItem Header="LABEL" Height="28" Visibility="Hidden">
+                <MenuItem
+                            x:Name="SSNLABEL"
+                            Header="SSNLABEL"
+                            IsCheckable="True" />
+                <MenuItem
+                            x:Name="pageQty"
+                            Header="Page Qty"
+                            IsCheckable="False" />
+                <MenuItem
+                            x:Name="poLine"
+                            Header="Po_line"
+                            IsCheckable="True" IsEnabled="False"/>
+            </MenuItem>
+            <MenuItem Header="PASS" Height="28" Visibility="Hidden">
+            </MenuItem>
+            
+            <MenuItem Header="Reprint" Height="28" Visibility="Hidden">
+                <MenuItem
+                            x:Name="rePrint"
+                            Header="Reprint Label"
+                            IsCheckable="True" Click="rePrint_Click" />
+            </MenuItem>
+            
+        </Menu>
+        <Grid Grid.Row="1" Margin="5 0 5 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="35*"/>
+                <ColumnDefinition Width="218*"/>
+                <ColumnDefinition Width="26*"/>
+                <ColumnDefinition Width="253*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                    <GradientStop Color="#FF525B56" Offset="0"/>
+                    <GradientStop Color="#FF525B56" Offset="0.567"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <TextBlock Name="txtLine"  Visibility="Visible" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="25" Grid.Column="1" FontWeight="Bold" Margin="0,13,26,13"></TextBlock>
+            <TextBlock Name="lbl3" Visibility="Visible" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Grid.Column="2" FontWeight="Bold" Margin="13"></TextBlock>
+            <TextBlock Name="txtStation" Visibility="Visible" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="25" Grid.Column="3" FontWeight="Bold" Margin="0,13"></TextBlock>
+        </Grid>
+        <Grid Grid.Row="2" Margin="5 5 5 0">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                    <GradientStop Color="#044D6B" Offset="0"/>
+                    <GradientStop Color="#FF0E8BB8" Offset="0.567"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <ComboBox Name="Define" Style="{StaticResource MaterialDesignComboBox}" FontSize="17">
+                    <ComboBoxItem Name="chkAmbit" Content="Ambit" />
+                    <ComboBoxItem Name="chkCustomer" Content="Customer" IsSelected="True" />
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <CheckBox Name="Z107" FontSize="17" Style="{StaticResource MaterialDesignFilterChipPrimaryCheckBox}" Background="Red" IsChecked="False" Content="Z107" Foreground="White" />
+            </StackPanel>
+            <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <ComboBox Name="Kind" Style="{StaticResource MaterialDesignComboBox}" FontSize="17">
+                    <ComboBox.ItemContainerStyle>
+                        <Style>
+                            <EventSetter Event="ComboBoxItem.PreviewMouseDown" Handler="cmbItem_PreviewMouseDown"/>
+                        </Style>
+                    </ComboBox.ItemContainerStyle>
+                    <ComboBoxItem Name="chkBoxLabel" Content="Box Label" IsSelected="True"/>
+                    <ComboBoxItem Name="chkSequansSN" Content="Sequans SN"/>
+                    <ComboBoxItem Name="chkCombine" Content="Combine Label" IsEnabled="True"/>
+                    <ComboBoxItem Name="chkCartonLabel" Content="Carton Label" IsEnabled="True"/>
+                    <ComboBoxItem Name="chkPalletLabel" Content="Pallet Label" IsEnabled="False"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Label Name="UI_Route" FontSize="17" Foreground="White"></Label>
+            </StackPanel>
+        </Grid>
+
+        <Border Margin="5" BorderThickness="1" Grid.Row="3" BorderBrush="LightYellow" CornerRadius="5">
+            <Grid>
+                <Grid.Background>
+                    <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                        <GradientStop Color="#044D6B" Offset="0"/>
+                        <GradientStop Color="#FF0E8BB8" Offset="0.567"/>
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label VerticalAlignment="Center" Foreground="White" Grid.Column="0" Width="auto">Print QTY:</Label>
+                        <TextBox VerticalAlignment="Center" Name="txtSeditLabelQty" HorizontalContentAlignment="Center" Foreground="White" Width="35" Grid.Column="1" PreviewTextInput="NumberValidationTextBox" IsReadOnly="True" TextChanged="txtSeditLabelQty_TextChanged">1</TextBox>
+                        <Grid Grid.Column="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Button Background="White"  Name="btnUpSedit" Width="15" Margin="0 0 0 5" Height="20" VerticalAlignment="Center" HorizontalAlignment="Left" BorderBrush="White" Click="btnUpSedit_Click">
+                                <StackPanel Margin="-15 -4">
+                                    <TextBlock Foreground="Gray">▲</TextBlock>
+                                </StackPanel>
+                            </Button>
+                            <Button Grid.Row="1" Background="White" Name="btnDownSedit" Width="15" Height="20" VerticalAlignment="Center" HorizontalAlignment="Left" BorderBrush="White" Click="btnDownSedit_Click">
+                                <StackPanel Margin="-15 0">
+                                    <TextBlock Foreground="Gray">▼</TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </DockPanel>
+                <DockPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label Foreground="White" VerticalAlignment="Center" Grid.Column="0">Type:</Label>
+                        <TextBox VerticalAlignment="Center" Name="txtSeditfCount" IsReadOnly="True" HorizontalContentAlignment="Center" Foreground="White" Width="35" Grid.Column="1" PreviewTextInput="NumberValidationTextBox">1</TextBox>
+                        <Grid Grid.Column="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Button Background="White" Name="btnUpSeditCount" Width="15" Margin="0 0 0 5" Height="20" VerticalAlignment="Center" HorizontalAlignment="Left" BorderBrush="White" Click="btnUpSeditCount_Click">
+                                <StackPanel Margin="-15 -4">
+                                    <TextBlock Foreground="Gray">▲</TextBlock>
+                                </StackPanel>
+                            </Button>
+                            <Button Grid.Row="1" Name="btnDownSeditCount" Background="White" Width="15" Height="20" VerticalAlignment="Center" HorizontalAlignment="Left" BorderBrush="White" Click="btnDownSeditCount_Click">
+                                <StackPanel Margin="-15 0">
+                                    <TextBlock Foreground="Gray">▼</TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </DockPanel>
+                <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label VerticalAlignment="Center" Foreground="White" Grid.Column="0">Just Print:</Label>
+                        <TextBox VerticalAlignment="Center" Name="txtSedprtnow" IsReadOnly="True" HorizontalContentAlignment="Center" Foreground="White" Width="35" Grid.Column="1" PreviewTextInput="NumberValidationTextBox">0</TextBox>
+                        <Grid Grid.Column="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Button Name="btnUpSedprtnow" Background="White" Width="15" Margin="0 0 0 5" Height="20" VerticalAlignment="Center" HorizontalAlignment="Left" BorderBrush="White" Click="btnUpSedprtnow_Click">
+                                <StackPanel Margin="-15 -4">
+                                    <TextBlock Foreground="Gray">▲</TextBlock>
+                                </StackPanel>
+                            </Button>
+                            <Button Name="btnDownSedprtnow" Grid.Row="1" Background="White" Width="15" Height="20" VerticalAlignment="Center" HorizontalAlignment="Left" BorderBrush="White" Click="btnDownSedprtnow_Click">
+                                <StackPanel Margin="-15 0">
+                                    <TextBlock Foreground="Gray">▼</TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <materialDesign:Card Grid.Row="4" Margin="5 0 5 5">
+            <Grid>
+                <Grid.Background>
+                    <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                        <GradientStop Color="#044D6B" Offset="0"/>
+                        <GradientStop Color="#FF0E8BB8" Offset="0.567"/>
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"></RowDefinition>
+                    <RowDefinition Height="4*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"></ColumnDefinition>
+                        <ColumnDefinition Width="1.6*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <materialDesign:Chip Grid.Row="0" FontSize="17" Grid.Column="0" Margin="15,6,0,6" Content="Model Name:" Width="137"/>
+                    <materialDesign:Chip Grid.Row="0" Grid.Column="1" Margin="5,1,0,1" Background="white">
+                        <TextBox IsEnabled="False" Name="txtModelName" Style="{StaticResource MaterialDesignComboBoxEditableTextBox}" Width="321" Foreground="#FF0A7AAC" FontSize="17"></TextBox>
+                    </materialDesign:Chip>
+                    <materialDesign:Chip Grid.Row="1" FontSize="17" Grid.Column="0" Margin="15,6,0,5" Content="MO Number:" Width="137">
+                    </materialDesign:Chip>
+                    <materialDesign:Chip Grid.Row="1" Grid.Column="1" Margin="5,1,0,1" Background="white">
+                        <TextBox Name="txtMoNumber" Style="{StaticResource MaterialDesignComboBoxEditableTextBox}" Width="321" Foreground="#FF0A7AAC" FontSize="17"></TextBox>
+                    </materialDesign:Chip>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <materialDesign:Chip Name="mText" Grid.Row="0" Margin="15,6,0,6" Content="SN/SSN:" FontSize="17" Width="350">
+                    </materialDesign:Chip>
+                    <materialDesign:Chip Grid.Row="1" Margin="15,1,0,1" Background="white">
+                        <TextBox Name="txtInput1" Style="{StaticResource MaterialDesignComboBoxEditableTextBox}" Width="475" Foreground="#FF0A7AAC" FontSize="17" KeyDown="txtInput1_KeyDown"></TextBox>
+                    </materialDesign:Chip>
+                    <materialDesign:Chip Grid.Row="2" Margin="15,1,0,1" Background="white">
+                        <TextBox Name="txtInput2" Style="{StaticResource MaterialDesignComboBoxEditableTextBox}" Width="475" Foreground="#FF0A7AAC" FontSize="17" KeyDown="txtInput2_KeyDown"></TextBox>
+                    </materialDesign:Chip>
+                    <materialDesign:Chip Grid.Row="3" Margin="15,1,0,1" Background="white">
+                        <TextBox Name="txtInput3" IsEnabled="False" Style="{StaticResource MaterialDesignComboBoxEditableTextBox}" Width="475" Foreground="#FF0A7AAC" FontSize="17" KeyDown="txtInput3_KeyDown"></TextBox>
+                    </materialDesign:Chip>
+                </Grid>
+            </Grid>
+        </materialDesign:Card>
+        <materialDesign:Card Grid.Row="5" Margin="5 0 5 5">
+            <Grid Name="hide">
+                <Grid.Background>
+                    <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                        <GradientStop Color="#044D6B" Offset="0"/>
+                        <GradientStop Color="#FF0E8BB8" Offset="0.567"/>
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 0" Width="100" Height="80">
+                    <Grid Height="80">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*"></RowDefinition>
+                            <RowDefinition Height="1*"></RowDefinition>
+                            <RowDefinition Height="1*"></RowDefinition>
+                            <RowDefinition Height="1*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <CheckBox Name="chkSSN" Margin="20 0 0 0" Grid.Row="0" FontSize="10" VerticalAlignment="Center" IsChecked="False" Visibility="Hidden" Content="By SSN" Style="{StaticResource MaterialDesignUserForegroundCheckBox}"></CheckBox>
+                        <CheckBox Margin="20 0 0 0" Grid.Row="1" FontSize="10" VerticalAlignment="Center" Visibility="Hidden" IsChecked="False" Content="By PO_NO" Style="{StaticResource MaterialDesignUserForegroundCheckBox}"></CheckBox>
+                        <CheckBox Name="chkMac" Margin="20 0 0 0" Grid.Row="2" FontSize="10" VerticalAlignment="Center" Visibility="Hidden" IsChecked="False" Content="By MAC" Style="{StaticResource MaterialDesignUserForegroundCheckBox}"></CheckBox>
+                        <CheckBox Name="chkMac2" Margin="20 0 0 0" Grid.Row="3" FontSize="10" VerticalAlignment="Center" Visibility="Hidden" IsChecked="False" Content="By MAC2" Style="{StaticResource MaterialDesignUserForegroundCheckBox}"></CheckBox>
+                    </Grid>
+                </StackPanel>
+                <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="35 0" Width="100">
+
+                    <Button x:Name="btnOK" Foreground="black" IsEnabled="False" Style="{StaticResource MaterialDesignFlatAccentBgButton}" Background="#A7E600" BorderBrush="Bisque" Click="btnOK_Click" HorizontalAlignment="Left" Width="100" >
+                        <DockPanel>
+                            <materialDesign:PackIcon Kind="Check" />
+                            <TextBlock Margin="5 0"><Run Text="OK"/></TextBlock>
+                        </DockPanel>
+                    </Button>
+                </StackPanel>
+                <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="35 0" Width="100">
+                    <Button Name="btnExit" Foreground="black" Style="{StaticResource MaterialDesignFlatAccentBgButton}" Background="#A7E600" BorderBrush="Beige" Click="btnExit_Click"  >
+                        <DockPanel>
+                            <materialDesign:PackIcon Kind="ExitToApp" />
+                            <TextBlock Margin="5 0">Exit</TextBlock>
+                        </DockPanel>
+                    </Button>
+                </StackPanel>
+                <TextBlock Name="lbl2" Foreground="red" FontSize="15" Grid.Column="3" HorizontalAlignment="Center" TextWrapping="Wrap" Text="lbl2" VerticalAlignment="Center"/>
+            </Grid>
+        </materialDesign:Card>
+    </Grid>
+</Window>

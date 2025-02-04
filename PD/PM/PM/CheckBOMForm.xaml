@@ -1,0 +1,51 @@
+﻿<Window x:Class="PM.CheckBOMForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="CheckBOMForm" Height="250" Width="600" Closed="CheckBOMForm_Close" Initialized="CheckBOMForm_Initialized">
+    <Grid>
+        <Grid Grid.Row="1">
+            <Grid Background="#FFF" Margin="3">
+                <Grid Background="#008082" Margin="3">
+                    <ListView x:Name="Lv_BOM" FontSize="13">
+                        <ListView.View>
+                            <GridView>
+                                <GridView.ColumnHeaderContainerStyle>
+                                    <Style>
+                                        <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                    </Style>
+                                </GridView.ColumnHeaderContainerStyle>
+                                <GridViewColumn x:Name="Kp_relation" Header="Kp_relation" DisplayMemberBinding="{Binding Kp_relation}" Width="{Binding ElementName=helperFiled_Kp_relation,Path=ActualWidth}"></GridViewColumn>
+                                <GridViewColumn x:Name="Kp_name" Header="Kp_name" DisplayMemberBinding="{Binding Kp_name}" Width="{Binding ElementName=helperField_Kp_name, Path=ActualWidth}"></GridViewColumn>
+                                <GridViewColumn x:Name="Key_part_no" Header="Key_part_no" DisplayMemberBinding="{Binding Key_part_no}" Width="{Binding ElementName=helperField_Key_part_no, Path=ActualWidth}"></GridViewColumn>
+                                <GridViewColumn x:Name="Group_name" Header="Group_name" DisplayMemberBinding="{ Binding Group_name}" Width="{Binding ElementName=helperField_Group_name, Path=ActualWidth}"></GridViewColumn>
+                                <GridViewColumn x:Name="Kp_count" Header="Kp_count" DisplayMemberBinding="{ Binding Kp_count}" Width="{Binding ElementName=helperField_kp_count, Path=ActualWidth}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Grid Visibility="Hidden">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0" x:Name="helperFiled_Kp_relation"/>
+                        <Grid Grid.Column="1" x:Name="helperField_Kp_name"/>
+                        <Grid Grid.Column="2" x:Name="helperField_Key_part_no"/>
+                        <Grid Grid.Column="3" x:Name="helperField_Group_name"/>
+                        <Grid Grid.Column="4" x:Name="helperField_Kp_count"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

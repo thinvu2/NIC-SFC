@@ -1,0 +1,86 @@
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll.config
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.pdb
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.dll
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.dll
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.dll
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.xml
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.pdb
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.xml
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CopyComplete
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.dll
+E:\Workspace\C#\SfcApiNoEntity\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CoreCompileInputs.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CopyComplete
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csprojAssemblyReference.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.Core.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll.config
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll.config
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.pdb
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.pdb
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll.config
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.xml
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.pdb
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.xml
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.AssemblyReference.cache
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CoreCompileInputs.cache
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CopyComplete
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.dll
+E:\CODE\CODE_SVN_LUAT\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll.config
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.OracleDatabase.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Sfc.Core.dll.config
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.xml
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Dapper.Oracle.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\bin\Debug\Newtonsoft.Json.xml
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.AssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.dll
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.OracleDatabase\obj\Debug\Sfc.OracleDatabase.pdb

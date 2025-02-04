@@ -1,0 +1,44 @@
+﻿<Window x:Class="PACK_PALT_NEW.RFIDForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_PALT"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="14" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"
+        DataContext="{StaticResource PasswordVM}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        
+        Title="" x:Name="RFIDform" Height="135.315" Width="329" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#03405D" Offset="0"/>
+                <GradientStop Color="#0AABCF" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <materialDesign:Chip Foreground="White" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" IconBackground="{DynamicResource PrimaryHueDarkBrush}">
+                RFID_NO
+            </materialDesign:Chip>
+        </Grid>
+        <Grid Grid.Column="1" VerticalAlignment="Center" Margin="10">
+            <materialDesign:Card>
+
+                <TextBox x:Name="txtRFID" 
+                         materialDesign:TransitionAssist.DisableTransitions="True" KeyUp="txtRFID_KeyUp" Height="30" FontSize="22">
+                </TextBox>
+            </materialDesign:Card>
+        </Grid>
+    </Grid>
+</Window>

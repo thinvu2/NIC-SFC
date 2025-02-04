@@ -1,0 +1,329 @@
+﻿<Window x:Class="CQC.TransferWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Transfer Setup" Height="650" Width="400" Closed="Window_Closed" Initialized="Window_Initialized">
+    <Grid>
+
+        <Grid.Resources>
+            <Style TargetType="CheckBox" x:Key="chkbox">
+                <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+                <Setter Property="Foreground" Value="Navy"></Setter>
+                <Setter Property="FontWeight" Value="Bold"></Setter>
+                <Setter Property="FontSize" Value="15"></Setter>
+                <Setter Property="Margin" Value="10"></Setter>
+            </Style>
+            <Style TargetType="Label" x:Key="lbStyle">
+                <Setter Property="HorizontalAlignment" Value="Right"></Setter>
+                <Setter Property="Margin" Value="0 20 10 0"></Setter>
+                <Setter Property="Foreground" Value="Navy"></Setter>
+                <Setter Property="FontWeight" Value="Bold"></Setter>
+                <Setter Property="FontSize" Value="15"></Setter>
+            </Style>
+        </Grid.Resources>
+            
+            
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <!--menu-->
+        <Menu
+            IsMainMenu="True">
+            <MenuItem
+                Header="_SetupGroup" Click="MenuItem_Click"/>
+        </Menu>
+
+        <!--tab1-->
+        <TabControl Grid.Row="1">
+            <TabItem x:Name="TabSheetReworkSSN" Header="Remove Fail SSN">
+                <Grid x:Name="grid1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <GroupBox x:Name="grpbFailSSN"
+                        Header="Fail SSN"
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        Margin="10"
+                        UseLayoutRounding="True"
+                        SnapsToDevicePixels="True">
+                        <TextBox Grid.Column="1" 
+                      Margin="50 2 50 2" x:Name="editFailSSN"
+                      Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="editFailSSN_KeyDown" />
+                    </GroupBox>
+                    <GroupBox Grid.Row="1" x:Name="grpbReworkSSN"
+                        Header="Remove SSN"
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        Margin="10"
+                        UseLayoutRounding="True"
+                        SnapsToDevicePixels="True">
+                        <ListBox x:Name="ListbRewokSSN"
+                      Margin="20 5 20 5"/>
+                    </GroupBox>
+                    <StackPanel Grid.Row="2">
+                        <CheckBox x:Name="chkbPallet" IsChecked="True" Style="{StaticResource chkbox }" Content="Pallet  NO = 'N/A'"></CheckBox>
+                        <CheckBox x:Name="chkbCarton" IsChecked="True" Style="{StaticResource chkbox }" Content="Carton NO = 'N/A'"></CheckBox>
+                        <CheckBox x:Name="chkbTray" IsChecked="True" Style="{StaticResource chkbox }" Content="Tray  NO = 'N/A'"></CheckBox>
+                        <CheckBox x:Name="chkbSSN2" IsChecked="True" Style="{StaticResource chkbox }" Content="Shipping SN = 'N/A'"></CheckBox>
+                    </StackPanel>
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+
+                            <Button Margin="10" HorizontalAlignment="Right"
+                                    x:Name="bbtnUpdate"
+                                    Style="{StaticResource MaterialDesignRaisedButton}"
+                                    Width="90"
+                                    ToolTip="Update" Click="bbtnUpdate_Click">
+                                <StackPanel
+                                    Orientation="Horizontal">
+                                    <materialDesign:PackIcon
+                                    Margin="0 .5 0 0"
+                                    Kind="CheckboxMarkedCircleOutline" />
+                                    <TextBlock>
+                                        Update
+                                    </TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                        
+                        <StackPanel Grid.Column="1">
+                            <Button Margin="10" HorizontalAlignment="Left"
+                                    x:Name="bbtnClose"
+                                    Style="{StaticResource MaterialDesignRaisedButton}"
+                                    Width="90"
+                                    ToolTip="Cancel" Click="bbtnClose_Click">
+                                
+                                <StackPanel
+                                    Orientation="Horizontal">
+                                    <materialDesign:PackIcon
+                                    Margin="0 .5 0 0"
+                                    Kind="Close" />
+                                    <TextBlock>
+                                        Cancel
+                                    </TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </TabItem>
+
+            <!--tab2-->
+            <TabItem x:Name="TabSheetAddSSN" Header="Add SSN to Pallet">
+                <Grid x:Name="grid2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition ></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <GroupBox x:Name="grpbUnPack"
+                        Header="UnPack SN"
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        Margin="10"
+                        UseLayoutRounding="True"
+                        SnapsToDevicePixels="True">
+                        <TextBox Grid.Column="1"
+                                 x:Name="editUnpackSN"
+                                 Margin="50 2 50 2"
+                                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="editUnpackSN_KeyDown" />
+                    </GroupBox>
+                    <GroupBox Grid.Row="1" x:Name="grpbUpdateSN"
+                        Header="Update SN "
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        Margin="10"
+                        UseLayoutRounding="True"
+                        SnapsToDevicePixels="True">
+                        <ListBox x:Name="listUpdateSN"  Margin="5"></ListBox>
+                    </GroupBox>
+                    <Grid Grid.Row="2" Margin="0 5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Label Style="{StaticResource lbStyle}" >Pallet NO:</Label>
+                            <Label Grid.Row="1" Style="{StaticResource lbStyle}">Carton NO:</Label>
+                            <Label Grid.Row="2" Style="{StaticResource lbStyle}">Tray  NO:</Label>
+                            <CheckBox Grid.Row="3" x:Name="chkbSSN" IsChecked="True" FontWeight="Bold"
+                                      HorizontalAlignment="Right" Margin="0 20 10 0"
+                                      Foreground="Navy" FontSize="15"
+                                      Content="SSN=SN" Click="chkbSSN_Click"></CheckBox>
+                        </Grid>
+                        <Grid Grid.Column="1" Width="200">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <ComboBox x:Name="combPallet" Margin="0 5" Style="{StaticResource MaterialDesignFloatingHintComboBox}" KeyDown="combPallet_KeyDown"/>
+                            <ComboBox Grid.Row="1" x:Name="combCarton" Margin="0 5" Style="{StaticResource MaterialDesignFloatingHintComboBox}" KeyDown="combCarton_KeyDown"/>
+                            <ComboBox Grid.Row="2" x:Name="combTray" Margin="0 5" Style="{StaticResource MaterialDesignFloatingHintComboBox}" KeyDown="combTray_KeyDown"/>
+                            <TextBox Grid.Row="3" x:Name="editSSN" Margin="0 5" Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="editSSN_KeyDown"/>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+
+                            <Button x:Name="BitBtn3" Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="100"
+                        ToolTip="Update" Click="BitBtn3_Click">
+                                <StackPanel
+                Orientation="Horizontal">
+                                    <materialDesign:PackIcon
+                    Margin="0 .5 0 0"
+                    Kind="CheckboxMarkedCircleOutline" />
+                                    <TextBlock>
+                    Update
+                                    </TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+
+                            <Button x:Name="BitBtn4" Margin="10" HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="100"
+                        ToolTip="Cancel" Click="BitBtn4_Click">
+                                <StackPanel
+                        Orientation="Horizontal">
+                                    <materialDesign:PackIcon
+                        Margin="0 .5 0 0"
+                        Kind="Close" />
+                                    <TextBlock>
+                        Cancel
+                                    </TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            
+            <!--tab3-->
+            <TabItem x:Name="PieceRework" Header="PieceRework">
+                <Grid x:Name="grid3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition ></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <GroupBox x:Name="grpbFailSSN2"
+                        Header="Failed S-SN"
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        Margin="10"
+                        UseLayoutRounding="True"
+                        SnapsToDevicePixels="True">
+                        <TextBox Grid.Column="1" x:Name="editFailSSN2"
+                      Margin="50 2 50 2"
+                      materialDesign:HintAssist.Hint="Failed SN"
+                      Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="editFailSSN2_KeyDown" />
+                    </GroupBox>
+                    <GroupBox Grid.Row="1" x:Name="grpbReplaceSN2"
+                        Header="Replace SN "
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        Margin="10"
+                        UseLayoutRounding="True"
+                        SnapsToDevicePixels="True">
+                        <StackPanel>
+                            <ListBox x:Name="listbGroup" Visibility="Collapsed" Margin="50 10" Height="50"></ListBox>
+                            <TextBox Grid.Column="1" x:Name="editReplaceSN2"
+                      Margin="50 10"
+                      materialDesign:HintAssist.Hint="Replace SN"
+                      Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="editReplaceSN2_KeyDown" />
+                        </StackPanel>
+                    </GroupBox>
+                    <StackPanel Grid.Row="2">
+                        <CheckBox x:Name="chkbRepPallet" IsChecked="True" Style="{StaticResource chkbox }" Content="Replace Pallet NO"></CheckBox>
+                        <CheckBox x:Name="chkbRepCarton" IsChecked="True" Style="{StaticResource chkbox }" Content="Replace Carton NO"></CheckBox>
+                        <CheckBox x:Name="chkbRepTray" IsChecked="True" Style="{StaticResource chkbox }" Content="Replace Tray NO"></CheckBox>
+                        <DockPanel>
+                            <CheckBox x:Name="chkbRepSSN" IsChecked="True" HorizontalAlignment="Left" 
+                                      Margin="10 20 10 10 "
+                                      Style="{StaticResource chkbox }" Content="SSN=SN" Click="chkbRepSSN_Click"></CheckBox>
+                            <TextBox x:Name="editRepSSN2" Grid.Column="1"
+                                     Margin="10 10 30 10"
+                                     Width="200"
+                                     Style="{StaticResource MaterialDesignFloatingHintTextBox}" KeyDown="editSSN_KeyDown" />
+                        </DockPanel>
+                    </StackPanel>
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+
+                            <Button x:Name="bbtnUpdate3" Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="100"
+                        ToolTip="Update" Click="bbtnUpdate3_Click">
+                                <StackPanel
+                Orientation="Horizontal">
+                                    <materialDesign:PackIcon
+                    Margin="0 .5 0 0"
+                    Kind="CheckboxMarkedCircleOutline" />
+                                    <TextBlock>
+                    Update
+                                    </TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+
+                            <Button x:Name="bbtnClose3" Margin="10" HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="100"
+                        ToolTip="Cancel" Click="bbtnClose3_Click">
+                                <StackPanel
+                        Orientation="Horizontal">
+                                    <materialDesign:PackIcon
+                        Margin="0 .5 0 0"
+                        Kind="Close" />
+                                    <TextBlock>
+                        Cancel
+                                    </TextBlock>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

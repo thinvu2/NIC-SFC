@@ -1,0 +1,370 @@
+﻿<Window x:Class="PM.HistoryMOForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="HistoryMOForm" Height="700" Width="900">
+    <Grid Background="#008082">
+        <Grid.Resources>
+            <!--Content-->
+            <Style TargetType="Label" x:Key="Content">
+                <Setter Property="Padding" Value="4"/>
+                <Setter Property="Height" Value="25"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Menu Background="#008082" Opacity="0.8" VerticalAlignment="Center">
+                <MenuItem Header="Refresh" Foreground="White" FontFamily="Arial" FontSize="13"/>
+                <MenuItem Header="Exit" Foreground="White"  FontFamily="Arial" FontSize="13"/>
+            </Menu>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid Background="#008082" Margin="3">
+                <ListView x:Name="Data_gridView" FontSize="13">
+                    <ListView.View>
+                        <GridView>
+                            <GridView.ColumnHeaderContainerStyle>
+                                <Style>
+                                    <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                </Style>
+                            </GridView.ColumnHeaderContainerStyle>
+                            <GridViewColumn x:Name="MO_NUMBER" Header="MO_NUMBER" DisplayMemberBinding="{Binding MO_NUMBER}" Width="{Binding ElementName=helperFiled_MO_NUMBER,Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="MODEL_NAME" Header="MODEL_NAME" DisplayMemberBinding="{Binding MODEL_NAME}" Width="{Binding ElementName=helperField_MODEL_NAME, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="MO_CREATE_DATE" Header="MO_CREATE_DATE" DisplayMemberBinding="{Binding MO_CREATE_DATE}" Width="{Binding ElementName=helperField_MO_CREATE_DATE, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="MO_DUE_DATE" Header="MO_DUE_DATE" DisplayMemberBinding="{ Binding MO_DUE_DATE}" Width="{Binding ElementName=helperField_MO_DUE_DATE, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="MO_START_DATE" Header="MO_START_DATE" DisplayMemberBinding="{ Binding MO_START_DATE}" Width="{Binding ElementName=helperField_MO_START_DATE, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="ROUTE_CODE" Header="ROUTE_CODE" DisplayMemberBinding="{ Binding ROUTE_CODE}" Width="{Binding ElementName=helperField_ROUTE_CODE, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="DEFAULT_GROUP" Header="DEFAULT_GROUP" DisplayMemberBinding="{Binding DEFAULT_GROUP}" Width="{Binding ElementName=helperFiled_DEFAULT_GROUP,Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="END_GROUP" Header="END_GROUP" DisplayMemberBinding="{Binding END_GROUP}" Width="{Binding ElementName=helperField_END_GROUP, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="MO_TYPE" Header="MO_TYPE" DisplayMemberBinding="{Binding MO_TYPE}" Width="{Binding ElementName=helperField_MO_TYPE, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="KEY_PART_NO" Header="KEY_PART_NO" DisplayMemberBinding="{ Binding KEY_PART_NO}" Width="{Binding ElementName=helperField_KEY_PART_NO, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="VERSION_CODE" Header="VERSION_CODE" DisplayMemberBinding="{ Binding VERSION_CODE}" Width="{Binding ElementName=helperField_VERSION_CODE, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="BOM_NO" Header="BOM_NO" DisplayMemberBinding="{ Binding BOM_NO}" Width="{Binding ElementName=helperField_BOM_NO, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="TARGET_QTY" Header="TARGET_QTY" DisplayMemberBinding="{Binding TARGET_QTY}" Width="{Binding ElementName=helperFiled_TARGET_QTY,Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="INPUT_QTY" Header="INPUT_QTY" DisplayMemberBinding="{Binding INPUT_QTY}" Width="{Binding ElementName=helperField_INPUT_QTY, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="OUTPUT_QTY" Header="OUTPUT_QTY" DisplayMemberBinding="{Binding OUTPUT_QTY}" Width="{Binding ElementName=helperField_OUTPUT_QTY, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="SHIPPING_QTY" Header="SHIPPING_QTY" DisplayMemberBinding="{ Binding SHIPPING_QTY}" Width="{Binding ElementName=helperField_SHIPPING_QTY, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="TURN_OUT_QTY" Header="TURN_OUT_QTY" DisplayMemberBinding="{ Binding TURN_OUT_QTY}" Width="{Binding ElementName=helperField_TURN_OUT_QTY, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="TOTAL_SCRAP_QTY" Header="TOTAL_SCRAP_QTY" DisplayMemberBinding="{ Binding TOTAL_SCRAP_QTY}" Width="{Binding ElementName=helperField_TOTAL_SCRAP_QTY, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="MASTER_FLAG" Header="MASTER_FLAG" DisplayMemberBinding="{Binding MASTER_FLAG}" Width="{Binding ElementName=helperFiled_MASTER_FLAG,Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="MO_OPTION" Header="MO_OPTION" DisplayMemberBinding="{Binding MO_OPTION}" Width="{Binding ElementName=helperField_MO_OPTION, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="START_SN" Header="START_SN" DisplayMemberBinding="{Binding START_SN}" Width="{Binding ElementName=helperField_START_SN, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="END_SN" Header="END_SN" DisplayMemberBinding="{ Binding END_SN}" Width="{Binding ElementName=helperField_END_SN, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="CUST_CODE" Header="CUST_CODE" DisplayMemberBinding="{ Binding CUST_CODE}" Width="{Binding ElementName=helperField_CUST_CODE, Path=ActualWidth}"></GridViewColumn>
+                            <GridViewColumn x:Name="SUPPLIER_CODE" Header="SUPPLIER_CODE" DisplayMemberBinding="{ Binding SUPPLIER_CODE}" Width="{Binding ElementName=helperField_SUPPLIER_CODE, Path=ActualWidth}"></GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Grid Visibility="Hidden">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0" x:Name="helperFiled_MO_NUMBER"/>
+                    <Grid Grid.Column="1" x:Name="helperField_MODEL_NAME"/>
+                    <Grid Grid.Column="2" x:Name="helperField_MO_CREATE_DATE"/>
+                    <Grid Grid.Column="3" x:Name="helperField_MO_DUE_DATE"/>
+                    <Grid Grid.Column="4" x:Name="helperField_MO_START_DATE"/>
+                    <Grid Grid.Column="5" x:Name="helperField_ROUTE_CODE"/>
+                    <Grid Grid.Column="6" x:Name="helperFiled_DEFAULT_GROUP"/>
+                    <Grid Grid.Column="7" x:Name="helperField_END_GROUP"/>
+                    <Grid Grid.Column="8" x:Name="helperField_MO_TYPE"/>
+                    <Grid Grid.Column="9" x:Name="helperField_KEY_PART_NO"/>
+                    <Grid Grid.Column="10" x:Name="helperField_VERSION_CODE"/>
+                    <Grid Grid.Column="11" x:Name="helperField_BOM_NO"/>
+                    <Grid Grid.Column="12" x:Name="helperFiled_TARGET_QTY"/>
+                    <Grid Grid.Column="13" x:Name="helperField_INPUT_QTY"/>
+                    <Grid Grid.Column="14" x:Name="helperField_OUTPUT_QTY"/>
+                    <Grid Grid.Column="15" x:Name="helperField_SHIPPING_QTY"/>
+                    <Grid Grid.Column="16" x:Name="helperField_TURN_OUT_QTY"/>
+                    <Grid Grid.Column="17" x:Name="helperField_TOTAL_SCRAP_QTY"/>
+                    <Grid Grid.Column="18" x:Name="helperFiled_MASTER_FLAG"/>
+                    <Grid Grid.Column="19" x:Name="helperField_MO_OPTION"/>
+                    <Grid Grid.Column="20" x:Name="helperField_START_SN"/>
+                    <Grid Grid.Column="21" x:Name="helperField_END_SN"/>
+                    <Grid Grid.Column="22" x:Name="helperField_CUST_CODE"/>
+                    <Grid Grid.Column="23" x:Name="helperField_SUPPLIER_CODE"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label Style="{StaticResource Content}" Content="MO Number:"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Style="{StaticResource Content}" Content="Model Name:"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Label Style="{StaticResource Content}" Content="MO Create Date:"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <Label Style="{StaticResource Content}" Content="Plan Due Date:"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <Label Style="{StaticResource Content}" Content="MO Online Date:"/>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <Label Style="{StaticResource Content}" Content="MO Close Date:"/>
+                </Grid>
+                <Grid Grid.Row="6">
+                    <Label Style="{StaticResource Content}" Content="Route Name:"/>
+                </Grid>
+                <Grid Grid.Row="7">
+                    <Label Style="{StaticResource Content}" Content="Line Name:"/>
+                </Grid>
+                <Grid Grid.Row="8">
+                    <Label Style="{StaticResource Content}" Content="First Group:"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="6">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="7">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="8">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label Style="{StaticResource Content}" Content="MO Type:"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Style="{StaticResource Content}" Content="Part Number:"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Label Style="{StaticResource Content}" Content="Version:"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <Label Style="{StaticResource Content}" Content="BOM No:"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <Label Style="{StaticResource Content}" Content="Target Qty:"/>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <Label Style="{StaticResource Content}" Content="Input Qty:"/>
+                </Grid>
+                <Grid Grid.Row="6">
+                    <Label Style="{StaticResource Content}" Content="Output Qty:"/>
+                </Grid>
+                <Grid Grid.Row="7">
+                    <Label Style="{StaticResource Content}" Content="Shipping Qty:"/>
+                </Grid>
+                <Grid Grid.Row="8">
+                    <Label Style="{StaticResource Content}" Content="Turn Out Qty:"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="6">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="7">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="8">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label Style="{StaticResource Content}" Content="Master MO:"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Style="{StaticResource Content}" Content="MO Option:"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Label Style="{StaticResource Content}" Content="Start SN:"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <Label Style="{StaticResource Content}" Content="End SN:"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <Label Style="{StaticResource Content}" Content="Customer:"/>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <Label Style="{StaticResource Content}" Content="Supplier:"/>
+                </Grid>
+                <Grid Grid.Row="6">
+                    <Label Style="{StaticResource Content}" Content="Last Group :"/>
+                </Grid>
+                <Grid Grid.Row="7">
+                    <Label Style="{StaticResource Content}" Content="Scrap Qty :"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="6">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+                <Grid Grid.Row="7">
+                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

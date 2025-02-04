@@ -1,0 +1,299 @@
+﻿<UserControl x:Class="REPAIR.UserControlRepair.ucRange"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:REPAIR.UserControlRepair"
+             FontSize="16"
+             Foreground="#09345d"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1024">
+    <UserControl.Resources>
+        <Style  TargetType="Label">
+            <Setter Property="Foreground" Value="#09345d"/>
+            <Setter Property="Background" Value="{x:Null}" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ElementName=Test, Path=IsEnabled}"
+                         Value="False">
+                    <Setter Property="Background" Value="Gray"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="TextBlock" >
+            <Setter Property="Background" Value="#ffff"></Setter>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="35"></Setter>
+        </Style>
+        <Style TargetType="Border" >
+            <Setter Property="BorderBrush" Value="#FF156197"></Setter>
+            <Setter Property="Background" Value="White"></Setter>
+            <Setter Property="BorderThickness" Value="1" ></Setter>
+            <Setter Property="CornerRadius" Value="5" ></Setter>
+            <Setter Property="Margin" Value="5"></Setter>
+        </Style>
+        <SolidColorBrush x:Key="btnBackgroud" Color="#FFEA7736"/>
+        <SolidColorBrush x:Key="btnForeground" Color="White"/>
+        <SolidColorBrush x:Key="textbtn" Color="White"/>
+        <SolidColorBrush x:Key="btnADD" Color="#FF1EB62C"/>
+        <SolidColorBrush x:Key="btnEdt" Color="#FFEEB439"/>
+        <SolidColorBrush x:Key="btnDel" Color="#FFF13C3C"/>
+
+    </UserControl.Resources>
+
+    <Grid Background="#FFF0F0F0">
+        <!--<Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,4" StartPoint="0.5,0">
+                <GradientStop Color="#FF237C8F" />
+                -->
+        <!--FF36C6E6-->
+        <!--
+                <GradientStop Color="#FFDED4E8" Offset="0.15"/>
+            </LinearGradientBrush>
+        </Grid.Background>-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="110"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition ></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="{x:Null}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Border>
+                        <Label Content="Company ID:" ></Label>
+                    </Border>
+                    <Grid Grid.Row="1" >
+                        <Button Name="btnClear" Height="35" Width="120" 
+                                     Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                    ToolTip="Resource name: MaterialDesignRaisedAccentButton"
+                                    materialDesign:RippleAssist.Feedback="#DD000000" 
+                                    Background="{StaticResource btnADD}"
+                                    BorderBrush="{StaticResource btnADD}"
+                                    Foreground="{StaticResource btnForeground}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition ></ColumnDefinition>
+                                    <ColumnDefinition ></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="1"  VerticalAlignment="Center" HorizontalAlignment="Left">
+                                    <Label Content="Add Range"  Margin="-13,-3,-50,-9"
+                                               Foreground="{StaticResource textbtn }" 
+                                               Background="{x:Null}" />
+                                </Grid>
+                                <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                    <materialDesign:PackIcon Kind="CreditCardPlus"  Height="35" Width="45" Foreground="White" RenderTransformOrigin="0.5,0.5" Margin="-54,-5,0,-8"  >
+                                        <materialDesign:PackIcon.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="0.406"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </materialDesign:PackIcon.RenderTransform>
+                                    </materialDesign:PackIcon>
+                                </Grid>
+                            </Grid>
+                        </Button>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Border>
+                        <ComboBox  ></ComboBox>
+                    </Border>
+                    <Grid Grid.Row="1" >
+                        <Button Name="btnDelete" Height="35" Width="120" 
+                                     Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                    ToolTip="Resource name: MaterialDesignRaisedAccentButton"
+                                    materialDesign:RippleAssist.Feedback="#DD000000" 
+                                    Background="{StaticResource btnDel}"
+                                    BorderBrush="{StaticResource btnDel}"
+                                    Foreground="{StaticResource btnForeground}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition ></ColumnDefinition>
+                                    <ColumnDefinition ></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="1"  VerticalAlignment="Center" HorizontalAlignment="Left">
+                                    <Label Content="Delete Range"  Margin="-17,-6,-46,-6"
+                                               Foreground="{StaticResource textbtn }" 
+                                               Background="{x:Null}" />
+                                </Grid>
+                                <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                    <materialDesign:PackIcon Kind="CloseOctagon"  Height="35" Width="45" Foreground="White" RenderTransformOrigin="0.5,0.5" Margin="-50,-7,0,-6"  >
+                                        <materialDesign:PackIcon.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="0.406"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </materialDesign:PackIcon.RenderTransform>
+                                    </materialDesign:PackIcon>
+                                </Grid>
+                            </Grid>
+                        </Button>
+                    </Grid>
+                </Grid>
+                <Border Grid.Column="2" Margin="0" Background="{x:Null}" >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition Width="auto" ></ColumnDefinition>
+                            <ColumnDefinition Width="auto" ></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label Content="Font ID"></Label>
+                            <Label Content="00111111"></Label>
+                        </StackPanel>
+                        <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label Content="Begin ID"></Label>
+                            <Label Content="100000"></Label>
+                        </StackPanel>
+                        <Label Grid.Column="3" Content="=>"></Label>
+                        <StackPanel Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label Content="Font ID"></Label>
+                            <Label Content="00111111"></Label>
+                        </StackPanel>
+                        <StackPanel Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label Content="End ID"></Label>
+                            <Label Content="4FFFFF"></Label>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="1">
+            <GroupBox  Header="Got Range List" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Border Margin="0">
+                        <DockPanel Grid.Row="0">
+                            <Label Content="RANGE - wait to be confirmed (???)" Margin="40 0 0 0" Background="#FFE6BB91"></Label>
+                            <Button Name="btnConfirm" Height="35" Width="140"  Margin="10 3"
+                                         Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                        ToolTip="Resource name: MaterialDesignRaisedAccentButton"
+                                        materialDesign:RippleAssist.Feedback="#DD000000" 
+                                        Background="{StaticResource btnADD}"
+                                        BorderBrush="{StaticResource btnADD}"
+                                        Foreground="{StaticResource btnForeground}">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition ></ColumnDefinition>
+                                        <ColumnDefinition ></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid Grid.Column="1"  VerticalAlignment="Center" HorizontalAlignment="Left">
+                                        <Label Content="Confirm Range"  Margin="-17,-6,-46,-6"
+                                                   Foreground="{StaticResource textbtn }" 
+                                                   Background="{x:Null}" />
+                                    </Grid>
+                                    <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <materialDesign:PackIcon Kind="CheckAll"  Height="35" Width="45" Foreground="White" RenderTransformOrigin="0.5,0.5" Margin="-54,-7,0,-6"  >
+                                            <materialDesign:PackIcon.RenderTransform>
+                                                <TransformGroup>
+                                                    <ScaleTransform/>
+                                                    <SkewTransform/>
+                                                    <RotateTransform Angle="0.406"/>
+                                                    <TranslateTransform/>
+                                                </TransformGroup>
+                                            </materialDesign:PackIcon.RenderTransform>
+                                        </materialDesign:PackIcon>
+                                    </Grid>
+                                </Grid>
+                            </Button>
+                            <Label Content="Mail Status:" Margin="10 0" ></Label>
+                            <Label Content="Wait to be sent" Margin="5 0" Background="#FFE4DA79"></Label>
+                            <Label Content="Fail" Margin="5 0" Background="#FFF0606D"></Label>
+                            <Label Content="Success" Margin="5 0" Background="#FFDAC8C8"></Label>
+                            <Label Content="Had been Confirmed" Margin="5 0" Background="#FF1AA8A2"></Label>
+                        </DockPanel>
+                    </Border>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <DataGrid Grid.Column="0" Margin="0 5 5 0">
+                            
+                        </DataGrid>
+                        <DataGrid Grid.Column="1" Margin="0 5 5 0">
+
+                        </DataGrid>
+                    </Grid>
+                </Grid>
+            </GroupBox>
+        </Grid>
+        <Grid Grid.Row="2">
+            <GroupBox  Header="Assign Range History" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Border Margin="0">
+                        <DockPanel Grid.Row="0">
+                            <Label Content="RANGE - over request (????)" Margin="40 0 0 0" Background="#FFE6BB91"></Label>
+                            <Button Name="btnSaveExcel" Height="35" Width="110"  Margin="40 3"
+                                         Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                        ToolTip="Resource name: MaterialDesignRaisedAccentButton"
+                                        materialDesign:RippleAssist.Feedback="#DD000000" 
+                                        Background="{StaticResource btnBackgroud}"
+                                        BorderBrush="{StaticResource btnBackgroud}"
+                                        Foreground="{StaticResource btnForeground}"
+                                    HorizontalAlignment="Left">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition ></ColumnDefinition>
+                                        <ColumnDefinition ></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid Grid.Column="1"  VerticalAlignment="Center" HorizontalAlignment="Left">
+                                        <Label Content="Save Excel"  Margin="-17,-3,-46,-9"
+                                                   Foreground="{StaticResource textbtn }" 
+                                                   Background="{x:Null}" />
+                                    </Grid>
+                                    <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <materialDesign:PackIcon Kind="FileExcel"  Height="35" Width="45" Foreground="White" RenderTransformOrigin="0.5,0.5" Margin="-53,-7,0,-6"  >
+                                            <materialDesign:PackIcon.RenderTransform>
+                                                <TransformGroup>
+                                                    <ScaleTransform/>
+                                                    <SkewTransform/>
+                                                    <RotateTransform Angle="0.406"/>
+                                                    <TranslateTransform/>
+                                                </TransformGroup>
+                                            </materialDesign:PackIcon.RenderTransform>
+                                        </materialDesign:PackIcon>
+                                    </Grid>
+                                </Grid>
+                            </Button>
+                        </DockPanel>
+                    </Border>
+                    <DataGrid Grid.Row="1" Margin="0 5 5 0">
+
+                    </DataGrid>
+                 
+                </Grid>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</UserControl>

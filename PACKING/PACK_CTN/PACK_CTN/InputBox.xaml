@@ -1,0 +1,74 @@
+﻿<Window x:Class="PACK_CTN.InputBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:PACK_CTN.UserControlCTN"
+        xmlns:local="clr-namespace:PACK_CTN"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Name="InputPass"
+        Title="Input Password" Height="200" Width="400" WindowState="Normal" Loaded="InputBox_Loaded" WindowStartupLocation="CenterScreen">
+
+    <Grid Background="#0889a6" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+            
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title ,ElementName=InputPass}"></uc:ControlBarUC>
+         </Grid>
+
+        <Grid Grid.Row="1" Margin="1">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF36C6E6" Offset="0.0"/>
+                    <GradientStop Color="#FFC6E0E6" Offset="0.0"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <Grid Grid.Row="1">
+                <Grid.Resources>
+                    <Style  TargetType="Grid">
+                        <Setter Property="Margin" Value="15 0 15 0"></Setter>
+                    </Style>
+                </Grid.Resources>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBlock Name="tbMess" Text="Reprint Password , Please input IPQC's password " Foreground="Red"  VerticalAlignment="Center" FontSize="16"  TextWrapping="WrapWithOverflow" ></TextBlock>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <PasswordBox Name="inputPass" Background="White" BorderBrush="Black" BorderThickness="1"  Height="35" Width="250"  PasswordChar="*" FontSize="30" KeyUp="InputPass_KeyUp" ></PasswordBox>
+                </Grid>
+                <Grid Grid.Row="2" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" Name="btnCancle"  Style="{StaticResource MaterialDesignRaisedLightButton}"   Width="100" Click="btnCancle_Click"
+                            Foreground="White" Content="Cancle" Background="#0889a6" >
+                        
+                    </Button>
+                    <Button Grid.Column="1" Name="btnLogin" Style="{StaticResource MaterialDesignRaisedLightButton}"  Width="100" Click="btnLogin_Click"
+                            Foreground="White" Content="Login" Background="#0889a6">
+                    </Button>
+                </Grid>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Window>

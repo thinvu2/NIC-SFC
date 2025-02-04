@@ -1,0 +1,30 @@
+﻿<Window x:Class="CodeSoft_9Codes.ShowParam"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CodeSoft_9Codes"
+        mc:Ignorable="d"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="Times New Roman"
+        WindowStartupLocation="CenterScreen"
+        Title="ShowParam" x:Name="ShowParamForm" Height="400" Width="497.479">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" ></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="URL label file:" HorizontalAlignment="Right" FontWeight="Bold"/>
+            <TextBox x:Name="txtURLLabel" Grid.Column ="1"  IsReadOnly="True" Background="#FFFBF5BC"/>
+        </Grid>
+        <DataGrid Grid.Row="1" x:Name="dataGrid" ItemsSource="{Binding}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,438 @@
+﻿<Window  x:Name="mainWindow" x:Class="AMSLabel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMSLabel"
+        
+        mc:Ignorable="d"       
+        Title="Label management" Height="762.069" Width="1000" 
+        WindowState="Maximized"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+>
+
+    <Window.Resources>
+        <LinearGradientBrush x:Key="HeaderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+            <GradientStop Color="#FF6B8E95" Offset="0"/>
+            <GradientStop Color="#FF14A7C1" Offset="1"/>
+            <GradientStop Color="#FF1E424E" Offset="0.509"/>
+            <GradientStop Color="#FF1D4855" Offset="0.542"/>
+            <GradientStop Color="#FF1D4855" Offset="0.542"/>
+            <GradientStop Color="#FF193A44" Offset="0.526"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="HeaderBorderBrush" StartPoint="0.5,0" EndPoint="0.5,1">
+            <GradientStop Color="#FF1D1D1D" Offset="0.614"/>
+            <GradientStop Color="#FF007F96" Offset="0.853"/>
+            <GradientStop Color="#FF0AEAFA" Offset="1"/>
+        </LinearGradientBrush>
+
+        <Style x:Key="HeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="{StaticResource HeaderBrush}" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="BorderBrush" Value="{StaticResource HeaderBorderBrush}" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="SnapsToDevicePixels" Value="True" />
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+            <Setter Property="MinWidth" Value="140"/>
+            <Setter Property="MinHeight" Value="40" />
+            <Setter Property="Cursor" Value="Hand" />
+
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="305*"/>
+            <ColumnDefinition Width="191*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="10 0" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid x:Name="Lotreprintcs6box" Grid.Column="0" Margin="5" Background="#008082" Opacity="0.8" MouseEnter="Grid_MouseEnter" MouseLeftButtonDown="Grid_MouseLeftButtonDown" MouseLeave="Grid_MouseLeave" >
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="BoxShadow" />
+                    <Label FontWeight="Bold" Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Lot-Reprint-CS6-BOX</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Packing2cs6ctn" Grid.Column="1" Margin="5" Background="#008082"  Opacity="0.8" MouseEnter="Grid_MouseEnter"  MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon  Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="GiftOpenOutline" />
+                    <Label Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Packing2-CS6-CTN</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Packing2cs6mac" Grid.Column="2" Margin="5" Background="#008082" Opacity="0.8" MouseEnter="Grid_MouseEnter"  MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical" >
+                    <materialDesign:PackIcon  Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="BagPersonal" />
+                    <Label Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Packing2-CS6--MAC</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Packingzcs6ctn2" Grid.Column="3" Margin="5" Background="#008082" Opacity="0.8" MouseEnter="Grid_MouseEnter"  MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon  Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="PackageVariant" />
+                    <Label Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">PackingZ-CS6-CTN2</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="Packing3palt" Grid.Column="4" Margin="5" Background="#008082" Opacity="0.8" MouseEnter="Grid_MouseEnter"  MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon  Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="PackageVariantClosed" />
+                    <Label Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">Packing3-PALT</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="LabelRoom" Grid.Column="5" Margin="5" Background="#008082" Opacity="0.8" MouseEnter="Grid_MouseEnter"  MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon  Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="ChartBoxOutline" />
+                    <Label Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">LabelRoom</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="FGLabelCTN" Grid.Column="6" Margin="5" Background="#008082" Opacity="0.8" MouseEnter="Grid_MouseEnter"  MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon  Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Webpack" />
+                    <Label Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">FG-Label-CTN</Label>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="FGLabelPallet" Grid.Column="7" Margin="5" Background="#008082" Opacity="0.8" MouseEnter="Grid_MouseEnter"  MouseLeave="Grid_MouseLeave" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <StackPanel Orientation="Vertical">
+                    <materialDesign:PackIcon  Margin="0 20 0 0" Foreground="#FFF" HorizontalAlignment="Center" Height="25" Width="25" Kind="Warehouse" />
+                    <Label Foreground="#FFF" HorizontalAlignment="Center" FontFamily="Arial" FontSize="13">FG-Label-Pallet</Label>
+                </StackPanel>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" Margin="15 0 0 3" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="350"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Background="#CDC">
+                <DataGrid Margin="2 2 2 2" Name="grid_label"
+                          HeadersVisibility="Column" 
+                          ColumnHeaderStyle="{StaticResource HeaderStyle}"                          
+                          IsReadOnly="True"
+                          RowHeight="28"
+                          SelectionChanged="grid_label_SelectionChanged">
+                    <!--<DataGrid.Resources>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                        </Style>
+                    </DataGrid.Resources>-->
+                    <!--<DataGrid.Columns>
+                        <DataGridTextColumn Width="*" >
+                            <DataGridTextColumn.ElementStyle>
+                            <Style>
+                                <Setter Property="TextBlock.TextAlignment" Value="Right" />
+                            </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                      </DataGrid.Columns>-->
+                    <!--<DataGrid.Columns  >-->
+
+
+                    <!--<DataGridTextColumn Width="*">
+                         </DataGridTextColumn>
+                        
+                    </DataGrid.Columns>-->
+
+                    <DataGrid.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <!--<Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="DataGridCell">
+                                        <Grid Background="{TemplateBinding Background}">
+                                            <ContentPresenter HorizontalAlignment="Left"
+                                      VerticalAlignment="Center"/>
+
+                                        </Grid>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>-->
+                            <Style.Triggers>
+                                <Trigger Property="IsSelected" Value="True">
+                                    <Setter Property="BorderThickness" Value="0" />
+                                    <Setter Property="Background" Value="#304ee0"/>
+
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGrid.CellStyle>
+
+                </DataGrid>
+
+                <ProgressBar x:Name="ProgressbarCicle" Visibility="Hidden" Height="150" Width="150" Foreground="#008168"
+                  Style="{StaticResource MaterialDesignCircularProgressBar}"
+                  Value="0"
+                  IsIndeterminate="True" />
+
+            </Grid>
+
+            <Grid Grid.Column="1">
+                <materialDesign:Card Margin="1 0 15 0">
+
+                    <Grid Margin="0,0,0,0"  >
+                        <Grid.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#f7d2d7" Offset="0" />
+                                <GradientStop Color="White" Offset="0.5" />
+                                <GradientStop Color="#00861f" Offset="1.5" />
+                            </LinearGradientBrush>
+                        </Grid.Background>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" Margin="20">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="6*"/>
+                                <ColumnDefinition Width="54*"/>
+                                <ColumnDefinition Width="25*"/>
+                            </Grid.ColumnDefinitions>
+                            <!--top-->
+                            <Grid.RowDefinitions>
+                                <RowDefinition  Height="auto"></RowDefinition>
+                                <RowDefinition Height="auto"></RowDefinition>
+                                <RowDefinition Height="auto"></RowDefinition>
+                                <RowDefinition Height="auto"></RowDefinition>
+                                <RowDefinition Height="auto"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Border CornerRadius="20" BorderThickness="1" BorderBrush="#b25476" 
+           Grid.Row="0" Grid.ColumnSpan="3" />
+                            <Grid Grid.Row="0" Grid.ColumnSpan="3" >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Height="30" Width="30" Kind="Magnify" />
+                                </Grid>
+                                <Grid Grid.Column="1" >
+                                    <TextBox x:Name="txt_search" TextChanged="txt_search_TextChanged"  Margin="0 10" materialDesign:TextFieldAssist.DecorationVisibility="Hidden" BorderThickness="0"  FontWeight="Bold" FontSize="18" materialDesign:TextFieldAssist.HasClearButton="True" materialDesign:HintAssist.Hint="Input label need search"
+                                            ></TextBox>
+                                </Grid>
+
+                            </Grid>
+                            <Grid Grid.Row="1" Margin="0 15" Grid.ColumnSpan="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="80"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <TextBlock VerticalAlignment="Center" FontWeight="Bold" HorizontalAlignment="Left">Label name:</TextBlock>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <TextBox x:Name="txt_labelname"  IsEnabled="False" materialDesign:TextFieldAssist.HasClearButton="True" materialDesign:HintAssist.Hint=""></TextBox>
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Row="2" Margin="0 15" Grid.ColumnSpan="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="80"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <TextBlock VerticalAlignment="Center"  FontWeight="Bold"  HorizontalAlignment="Left">Modified:</TextBlock>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <TextBox x:Name="txt_Modified"  FontWeight="Bold"  IsEnabled="False" materialDesign:TextFieldAssist.HasClearButton="True" materialDesign:HintAssist.Hint=""></TextBox>
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Row="4" Margin="0 15" Grid.ColumnSpan="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="80"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="7*"/>
+                                        <ColumnDefinition Width="9*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock VerticalAlignment="Center" FontWeight="Bold"   HorizontalAlignment="Left" Margin="0,5">PATH:</TextBlock>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <TextBox x:Name="txt_path"  FontWeight="Bold"  IsEnabled="False" materialDesign:TextFieldAssist.HasClearButton="True" materialDesign:HintAssist.Hint="Lot-reprint-cs6-box"></TextBox>
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Row="3"  Margin="0 15" Grid.ColumnSpan="3">
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="80"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="7*"/>
+                                        <ColumnDefinition Width="9*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock VerticalAlignment="Center" FontWeight="Bold"   HorizontalAlignment="Left" Margin="0,5">MD5:</TextBlock>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <TextBox x:Name="txt_Md5"  FontWeight="Bold"  IsEnabled="False" materialDesign:TextFieldAssist.HasClearButton="True" materialDesign:HintAssist.Hint="MD5"></TextBox>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <!--bottom-->
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid Grid.Column="0">
+                                        <Button x:Name="btn_download" Click="btn_Download_click" Height="40" Margin="10">
+                                            <Button.Background>
+                                                <LinearGradientBrush  StartPoint="0,0" EndPoint="1,1">
+                                                    <GradientStop Color="#006059" Offset="1"/>
+                                                    <GradientStop Color="White" Offset="0.2"/>
+                                                    <GradientStop Color="White" Offset="0"/>
+                                                </LinearGradientBrush>
+                                            </Button.Background>
+                                            <StackPanel Orientation="Horizontal">
+                                                <materialDesign:PackIcon Kind="DownloadCircleOutline"  Foreground="Black"  FontSize="50" />
+                                                <TextBlock FontWeight="Bold" Foreground="Black" FontFamily="Arial">
+                                    Download
+                                                </TextBlock>
+                                            </StackPanel>
+                                        </Button>
+                                    </Grid>
+                                    <Grid Grid.Column="1">
+                                        <Button x:Name="btn_upload" Click="btn_Upload_click" Height="40" Margin="10,0,10,10" VerticalAlignment="Bottom">
+                                            <Button.Background>
+                                                <LinearGradientBrush  StartPoint="0,0" EndPoint="1,1">
+                                                    <GradientStop Color="LightGreen" Offset="1"/>
+                                                    <GradientStop Color="White" Offset="0.2"/>
+                                                    <GradientStop Color="White" Offset="0"/>
+                                                </LinearGradientBrush>
+                                            </Button.Background>
+                                            <StackPanel Orientation="Horizontal">
+                                                <materialDesign:PackIcon Kind="FileUpload"  Foreground="Black"  FontSize="50"/>
+                                                <TextBlock FontWeight="Bold" Foreground="Black" FontFamily="Arial">
+                                    Upload
+                                                </TextBlock>
+                                            </StackPanel>
+                                        </Button>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Row="1">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid Grid.Column="0">
+                                        <Button x:Name="btn_Delete" Click="btn_Delete_click" Height="40" Margin="10">
+                                            <Button.Background>
+                                                <LinearGradientBrush  StartPoint="0,0" EndPoint="1,1">
+                                                    <GradientStop Color="#e50032" Offset="0"/>
+                                                    <GradientStop Color="White" Offset="0"/>
+                                                    <GradientStop Color="red" Offset="1.5"/>
+                                                </LinearGradientBrush>
+                                            </Button.Background>
+                                            <StackPanel Orientation="Horizontal">
+                                                <materialDesign:PackIcon Kind="DeleteForeverOutline" Foreground="Black" FontSize="50"/>
+                                                <TextBlock FontWeight="Bold" Foreground="Black" FontFamily="Arial">
+                                    Delete
+                                                </TextBlock>
+                                            </StackPanel>
+                                        </Button>
+                                    </Grid>
+                                    <Grid Grid.Column="1">
+                                        <Button x:Name="btn_Rename" Click="btn_Rename_click" Height="40"  Margin="10">
+                                            <Button.Background>
+                                                <LinearGradientBrush  StartPoint="0,0" EndPoint="1,1">
+                                                    <GradientStop Color="#ffd300" Offset="1"/>
+                                                    <GradientStop Color="White" Offset="0.3"/>
+                                                    <GradientStop Color="White" Offset="0"/>
+                                                </LinearGradientBrush>
+                                            </Button.Background>
+                                            <StackPanel Orientation="Horizontal">
+                                                <materialDesign:PackIcon Kind="RenameBox" Foreground="Black" />
+                                                <TextBlock x:Name="txbRename" FontWeight="Bold" Foreground="Black" FontFamily="Arial">
+                                    Rename
+                                                </TextBlock>
+                                            </StackPanel>
+                                        </Button>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </materialDesign:Card>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2" Margin="5 0" Grid.ColumnSpan="2">
+            <materialDesign:Card Background="#008082" Opacity="0.8" Margin="8 0 8 0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="190" ></ColumnDefinition>
+                        <ColumnDefinition Width="180"></ColumnDefinition>
+                        <ColumnDefinition Width="180"></ColumnDefinition>
+                        <ColumnDefinition Width="280" ></ColumnDefinition>
+                        <ColumnDefinition Width="80"></ColumnDefinition>
+                        <ColumnDefinition Width="350"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="0">
+                        <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                            <TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="txt_loginInfor">V0910853 - NGUYEN VAN DAO</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                            <TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="txt_Database">DATABASE:10.224.81.34</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                            <TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="txt_labelServer">Label Server: 10.224.81.30</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="3">
+                        <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                            <TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="tbl_labelPath">Label path:Lot-reprint-cs6-box</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="4">
+                        <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                            <TextBlock Margin="10 0 0 0" HorizontalAlignment="Left" Foreground="White" FontWeight="Bold" x:Name="tbl_total">Total:0</TextBlock>
+                        </Border>
+                    </Grid>
+                    <Grid Grid.Column="5" >
+                        <Border  BorderBrush="White" BorderThickness="0 0 1 0" CornerRadius="4">
+                            <Grid>
+                                <ProgressBar x:Name="ProgressBar" Value="0"  Height="15" Margin="3 0 8 0"
+                              materialDesign:TransitionAssist.DisableTransitions="True" />
+                                <TextBlock Text="{Binding ElementName=ProgressBar,Path=Value,StringFormat={}{0:0}%}" FontSize="16" Foreground="LightYellow" HorizontalAlignment="Center" />
+                            </Grid>
+                        </Border>
+
+
+                        <!--<ProgressBar x:Name="progressload" Height="20" Orientation="Horizontal" Value="0" />-->
+                        <!--<TextBlock Text="{Binding ElementName=progressload,Path=Value,StringFormat={}{}}" FontSize="18" HorizontalAlignment="Center" />-->
+
+                        <!--<TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" >Client IP: 10.224.120.112</TextBlock>-->
+
+                    </Grid>
+
+
+                </Grid>
+            </materialDesign:Card>
+        </Grid>
+    </Grid>
+</Window>

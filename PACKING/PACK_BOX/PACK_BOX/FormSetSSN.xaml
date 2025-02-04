@@ -1,0 +1,191 @@
+﻿<Window x:Class="PACK_BOX.FormSetSSN"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_BOX"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        WindowStartupLocation="CenterScreen"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="16" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        TextElement.FontFamily="Arial"
+        Background="{DynamicResource MaterialDesignPaper}"
+        Title="FormSetSSN" Height="450" Width="510">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                <GradientStop Color="#034E70" Offset="0"/>
+                <GradientStop Color="#0889A6" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.Resources>
+            <Style TargetType="TextBlock"  x:Key="Textblock">
+                <Setter Property="Padding" Value="8"/>
+                <Setter Property="Height" Value="25"></Setter>
+                <Setter Property="Foreground" Value="White"></Setter>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="9*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1">
+                <Label Content="SN=SSN" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Label Content="OK" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Ignore Str:"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Style="{StaticResource Textblock}" Text="SSN Length :"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Prefix SSN:"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <TextBlock Style="{StaticResource Textblock}" Text="MAC Length :"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Prefix MAC:"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1" Margin="20 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="2" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="3" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock  Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="4" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBlock Style="{StaticResource Textblock}" Text="MACID Start Digit:"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Box_SN Start Digit:"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1" Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Flow NO:"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Flow NO:"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="3" Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Button Background="YellowGreen" Foreground="Red" Width="90" BorderBrush="{x:Null}" FontSize="16">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Check"/>
+                    <TextBlock Text="OK"></TextBlock>
+                </StackPanel>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

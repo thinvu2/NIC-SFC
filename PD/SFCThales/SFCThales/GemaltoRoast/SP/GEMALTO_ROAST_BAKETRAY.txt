@@ -1,0 +1,281 @@
+CREATE OR REPLACE PROCEDURE GEMALTO_ROAST_BAKETRAY(LINE      IN VARCHAR2,
+                                                   SECTION   IN VARCHAR2,
+                                                   MYGROUP   IN VARCHAR2,
+                                                   W_STATION IN VARCHAR2,
+                                                   TRAYNO    IN VARCHAR2,
+                                                   BAKENO    IN VARCHAR2,
+                                                   EMPNO     IN VARCHAR2,
+                                                   RES       OUT VARCHAR2) AS
+  C_MO         VARCHAR2(25);
+  C_MODEL      VARCHAR2(25);
+  C_EMPNO      VARCHAR2(25);
+  C_NUM        NUMBER;
+  C_COUNT      NUMBER;
+  D_COUNT      NUMBER;
+  C_TIME       NUMBER(10, 2);
+  R_TIME       NUMBER(10, 2);
+  C_SN         VARCHAR2(25);
+  C_TMP_STR    VARCHAR2(100);
+  C_DATA       VARCHAR2(128);
+  C_ROUTE      VARCHAR2(25);
+  C_GROUP_NAME VARCHAR2(25);
+  G_NEXT       VARCHAR2(25);
+  C_VERSION    VARCHAR2(25);
+  C_BAKENO     VARCHAR2(10);
+BEGIN
+  C_TMP_STR := 'Start Err';
+  C_MO      := '';
+  C_DATA    := RTRIM(LTRIM(UPPER(TRAYNO)));
+  C_BAKENO  := RTRIM(LTRIM(UPPER(BAKENO)));
+  C_EMPNO   := RTRIM(LTRIM(UPPER(EMPNO)));
+  C_NUM     := 0;
+
+  --Gemalto 20150901 導入TrayNo過ROastIn/out/vi
+  --Packtray--->ROAST_IN--->ROAST_OUT--->VI---
+  --新增GemaltoRoast應用程序
+  --PackTray先Scan Tray Barcode,每Scan一片產品判斷一下Route
+  --並更新TrayNo欄位,其他欄位不動,當Finish Tray時,調用此SP
+  --ROAST_IN--->需要先掃BakeID,再掃TrayNo
+  --ROAST_OUT 直接用TrayNo過站
+  --VI站則會先把Tray的不良品處理掉,然後才能用TrayNo過站,並把Tray_no置為'N/A'
+
+  SELECT COUNT(SERIAL_NUMBER)
+    INTO C_NUM
+    FROM SFISM4.R_WIP_TRACKING_T
+   WHERE TRAY_NO = C_DATA;
+
+  IF C_NUM = 0 
+  THEN
+    RES := 'This TrayID Not Found!';
+    GOTO ENDPROC;
+  ELSE
+    -------- CHECK HOLD  BY ZDH 20151126 -----
+    SELECT COUNT(SERIAL_NUMBER)
+      INTO C_COUNT
+      FROM SFISM4.R_QAHOLD_DETAIL_T
+     WHERE (HOLD_FLAG = '2' OR HOLD_FLAG = 'Y')
+       AND SERIAL_NUMBER IN (SELECT SERIAL_NUMBER
+                               FROM SFISM4.R_WIP_TRACKING_T
+                              WHERE TRAY_NO = C_DATA);
+  
+    SELECT COUNT(SERIAL_NUMBER)
+      INTO D_COUNT
+      FROM SFISM4.R_WIP_TRACKING_T
+     WHERE TRAY_NO = C_DATA
+       AND SCRAP_FLAG <> '0';
+  
+    IF (C_COUNT > 0) OR (D_COUNT > 0) 
+    THEN
+      RES := 'This TrayID Has SN Hold!';
+      GOTO ENDPROC;
+    END IF;
+  END IF;
+
+  SELECT SERIAL_NUMBER,
+         GROUP_NAME,
+         MO_NUMBER,
+         MODEL_NAME,
+         SPECIAL_ROUTE,
+         VERSION_CODE
+    INTO C_SN, C_GROUP_NAME, C_MO, C_MODEL, C_ROUTE, C_VERSION
+    FROM SFISM4.R_WIP_TRACKING_T
+   WHERE TRAY_NO = C_DATA
+     AND ROWNUM = 1;
+
+  C_TMP_STR := 'Select Route';
+
+  SELECT GROUP_NEXT
+    INTO G_NEXT
+    FROM SFIS1.C_ROUTE_CONTROL_T
+   WHERE STATE_FLAG = '0'
+     AND ROUTE_CODE = C_ROUTE
+     AND GROUP_NAME = MYGROUP
+     AND ROWNUM = 1;
+
+  IF MYGROUP = 'PACK_TRAY' 
+  THEN
+    UPDATE SFISM4.R_WIP_TRACKING_T
+       SET GROUP_NAME      = MYGROUP,
+           STATION_NAME    = MYGROUP,
+           WIP_GROUP       = G_NEXT,
+           NEXT_STATION    = 'N/A',
+           IN_STATION_TIME = SYSDATE,
+           EMP_NO          = C_EMPNO
+     WHERE TRAY_NO = C_DATA;
+  
+    INSERT INTO SFISM4.R_SN_DETAIL_T
+      SELECT * FROM SFISM4.R_WIP_TRACKING_T WHERE TRAY_NO = C_DATA;
+  END IF;
+
+  IF MYGROUP = 'ROAST_IN' 
+  THEN
+    UPDATE SFISM4.R_WIP_TRACKING_T
+       SET GROUP_NAME      = MYGROUP,
+           STATION_NAME    = MYGROUP,
+           WIP_GROUP       = G_NEXT,
+           NEXT_STATION    = 'N/A',
+           IN_STATION_TIME = SYSDATE,
+           EMP_NO          = C_EMPNO
+     WHERE TRAY_NO = C_DATA;
+  
+    INSERT INTO SFISM4.R_SN_DETAIL_T
+      SELECT * FROM SFISM4.R_WIP_TRACKING_T WHERE TRAY_NO = C_DATA;
+  
+    --Rito 20180615
+    INSERT INTO SFISM4.R_ROIN_T
+      (MODEL_NAME,
+       MO_NUMBER,
+       VERSION_CODE,
+       IN_STATION_TIME,
+       TRAY_NO,
+       LOCATION,
+       WORK_FLAG,
+       EMP_NO,
+       QTY)
+    VALUES
+      (C_MODEL,
+       C_MO,
+       C_VERSION,
+       SYSDATE,
+       C_DATA,
+       C_BAKENO,
+       '0',
+       C_EMPNO,
+       C_NUM);
+    --Rito 20180615
+  END IF;
+
+  C_TMP_STR := 'Roast Out Err';
+
+  IF (MYGROUP = 'ROAST_OUT') 
+  THEN
+    SELECT COUNT(MODEL_NAME)
+      INTO C_COUNT
+      FROM SFIS1.C_ROAST_TIME_CONTROL_T
+     WHERE MODEL_NAME = C_MODEL
+       AND DEFAULT_GROUP = 'ROAST_IN'
+       AND END_GROUP = MYGROUP
+       AND ROWNUM = 1;
+  
+    IF C_COUNT > 0 
+    THEN
+      SELECT CONTROL_TIME
+        INTO C_TIME
+        FROM SFIS1.C_ROAST_TIME_CONTROL_T
+       WHERE MODEL_NAME = C_MODEL
+         AND DEFAULT_GROUP = 'ROAST_IN'
+         AND END_GROUP = MYGROUP;
+    
+      SELECT (SYSDATE - MAX(IN_STATION_TIME)) * 24
+        INTO R_TIME
+        FROM SFISM4.R_ROIN_T
+       WHERE TRAY_NO = C_DATA;
+    
+      IF (R_TIME - C_TIME) > 0 
+      THEN
+        UPDATE SFISM4.R_WIP_TRACKING_T
+           SET GROUP_NAME      = MYGROUP,
+               STATION_NAME    = MYGROUP,
+               WIP_GROUP       = G_NEXT,
+               NEXT_STATION    = 'N/A',
+               IN_STATION_TIME = SYSDATE,
+               EMP_NO          = C_EMPNO
+         WHERE TRAY_NO = C_DATA;
+      
+        INSERT INTO SFISM4.R_SN_DETAIL_T
+          SELECT * FROM SFISM4.R_WIP_TRACKING_T WHERE TRAY_NO = C_DATA;
+      
+        SELECT COUNT(SERIAL_NUMBER)
+          INTO C_NUM
+          FROM SFISM4.R_CINTERION_REPORT_T
+         WHERE SERIAL_NUMBER IN (SELECT SERIAL_NUMBER
+                                   FROM SFISM4.R_WIP_TRACKING_T
+                                  WHERE TRAY_NO = C_DATA);
+      
+        IF C_NUM <> 0 
+        THEN
+          UPDATE SFISM4.R_CINTERION_REPORT_T
+             SET BURN_OUTTIME = SYSDATE
+           WHERE SERIAL_NUMBER IN
+                 (SELECT SERIAL_NUMBER
+                    FROM SFISM4.R_WIP_TRACKING_T
+                   WHERE TRAY_NO = C_DATA);
+        END IF;
+      
+        --Rito 20180615 在此把TrayNo置為Close狀態
+        UPDATE SFISM4.R_ROIN_T
+           SET WORK_FLAG = '1', FINISH_DATE = SYSDATE
+         WHERE TRAY_NO = C_DATA
+           AND WORK_FLAG = '0';
+        --Rito 20180615
+      
+      ELSE
+        RES := '烘烤時間小於管控時間,請繼續烘烤';
+        GOTO ENDPROC;
+      END IF;
+    ELSE
+      UPDATE SFISM4.R_WIP_TRACKING_T
+         SET GROUP_NAME      = MYGROUP,
+             STATION_NAME    = MYGROUP,
+             WIP_GROUP       = G_NEXT,
+             NEXT_STATION    = 'N/A',
+             IN_STATION_TIME = SYSDATE,
+             EMP_NO          = C_EMPNO
+       WHERE TRAY_NO = C_DATA;
+    
+      INSERT INTO SFISM4.R_SN_DETAIL_T
+        SELECT * FROM SFISM4.R_WIP_TRACKING_T WHERE TRAY_NO = C_DATA;
+    
+      SELECT COUNT(SERIAL_NUMBER)
+        INTO C_NUM
+        FROM SFISM4.R_CINTERION_REPORT_T
+       WHERE SERIAL_NUMBER IN (SELECT SERIAL_NUMBER
+                                 FROM SFISM4.R_WIP_TRACKING_T
+                                WHERE TRAY_NO = C_DATA);
+    
+      IF C_NUM <> 0 
+      THEN
+        UPDATE SFISM4.R_CINTERION_REPORT_T
+           SET BURN_OUTTIME = SYSDATE
+         WHERE SERIAL_NUMBER IN (SELECT SERIAL_NUMBER
+                                   FROM SFISM4.R_WIP_TRACKING_T
+                                  WHERE TRAY_NO = C_DATA);
+      END IF;
+    END IF;
+  END IF;
+
+  C_TMP_STR := 'Close Roast';
+
+  IF MYGROUP IN ('VI', 'DUST_BLOWING') 
+  THEN
+    UPDATE SFISM4.R_WIP_TRACKING_T
+       SET GROUP_NAME      = MYGROUP,
+           STATION_NAME    = MYGROUP,
+           WIP_GROUP       = G_NEXT,
+           NEXT_STATION    = 'N/A',
+           IN_STATION_TIME = SYSDATE,
+           EMP_NO          = C_EMPNO,
+           TRACK_NO        = C_DATA,
+           TRAY_NO         = 'N/A'
+     WHERE TRAY_NO = C_DATA;
+  
+    INSERT INTO SFISM4.R_SN_DETAIL_T
+      SELECT * FROM SFISM4.R_WIP_TRACKING_T WHERE TRACK_NO = C_DATA;
+  END IF;
+
+  C_TMP_STR := 'R102 Error';
+  INSERT_R102_MCARTON(C_NUM,
+                      LINE,
+                      'TEST',
+                      MYGROUP,
+                      C_MO,
+                      C_MODEL,
+                      C_TMP_STR);
+
+  RES := C_TMP_STR;
+  <<ENDPROC>>
+  C_NUM := 0;
+EXCEPTION
+  WHEN OTHERS THEN
+    RES := C_TMP_STR;
+END;

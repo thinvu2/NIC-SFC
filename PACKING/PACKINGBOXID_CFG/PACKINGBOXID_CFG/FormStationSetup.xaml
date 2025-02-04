@@ -1,0 +1,142 @@
+﻿<Window x:Class="PACKINGBOXID_CFG.FormStationSetup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACKINGBOXID_CFG"
+        mc:Ignorable="d" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        WindowStartupLocation="CenterScreen"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="16" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        TextElement.FontFamily="Arial"
+        Background="{DynamicResource MaterialDesignPaper}"
+        Title="Station_Setup" Height="550" Width="500">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="TextBlock" x:Key="Title">
+                <Setter Property="Padding" Value="8"/>
+                <Setter Property="Height" Value="25"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                <GradientStop Color="#034E70" Offset="0"/>
+                <GradientStop Color="#0889A6" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="40 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" HorizontalAlignment="Right">
+                    <CheckBox x:Name="cb_change_line" BorderBrush="White" Foreground="White" Background="White" Height="25" Click="cb_change_line_Click">
+                        <CheckBox.Resources>
+                            <SolidColorBrush x:Key="MaterialDesignCheckBoxOff" Color="White" />
+                        </CheckBox.Resources>
+                    </CheckBox>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <TextBlock Style="{StaticResource Title}" Text="Change Line" Padding="4"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1" VerticalAlignment="Center">
+                <materialDesign:Card>
+                    <ComboBox x:Name="cbb_line_name" Height="25" Background="Yellow" IsReadOnly="True" IsEditable="True" Padding="5"/>
+                </materialDesign:Card>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" Margin="40 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Margin="0 0 60 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBlock Style="{StaticResource Title}" Text="Section :"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Style="{StaticResource Title}" Text="Group :"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <TextBlock Style="{StaticResource Title}" Text="Station :"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock x:Name="Edt_Section" Height="25" Padding="5"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock x:Name="Edt_Group" Height="25" Padding="5"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="2" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock x:Name="Edt_Station" Height="25" Padding="5"/>
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid Margin="10" Background="White">
+                <DataGrid Name="DataGrid" IsReadOnly="True" MouseDoubleClick="Double_Click">
+                    
+                </DataGrid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Background="YellowGreen" BorderBrush="{x:Null}" Foreground="Red" Width="100" Click="Button_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Check"/>
+                        <TextBlock Text="OK"></TextBlock>
+                    </StackPanel>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Background="YellowGreen" BorderBrush="{x:Null}" Foreground="Red" Width="100" Click="Button_Cancel">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Close"/>
+                        <TextBlock Text="Cancel"/>
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

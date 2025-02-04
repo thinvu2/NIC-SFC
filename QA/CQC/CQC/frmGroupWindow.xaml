@@ -1,0 +1,72 @@
+﻿<Window x:Class="CQC.frmGroupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="From Group" Height="200" Width="300" Initialized="Window_Initialized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="55"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DockPanel>
+            <Label Content="Choose Group:" VerticalAlignment="Center"></Label>
+            <ComboBox Margin="10 10 40 30" x:Name="combGroup"
+                      DisplayMemberPath="{Binding GROUP_NAME}"
+                      materialDesign:HintAssist.Hint="Input Group"
+                      Style="{ StaticResource  MaterialDesignFloatingHintComboBox}" />
+        </DockPanel>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+
+                <Button Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="OK" Click="Button_Click">
+                    <StackPanel
+                Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                    Margin="0 .5 0 0"
+                    Kind="Check" />
+                        <TextBlock>
+                    OK
+                        </TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+
+                <Button Margin="10" HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="Cancel" Click="Button_Click_1">
+                    <StackPanel
+                        Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                        Margin="0 .5 0 0"
+                        Kind="Close" />
+                        <TextBlock>
+                        Cancel
+                        </TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

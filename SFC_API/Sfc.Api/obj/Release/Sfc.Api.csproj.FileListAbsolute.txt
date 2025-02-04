@@ -1,0 +1,303 @@
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\NLog.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Api.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Api.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Api.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\csc.exe
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\csc.exe.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\csc.rsp
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\csi.exe
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\csi.rsp
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\System.AppContext.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\System.Collections.Immutable.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\System.IO.FileSystem.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\vbc.exe
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\vbc.exe.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\vbc.rsp
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\VBCSCompiler.exe
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\roslyn\VBCSCompiler.exe.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Antlr3.Runtime.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Cors.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Security.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Newtonsoft.Json.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\NLog.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Owin.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.OracleDatabase.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Services.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Net.Http.Formatting.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Cors.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Helpers.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.Cors.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.Owin.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.WebHost.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Mvc.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Optimization.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Razor.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.WebPages.Deployment.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.WebPages.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.WebPages.Razor.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\WebGrease.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Dapper.Oracle.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Oracle.ManagedDataAccess.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Dapper.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Core.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Core.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.OracleDatabase.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.OracleDatabase.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Services.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Sfc.Services.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Cors.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Security.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Newtonsoft.Json.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\NLog.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.Cors.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.Owin.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Net.Http.Formatting.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Helpers.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Http.WebHost.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Mvc.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Optimization.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.Razor.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.WebPages.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.WebPages.Deployment.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\System.Web.WebPages.Razor.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Antlr3.Runtime.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Dapper.Oracle.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\bin\Dapper.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\obj\Release\Sfc.Api.csprojAssemblyReference.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\obj\Release\Sfc.Api.csproj.CoreCompileInputs.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\obj\Release\Sfc.Api.csproj.CopyComplete
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\obj\Release\Sfc.Api.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Api\obj\Release\Sfc.Api.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\NLog.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Api.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Api.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Api.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\csc.exe
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\csc.exe.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\csc.rsp
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\csi.exe
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\csi.rsp
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\System.AppContext.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\vbc.exe
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\vbc.exe.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\vbc.rsp
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Antlr3.Runtime.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Cors.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\NLog.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Owin.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.OracleDatabase.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Services.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Cors.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Helpers.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.Cors.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.Owin.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Mvc.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Optimization.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Razor.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.WebPages.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\WebGrease.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Dapper.Oracle.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Oracle.ManagedDataAccess.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Dapper.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.OracleDatabase.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.OracleDatabase.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Services.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Sfc.Services.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Cors.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\NLog.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.Cors.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.Owin.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Helpers.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Mvc.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Optimization.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.Razor.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.WebPages.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Antlr3.Runtime.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Dapper.Oracle.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\bin\Dapper.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\obj\Release\Sfc.Api.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\obj\Release\Sfc.Api.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\obj\Release\Sfc.Api.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\obj\Release\Sfc.Api.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Api\obj\Release\Sfc.Api.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\NLog.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Api.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Api.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Api.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\csc.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\csc.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\csc.rsp
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\csi.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\csi.rsp
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\System.AppContext.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\vbc.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\vbc.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\vbc.rsp
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Antlr3.Runtime.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Cors.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\NLog.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Owin.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.OracleDatabase.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Services.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Cors.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Helpers.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.Cors.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.Owin.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Mvc.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Optimization.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Razor.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.WebPages.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\WebGrease.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Dapper.Oracle.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Oracle.ManagedDataAccess.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Dapper.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.OracleDatabase.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.OracleDatabase.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Services.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Sfc.Services.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Cors.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\NLog.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.Cors.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.Owin.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Helpers.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Mvc.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Optimization.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.Razor.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.WebPages.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Antlr3.Runtime.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Dapper.Oracle.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\bin\Dapper.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\obj\Release\Sfc.Api.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\obj\Release\Sfc.Api.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\obj\Release\Sfc.Api.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\obj\Release\Sfc.Api.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Api\obj\Release\Sfc.Api.pdb

@@ -1,0 +1,206 @@
+﻿<Window x:Class="REPAIR.formReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:local="clr-namespace:REPAIR" 
+        xmlns:uc="clr-namespace:REPAIR.UserControlRepair" 
+        xmlns:sys ="clr-namespace:System;assembly=mscorlib"
+        xmlns:gif="https://github.com/XamlAnimatedGif/XamlAnimatedGif"
+        mc:Ignorable="d" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="18" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        WindowStyle="None"
+        Name="frmReport"
+        Title="Repair Report" Height="750" Width="1100" Loaded="Report_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <SolidColorBrush x:Key="Label_text" Color="#0889a6"/>
+        <SolidColorBrush x:Key="Colortext" Color="OrangeRed"/>
+        <SolidColorBrush x:Key="btncolor" Color="#FFBF4328"/>
+        <SolidColorBrush x:Key="Icon" Color="White"/>
+        <SolidColorBrush x:Key="Text" Color="White"/>
+        <SolidColorBrush x:Key="Text2" Color="#FF1B0303"/>
+        <SolidColorBrush x:Key="Text3" Color="Red"/>
+        <Style  TargetType="TextBox">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Background" Value="#FFF" />
+            <Setter Property="Padding" Value="3"></Setter>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+        </Style>
+        <Style  TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Padding" Value="3"></Setter>
+            <Setter Property="Background" Value="#FFF" />
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+        </Style>
+        <Style  TargetType="ComboBox">
+            <Setter Property="Foreground" Value="#09345d"/>
+            <Setter Property="Background" Value="#FFF" />
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+            <Setter Property="BorderThickness" Value="0"></Setter>
+        </Style>
+        <Style  TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#FFFF"/>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="0 0 10 0"/>
+        </Style>
+
+        <Style TargetType="{x:Type DataGridRowHeader}">
+            <Setter Property="Margin" Value="5 0" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+    </Window.Resources>
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ucBar Tag="{Binding Title ,ElementName = frmReport}"></uc:ucBar>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="160"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border BorderBrush="#FFA65B30" BorderThickness="2" Margin="2" Background="#FF117063">
+                <Grid Grid.Row="0"  >
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="200"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <WrapPanel Grid.Column="0" VerticalAlignment="Center" Visibility="Hidden" >
+                            <CheckBox x:Name="chkFuntion1" Background="White" IsChecked="True"  ></CheckBox>
+                            <Label Content="Date" ></Label>
+                        </WrapPanel>
+                        <DatePicker Grid.Column="1" Name="dtm1" Height="30" SelectedDate="{x:Static sys:DateTime.Now}" IsEnabled="{Binding IsChecked  , ElementName=chkFuntion1}"  Background="White" materialDesign:HintAssist.Hint="" />
+                        <Label Grid.Column="2" Content="Shiff" ></Label>
+                        <ComboBox Name="cboShiff" Grid.Column="3" SelectedIndex="0" Background="#FFF">
+                            <ComboBoxItem Content="Day"></ComboBoxItem>
+                            <ComboBoxItem Content="Night"></ComboBoxItem>
+                            <ComboBoxItem Content="ALL"></ComboBoxItem>
+                        </ComboBox>
+                        <Label Grid.Column="4" Content="Section" ></Label>
+                        <ComboBox Name="cboSection" Grid.Column="5" SelectedIndex="0" Background="#FFF">
+                            <ComboBoxItem Content="ALL" />
+                            <ComboBoxItem Content="SMT" />
+                            <ComboBoxItem Content="PTH" />
+                            <ComboBoxItem Content="SI" />
+                            <ComboBoxItem Content="TEST" />
+                            <ComboBoxItem Content="IPQC" />
+                        </ComboBox>
+                        <WrapPanel Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <CheckBox Name="chkIn" Content="IN" Foreground="White" Background="White" Margin="5 0"></CheckBox>
+                            <CheckBox Name="chkOut" Content="OUT"  Foreground="White" Background="White" Margin="5 0"></CheckBox>
+                            <CheckBox x:Name="chkAll" Content="ALL"  Foreground="White" Background="White" Margin="5 0"></CheckBox>
+                        </WrapPanel>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition  Width="auto"/>
+                            <ColumnDefinition  Width="150"/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition Width="69*"/>
+                        </Grid.ColumnDefinitions>
+                        <WrapPanel Grid.Column="0" VerticalAlignment="Center" >
+                            <CheckBox x:Name="chkFuntion2" Background="White" Click="chkFuntion2_Click"></CheckBox>
+                            <Label Content="Date" ></Label>
+                        </WrapPanel>
+                        <DatePicker Grid.Column="1"  Name="dtm2From"    SelectedDate="{x:Static sys:DateTime.Now}"  IsEnabled="{Binding IsChecked ,ElementName = chkFuntion2 }" Height="30" Background="#FFFF" />
+                        <Label Grid.Column="2" Content="To   " ></Label>
+                        <DatePicker Grid.Column="3"  Name="dtm2To"   SelectedDate="{x:Static sys:DateTime.Now}" IsEnabled="{Binding IsChecked ,ElementName = chkFuntion2 }" Height="30" Background="#FFFF" />
+                        <Label Grid.Column="4" Content="Time" Margin="30 0 0 0"></Label>
+                        <ComboBox Name="cboTimeFrom"   ItemsSource="{Binding MyDataSource}" IsEnabled="{Binding IsChecked ,ElementName = chkFuntion2 }" Grid.Column="5"></ComboBox>
+                        <Label Grid.Column="6" Content="To" ></Label>
+                        <ComboBox Name="cboTimeTo" Grid.Column="7"  IsEnabled="{Binding IsChecked ,ElementName = chkFuntion2 }" ItemsSource="{Binding MyDataSource}"></ComboBox>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="400"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <WrapPanel Grid.Column="0" VerticalAlignment="Center" >
+                            <CheckBox Name="chkModel" Background="White" ></CheckBox>
+                            <Label Name="cbRepairer" Content="Model Name:" ></Label>
+                        </WrapPanel>
+                        <TextBox Name="txtModel"  IsEnabled="{Binding IsChecked ,ElementName = chkModel }" Grid.Column="1"></TextBox>
+                        <WrapPanel Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <Label  Content="QTY: "  ></Label>
+                            <Label Name="tblQty" Content="0"  ></Label>
+                        </WrapPanel>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="364"/>
+                            <ColumnDefinition Width="36"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <WrapPanel Grid.Column="0" VerticalAlignment="Center" Margin="0,2" >
+                            <CheckBox Name="chkRepairer" Background="White" ></CheckBox>
+                            <Label Content="Repairer:" ></Label>
+                        </WrapPanel>
+                        <TextBox Name="txtRepairer" Grid.Column="1" IsEnabled="{Binding IsChecked ,ElementName = chkRepairer }" Grid.ColumnSpan="2" Margin="0,3"></TextBox>
+                        <Button x:Name="btnQuery" Grid.Column="4" Content="QUERY" Width="100" Background="OrangeRed" Click="btnQuery_Click" Margin="17,3"></Button>
+                        <Button x:Name="btnSave" Grid.Column="5" Content="SAVE" Width="100" Background="OrangeRed" Click="btnSave_Click" Margin="16,3,17,3"></Button>
+                    </Grid>
+
+
+
+                </Grid>
+            </Border>
+            <Border Grid.Row="1" Margin="2 0 2 2" Background="#FFA28480" BorderBrush="#FFA65B30" BorderThickness="2">
+                <TabControl >
+                    <TabItem Header="Repair List">
+                        <DataGrid Background="#FFF3F0F0"/>
+                    </TabItem>
+                    <TabItem Header="Re-Fail(1)">
+                        <DataGrid Background="#FFF3F0F0"/>
+                    </TabItem>
+                    <TabItem Header="Re-Fail(>1)">
+                        <DataGrid Background="#FFF3F0F0"/>
+                    </TabItem>
+                    <TabItem Header="Rate">
+                        <DataGrid Background="#FFF3F0F0"/>
+                    </TabItem>
+                    <TabItem Header="Repair InOut">
+                        <DataGrid Background="#FFF3F0F0"/>
+                    </TabItem>
+                </TabControl>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.ConsoleApp\obj\Debug\Sfc.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.exe.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.exe
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.ConsoleApp\obj\Debug\ClientIdGenerate.exe
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.ConsoleApp\obj\Debug\ClientIdGenerate.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.ConsoleApp\obj\Debug\Sfc.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Debug\Sfc.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Debug\Sfc.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Debug\ClientIdGenerate.exe
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.ConsoleApp\obj\Debug\ClientIdGenerate.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.exe.config
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.exe
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.ConsoleApp\bin\Debug\ClientIdGenerate.pdb
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.ConsoleApp\obj\Debug\Sfc.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.ConsoleApp\obj\Debug\ClientIdGenerate.exe
+D:\NIC Source\5.0\NIC_SFC\SFC_API\Sfc.ConsoleApp\obj\Debug\ClientIdGenerate.pdb

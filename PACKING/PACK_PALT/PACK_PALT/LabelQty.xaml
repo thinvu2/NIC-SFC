@@ -1,0 +1,75 @@
+﻿<Window x:Class="PACK_PALT.LabelQty"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACK_PALT"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="14" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="LabelQty" Height="137.815" Width="430.926" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#03405D" Offset="0"/>
+                <GradientStop Color="#0AABCF" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <materialDesign:Chip Foreground="White" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}"  IconBackground="{DynamicResource PrimaryHueDarkBrush}">
+                    Pallet label Qty:
+                </materialDesign:Chip>
+            </Grid>
+
+            <Grid Grid.Column="1" VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="60"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Margin="15 15 0 0" >
+                    <materialDesign:Card >
+                        <TextBox x:Name="txtNum" Background="White" materialDesign:TransitionAssist.DisableTransitions="True" Height="40" FontSize="22"  
+                                                 IsEnabled="False" TextChanged="TxtNum_TextChanged" />
+                    </materialDesign:Card>
+                </Grid>
+
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30*"/>
+                        <RowDefinition Height="30*"/>
+                    </Grid.RowDefinitions>
+                    <Grid >
+                        <Viewbox HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="Auto" Width="Auto">
+                            <materialDesign:PackIcon Kind="ChevronUp" Foreground="White" Height="32.941" Width="20"/>
+                        </Viewbox>
+                        <Button x:Name="cmdUp" x:FieldModifier="private" Click="CmdUp_Click" Height="Auto" BorderBrush="{x:Null}" Background="{x:Null}"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Viewbox HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="Auto" Width="Auto">
+                            <materialDesign:PackIcon Kind="ChevronDown" Foreground="White" Height="32.942" Width="20"/>
+                        </Viewbox>
+                        <Button x:Name="cmdDown" x:FieldModifier="private" Click="CmdDown_Click" Height="Auto" BorderBrush="{x:Null}" Background="{x:Null}"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button Style="{StaticResource MaterialDesignRaisedAccentButton}" Width="100" ToolTip="Resource name: MaterialDesignRaisedAccentButton" IsEnabled="True" Name="bbtnOK" Content="OK" BorderBrush="#FF7349C1" Click="BbtnOK_Click" >
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

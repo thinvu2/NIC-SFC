@@ -1,0 +1,607 @@
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\bin\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\bin\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\bin\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\FileCode\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\MaterialDesignColors.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\Sfc.Core.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\ShowMeTheXAML.AvalonEdit.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\ShowMeTheXAML.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\Login.g.cs
+C:\Users\V0957266\Desktop\FileCode\C#\REWORK\REWORK\obj\Debug\Login.baml
+E:\myProject\REWORK\REWORK\bin\Debug\REWORK.exe.config
+E:\myProject\REWORK\REWORK\bin\Debug\REWORK.exe
+E:\myProject\REWORK\REWORK\bin\Debug\REWORK.pdb
+E:\myProject\REWORK\REWORK\bin\Debug\MaterialDesignColors.dll
+E:\myProject\REWORK\REWORK\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\myProject\REWORK\REWORK\bin\Debug\Newtonsoft.Json.dll
+E:\myProject\REWORK\REWORK\bin\Debug\Sfc.Core.dll
+E:\myProject\REWORK\REWORK\bin\Debug\Sfc.Library.HttpClient.dll
+E:\myProject\REWORK\REWORK\bin\Debug\ShowMeTheXAML.AvalonEdit.dll
+E:\myProject\REWORK\REWORK\bin\Debug\ShowMeTheXAML.dll
+E:\myProject\REWORK\REWORK\bin\Debug\System.Net.Http.Formatting.dll
+E:\myProject\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.dll
+E:\myProject\REWORK\REWORK\bin\Debug\XamlAnimatedGif.dll
+E:\myProject\REWORK\REWORK\bin\Debug\ICSharpCode.AvalonEdit.dll
+E:\myProject\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.xml
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.csprojAssemblyReference.cache
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.exe.config
+E:\myProject\REWORK\REWORK\obj\Debug\Login.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\MessageError.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\App.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+E:\myProject\REWORK\REWORK\obj\Debug\App.baml
+E:\myProject\REWORK\REWORK\obj\Debug\Login.baml
+E:\myProject\REWORK\REWORK\obj\Debug\MainWindow.baml
+E:\myProject\REWORK\REWORK\obj\Debug\MessageError.baml
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+E:\myProject\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.g.resources
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.exe
+E:\myProject\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\MaterialDesignColors.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\Sfc.Core.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\ShowMeTheXAML.AvalonEdit.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\ShowMeTheXAML.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\V0957266\Desktop\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\Login.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\Login.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+C:\Users\V0957266\Desktop\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\REWORK.pdb
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\MaterialDesignColors.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\Sfc.Core.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\Sfc.Library.HttpClient.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\ShowMeTheXAML.AvalonEdit.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\ShowMeTheXAML.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\XamlAnimatedGif.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.csprojAssemblyReference.cache
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\Login.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\Login.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.exe
+C:\Users\V0957266\Desktop\New folder\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\Administrator\Desktop\REWORK\REWORK\bin\Debug\REWORK.exe.config
+C:\Users\Administrator\Desktop\REWORK\REWORK\bin\Debug\REWORK.exe
+C:\Users\Administrator\Desktop\REWORK\REWORK\bin\Debug\REWORK.pdb
+C:\Users\Administrator\Desktop\REWORK\REWORK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\REWORK\REWORK\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Administrator\Desktop\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\Login.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\Login.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.exe
+C:\Users\Administrator\Desktop\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\bin\Debug\REWORK.exe.config
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\bin\Debug\REWORK.exe
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\bin\Debug\REWORK.pdb
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\Login.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\Login.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.exe
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\V0957266-PC-1\Desktop\FolderCode\C#\REWORK\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\bin\Debug\REWORK.exe.config
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\bin\Debug\REWORK.exe
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\bin\Debug\REWORK.pdb
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\Login.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\Login.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\bin\Debug\sfcconnect.dll
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\bin\Debug\sfcconnect.pdb
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ReworkNew_MarkupCompile.cache
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ReworkNew_MarkupCompile.lref
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ReworkNew.g.resources
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ReworkNew.exe
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ReworkNew.pdb
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ReworkNew.exe.config
+C:\Users\V1041643\Desktop\up1\New folder\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+C:\SFIS-NIC\REWORK\REWORK.exe.config
+C:\SFIS-NIC\REWORK\REWORK.exe
+C:\SFIS-NIC\REWORK\REWORK.pdb
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe.config
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\Login.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\Login.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.g.resources
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.pdb
+E:\NIC_SOURCE\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+C:\NIC\REWORK\REWORK.exe.config
+C:\NIC\REWORK\REWORK.exe
+C:\NIC\REWORK\REWORK.pdb
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\MessageError.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\App.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\App.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\MainWindow.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\MessageError.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.g.resources
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.exe
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.pdb
+D:\SFC_NIC\PD\REWORK\REWORK\obj\Debug\REWORK.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe.config
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.g.resources
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe
+E:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.pdb
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe.config
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.g.resources
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe
+D:\NIC Source\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.csprojAssemblyReference.cache
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\ShowDataSelected.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\App.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\App.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\MainWindow.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\MessageError.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\ShowDataSelected.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.exe
+C:\Users\v1039442\Desktop\rework\REWORK\obj\Debug\REWORK.pdb
+E:\REWORK\REWORK\obj\Debug\REWORK.exe.config
+E:\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+E:\REWORK\REWORK\obj\Debug\MessageError.g.cs
+E:\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+E:\REWORK\REWORK\obj\Debug\App.g.cs
+E:\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+E:\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+E:\REWORK\REWORK\obj\Debug\App.baml
+E:\REWORK\REWORK\obj\Debug\MainWindow.baml
+E:\REWORK\REWORK\obj\Debug\MessageError.baml
+E:\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+E:\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+E:\REWORK\REWORK\obj\Debug\REWORK.g.resources
+E:\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+E:\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+E:\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+E:\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+E:\REWORK\REWORK\obj\Debug\REWORK.exe
+E:\REWORK\REWORK\obj\Debug\REWORK.pdb
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe.config
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.g.resources
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe
+E:\5.0\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.pdb
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe.config
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.cache
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK_MarkupCompile.lref
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\App.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MainWindow.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\MessageError.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\ShowDataSelected.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ControlBarUC.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucControlProcess.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucCutInFW.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucLogin.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucMainForm.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\UserControlRework\ucTReworkForm.baml
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.g.resources
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.Properties.Resources.resources
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.csproj.CopyComplete
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.exe
+C:\Users\V1039443\Desktop\SOURCE-NIC\NIC_SFC\PD\REWORK\REWORK\obj\Debug\REWORK.pdb

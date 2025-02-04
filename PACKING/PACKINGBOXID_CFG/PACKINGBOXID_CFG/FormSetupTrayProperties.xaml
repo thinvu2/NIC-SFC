@@ -1,0 +1,88 @@
+﻿<Window x:Class="PACKINGBOXID_CFG.FormSetupTrayProperties"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PACKINGBOXID_CFG"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        WindowStartupLocation="CenterScreen"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="16" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        TextElement.FontFamily="Arial"
+        Background="{DynamicResource MaterialDesignPaper}"
+        Title="FormSetupTrayProperties" Height="250" Width="400">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="TextBlock"  x:Key="Textblock">
+                <Setter Property="Padding" Value="8"/>
+                <Setter Property="Height" Value="25"></Setter>
+                <Setter Property="Foreground" Value="White"></Setter>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5"
+                                 StartPoint="0.504,0.03">
+                <GradientStop Color="#034E70" Offset="0"/>
+                <GradientStop Color="#0889A6" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Tray Prefix :"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Style="{StaticResource Textblock}" Text="Tray Length :"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock x:Name="Edit_Trayprefix" Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+                    <materialDesign:Card>
+                        <TextBlock x:Name="Edit_Traylength" Height="25"/>
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Label HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">
+                    OK
+                </Label>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button Background="YellowGreen" Foreground="Red" Width="90" BorderBrush="{x:Null}">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Check"/>
+                    <TextBlock Text="OK"></TextBlock>
+                </StackPanel>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

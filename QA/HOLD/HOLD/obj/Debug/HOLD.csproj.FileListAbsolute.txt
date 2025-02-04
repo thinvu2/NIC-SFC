@@ -1,0 +1,280 @@
+D:\CODE\HOLD\HOLD\bin\Debug\HOLD.exe.config
+D:\CODE\HOLD\HOLD\bin\Debug\HOLD.exe
+D:\CODE\HOLD\HOLD\bin\Debug\HOLD.pdb
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.csprojResolveAssemblyReference.cache
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.Cache
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.pdb
+D:\CODE\HOLD\HOLD\bin\Debug\SFIS_DLL.dll
+D:\CODE\HOLD\HOLD\bin\Debug\SFIS_DLL.pdb
+D:\CODE\HOLD\HOLD\bin\Debug\SFIS_DLL.xml
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+D:\CODE\HOLD\HOLD\obj\Debug\HOLD.ChangePass.resources
+D:\CODE\TRANSFER\HOLD\HOLD\bin\Debug\HOLD.exe.config
+D:\CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.pdb
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\bin\Debug\HOLD.exe.config
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.pdb
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\bin\Debug\HOLD.exe
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\bin\Debug\HOLD.pdb
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\bin\Debug\SFIS_DLL.pdb
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\bin\Debug\SFIS_DLL.xml
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.csprojResolveAssemblyReference.cache
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.ChangePass.resources
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+D:\SOURCE CODE\TRANSFER\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.Cache
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\HOLD.exe.config
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.pdb
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\HOLD.exe
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\HOLD.pdb
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.ChangePass.resources
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.Cache
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\SFC_Library.dll
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\AxInterop.WMPLib.dll
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\Interop.WMPLib.dll
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\SFC_Library.pdb
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\bin\Debug\SFC_Library.xml
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+D:\SOURCE CODE\NEW C#\HOLD\HOLD\obj\Debug\HOLD.csprojResolveAssemblyReference.cache
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.exe.config
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.pdb
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.csprojResolveAssemblyReference.cache
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.ChangePass.resources
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.Cache
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.exe
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.pdb
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\SFC_Library.dll
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\SFC_Library.pdb
+D:\Linh\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\SFC_Library.xml
+D:\LINH\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.csproj.HOLD.exe.config
+D:\LINH\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\Newtonsoft.Json.dll
+D:\LINH\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\Sfc.Core.dll
+D:\LINH\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\Sfc.Library.HttpClient.dll
+D:\LINH\SOURCE CODE\C#\HOLD\HOLD\bin\Debug\System.Net.Http.Formatting.dll
+D:\LINH\SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.exe.config
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.pdb
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.exe
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\bin\Debug\HOLD.pdb
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.Cache
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\obj\Debug\HOLD.csprojResolveAssemblyReference.cache
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\bin\Debug\Sfc.Core.dll
+D:\LINH\A-SOURCE CODE\C#\HOLD\HOLD\bin\Debug\Sfc.Library.HttpClient.dll
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.csprojAssemblyReference.cache
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.exe
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.pdb
+H:\Code C#\HOLD\HOLD\bin\Debug\HOLD.exe.config
+H:\Code C#\HOLD\HOLD\bin\Debug\HOLD.exe
+H:\Code C#\HOLD\HOLD\bin\Debug\HOLD.pdb
+H:\Code C#\HOLD\HOLD\bin\Debug\Newtonsoft.Json.dll
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+H:\Code C#\HOLD\HOLD\obj\Debug\HOLD.exe.config
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\bin\Debug\HOLD.exe.config
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\bin\Debug\HOLD.exe
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\bin\Debug\HOLD.pdb
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\bin\Debug\Sfc.Core.dll
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\bin\Debug\Sfc.Library.HttpClient.dll
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.csprojAssemblyReference.cache
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.exe.config
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\LINH\A-SOURCE CODE\SFC_5.0\HOLD\HOLD\obj\Debug\HOLD.pdb
+E:\IT\HOLD\HOLD\bin\Debug\HOLD_NEW.exe.config
+E:\IT\HOLD\HOLD\bin\Debug\HOLD_NEW.exe
+E:\IT\HOLD\HOLD\bin\Debug\HOLD_NEW.pdb
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.csproj.HOLD_NEW.exe.config
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+E:\IT\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.Cache
+E:\IT\HOLD\HOLD\obj\Debug\HOLD_NEW.exe
+E:\IT\HOLD\HOLD\obj\Debug\HOLD_NEW.pdb
+C:\Users\V0990931\Desktop\HOLD\HOLD\bin\Debug\HOLD.exe.config
+C:\Users\V0990931\Desktop\HOLD\HOLD\bin\Debug\HOLD.exe
+C:\Users\V0990931\Desktop\HOLD\HOLD\bin\Debug\HOLD.pdb
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.AssemblyReference.cache
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.SuggestedBindingRedirects.cache
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.exe.config
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.exe
+C:\Users\V0990931\Desktop\HOLD\HOLD\obj\Debug\HOLD.pdb
+C:\Users\V0958956\Desktop\HOLD\HOLD\bin\Debug\HOLD.exe.config
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.exe
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.pdb
+C:\Users\V0958956\Desktop\HOLD\HOLD\bin\Debug\HOLD.exe
+C:\Users\V0958956\Desktop\HOLD\HOLD\bin\Debug\HOLD.pdb
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.csprojResolveAssemblyReference.cache
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.HOLD.exe.config
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+C:\Users\V0958956\Desktop\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.Cache
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\bin\Debug\HOLD.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\bin\Debug\HOLD.exe
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\bin\Debug\HOLD.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.exe.config
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.exe
+C:\Users\V1041643\Desktop\SFC_NIC\HOLD\HOLD\obj\Debug\HOLD.pdb
+E:\NIC_SFC\QA\HOLD\HOLD\bin\Debug\HOLD.exe.config
+E:\NIC_SFC\QA\HOLD\HOLD\bin\Debug\HOLD.exe
+E:\NIC_SFC\QA\HOLD\HOLD\bin\Debug\HOLD.pdb
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe.config
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe
+E:\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.pdb
+C:\SFIS-NIC\HOLD\HOLD.exe.config
+C:\SFIS-NIC\HOLD\HOLD.exe
+C:\SFIS-NIC\HOLD\HOLD.pdb
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe.config
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.FormLogin.resources
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe
+E:\NIC_SOURCE\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.pdb
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.exe.config
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.exe
+D:\SFC_NIC\QA\HOLD\HOLD\obj\Debug\HOLD.pdb
+C:\NIC\HOLD\HOLD.exe.config
+C:\NIC\HOLD\HOLD.exe
+C:\NIC\HOLD\HOLD.pdb
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe.config
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe
+E:\5.000\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.pdb
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe.config
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.ResolveComReference.cache
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.AutoHold.resources
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.FormMain.resources
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HandHold.resources
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.HoldQuery.resources
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.LogQuery.resources
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.exe
+E:\NIC Source\5.0\NIC_SFC\QA\HOLD\HOLD\obj\Debug\HOLD.pdb

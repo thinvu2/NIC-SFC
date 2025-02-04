@@ -1,0 +1,418 @@
+﻿<Window  x:Class="PACK_PALT.MainWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:local="clr-namespace:PACK_PALT" 
+        xmlns:gif="https://github.com/XamlAnimatedGif/XamlAnimatedGif"
+        xmlns:uc="clr-namespace:PACK_PALT.UserControlCTN" 
+        mc:Ignorable="d" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" 
+        TextElement.FontWeight="Regular" 
+        TextElement.FontSize="14" 
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto" 
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}" 
+        Icon="{StaticResource wholesale}"
+        DataContext="{StaticResource MainVM}"
+        WindowStyle="None" x:Name="mainWindow"
+        
+        Title="PACK_PALT" Height="876" Width="1267.674"  
+        WindowStartupLocation="CenterScreen" WindowState="Maximized"  >
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Closed">
+            <i:InvokeCommandAction Command="{Binding ClosedWindowCommand}" 
+                                   CommandParameter="{Binding ElementName=mainWindow}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid >
+        <!--Background="#FFE5F2F5"-->
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#03405D" Offset="0"/>
+                <GradientStop Color="#0AABCF" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title ,ElementName = mainWindow}" ></uc:ControlBarUC>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="2.5*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" >
+                    <StackPanel >
+                        <Menu RenderTransformOrigin="0.52,-6.919" Height="22" >
+                            <MenuItem Header="Option" Height="22">
+                                <MenuItem Header="Setup Station" InputGestureText="F1" Name="Setup_Station" Background="#FFF1EDED" Click="Setup_Station_Click" />
+                                <MenuItem Header="Label Qty" InputGestureText="F8" Background="#FFF1EDED" Name="Label_Qty"
+                                          Command="{Binding Label_QtyCommad}"
+                                          CommandParameter="{Binding ElementName=mainWindow}"/>
+                                <MenuItem Header="Pallet Print Type"  Background="#FFF1EDED">
+                                    <MenuItem Header="Ambit Pallet" Name="item_ambit_pallet" IsCheckable="True" Background="#FFF1EDED" Click="Item_ambit_pallet_Click"
+                                              />
+                                    <MenuItem Header="Custom Pallet" Name="item_custom_pallet" IsCheckable="True" Background="#FFF1EDED" Click="Item_custom_pallet_Click" />
+                                    <MenuItem Header="Pallet Label3" Name="Pallet_Label3" IsCheckable="True" Background="#FFF1EDED" Click="Pallet_Label3_Click"
+                                              />
+                                    <MenuItem Header="Pallet Label4" Name="Pallet_label4" IsCheckable="True" Background="#FFF1EDED" Click="Pallet_label4_Click"/>
+                                    <MenuItem Header="A4 Palet label" Name="A4Label" IsCheckable="True" Background="#FFF1EDED" Click="A4Label_Click" 
+                                              />
+                                    <MenuItem Header="Pallet Label3+4" Name="Pallet_label3_4" IsCheckable="True" Background="#FFF1EDED" Click="Pallet_label3_4_Click" />
+                                </MenuItem>
+                                <MenuItem Header="Print To"  Background="#FFF1EDED" >
+                                    <MenuItem Header="Printer" Name="itemPrinter" IsCheckable="True" Background="#FFF1EDED" Click="itemPrinter_Click"/>
+                                    <MenuItem Header="Barcode Printer" Name="BarCodeItem" IsCheckable="True" Background="#FFF1EDED" Click="BarCodeItem_Click" />
+                                    <MenuItem Header="Dont Print" Name="itemDontPrint" IsCheckable="True" Background="#FFF1EDED" Click="itemDontPrint_Click" />
+                                </MenuItem>
+                                <MenuItem Header="Close Pallet" Name="Close_Pallet" Background="#FFF1EDED"
+                                          Command="{Binding ClosepalletCommand}" 
+                                          CommandParameter="{Binding ElementName=mainWindow}" >
+                                </MenuItem>
+                                <!--<MenuItem Header="Label"   Background="#FFF1EDED" >
+                                    <MenuItem Header="LH" Name="LH1" IsCheckable="True" Background="#FFF1EDED" />
+                                    <MenuItem Header="GL" Name="GL1" IsCheckable="True" Background="#FFF1EDED" />
+                                    <MenuItem Header="Local" Name="LOCAL1" IsCheckable="True" Background="#FFF1EDED" />
+                                </MenuItem>-->
+                                <MenuItem Header="Check Pirun"  Background="#FFF1EDED" >
+                                    <MenuItem Header="46" Name="N461" IsCheckable="True"  Background="#FFF1EDED" Click="N461_Click" />
+                                    <MenuItem Header="45" Name="N451" IsCheckable="True" Background="#FFF1EDED" Click="N451_Click" />
+                                    <MenuItem Header="DOA" Name="DOA1" IsCheckable="True" Background="#FFF1EDED" Click="DOA1_Click"/>
+                                </MenuItem>
+                                <!--<MenuItem Header="NO_CHECK_MO" Name="NO_CHECK_MO" IsCheckable="True" Background="#FFF1EDED"/>-->
+                                <!--<MenuItem Header="Shipping_Sn" Name="Shipping_Sn" IsCheckable="True" Background="#FFF1EDED" />-->
+                                <MenuItem Header="2D_Input" Name="Input_2D" IsCheckable="True" Background="#FFF1EDED" />
+                                <MenuItem Header="Set Cut Barcode" Name="Cut_Barcode" IsCheckable="True" Background="#FFF1EDED" Click="Cut_Barcode_Click" />
+                                <!--<MenuItem Header="Mcarton Length" IsCheckable="True" Background="#FFF1EDED"/>-->
+                            </MenuItem>
+                            <MenuItem Header="Reprint" Height="22">
+                                <MenuItem Header="Reprint Palt Label" x:Name="Reprint" Background="#FFF1EDED" Command="{Binding ReprintCommand}"
+                                          CommandParameter="{Binding ElementName=mainWindow}"/>
+                            </MenuItem>
+                            <MenuItem Header="Code soft" Height="22">
+                                <MenuItem Header="Visible"  Background="#FFF1EDED"
+                                          Command="{Binding VisibleLabelCommand}"
+                                          CommandParameter="{Binding ElementName=mainWindow}"/>
+                            </MenuItem>
+                            <MenuItem Header="Label" Height="22">
+                                <MenuItem Header="Carton Label" x:Name="CARTONLABEL1" IsCheckable="True" Background="#FFF1EDED"
+                                          IsChecked="{Binding CartonLabelCheck,UpdateSourceTrigger=PropertyChanged}"/>
+                                <MenuItem Header="SSN Label" Name="SSNLABEL1" IsCheckable="True" Background="#FFF1EDED"
+                                          IsChecked="{Binding SsnLabelCheck,UpdateSourceTrigger=PropertyChanged}"/>
+                                <MenuItem Header="Page Qty" Name="page_qty" IsCheckable="True" Background="#FFF1EDED"
+                                          IsChecked="{Binding PageQtyCheck,UpdateSourceTrigger=PropertyChanged}"/>
+                            </MenuItem>
+                            <MenuItem Header="ShowParam" Height="22" Command="{Binding ShowParamCommand}"
+                                      CommandParameter="{Binding ElementName=mainWindow}"/>
+                        </Menu>
+                        <materialDesign:ColorZone Mode="Inverted" Padding="10" Background="#FF525B56" BorderThickness="0,0,0,0" Grid.ColumnSpan="3">
+                            <DockPanel>
+                                
+                                <!--<StackPanel Orientation="Horizontal">
+                                <Button Name="ButtonOpenMenu" Click="ButtonOpenMenu_Click" 
+                                         Background="{x:Null}" BorderBrush="{x:Null}" Height="40"  >
+                                    <materialDesign:PackIcon Kind="Menu" Width="40" Height="40" />
+                                </Button>
+                                <TextBlock FontFamily="Adobe Caslon Pro Bold" FontSize="16" Width="40" Margin="0 10 0 0" Text="Menu" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                            </StackPanel>-->
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <TextBlock FontFamily="Adobe Caslon Pro Bold" Name="txt_name_station_and_line" FontSize="40" Margin="5" Text="PACK_PALT" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </StackPanel>
+                            </DockPanel>
+                        </materialDesign:ColorZone>
+
+                    </StackPanel>
+                </Grid>
+                <!--Main chinh-->
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"></ColumnDefinition>
+                        <ColumnDefinition Width="2.5*"></ColumnDefinition>
+                        <ColumnDefinition Width="3.5*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0" Margin="10 10 ">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="2*"></RowDefinition>
+                            <RowDefinition Height="3*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"></ColumnDefinition>
+                                <ColumnDefinition Width="4*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0" VerticalAlignment="Center">
+                                    <materialDesign:Chip Foreground="White" Content="Employee" IconBackground="{DynamicResource PrimaryHueDarkBrush}" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" MaxWidth="130" MinWidth="105">
+                                        <materialDesign:Chip.Icon>
+                                            <materialDesign:PackIcon Kind="Twitter"></materialDesign:PackIcon>
+                                        </materialDesign:Chip.Icon>
+                                    </materialDesign:Chip>
+                                </Grid>
+                                <Grid Grid.Row="1" VerticalAlignment="Center">
+                                    <StackPanel>
+                                        <materialDesign:Chip Foreground="White" Content="CARTON" MaxWidth="130" MinWidth="100" IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" Width="105">
+                                            <materialDesign:Chip.Icon>
+                                                <materialDesign:PackIcon Kind="Twitter"></materialDesign:PackIcon>
+                                            </materialDesign:Chip.Icon>
+                                        </materialDesign:Chip>
+                                    </StackPanel>
+
+                                </Grid>
+                                
+                            </Grid>
+                            <Grid Grid.Column="1" Margin="0 0 45 0 ">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0" VerticalAlignment="Center">
+                                    <PasswordBox x:Name="PasswordBox" Foreground="White" materialDesign:HintAssist.Hint="Password" Background="{x:Null}" Height="30" Visibility="Visible" >
+                                        <i:Interaction.Triggers>
+                                            <i:EventTrigger EventName="PasswordChanged">
+                                                <i:InvokeCommandAction Command="{Binding PasswordChangedCommand}" 
+                                                 CommandParameter="{Binding ElementName=PasswordBox}"/>
+                                            </i:EventTrigger>
+                                        </i:Interaction.Triggers>
+                                    </PasswordBox>
+
+                                    <TextBox materialDesign:TransitionAssist.DisableTransitions="True" Foreground="White" Name="EmpName" VerticalAlignment="Center" Visibility="Collapsed" ></TextBox>
+                                </Grid>
+                                <Grid Grid.Row="1" VerticalAlignment="Center">
+                                    <materialDesign:Card>
+                                        <TextBox x:Name="Input_Carton" materialDesign:TransitionAssist.DisableTransitions="True" Height="30" FontSize="22" Background="Yellow" KeyUp="Input_Carton_KeyUp" />
+                                    </materialDesign:Card>
+                                </Grid>
+                                
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="1" Margin="0 20 40 20">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                    <Label Grid.Column="0" Content="Model Name :" Foreground="White"></Label>
+                                </Border>
+                                <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" Grid.Column="1" Background="#ffff" Height="30">
+                                    <!--<Label Content="RAX50S-100NASV1"></Label>-->
+                                    <materialDesign:Card>
+                                        <TextBox x:Name="Edit_model" materialDesign:TransitionAssist.DisableTransitions="True" Height="30" FontSize="22"  
+                                                 IsEnabled="False"/>
+                                    </materialDesign:Card>
+                                </Border>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                    <Label Grid.Column="0" Content="Verion code :" Foreground="White"></Label>
+                                </Border>
+                                <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" Grid.Column="1" Background="#ffff" Height="30" >
+                                    <!--<Label Content="01"></Label>-->
+                                    <materialDesign:Card>
+                                        <TextBox x:Name="Edit_Version" 
+                                                 materialDesign:TransitionAssist.DisableTransitions="True" 
+                                                 Height="30" FontSize="22" 
+                                                 IsEnabled="False"/>
+                                    </materialDesign:Card>
+                                </Border>
+                            </Grid>
+                            <Grid Grid.Row="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                    <Label Grid.Column="0" Content="Mo Number :" Foreground="White"></Label>
+                                </Border>
+                                <Border CornerRadius="5"  BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" Grid.Column="1" Background="#ffff" Height="30">
+                                    <materialDesign:Card>
+                                        <TextBox x:Name="editMO" 
+                                                 materialDesign:TransitionAssist.DisableTransitions="True" 
+                                                 Height="30" 
+                                                 FontSize="22" 
+                                                 IsEnabled="False"/>
+                                    </materialDesign:Card>
+                                </Border>
+                            </Grid>
+                            <Grid Grid.Row="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                    <Label Grid.Column="0" Content="Customer :" Foreground="White"></Label>
+                                </Border>
+                                <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" Grid.Column="1" Background="#ffff" Height="30">
+                                    <materialDesign:Card>
+                                        <TextBox x:Name="editCustomer" IsEnabled="False" materialDesign:TransitionAssist.DisableTransitions="True" Height="30" FontSize="22" />
+                                    </materialDesign:Card>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <GroupBox Header="Palt Information" Margin="13,12,7,8" >
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="2*"></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0">
+                                    <StackPanel>
+                                        <Label Content="Last Palt NO" Foreground="White"></Label>
+                                        <Border BorderBrush="#FF6F5CC7" BorderThickness="1" CornerRadius="5" Background="#FFFF">
+                                            <materialDesign:Card>
+                                                <TextBox x:Name="Pa_PalletNo" materialDesign:TransitionAssist.DisableTransitions="True" IsEnabled="False"  Height="30" FontSize="22" KeyUp="Input_Carton_KeyUp" />
+                                            </materialDesign:Card>
+                                        </Border>
+                                        <Label FontSize="22"  HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="red" x:Name="pa_custom_pallet" />
+                                    </StackPanel>
+                                </Grid>
+                                
+                                <Grid Grid.Row="1">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="75*"></ColumnDefinition>
+                                        <ColumnDefinition Width="124*"/>
+                                        <ColumnDefinition Width="100*"></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Content="Count :" MaxHeight="30" Grid.ColumnSpan="2" Foreground="White"></Label>
+                                    <Border Background="#ffffff" Grid.Column="2" Margin="0 5" MaxHeight="60" CornerRadius="5">
+                                        <!--<materialDesign:Card>-->
+                                            <Label x:Name="Pa_PalletCount"   Foreground="Black"   Height="60" FontSize="47" KeyUp="Input_Carton_KeyUp" />
+                                        
+                                    </Border>
+                                </Grid>
+                                
+                                <Grid Grid.Row="2">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Content="Packing QTY:" MaxHeight="30" Foreground="White"></Label>
+                                    <Border Background="#ffff" Grid.Column="1" Margin="0 5" MaxHeight="50" CornerRadius="5">
+                                        
+                                            <Label x:Name="Ed_PalletQty" materialDesign:TransitionAssist.DisableTransitions="True"  Height="50" FontSize="42" KeyUp="Input_Carton_KeyUp" />
+                                        
+                                    </Border>
+                                </Grid>
+                                <Grid Grid.Row="5" Margin="0 5 0 0">
+                                    <Button Style="{StaticResource MaterialDesignRaisedAccentButton}" Width="140" ToolTip="Resource name: MaterialDesignRaisedAccentButton" IsEnabled="False" Name="bbtnClosePallet" Content="CLOSE PALT" BorderBrush="#FF7349C1" Click="ButtomClose_Click" >
+                                    </Button>
+                                </Grid>
+                            </Grid>
+                        </GroupBox>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <GroupBox Header="List Carton" Foreground="White" Margin="10"  Background="{x:Null}">
+                            <!--<DataGrid x:Name="dataGridsn" />-->
+                            <ListBox
+                                IsEnabled="{Binding IsChecked, ElementName=EnableListBox}" Background="White" Foreground="Black"   x:Name="listbCarton">
+                            </ListBox>
+                        </GroupBox>
+                    </Grid>
+
+                </Grid>
+                <!--thong bao -->
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                        <ColumnDefinition Width="4*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <GroupBox Header="Infomation" Margin="10">
+                            <Grid Background="White">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1.*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2.*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                            <Label Grid.Column="0" Content="Version :" ></Label>
+                                        </Border>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                            <Label Grid.Column="0" Content="IP :" ></Label>
+                                        </Border>
+                                    </Grid>
+                                    <Grid Grid.Row="2">
+                                        <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                            <Label Grid.Column="0" Content="Mac :" ></Label>
+                                        </Border>
+                                    </Grid>
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                            <Label Grid.Column="0" Content="version" x:Name="version" ></Label>
+                                        </Border>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                            <Label Grid.Column="0" Content="ip" x:Name="ip" ></Label>
+                                        </Border>
+                                    </Grid>
+                                    <Grid Grid.Row="2">
+                                        <Border CornerRadius="5" BorderBrush="#FF6F5CC7" BorderThickness="1" Margin="5" MaxHeight="30">
+                                            <Label Grid.Column="0" Content="mac" x:Name="mac" ></Label>
+                                        </Border>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </GroupBox>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <GroupBox Margin="10" Header="Error Message" BorderBrush="#FF79BEE8">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Label Grid.Row="0" Name="Label_error" Content="Nhập carton - Input carton no" FontSize="26.667" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Red"></Label>
+                            </Grid>
+                        </GroupBox>
+                    </Grid>
+                    
+                </Grid>
+            </Grid>
+            
+        </Grid>
+    </Grid>
+
+</Window>

@@ -1,0 +1,165 @@
+CREATE OR REPLACE PROCEDURE "NEW_CHECK_ROUTE" (
+   LINE      IN     VARCHAR2,
+   MYGROUP   IN     VARCHAR2,
+   DATA      IN     VARCHAR2,
+   RES          OUT VARCHAR2)
+AS
+   C_ERRORFLAG     VARCHAR2 (1);
+   C_GROUPNAME     VARCHAR2 (25);
+   C_SN            VARCHAR2 (25);
+   GROUPNEXT       VARCHAR2 (25);
+   C_CODE          NUMBER;
+   C_COUNT         NUMBER;
+   C_MO            VARCHAR2 (25);
+   C_VERSION       VARCHAR2 (25);
+   TMP_RES         VARCHAR2 (16);
+   C_GROUPNEXT     VARCHAR2 (16);
+   C_NEXTSTATION   VARCHAR2 (16);
+   C_WIPSTATION    VARCHAR2 (16);
+   C_ROWID         VARCHAR2 (25);
+   C_ROUTENAME     VARCHAR2 (50);
+   C_END_GROUP     VARCHAR2 (25);
+   C_ERROR_CODE    VARCHAR2 (25);
+   C_MODEL         VARCHAR2 (25);
+   C_DATA          VARCHAR2 (60);
+   C_TO_GROUP      VARCHAR2 (20);
+BEGIN
+   C_DATA := UPPER (RTRIM (LTRIM (DATA)));
+   TMP_RES := 'R107 No SN';
+
+   SELECT SERIAL_NUMBER,
+          ERROR_FLAG,
+          GROUP_NAME,
+          MO_NUMBER,
+          VERSION_CODE,
+          SPECIAL_ROUTE,
+          NEXT_STATION,
+          MODEL_NAME,
+          WIP_GROUP
+     INTO C_SN,
+          C_ERRORFLAG,
+          C_GROUPNAME,
+          C_MO,
+          C_VERSION,
+          C_CODE,
+          C_NEXTSTATION,
+          C_MODEL,
+          C_WIPSTATION
+     FROM (  SELECT SERIAL_NUMBER,
+                    ERROR_FLAG,
+                    GROUP_NAME,
+                    MO_NUMBER,
+                    VERSION_CODE,
+                    SPECIAL_ROUTE,
+                    NEXT_STATION,
+                    MODEL_NAME,
+                    WIP_GROUP
+               FROM SFISM4.R107
+              WHERE SERIAL_NUMBER = C_DATA OR SHIPPING_SN = C_DATA
+           ORDER BY IN_STATION_TIME DESC)
+    WHERE ROWNUM = 1;
+
+   TMP_RES := 'Check Hold Error';
+   CHECK_HOLD (C_SN, TMP_RES);
+   --TMP_RES := 'Check  Error';
+
+   SELECT COUNT (MODEL_NAME)
+     INTO C_COUNT
+     FROM SFIS1.C_MODEL_HOLD_SET_T
+    WHERE     MODEL_NAME = C_MODEL
+          AND (VERSION_CODE IS NULL OR VERSION_CODE = C_VERSION)
+          AND (GROUP_NAME IS NULL OR GROUP_NAME = MYGROUP)
+          AND (MO_NUMBER IS NULL OR MO_NUMBER = C_MO)
+          AND HOLD_FLAG = 'Y';
+
+   IF ( (TMP_RES = 'OK') OR (C_COUNT > 0))
+   THEN
+      RES := 'QA_HOLD';
+      GOTO ENDPROC;
+   END IF;
+   
+   IF (C_NEXTSTATION = 'N/A') OR (C_NEXTSTATION IS NULL)
+   THEN
+      TMP_RES := 'R105 No MO';
+
+      SELECT END_GROUP
+        INTO C_END_GROUP
+        FROM SFISM4.R_MO_BASE_T
+       WHERE MO_NUMBER = C_MO AND ROWNUM = 1;
+
+      IF C_GROUPNAME = C_END_GROUP
+      THEN
+         RES := 'Route End';
+         GOTO ENDPROC;
+      ELSE
+         SELECT COUNT (GROUP_NEXT)
+           INTO C_COUNT
+           FROM SFIS1.C_ROUTE_CONTROL_T
+          WHERE     STATE_FLAG = C_ERRORFLAG
+                AND ROUTE_CODE = C_CODE
+                AND GROUP_NAME = C_GROUPNAME
+                AND GROUP_NEXT = MYGROUP
+                AND ROWNUM = 1;
+
+         IF C_COUNT = 0
+         THEN
+            RES := 'Route Error_' || C_WIPSTATION;
+            GOTO ENDPROC;
+         ELSE
+            RES := 'OK';
+            GOTO ENDPROC;
+         END IF;
+      END IF;
+   ELSE
+      IF C_NEXTSTATION = MYGROUP
+      THEN
+         RES := 'OK';
+         GOTO ENDPROC;
+      ELSE
+         RES := 'Route Error_' || C_NEXTSTATION;
+         GOTO ENDPROC;
+      END IF;
+   END IF;
+
+   --- ADD BY ZDH FOR NOKIA 5G 20190723
+   SELECT COUNT(SERIAL_NUMBER)
+     INTO C_COUNT
+     FROM SFISM4.R_GET_ATE_SN_T
+    WHERE SERIAL_NUMBER = C_SN;
+      
+   IF C_COUNT > 0
+   THEN 
+      SELECT TO_GROUP
+        INTO C_TO_GROUP
+        FROM SFISM4.R_GET_ATE_SN_T
+       WHERE SERIAL_NUMBER = C_SN AND ROWNUM=1;
+            
+      IF MYGROUP <> C_TO_GROUP 
+      THEN
+         RES := 'NEED TO ' || C_TO_GROUP || ' (NOKIA)';
+         GOTO ENDPROC;
+      END IF;
+   END IF;
+   
+   IF SUBSTR (RES, 1, 2) = 'R_'
+   THEN
+      TMP_RES := 'SN Need Repair';
+
+      SELECT TEST_CODE
+        INTO C_ERROR_CODE
+        FROM (  SELECT SERIAL_NUMBER, TEST_CODE, TEST_TIME
+                  FROM SFISM4.R_REPAIR_T
+                 WHERE SERIAL_NUMBER = C_SN AND REASON_CODE IS NULL
+              ORDER BY TEST_TIME DESC)
+       WHERE ROWNUM = 1;
+
+      RES := RES || '(' || C_ERROR_CODE || ')';
+   END IF;
+
+  <<ENDPROC>>
+   C_CODE := 0;
+EXCEPTION
+   WHEN OTHERS
+   THEN
+      RES := TMP_RES;
+END;

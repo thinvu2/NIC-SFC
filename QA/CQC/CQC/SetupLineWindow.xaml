@@ -1,0 +1,114 @@
+﻿<Window x:Class="CQC.SetupLineWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        mc:Ignorable="d"
+        Title="Setup Line" Height="400" Width="550" Initialized="Window_Initialized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <!--list view-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <GroupBox
+                Header="Line"
+                Style="{DynamicResource MaterialDesignGroupBox}"
+                Margin="10"
+                UseLayoutRounding="True"
+                SnapsToDevicePixels="True">
+                <ListView x:Name="listLine">
+                    <ListView.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <VirtualizingStackPanel VirtualizingStackPanel.IsVirtualizing="True" VirtualizingStackPanel.VirtualizationMode="Recycling" />
+                        </ItemsPanelTemplate>
+                    </ListView.ItemsPanel>
+                </ListView>
+            </GroupBox>
+            <WrapPanel Grid.Column="1" VerticalAlignment="Center" Orientation="Vertical">
+                <Button Margin="0 0 0 10" Width="85" Background="#FFAEEA00"
+                        x:Name="btnRight"
+                        Foreground="Black"
+                        Content="{materialDesign:PackIcon ArrowRight}"
+                        ToolTip="Move List Selected Line" Click="btnRight_Click" />
+                <Button Margin="0 0 0 0" Width="85" Background="#FFAEEA00"
+                        x:Name="btnLeft"
+                        Foreground="Black"
+                        Content="{materialDesign:PackIcon ArrowLeft}"
+                        ToolTip="Move List Line" Click="btnLeft_Click" />
+            </WrapPanel>
+            <GroupBox Grid.Column="2"
+                Header="Selected Line"
+                Style="{DynamicResource MaterialDesignGroupBox}"
+                Margin="10"
+                UseLayoutRounding="True"
+                SnapsToDevicePixels="True">
+                <ListView x:Name="listSelectLine">
+                </ListView>
+            </GroupBox>
+        </Grid>
+        
+        <!--button-->
+        <Grid Grid.Row="1">
+            <Grid Grid.Row="1" Grid.ColumnSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+
+                    <Button x:Name="btnOK" Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="OK" Click="btnOK_Click">
+                        <StackPanel
+                Orientation="Horizontal">
+                            <materialDesign:PackIcon
+                    Margin="0 .5 0 0"
+                    Kind="Check" />
+                            <TextBlock>
+                    OK
+                            </TextBlock>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+
+                    <Button x:Name="btnCancel" Margin="10" HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="Cancel" Click="btnCancel_Click">
+                        <StackPanel
+                        Orientation="Horizontal">
+                            <materialDesign:PackIcon
+                        Margin="0 .5 0 0"
+                        Kind="Close" />
+                            <TextBlock>
+                        Cancel
+                            </TextBlock>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

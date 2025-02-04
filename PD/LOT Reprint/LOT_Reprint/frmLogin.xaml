@@ -1,0 +1,58 @@
+﻿<Window x:Class="LOT_REPRINT.frmLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:smtx="clr-namespace:ShowMeTheXAML;assembly=ShowMeTheXAML"
+        xmlns:local="clr-namespace:LOT_REPRINT"
+        mc:Ignorable="d"
+        Icon="printer.ico"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        Title="Password" Height="206.361" Width="386"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        FontSize="18"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#FF056793" Offset="0"/>
+                <GradientStop Color="#FF0CC0E8" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <StackPanel VerticalAlignment="Center" Grid.Row="0">
+            <TextBlock Foreground="White" FontSize="17" Margin="40 10"
+            Style="{StaticResource MaterialDesignHeadline6TextBlock}"
+            Text="Input password:" />
+            <materialDesign:Chip Grid.Row="1" Grid.Column="1" Background="white" HorizontalAlignment="Center">
+                <PasswordBox Style="{StaticResource MaterialDesignPasswordBox}" BorderThickness="0" Name="txtPassword" FontSize="17" Width="280" Foreground="Black" KeyDown="txtPassword_KeyDown"/>
+            </materialDesign:Chip>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="25 0" Width="100">
+                <Button Name="login" Foreground="black" Style="{StaticResource MaterialDesignFlatAccentBgButton}" Background="#A7E600" BorderBrush="Bisque" Click="login_Click" >
+                    <DockPanel>
+                        <materialDesign:PackIcon Kind="LoginVariant" />
+                        <TextBlock Margin="5 0">Login</TextBlock>
+                    </DockPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="25 0" Width="100">
+                <Button Foreground="black" Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#b0bec5" BorderBrush="Beige" Click="Button_Click"  >
+                    <DockPanel>
+                        <materialDesign:PackIcon Kind="CloseThick" />
+                        <TextBlock Margin="5 0">Cancel</TextBlock>
+                    </DockPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

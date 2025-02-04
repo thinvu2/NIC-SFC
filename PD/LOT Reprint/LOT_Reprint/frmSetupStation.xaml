@@ -1,0 +1,139 @@
+﻿<Window x:Class="LOT_REPRINT.frmSetupStation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LOT_REPRINT"
+        mc:Ignorable="d"
+        Icon="printer.ico"
+        Title="Setup Station" Height="450" Width="400"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        FontSize="18"
+        WindowStartupLocation="CenterScreen"
+        xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#FF056793" Offset="0"/>
+                <GradientStop Color="#FF0CC0E8" Offset="0.567"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2.5*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" VerticalAlignment="Center">
+                <CheckBox
+                    x:Name="MaterialDesignFloatingHintComboBoxEnabledComboBox"
+                    IsChecked="True" Margin="10">
+                </CheckBox>
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBlock Foreground="White"
+                    Style="{StaticResource MaterialDesignBody2TextBlock}" TextAlignment="Center" Margin="0 11 0 0">
+                  Change Line
+                </TextBlock>
+            </Grid>
+            <Grid Grid.Column="2" Margin="0 0 10 0" >
+                <ComboBox   FontSize="14" Foreground="Black" Background="White" Name="cbb_Line_name" IsEditable="True"
+                        IsEnabled="{Binding Path=IsChecked, ElementName=MaterialDesignFloatingHintComboBoxEnabledComboBox}">
+                </ComboBox>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <materialDesign:Chip Foreground="White">
+                        Section
+                    </materialDesign:Chip>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <materialDesign:Chip Foreground="White">
+                        Group name
+                    </materialDesign:Chip>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <materialDesign:Chip Foreground="White">
+                        Station name
+                    </materialDesign:Chip>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Center">
+                    <materialDesign:Card Margin="10 0 5 0">
+                        <TextBox x:Name="txt_section" Text="{Binding ElementName=dgr_group,Path=SelectedItem.section_name}" IsEnabled="False" materialDesign:TransitionAssist.DisableTransitions="True" Height="30" />
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <materialDesign:Card Margin="10 0 5 0">
+                        <TextBox x:Name="txt_group_name" Text="{Binding ElementName=dgr_group,Path=SelectedItem.group_name}" IsEnabled="False" materialDesign:TransitionAssist.DisableTransitions="True" Height="30" />
+                    </materialDesign:Card>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <materialDesign:Card Margin="10 0 5 0">
+                        <TextBox x:Name="txt_station_name" Text="{Binding ElementName=dgr_group,Path=SelectedItem.station_name}" IsEnabled="False" materialDesign:TransitionAssist.DisableTransitions="True" Height="30" />
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <!--<DataGrid
+              Margin="8 8 8 0" Name="dgr_group" ></DataGrid>-->
+            <DataGrid  Margin="8 8 8 0" x:Name="dgr_group" IsReadOnly="True" ></DataGrid>
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Name="btnOk" Width="100" Foreground="black" Style="{StaticResource MaterialDesignFlatAccentBgButton}" Background="#A7E600" BorderBrush="Bisque" Click="btnOk_Click" >
+                    <DockPanel>
+                        <materialDesign:PackIcon Kind="Tick" />
+                        <TextBlock Margin="5 0">OK</TextBlock>
+                    </DockPanel>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Name="btnClear" Width="100" Foreground="black" Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#A7E600" BorderBrush="Beige" Click="btnClear_Click" >
+                    <DockPanel>
+                        <materialDesign:PackIcon Kind="CloseThick" />
+                        <TextBlock Margin="5 0">Clear</TextBlock>
+                    </DockPanel>
+                </Button>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Button Name="btnCancel" Width="100" Foreground="black" Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#b0bec5" BorderBrush="Beige" Click="btnCancel_Click" >
+                    <DockPanel>
+                        <materialDesign:PackIcon Kind="CloseThick" />
+                        <TextBlock Margin="5 0">Cancel</TextBlock>
+                    </DockPanel>
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,83 @@
+CREATE OR REPLACE PROCEDURE GEMALTO_ROAST_CHECK_BAKE (
+   BAKENO   IN     VARCHAR2,
+   RES         OUT VARCHAR2)
+AS
+   C_NUM            NUMBER;
+   C_BAKENO         VARCHAR2 (10);
+   C_BAKENOLENGTH   NUMBER;
+   C_TMP_STR        VARCHAR2 (100);
+   C_TRAYNO         VARCHAR2 (20);
+BEGIN
+   C_TMP_STR := 'Start Err';
+   C_BAKENO := RTRIM (LTRIM (UPPER (BAKENO)));
+   C_BAKENOLENGTH := LENGTH (C_BAKENO);
+   C_NUM := 0;
+
+   --Gemalto 20150901 導入TrayNo過ROastIn/out/vi
+   --Packtray--->ROAST_IN--->ROAST_OUT--->VI---
+   --新增GemaltoRoast應用程序
+   --PackTray先Scan Tray Barcode,每Scan一片產品判斷一下Route
+   --並更新TrayNo欄位,其他欄位不動,當Finish Tray時,調用此SP
+   --ROAST_IN--->需要先掃BakeID,再掃TrayNo
+   --ROAST_OUT 直接用TrayNo過站
+   --VI站則會先把Tray的不良品處理掉,然後才能用TrayNo過站,並把Tray_no置為'N/A'
+
+   --Rito 20180615
+   IF C_BAKENOLENGTH = '7' AND SUBSTR (C_BAKENO, 1, 3) = 'BAK'
+   THEN
+      SELECT COUNT (LOCATION)
+        INTO C_NUM
+        FROM SFISM4.R_ROIN_T
+       WHERE LOCATION = C_BAKENO;
+
+      IF C_NUM <> 0
+      THEN
+         SELECT COUNT (LOCATION)
+           INTO C_NUM
+           FROM SFISM4.R_ROIN_T
+          WHERE LOCATION = C_BAKENO AND WORK_FLAG = '0';
+
+         IF C_NUM <> 0
+         THEN
+            SELECT COUNT (TRAY_NO)
+              INTO C_NUM
+              FROM SFISM4.R_WIP_TRACKING_T
+             WHERE TRAY_NO IN
+                      (SELECT TRAY_NO
+                         FROM SFISM4.R_ROIN_T
+                        WHERE LOCATION = C_BAKENO AND WORK_FLAG = '0')
+                   AND ROWNUM = 1;
+
+            IF C_NUM = 0
+            THEN
+               UPDATE SFISM4.R_ROIN_T
+                  SET WORK_FLAG = '1', FINISH_DATE = SYSDATE
+                WHERE LOCATION = C_BAKENO AND WORK_FLAG = '0';
+
+               RES := 'BakeID OK!';
+               GOTO ENDPROC;
+            ELSE
+               RES := 'BakeID Still Baking!';
+               GOTO ENDPROC;
+            END IF;
+         ELSE
+            RES := 'BakeID OK!';
+            GOTO ENDPROC;
+         END IF;
+      ELSE
+         RES := 'BakeID OK!';
+         GOTO ENDPROC;
+      END IF;
+   ELSE
+      RES := 'BakeID Is Error!';
+      GOTO ENDPROC;
+   END IF;                                                     --Rito 20180615
+
+
+  <<ENDPROC>>
+   C_NUM := 0;
+EXCEPTION
+   WHEN OTHERS
+   THEN
+      RES := C_TMP_STR;
+END;

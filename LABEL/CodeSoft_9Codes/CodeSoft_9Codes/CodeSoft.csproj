@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{209C5B54-D7C0-4FF0-B7BE-8568D3AA4B8B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CodeSoft</RootNamespace>
+    <AssemblyName>CodeSoft_New</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>CodeSoft.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.LabelManager2, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.LabelManager2.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.TkxRFTAG">
+      <HintPath>..\..\..\PACKING\PACKINGBOXID_CFG\PACKINGBOXID_CFG\bin\Debug\Interop.TkxRFTAG.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CodeSoft_New\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CodeSoft_New\Oracle.dll</HintPath>
+    </Reference>
+    <Reference Include="Sfc.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CodeSoft_New\Sfc.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Sfc.Library.HttpClient, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CodeSoft_New\Sfc.Library.HttpClient.dll</HintPath>
+    </Reference>
+    <Reference Include="SFC_Library, Version=1.0.0.50, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CodeSoft_New\SFC_Library.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="DAL.cs" />
+    <Compile Include="DBApi.cs" />
+    <Compile Include="PasswordForm.xaml.cs">
+      <DependentUpon>PasswordForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\LabelTracking.cs" />
+    <Compile Include="Resources\ProcessHandler.cs" />
+    <Compile Include="Resources\ResouceClass.cs" />
+    <Compile Include="Resources\Utilities.cs" />
+    <Compile Include="ShowMessageForm.xaml.cs">
+      <DependentUpon>ShowMessageForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowParam.xaml.cs">
+      <DependentUpon>ShowParam.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BackGround.xaml.cs">
+      <DependentUpon>BackGround.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\CodeSoft_NIC.xaml.cs">
+      <DependentUpon>CodeSoft_NIC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\LabelHHVN.xaml.cs">
+      <DependentUpon>LabelHHVN.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QueryData.xaml.cs">
+      <DependentUpon>QueryData.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ReleaseLabel.xaml.cs">
+      <DependentUpon>ReleaseLabel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\SetModel.xaml.cs">
+      <DependentUpon>SetModel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\SetPrintData.xaml.cs">
+      <DependentUpon>SetPrintData.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CheckLabelForm.xaml.cs">
+      <DependentUpon>CheckLabelForm.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="PasswordForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowMessageForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowParam.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\BackGround.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\CodeSoft_NIC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\LabelHHVN.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QueryData.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ReleaseLabel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\SetModel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\SetPrintData.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CheckLabelForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\closeBtn_default.png" />
+    <Resource Include="Assets\closeBtn_MouseOver.png" />
+    <Resource Include="Assets\exit_32px.png" />
+    <Resource Include="Assets\fii_bg.jpg" />
+    <Resource Include="Assets\fii_bg.png" />
+    <Resource Include="Assets\file_settings_32px.png" />
+    <Resource Include="Assets\home_32px.png" />
+    <Resource Include="Assets\img_background.jpg" />
+    <Resource Include="Assets\img_home.png" />
+    <Resource Include="Assets\print.ico" />
+    <Resource Include="Assets\print_32px.png" />
+    <Resource Include="Assets\print_32pxy.png" />
+    <Resource Include="Assets\tgBtn_default.png" />
+    <Resource Include="Assets\tgBtn_MouseOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\bg123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\meta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="CodeSoft.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Themes\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

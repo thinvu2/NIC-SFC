@@ -1,0 +1,406 @@
+﻿<Window x:Class="PM.TravelCardForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowState="Maximized"
+        Title="TravelCardForm" Height="650" Width="850">
+    <Grid Background="#008082">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#FFF">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Margin="5" Background="#008082">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <materialDesign:PackIcon Foreground="#FFF" Height="25" Width="25" Kind="Logout"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">Go Top</Label>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Column="1" Margin="5" Background="#008082">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <materialDesign:PackIcon Foreground="#FFF" Height="25" Width="25" Kind="AccountSearch"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">Query</Label>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Column="2" x:Name="WIPDetail" Margin="5" Background="#008082">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <materialDesign:PackIcon Foreground="#FFF" Height="25" Width="25" Kind="Details"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">WIPDetail</Label>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Column="3" Margin="5" Background="#008082">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <materialDesign:PackIcon Foreground="#FFF" Height="25" Width="25" Kind="More"/>
+                    <Label FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">More...</Label>
+                </StackPanel>
+            </Grid>
+        </Grid>
+        <Border Grid.Row="1" BorderBrush="White" BorderThickness="1" CornerRadius="1" Margin="3">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="SN :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Label Content="S-SN :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Label Content="Carton :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Label Content="Pallet :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Label Content="Container :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="MO :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Label Content="Model :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Label Content="Line :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Label Content="QC NO :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Label Content="QC Res :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="4">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="In Line :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Label Content="Out Line :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Label Content="Group :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Label Content="Error Flag :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Label Content="PO NO :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <TextBox Height="25" Padding="4" Margin="10 0"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="2" Margin="3">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" BorderBrush="White" BorderThickness="1" CornerRadius="1">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="4*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="4*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Label Content="On Line Test Record" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <Label Background="#FFF"/>
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <Grid Background="#008082" Margin="3">
+                                <ListView x:Name="Data_gridView" FontSize="13">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridView.ColumnHeaderContainerStyle>
+                                                <Style>
+                                                    <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                                </Style>
+                                            </GridView.ColumnHeaderContainerStyle>
+                                            <GridViewColumn x:Name="TEST_TIME" Header="TEST_TIME" DisplayMemberBinding="{Binding TEST_TIME}" Width="{Binding ElementName=helperFiled_TEST_TIME,Path=ActualWidth}"></GridViewColumn>
+                                            <GridViewColumn x:Name="TEST_STATION" Header="TEST_STATION" DisplayMemberBinding="{Binding TEST_STATION}" Width="{Binding ElementName=helperField_TEST_STATION, Path=ActualWidth}"></GridViewColumn>
+                                            <GridViewColumn x:Name="TEST_CODE" Header="TEST_CODE" DisplayMemberBinding="{Binding TEST_CODE}" Width="{Binding ElementName=helperField_TEST_CODE, Path=ActualWidth}"></GridViewColumn>
+                                            <GridViewColumn x:Name="ERROR_DESC" Header="ERROR_DESC" DisplayMemberBinding="{ Binding ERROR_DESC}" Width="{Binding ElementName=helperField_ERROR_DESC, Path=ActualWidth}"></GridViewColumn>
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                                <Grid Visibility="Hidden">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid Grid.Column="0" x:Name="helperFiled_TEST_TIME"/>
+                                    <Grid Grid.Column="1" x:Name="helperField_TEST_STATION"/>
+                                    <Grid Grid.Column="2" x:Name="helperField_TEST_CODE"/>
+                                    <Grid Grid.Column="3" x:Name="helperField_ERROR_DESC"/>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="3">
+                            <Label Content="Keyparts Content" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                        </Grid>
+                        <Grid Grid.Row="4">
+                            <Label Background="#FFF"/>
+                        </Grid>
+                        <Grid Grid.Row="5">
+                            <Grid Background="#FFF" Margin="3">
+                                <Grid Background="#008082" Margin="3">
+                                    <ListView FontSize="13">
+                                        <ListView.View>
+                                            <GridView>
+                                                <GridView.ColumnHeaderContainerStyle>
+                                                    <Style>
+                                                        <Setter Property="TextElement.FontWeight" Value="Bold"/>
+                                                    </Style>
+                                                </GridView.ColumnHeaderContainerStyle>
+                                                <GridViewColumn x:Name="EMP_NO" Header="TEST_TIME" DisplayMemberBinding="{Binding EMP_NO}" Width="{Binding ElementName=helperFiled_EMP_NO,Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn x:Name="KEY_PART_NO" Header="KEY_PART_NO" DisplayMemberBinding="{Binding KEY_PART_NO}" Width="{Binding ElementName=helperField_KEY_PART_NO, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn x:Name="KEY_PART_SN" Header="KEY_PART_SN" DisplayMemberBinding="{Binding KEY_PART_SN}" Width="{Binding ElementName=helperField_KEY_PART_SN, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn x:Name="GROUP_NAME" Header="GROUP_NAME" DisplayMemberBinding="{ Binding GROUP_NAME}" Width="{Binding ElementName=helperField_GROUP_NAME, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn x:Name="CARTON_NO" Header="TEST_TIME" DisplayMemberBinding="{Binding CARTON_NO}" Width="{Binding ElementName=helperFiled_CARTON_NO,Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn x:Name="WORK_TIME" Header="WORK_TIME" DisplayMemberBinding="{Binding WORK_TIME}" Width="{Binding ElementName=helperField_WORK_TIME, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn x:Name="VERSION" Header="VERSION" DisplayMemberBinding="{Binding VERSION}" Width="{Binding ElementName=helperField_VERSION, Path=ActualWidth}"></GridViewColumn>
+                                                <GridViewColumn x:Name="PART_MODE" Header="PART_MODE" DisplayMemberBinding="{ Binding PART_MODE}" Width="{Binding ElementName=helperField_PART_MODE, Path=ActualWidth}"></GridViewColumn>
+                                            </GridView>
+                                        </ListView.View>
+                                    </ListView>
+                                    <Grid Visibility="Hidden">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+                                        <Grid Grid.Column="0" x:Name="helperFiled_EMP_NO"/>
+                                        <Grid Grid.Column="1" x:Name="helperField_KEY_PART_NO"/>
+                                        <Grid Grid.Column="2" x:Name="helperField_KEY_PART_SN"/>
+                                        <Grid Grid.Column="3" x:Name="helperField_GROUP_NAME"/>
+                                        <Grid Grid.Column="4" x:Name="helperFiled_CARTON_NO"/>
+                                        <Grid Grid.Column="5" x:Name="helperField_WORK_TIME"/>
+                                        <Grid Grid.Column="6" x:Name="helperField_VERSION"/>
+                                        <Grid Grid.Column="7" x:Name="helperField_PART_MODE"/>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Border>
+                <Border Grid.Column="1" BorderBrush="White" BorderThickness="1" CornerRadius="1">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="10*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Label Content="Repair Record" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <Label Background="#FFF"/>
+                        </Grid>
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0">
+                                    <Label Content="Station :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                </Grid>
+                                <Grid Grid.Row="1">
+                                    <Label Content="Duty Station :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                </Grid>
+                                <Grid Grid.Row="2">
+                                    <Label Content="Repairer :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                </Grid>
+                                <Grid Grid.Row="3">
+                                    <Label Content="Date :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                </Grid>
+                                <Grid Grid.Row="4">
+                                    <Label Content="Location :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                </Grid>
+                                <Grid Grid.Row="5">
+                                    <Label Content="Reason :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0">
+                                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                                </Grid>
+                                <Grid Grid.Row="1">
+                                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                                </Grid>
+                                <Grid Grid.Row="2">
+                                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                                </Grid>
+                                <Grid Grid.Row="3">
+                                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                                </Grid>
+                                <Grid Grid.Row="4">
+                                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                                </Grid>
+                                <Grid Grid.Row="5">
+                                    <TextBox Height="25" Padding="4" Margin="15 0"/>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Border>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Margin="3" Background="#FFF">
+                <Label/>
+            </Grid>
+            <Grid Grid.Column="1" Margin="3" Background="#FFF">
+                <Label/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

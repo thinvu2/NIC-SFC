@@ -1,0 +1,53 @@
+﻿2023-11-06 07:32:24 : Send MDSYLD file OK
+2023-11-06 07:32:24 : Updated MDSYLD file
+2023-11-17 10:15:35 : Send MDSYLD file OK
+2023-11-17 10:15:35 : Updated MDSYLD file
+2024-01-20 09:07:11 : Send MDSYLD file OK
+2024-01-20 09:07:12 : Updated MDSYLD file
+2024-01-20 09:09:01 : Send MDSYLD file OK
+2024-01-20 09:09:01 : Updated MDSYLD file
+2024-06-27 09:00:53 : 
+2024/06/27 08:59:25
+SHIP文件生成成功
+2024-06-27 09:01:50 : 
+2024/06/27 08:59:25
+WIPC文件生成成功
+2024-06-27 09:02:23 : 
+2024/06/27 08:59:25
+ECD SHIP文件生成成功
+2024-06-27 09:08:06 : 
+2024/06/27 08:59:25
+ECD WIPC文件生成成功
+2024-06-27 09:08:14 : 
+2024/06/27 08:59:25
+SUPERCAP SHIP文件生成成功
+2024-06-27 09:08:16 : 
+2024/06/27 08:59:25
+SUPERCAP WIPC文件生成成功
+2024-06-27 14:54:09 : 
+2024/06/27 02:53:18
+BDSN文件生成成功
+2024/10/11 1:35:42 PM : 
+2024/10/11 01:34:30
+SHIP文件生成成功
+2024/10/11 1:43:42 PM : 
+2024/10/11 01:40:10
+SHIP文件生成成功
+2024/10/11 1:52:55 PM : 
+2024/10/11 01:51:15
+SHIP文件生成成功
+2024/10/11 1:57:03 PM : 
+2024/10/11 01:51:15
+WIPC文件生成成功
+2024/10/11 1:59:39 PM : 
+2024/10/11 01:58:18
+SHIP文件生成成功
+2024/12/3 8:06:06 AM : Send MDSYLD file Fail:Socket read operation has timed out after 30000 milliseconds.
+2024/12/3 8:06:51 AM : Send MDSYLD file Fail:Socket read operation has timed out after 30000 milliseconds.
+2024/12/3 8:16:59 AM : Send MDSYLD file Fail:Socket read operation has timed out after 30000 milliseconds.
+2024/12/3 8:18:07 AM : Send MDSYLD file Fail:Socket read operation has timed out after 30000 milliseconds.
+2024/12/3 8:27:51 AM : Send MDSYLD file Fail:Socket read operation has timed out after 30000 milliseconds.
+2024/12/3 8:28:43 AM : Send MDSYLD file Fail:Socket read operation has timed out after 30000 milliseconds.
+2024/12/6 8:51:45 AM : 
+2024/12/06 08:50:32
+SHIP文件生成成功

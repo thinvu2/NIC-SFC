@@ -1,0 +1,973 @@
+﻿<Window x:Name="mainWindow" x:Class="CQC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        TextElement.Foreground="White"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="14"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Title="SHOP FLOOR INTEGRATED SYSTEM (SFIS) : FQA (2012/10/13)" Height="850" Width="1000" Closed="mainWindow_Closed" Loaded="mainWindow_Loaded" Initialized="mainWindow_Initialized">
+    <Border BorderThickness="2" BorderBrush="LightYellow" CornerRadius="5">
+        <Grid>
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                    <GradientStop Color="#034E70" Offset="0"/>
+                    <GradientStop Color="#0889A6" Offset="0.567"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.Resources>
+
+                <Style TargetType="Label" x:Key="labeltitle">
+                    <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+                    <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                    <Setter Property="FontSize" Value="15"></Setter>
+                    <Setter Property="Foreground" Value="Yellow"></Setter>
+                </Style>
+
+                <Style TargetType="CheckBox" x:Key="chkboxtitle">
+                    <Setter Property="Margin" Value="5 0"></Setter>
+                    <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+                    <Setter Property="Foreground" Value="Yellow"></Setter>
+                </Style>
+                <Style TargetType="Label" x:Key="lbHeader">
+                    <Setter Property="Foreground" Value="White"></Setter>
+                    <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                    <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+                    <Setter Property="FontSize" Value="22"></Setter>
+                    <Setter Property="Margin" Value="2"></Setter>
+                </Style>
+                <Style TargetType="Label" x:Key="labelPersent">
+                    <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+                    <Setter Property="Foreground" Value="Black"></Setter>
+                    <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+                    <Setter Property="FontSize" Value="23"></Setter>
+                </Style>
+                <Style TargetType="materialDesign:Card" x:Key="CardHeader">
+                    <Setter Property="Margin" Value="5"></Setter>
+                    <Setter Property="VerticalAlignment" Value="Stretch"></Setter>
+                </Style>
+
+                <!--Gridsection-->
+                <Style TargetType="Grid" x:Key="Gridsection2rd">
+                    <Setter Property="Background" Value="White"></Setter>
+                    <Setter Property="Height" Value="40"></Setter>
+                    <Setter Property="Margin" Value="10 0 10 0" />
+                </Style>
+
+                <!--Textblock-->
+                <Style TargetType="TextBlock"  x:Key="Textblock2rd">
+                    <Setter Property="Foreground" Value="Black"></Setter>
+                    <Setter Property="Padding" Value="8"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                </Style>
+
+                <Style TargetType="StackPanel" x:Key="stackpanelbt">
+                    <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                    <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+                </Style>
+            </Grid.Resources>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <materialDesign:ColorZone Grid.Row="0" VerticalAlignment="Top">
+                    <!--begin menu viet o day-->
+                    <Menu IsMainMenu="True" Margin="0,0,0,0">
+                        <MenuItem
+                    Header="_Option">
+                            <MenuItem
+                            x:Name="itemStationName"
+                            Header="Station Name"
+                            IsChecked="False" Click="itemStationName_Click" />
+                            <MenuItem
+                            x:Name="CheckSSN1"
+                            Header="Check Shipping SN"
+                            IsCheckable="True" />
+                            <MenuItem
+                            x:Name="itemInputMac" IsCheckable="True"
+                            Header="Input MacID" />
+                            <MenuItem
+                                x:Name="itemIsCheckSSN"
+                                IsCheckable="True"
+                                Header="NoCheckSSN"
+                                IsEnabled="False" Click="itemIsCheckSSN_Click" />
+
+                            <MenuItem x:Name="itemCheckMethod"
+                                  Header="Check Method">
+
+                                <MenuItem Height="33"
+                                x:Name="itemCheckCarton"
+                                Header="Carton NO"
+                                IsCheckable="True" Click="itemCheckCarton_Click" />
+                                <MenuItem Height="33"
+                                x:Name="itemCheckPallet"
+                                Header="Pallet NO"
+                                IsCheckable="True" Click="itemCheckPallet_Click" />
+                                <MenuItem Height="33"
+                                x:Name="itemCheckTray"
+                                Header="Tray NO"
+                                IsCheckable="True" Click="itemCheckTray_Click" />
+                            </MenuItem>
+                            <MenuItem
+                            x:Name="itemSetupLot"
+                            Header="Insert New Lot"
+                            IsCheckable="False"
+                            Visibility="Collapsed"
+                            IsChecked="True" />
+                            <MenuItem
+                            x:Name="itemDeleteLot"
+                            Header="Delete Lot"
+                            Visibility="Collapsed"
+                            IsCheckable="False"
+                            IsChecked="False" />
+                            <MenuItem
+                            x:Name="itemSSNLength"
+                            Header="SSN Length"
+                            IsCheckable="False" Click="itemSSNLength_Click"/>
+                            <MenuItem x:Name="itemLine"
+                            Visibility="Collapsed"
+                            Header="Setup Line">
+                                <MenuItem Height="33"
+                                x:Name="itemLineAll"
+                                Header="ALL"
+                                IsChecked="True"
+                                IsCheckable="True" />
+                                <MenuItem Height="33"
+                                x:Name="itemLineSingle"
+                                Header="Single"
+                                IsCheckable="True" />
+                            </MenuItem>
+                            <MenuItem x:Name="itemSampleUnit" IsCheckable="False"
+                            Header="Sampling Unit">
+                                <MenuItem Height="33"
+                                x:Name="itemSamplingSN"
+                                Header="Serial Number"
+                                IsCheckable="True" Click="itemSamplingSN_Click" />
+                                <MenuItem Height="33"
+                                x:Name="itemSamplingSSN"
+                                Header="Shipping SN"
+                                IsCheckable="True" Click="itemSamplingSSN_Click"/>
+                            </MenuItem>
+                            <MenuItem x:Name="itemCQCby" Visibility="Collapsed" 
+                        Header="CQC By">
+                                <MenuItem Height="33"
+                                      x:Name="itemSSN"
+                                      Header="Shipping SN"
+                                      Click="itemSSN_Click" />
+                                <MenuItem Height="33"
+                                      x:Name="itemTray"
+                                      Header="Tray NO" Click="itemTray_Click"/>
+                                <MenuItem Height="33"
+                                      x:Name="itemCarton"
+                                      Header="Carton NO" Click="itemCarton_Click"/>
+                                <MenuItem Height="33"
+                                      x:Name="itemPallet"
+                                      Header="Pallet NO" Click="itemPallet_Click"/>
+                            </MenuItem>
+                            <MenuItem x:Name="itemCQCUnit"
+                            Header="CQC Unit"
+                            Visibility="Collapsed"
+                            IsCheckable="False" Click="itemCQCUnit_Click"/>
+                            <MenuItem x:Name="itemMOModel"
+                                      IsCheckable="False"
+                                      Header="MO / Model">
+                                <MenuItem Height="33"
+                                          Header="MO" x:Name="itemMO"
+                                          IsCheckable="True" Click="itemMO_Click" />
+                                <MenuItem Height="33"
+                                          Header="Model" x:Name="itemModel"
+                                          IsCheckable="True" Click="itemModel_Click"/>
+                                <MenuItem Height="33"
+                                          Header="Po" x:Name="itemPO"
+                                          IsCheckable="True" Click="itemPO_Click"/>
+                            </MenuItem>
+                            <MenuItem x:Name="itemShowQCData" Visibility="Collapsed"
+                                      Header="Show QC Data">
+                                <MenuItem Height="33"
+                                          Header="Left" x:Name="itemLeft"
+                                          Click="itemLeft_Click" />
+                                <MenuItem Height="33"
+                                          Header="Right" x:Name="itemRight"
+                                          IsChecked="True" Click="itemRight_Click"/>
+                            </MenuItem>
+                            <MenuItem
+                            Header="Change Lot No"
+                            x:Name="itemEnabledLotNO"
+                            IsCheckable="True"
+                            IsChecked="True" Click="itemEnabledLotNO_Click" />
+                            <MenuItem
+                            x:Name="ItemRejectGroup"
+                            Visibility="Collapsed"
+                            Header="Reject Group"
+                            IsCheckable="False"/>
+                            <MenuItem
+                            x:Name="itemUnitCount"
+                            Visibility="Collapsed"
+                            Header="Unit Count by Lot"
+                            IsCheckable="False" Click="itemUnitCount_Click"/>
+                            <MenuItem
+                            x:Name="itemChangeLine"
+                            Header="Change Single Line"
+                            IsCheckable="True" Click="itemChangeLine_Click"/>
+                            <MenuItem
+                            x:Name="itemFullSampling"
+                            Visibility="Collapsed"
+                            Header="Full Sampling"
+                            IsCheckable="True"
+                            IsChecked="True"/>
+                            <MenuItem
+                            x:Name="AutoSampling"
+                            Header="AutoSampling"
+                            IsCheckable="True" Click="AutoSampling_Click"/>
+                            <MenuItem
+                            x:Name="ShowRejectLot"
+                            Header="Show Reject Lot"
+                            IsCheckable="True"
+                            IsChecked="True" Click="ShowRejectLot_Click" />
+                            <MenuItem
+                            x:Name="ATETEST1"
+                            Header="ATE TEST"
+                            IsCheckable="True" Click="ATETEST1_Click" />
+                            <MenuItem x:Name="LOTSIZE1" 
+                        Header="LOTSIZE"
+                        IsCheckable="False">
+                                <MenuItem x:Name="N0401" Height="33"
+                            Header="0.40"
+                            IsCheckable="True" Click="N0401_Click" />
+                                
+                                <MenuItem x:Name="N0651" Height="33"
+                            Header="0.65"
+                            IsCheckable="True" Click="N0651_Click" />
+                                
+                                <MenuItem x:Name="N1001" Height="33"
+                            Header="1.00"
+                            IsCheckable="True" Click="N1001_Click" />
+                            </MenuItem>
+                            <MenuItem
+                            x:Name="Ensky"
+                            Header="Valentine Model"
+                            IsCheckable="True" Click="Ensky_Click" />
+
+                        </MenuItem>
+                        <MenuItem
+                        x:Name="itemTransfer"
+                        Header="_Transfer" Click="itemTransfer_Click">
+                        </MenuItem>
+                        <MenuItem
+                        x:Name="itemAbout"
+                        Header="_About">
+                        </MenuItem>
+                        <MenuItem
+                        x:Name="itemQuit"
+                        Header="_Quit">
+                        </MenuItem>
+                        <MenuItem
+                        x:Name="chkRelation12"
+                        Header="_chkRelation">
+                            <MenuItem
+                            x:Name="CHECKBOXSSN1"
+                            Header="CHECKBOXSSN"
+                            IsCheckable="False"
+                            IsChecked="False" Click="CHECKBOXSSN1_Click" />
+                            <MenuItem
+                            x:Name="chkRelation1"
+                            Header="chkRelation"
+                            IsCheckable="False"
+                            IsChecked="True" Click="chkRelation1_Click" />
+                        </MenuItem>
+                        <MenuItem
+                        x:Name="RunCheckFile1"
+                        Header="_CheckFile">
+                            <MenuItem
+                            x:Name="Runing1"
+                            Header="Running"
+                            IsCheckable="False" Click="Runing1_Click"/>
+                        </MenuItem>
+                        <MenuItem
+                        x:Name="Query2"
+                        Header="Query">
+                            <MenuItem
+                            x:Name="OOBA1"
+                            Header="OOBA" Click="OOBA1_Click"/>
+                        </MenuItem>
+                    </Menu>
+                    <!--end menu viet o day-->
+                </materialDesign:ColorZone>
+                <!--begin chuyen va tram viet o day-->
+                <Label Grid.Row="1" x:Name="lablMsg" Background="Yellow" Foreground="Blue" FontSize="15" MouseDoubleClick="lablMsg_MouseDoubleClick"/>
+
+                <StackPanel Grid.Row="2" >
+                    <StackPanel.Background>
+                        <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                            <GradientStop Color="#034E70" Offset="0"/>
+                            <GradientStop Color="#0889A6" Offset="0.567"/>
+                        </LinearGradientBrush>
+                    </StackPanel.Background>
+                    <!--begin chuyen va tram viet o day-->
+                    <Label x:Name="PanelTitle" Content="FQA" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="36"/>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="1" Margin="5">
+                <!--main-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1.5*"></ColumnDefinition>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <!--input-->
+                <Border BorderThickness="1" Margin="0 0 10 0" BorderBrush="LightYellow" CornerRadius="5">
+                    <Grid Grid.Column="0" Margin="0 0 5 0">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="2*"></RowDefinition>
+                            <RowDefinition Height="5*"></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <!--information-->
+
+                        <Grid Grid.Row="0" Margin="10 10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="4*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0">
+                                    <materialDesign:Chip                                    
+                                      Content="Employee"    
+                                      Margin="20 0 0 0"
+                                      Foreground="White"
+                                      IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" MouseDoubleClick="Chip_MouseDoubleClick" >
+                                        <materialDesign:Chip.Icon>
+                                            <materialDesign:PackIcon  Kind="AccountCircle"/>
+                                        </materialDesign:Chip.Icon>
+                                    </materialDesign:Chip>
+                                </Grid>
+                                <Grid Grid.Row="1">
+                                    <materialDesign:Chip Content="Lot No" 
+                                                     Margin="20 0 0 0"
+                                                     Foreground="White"
+                                                     IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}" 
+                                                     >
+                                        <materialDesign:Chip.Icon>
+                                            <materialDesign:PackIcon Kind="NotePlus" />
+                                        </materialDesign:Chip.Icon>
+                                    </materialDesign:Chip>
+                                </Grid>
+                                <Grid Grid.Row="2">
+                                    <materialDesign:Chip    x:Name="lbinputPass"
+                                                    Content="Mo Type" 
+                                                    Foreground="White"
+                                                     Margin="20 0 0 0"
+                                                     IconForeground="{DynamicResource PrimaryHueDarkForegroundBrush}"  
+                                                     >
+                                        <materialDesign:Chip.Icon>
+                                            <materialDesign:PackIcon Kind="Import" />
+                                        </materialDesign:Chip.Icon>
+                                    </materialDesign:Chip>
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Column="1" Margin="10 0 40 0 ">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="0">
+                                    <TextBox  Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                                          x:Name="combEmp" IsEnabled="False"
+                                          VerticalAlignment="Center"
+                                          Foreground="White" />
+                                </Grid>
+                                <Grid Grid.Row="1">
+                                    <ComboBox x:Name="combLot" Foreground="Black"
+                                          Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                                          materialDesign:HintAssist.Hint="LOT NO" SelectionChanged="CombLot_SelectionChanged"
+                                          />
+                                </Grid>
+                                <Grid Grid.Row="2">
+                                    <ComboBox x:Name="ComboBox1" Foreground="Black"
+                                          Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                                          IsEditable="True">
+                                        <ComboBoxItem
+                                        IsSelected="True">
+                                            Normal
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            Pilot Run
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            Repair
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            Sample
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            Rework
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            RMA
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            DOA
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            Sub.
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            ZS
+                                        </ComboBoxItem>
+                                        <ComboBoxItem>
+                                            Other
+                                        </ComboBoxItem>
+                                    </ComboBox>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+
+
+                        <Border Grid.Row="1" BorderThickness="0.5" BorderBrush="LightYellow" Margin="10" CornerRadius="5">
+                            <!--input EC/SN-->
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto"></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1.25*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2.5*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <DockPanel Grid.Row="0" Grid.ColumnSpan="2" >
+                                    <DockPanel.Background>
+                                        <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                                            <GradientStop Color="#034E70" Offset="0"/>
+                                            <GradientStop Color="#0889A6" Offset="0.567"/>
+                                        </LinearGradientBrush>
+                                    </DockPanel.Background>
+                                    <Label x:Name="grpbInputEcSsn" Style="{StaticResource lbHeader}" Content=" INPUT EC / S-SN " >
+                                    </Label>
+                                </DockPanel>
+
+                                <Grid Grid.Row="1" Grid.ColumnSpan="2">
+                                    <TextBlock x:Name="lablInputMsg" Foreground="Yellow" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" Text="OK->SN  , NG->EC+SN/RC+Duty+Loc+SN"></TextBlock>
+                                </Grid>
+
+                                <Grid Grid.Row="2" Grid.ColumnSpan="2">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="auto"/>
+                                        <ColumnDefinition  Width="auto"/>
+                                        <ColumnDefinition Width="auto"/>
+                                        <ColumnDefinition Width="auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <CheckBox x:Name="chkbCheckQty" Margin="20 0 0 0" VerticalAlignment="Center" IsEnabled="False" IsChecked="True" Content="CheckQty" Style="{StaticResource chkboxtitle}"></CheckBox>
+                                    <Grid Grid.Column="1" Margin="10 0 0 0">
+                                        <Grid Style="{StaticResource Gridsection2rd}" Margin="0">
+                                            <materialDesign:Card
+                                                   Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"
+                                                   Height="40">
+                                                <TextBlock Style="{StaticResource Textblock2rd}"
+                                                           VerticalAlignment="Center"
+                                                           x:Name="editCheckQty" FontWeight="Normal" />
+                                            </materialDesign:Card>
+                                        </Grid>
+                                    </Grid>
+                                    <CheckBox x:Name="chkTA" Margin="20 0 0 0" Grid.Column="2" VerticalAlignment="Center" IsEnabled="False" IsChecked="True" Content="Check TA" Style="{StaticResource chkboxtitle}"></CheckBox>
+
+                                    
+
+                                    <Button x:Name="btnRC" Grid.Column="4" Margin="5"
+                                            Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                            Width="auto"
+                                            VerticalAlignment="Center" Click="btnRC_Click">
+                                        RC
+                                    </Button>
+                                </Grid>
+
+                                <Grid Grid.Row="3">
+                                    <Label Style="{StaticResource labeltitle}" HorizontalAlignment="Right">Condition Flag:</Label>
+                                </Grid>
+                                <Grid Grid.Row="3" Grid.Column="1">
+                                    <Grid Style="{StaticResource Gridsection2rd}" >
+                                        <materialDesign:Card
+                                                   Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"
+                                                   Height="40">
+                                            <TextBlock Style="{StaticResource Textblock2rd}"   
+                                                     x:Name="editConFlag" FontWeight="Normal" FontSize="22" />
+                                        </materialDesign:Card>
+                                    </Grid>
+                                </Grid>
+
+                                <Grid Grid.Row="4">
+                                    <Label Style="{StaticResource labeltitle}" HorizontalAlignment="Right">Input Data:</Label>
+                                </Grid>
+                                <Grid Grid.Row="4" Grid.Column="1">
+                                    <Grid Style="{StaticResource Gridsection2rd}" >
+                                        <materialDesign:Card
+                                                   Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"
+                                                   Height="40">
+                                            <ComboBox Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" FontWeight="Bold" x:Name="combDef" 
+                                                      Margin="10 5 10 5"
+                                                      FontSize="22"
+                                                      Background="White"
+                                                      MouseDoubleClick="combDef_MouseDoubleClick"
+                                                      Height="45"
+                                                      IsEditable="True" KeyDown="combDef_KeyDown">
+                                            </ComboBox>
+                                        </materialDesign:Card>
+                                    </Grid>
+                                </Grid>
+
+                                <Label  Grid.Row="5" Style="{StaticResource labeltitle}" HorizontalAlignment="Right">Mo Number:</Label>
+                                <Grid Grid.Row="5" Grid.Column="1">
+                                    <Grid Style="{StaticResource Gridsection2rd}" >
+                                        <materialDesign:Card
+                                                   Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"
+                                                   Height="40">
+                                            <TextBlock Style="{StaticResource Textblock2rd}"   
+                                                     x:Name="editMoNo" FontWeight="Normal" FontSize="22" />
+                                        </materialDesign:Card>
+                                    </Grid>
+                                </Grid>
+
+                                <Label  Grid.Row="6" Style="{StaticResource labeltitle}" HorizontalAlignment="Right">Model Name:</Label>
+                                <Grid Grid.Row="6" Grid.Column="1">
+                                    <Grid Style="{StaticResource Gridsection2rd}" >
+                                        <materialDesign:Card
+                                                   Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"
+                                                   Height="40">
+                                            <TextBlock Style="{StaticResource Textblock2rd}"   
+                                                     x:Name="editModel" FontWeight="Normal" FontSize="22" />
+                                        </materialDesign:Card>
+                                    </Grid>
+                                </Grid>
+
+
+                                <Grid Grid.Row="7" Grid.ColumnSpan="2" >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <StackPanel Style="{StaticResource stackpanelbt}">
+
+                                        <Button x:Name="bbtnReject"
+                                            Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                            Width="90" Foreground="Red"
+                                            Click="bbtnReject_Click">
+                                            REJECT
+                                        </Button>
+                                    </StackPanel>
+                                    <StackPanel Grid.Column="1" Style="{StaticResource stackpanelbt}">
+                                        <Button x:Name="bttnPass" 
+                                                Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                                Width="90"
+                                                Click="bttnPass_Click">
+                                            PASS
+                                        </Button>
+                                    </StackPanel>
+                                    <StackPanel Grid.Column="2" Style="{StaticResource stackpanelbt}">
+                                        <Button x:Name="cmdCheck"
+                                                Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                                                Width="90"
+                                                Click="cmdCheck_Click">
+                                            CHECK
+                                        </Button>
+                                    </StackPanel>
+                                </Grid>
+
+                            </Grid>
+                        </Border>
+                    </Grid>
+                </Border>
+
+                <Border Grid.Column="2" BorderThickness="1" BorderBrush="LightYellow" CornerRadius="5">
+                    <!--show data-->
+                    <Grid HorizontalAlignment="Stretch" Margin="5 0 0 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="2.5*"></RowDefinition>
+                            <RowDefinition Height="auto"></RowDefinition>
+                            <RowDefinition Height="4.5*"></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <!--show carton-->
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition Width="auto"></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <!--list carton not been check-->
+                            <materialDesign:Card Style="{StaticResource CardHeader}">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <DockPanel Grid.Row="0">
+                                        <DockPanel.Background>
+                                            <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                                                <GradientStop Color="#034E70" Offset="0"/>
+                                                <GradientStop Color="#0889A6" Offset="0.567"/>
+                                            </LinearGradientBrush>
+                                        </DockPanel.Background>
+                                        <Label x:Name="grpbPalletNoNotChecked"
+                                Style="{StaticResource lbHeader}"
+                                Content="PALLET NO NOT BEEN CHECKED">
+                                        </Label>
+                                    </DockPanel>
+                                    <Grid Grid.Row="1">
+                                        <DataGrid x:Name="clstrgridNotChecked" IsReadOnly="True" AutoGenerateColumns="False" MouseDoubleClick="clstrgridNotChecked_MouseDoubleClick" SelectionChanged="clstrgridNotChecked_SelectionChanged">
+                                            <DataGrid.Columns>
+                                                <DataGridTextColumn x:Name="been_check1" Binding="{Binding CARTON_NO}" Header="Carton"/>
+                                                <DataGridTextColumn x:Name="been_check2" Binding="{Binding COUNT}" Header="QTY"/>
+                                            </DataGrid.Columns>
+                                        </DataGrid>
+                                    </Grid>
+                                </Grid>
+                            </materialDesign:Card>
+
+                            <!--buuton-->
+                            <WrapPanel Grid.Column="1" VerticalAlignment="Center" Orientation="Vertical">
+                                <Button x:Name="bbtnRight" Margin="0 0 0 10" Width="90" Foreground="Black"
+                                   Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                            Content="{materialDesign:PackIcon ArrowRight}"
+                            Click="bbtnRight_Click" />
+                                <Button x:Name="bbtnLeft" Margin="0 0 0 0" Width="90" Foreground="Black"
+                                    Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                            Content="{materialDesign:PackIcon ArrowLeft}"
+                            Click="bbtnLeft_Click" />
+                            </WrapPanel>
+
+                            <!--list carton in this lot-->
+                            <materialDesign:Card Grid.Column="2" Style="{StaticResource CardHeader}">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition Height="40"></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <DockPanel Grid.Row="0" >
+                                        <DockPanel.Background>
+                                            <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                                                <GradientStop Color="#034E70" Offset="0"/>
+                                                <GradientStop Color="#0889A6" Offset="0.567"/>
+                                            </LinearGradientBrush>
+                                        </DockPanel.Background>
+                                        <Label x:Name="grpbPalletNoInLot"
+                                Style="{StaticResource lbHeader}">
+                                            PALLET NO IN THIS LOT
+                                        </Label>
+                                    </DockPanel>
+                                    <Grid Grid.Row="1">
+                                        <DataGrid x:Name="clstrgridInLot" IsReadOnly="True" AutoGenerateColumns="False" MouseDoubleClick="clstrgridInLot_MouseDoubleClick" SelectionChanged="clstrgridInLot_SelectionChanged">
+                                            <DataGrid.Columns>
+                                                <DataGridTextColumn x:Name="this_lot1" Binding="{Binding CARTON_NO}" Header="Carton"/>
+                                                <DataGridTextColumn x:Name="this_lot2" Binding="{Binding COUNT}" Header="QTY"/>
+                                                <!--<DataGridTextColumn x:Name="this_lot3" Binding="{Binding QA_RESULT}" Header="Qa_Result"/>-->
+                                            </DataGrid.Columns>
+                                        </DataGrid>
+                                    </Grid>
+                                    <!--Pass faile qty-->
+                                    <Grid Grid.Row="2">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+
+                                        <DockPanel Grid.Column="0" HorizontalAlignment="Stretch">
+                                            <Label x:Name="lablTotalQty" VerticalAlignment="Bottom" FontSize="16">Total Qty in this lot:</Label>
+                                            <Label x:Name="editCount" Foreground="Green"
+                                        Style="{StaticResource labelPersent}" Margin="0"
+                                        VerticalAlignment="Bottom"/>
+                                        </DockPanel>
+
+                                        <DockPanel Grid.Column="1" Margin="2 0 0 0" LastChildFill="False">
+                                            <Label x:Name="lablPassRate"  Width="auto" VerticalAlignment="Bottom" FontSize="16">Pass Rate:</Label>
+                                            <Label x:Name="editPassRate" Margin="0"
+                                                   Style="{StaticResource labelPersent}" Foreground="Green"
+                                                   VerticalAlignment="Bottom" />
+                                 
+                                            <Label Margin="0"
+                                        Style="{StaticResource labelPersent}" Foreground="Green"
+                                        VerticalAlignment="Bottom" Content="%" />
+                                        </DockPanel>
+                                    </Grid>
+                                </Grid>
+                            </materialDesign:Card>
+                        </Grid>
+                        <Separator Grid.Row="1"/>
+                        <!--serial been checked, show error-->
+                        <Grid Grid.Row="2" HorizontalAlignment="Stretch">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="5*"></RowDefinition>
+                                    <RowDefinition Height="auto"></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+
+                                <Grid Grid.Row="0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <!--Serial Number been checked-->
+                                    <materialDesign:Card Grid.Column="0" Style="{StaticResource CardHeader}">
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="auto"></RowDefinition>
+                                                <RowDefinition></RowDefinition>
+                                            </Grid.RowDefinitions>
+
+                                            <DockPanel Grid.Row="0">
+                                                <DockPanel.Background>
+                                                    <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                                                        <GradientStop Color="#034E70" Offset="0"/>
+                                                        <GradientStop Color="#0889A6" Offset="0.567"/>
+                                                    </LinearGradientBrush>
+                                                </DockPanel.Background>
+
+                                                <Label x:Name="grpbSSNchecked"
+                                            Style="{StaticResource lbHeader}">
+                                                    SHIPPING SN BEEN CHECKED
+                                                </Label>
+                                            </DockPanel>
+                                            <Grid Grid.Row="1">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition></RowDefinition>
+                                                    <RowDefinition Height="auto"></RowDefinition>
+                                                </Grid.RowDefinitions>
+                                                <DataGrid x:Name="dbgridSSN" AutoGenerateColumns="False" IsReadOnly="True" >
+                                                    <DataGrid.Columns>
+                                                        <DataGridTextColumn Binding="{Binding SN}" Header="SN"/>
+                                                        <DataGridTextColumn Binding="{Binding SSN}" Header="SSN"/>
+                                                        <DataGridTextColumn Binding="{Binding FLAG}" Header="FLAG"/>
+                                                        <DataGridTextColumn Binding="{Binding CARTON}" Header="CARTON"/>
+                                                        <DataGridTextColumn Binding="{Binding PALLET}" Header="PALLET"/>
+                                                        <DataGridTextColumn Binding="{Binding MODEL}" Header="MODEL"/>
+                                                    </DataGrid.Columns>
+                                                </DataGrid>
+                                                <StackPanel x:Name="panelOOBA" Grid.Row="1" Visibility="Collapsed">
+                                                    <Label Content="OOBA Report" FontSize="10" Foreground="Blue" HorizontalAlignment="Center"></Label>
+                                                    <DataGrid x:Name="ColorStringGrid1" AutoGenerateColumns="False" IsReadOnly="True" MouseDoubleClick="ColorStringGrid1_MouseDoubleClick">
+                                                        <DataGrid.Columns>
+                                                            <DataGridTextColumn Binding="{Binding STT}" Header="" Width="50"/>
+                                                            <DataGridTextColumn Binding="{Binding MO_NUMBER}" Header="MO__Number"/>
+                                                            <DataGridTextColumn Binding="{Binding MODEL_NAME}" Header="Model__name" />
+                                                            <DataGridTextColumn Binding="{Binding VERSION_CODE}" Header="Version"/>
+                                                            <DataGridTextColumn Binding="{Binding MO_QTY}" Header="M/O-QTY"/>
+                                                            <DataGridTextColumn Binding="{Binding PA_NO}" Header="PA__No"/>
+                                                            <DataGridTextColumn Binding="{Binding QTY}" Header="QTY"/>
+                                                            <DataGridTextColumn Binding="{Binding AQL}" Header="AQL"/>
+                                                            <DataGridTextColumn Binding="{Binding PACK_PARAM}" Header="PACK__Param"/>
+                                                            <DataGridTextColumn Binding="{Binding MO_NEED}" Header="MO__Need"/>
+                                                            <DataGridTextColumn Binding="{Binding PA_NEED}" Header="PA__Need"/>
+                                                            <DataGridTextColumn Binding="{Binding PA_HAVE}" Header="PA__Have"/>
+                                                            <DataGridTextColumn Binding="{Binding DIF}" Header="Dif"/>
+                                                        </DataGrid.Columns>
+                                                    </DataGrid>
+                                                </StackPanel>
+                                            </Grid>
+                                        </Grid>
+                                    </materialDesign:Card>
+                                    <!--show error-->
+                                    <materialDesign:Card Grid.Column="1" Style="{StaticResource CardHeader}">
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="auto"></RowDefinition>
+                                                <RowDefinition></RowDefinition>
+                                                <RowDefinition></RowDefinition>
+                                            </Grid.RowDefinitions>
+
+                                            <DockPanel Grid.Row="0" >
+                                                <DockPanel.Background>
+                                                    <LinearGradientBrush EndPoint="0.504,1.5"
+                                                         StartPoint="0.504,0.03">
+                                                        <GradientStop Color="#034E70" Offset="0"/>
+                                                        <GradientStop Color="#0889A6" Offset="0.567"/>
+                                                    </LinearGradientBrush>
+                                                </DockPanel.Background>
+                                                <Label
+                                            Style="{StaticResource lbHeader}">
+                                                    ERROR
+                                                </Label>
+                                            </DockPanel>
+                                            <Grid Grid.Row="1">
+                                                <!--<ListView x:Name="dbgridErrorCode">
+                                                    <ListView.View>
+                                                        <GridView>
+                                                            <GridViewColumn Header="Error"></GridViewColumn>
+                                                        </GridView>
+                                                    </ListView.View>
+                                                </ListView>-->
+                                                <DataGrid x:Name="dbgridErrorCode" AutoGenerateColumns="False" IsReadOnly="True">
+                                                    <DataGrid.Columns>
+                                                        <DataGridTextColumn Binding="{Binding TEST_CODE}" Header="ERROR"/>
+                                                        <DataGridTextColumn Binding="{Binding ERROR_DESC}" Header="ERROR_DESC"/>
+                                                    </DataGrid.Columns>
+                                                </DataGrid>
+                                            </Grid>
+                                            <Grid Grid.Row="2">
+                                                <ListView x:Name="dbgridReasoncode">
+                                                    <ListView.View>
+                                                        <GridView>
+                                                            <GridViewColumn Header="Reason"></GridViewColumn>
+                                                        </GridView>
+                                                    </ListView.View>
+                                                </ListView>
+                                            </Grid>
+                                        </Grid>
+                                    </materialDesign:Card>
+                                </Grid>
+
+                                <!--Sample check-->
+
+                                <Grid x:Name="panelSamplingPlan" Grid.Row="1" Visibility="Hidden">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <DockPanel Grid.Column="0">
+                                        <Label x:Name="lablOQAType" Style="{StaticResource labeltitle}">OQA Type :</Label>
+                                        <TextBox x:Name="editOQAType" Margin="10 0 0 5"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                                    </DockPanel>
+
+                                    <DockPanel Grid.Column="1">
+                                        <Label x:Name="lablSampleQty"  Style="{StaticResource labeltitle}">Sample Qty :</Label>
+                                        <TextBox x:Name="editSampleQty" Margin="10 0 0 5"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                                    </DockPanel>
+
+
+                                    <DockPanel Grid.Column="2">
+                                        <Label x:Name="lablCritical"  Style="{StaticResource labeltitle}">Critical :</Label>
+                                        <TextBox x:Name="editCritical" Margin="10 0 0 5"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                                    </DockPanel>
+
+                                    <DockPanel Grid.Column="3">
+                                        <Label x:Name="lablMajor" Style="{StaticResource labeltitle}">Major :</Label>
+                                        <TextBox x:Name="editMajor" Margin="10 0 0 5"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                                    </DockPanel>
+
+                                    <DockPanel Grid.Column="4">
+                                        <Label x:Name="lablMinor" Style="{StaticResource labeltitle}">Minor :</Label>
+                                        <TextBox x:Name="editMinor" Margin="10 0 0 5"
+                                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                                    </DockPanel>
+                                </Grid>
+
+                                <!--show pass fail-->
+                                <Grid Grid.Row="2" Margin="0 5 0 0" HorizontalAlignment="Stretch">
+                                    <Grid Grid.Row="2">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition Width="1.7*"></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+
+                                        <DockPanel Grid.Column="0" HorizontalAlignment="Stretch">
+                                            <Label x:Name="lablCheckedQty" Foreground="White" VerticalAlignment="Bottom" FontSize="20">Checked Qty:</Label>
+                                            <Label x:Name="editCheckedQty" Content="0" Foreground="Yellow" Style="{StaticResource labelPersent}" />
+                                        </DockPanel>
+                                        <DockPanel Grid.Column="1" HorizontalAlignment="Stretch">
+                                            <Label x:Name="lablFailedQty" Foreground="White" VerticalAlignment="Bottom" FontSize="20">Failed Qty:</Label>
+                                            <Label x:Name="editFailedQty" Content="0" Foreground="Yellow" Style="{StaticResource labelPersent}"/>
+                                        </DockPanel>
+                                        <DockPanel Grid.Column="2" HorizontalAlignment="Stretch">
+                                            <Label x:Name="lablLimitQty" Foreground="White" VerticalAlignment="Bottom" FontSize="20">Limit Qty:</Label>
+                                            <Label x:Name="editLimitQty" Content="0" Foreground="Yellow" Style="{StaticResource labelPersent}"/>
+                                        </DockPanel>
+                                        <DockPanel Grid.Column="3" HorizontalAlignment="Stretch">
+                                            <CheckBox x:Name="chknotooba" Margin="0 0 0 7" IsEnabled="False" Content="NOTOOBA" Style="{StaticResource chkboxtitle}"></CheckBox>
+                                            <CheckBox x:Name="chksea" Margin="0 0 0 7" IsEnabled="False" Content="SEA" Style="{StaticResource chkboxtitle}"></CheckBox>
+                                            <CheckBox x:Name="chkairhk" Margin="0 0 0 7" IsEnabled="False" Content="AIR HK" Style="{StaticResource chkboxtitle}"></CheckBox>
+                                            <CheckBox x:Name="chkair" Margin="0 0 0 7" IsEnabled="False" Content="AIR" Style="{StaticResource chkboxtitle}"></CheckBox>
+                                            <CheckBox x:Name="chkairau" Margin="0 0 0 7" IsEnabled="False" Content="AIR AUS" Style="{StaticResource chkboxtitle}"></CheckBox>
+                                        </DockPanel>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Border>
+            </Grid>
+            <!--DB connect-->
+            <Grid Grid.Row="2" x:Name="RootLayout">
+                <materialDesign:Card Background="#FF5597CD" Margin="10 0 10 0">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="200" ></ColumnDefinition>
+                            <ColumnDefinition Width="200"></ColumnDefinition>
+                            <ColumnDefinition Width="200"></ColumnDefinition>
+                            <ColumnDefinition Width="200"></ColumnDefinition>
+                            <ColumnDefinition Width="200"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="txt_loginInfor">V0939996 - Tran Van Xuan</TextBlock>
+                            </Border>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                                <TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="txt_Database">DATABASE:10.224.134.113</TextBlock>
+                            </Border>
+                        </Grid>
+                        <Grid Grid.Column="2">
+                            <Border BorderBrush="White" BorderThickness="0 0 1 0">
+                                <TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="txtVerAp">VERSION:</TextBlock>
+                            </Border>
+                        </Grid>
+
+                        <Grid Grid.Column="3">
+                            <Border BorderBrush="White" BorderThickness="0 0 0 0">
+                                <TextBlock HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" x:Name="txtTime">TIME:</TextBlock>
+                            </Border>
+                        </Grid>
+                        <PasswordBox Grid.Column="4" x:Name="Meditinput_password" Visibility="Collapsed" Height="17" KeyDown="Meditinput_password_KeyDown"></PasswordBox>
+                    </Grid>
+                </materialDesign:Card>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

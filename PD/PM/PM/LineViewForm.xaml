@@ -1,0 +1,229 @@
+﻿<Window x:Class="PM.LineViewForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PM"
+        mc:Ignorable="d"
+        FontSize="13"
+        FontFamily="Arial"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="LineViewForm" Height="450" Width="800">
+    <Grid Background="#008082">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid Grid.Row="0" Background="#FFF">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Margin="5" Background="#008082">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Foreground="#FFF" Height="25" Width="25" Kind="Outbox"/>
+                        <Label FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">Go Top</Label>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Column="1" Margin="5" Background="#008082">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Foreground="#FFF" Height="25" Width="25" Kind="Upload"/>
+                        <Label FontWeight="Bold" Foreground="#FFF" FontFamily="Arial" FontSize="13">Go Up</Label>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Label Content="LINE :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <ComboBox Height="25"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Label Content="MO :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+            </Grid>
+            <Grid Grid.Column="3">
+                <ComboBox Height="25"/>
+            </Grid>
+            <Grid Grid.Column="4">
+                <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="90">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="AccountSearch"/>
+                            <Label Content="Query" Foreground="#008082"/>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label Content="Today Input :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Content="Total Input :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox Height="25" Padding="4" Margin="5 0"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox Height="25" Padding="4" Margin="5 0"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label Content="Today Output :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Content="Total Output :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox Height="25" Padding="4" Margin="5 0"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox Height="25" Padding="4" Margin="5 0"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label Content="Today Fail QTY :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Content="Total Fail QTY :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox Height="25" Padding="4" Margin="5 0"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox Height="25" Padding="4" Margin="5 0"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3" Background="#FFF" Margin="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0" Background="#008082" BorderBrush="White" BorderThickness="1" CornerRadius="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Margin="0 5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <Label Content="Wait for Repair :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <TextBox Height="25" Padding="4" Margin="10 0"/>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100">
+                                <Button.Content>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="Close"/>
+                                        <Label Content="Error detail" Foreground="#008082"/>
+                                    </StackPanel>
+                                </Button.Content>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <Label Content="Repair QTY :" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"/>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <TextBox Height="25" Padding="4" Margin="10 0"/>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <Button Background="#FFF" BorderBrush="{x:Null}" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100">
+                                <Button.Content>
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Foreground="#008082" VerticalAlignment="Center" Kind="Close"/>
+                                        <Label Content="Repair detail" Foreground="#008082"/>
+                                    </StackPanel>
+                                </Button.Content>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Border>
+            <Grid Grid.Column="1">
+                <DataGrid Margin="3"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

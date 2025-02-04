@@ -1,0 +1,80 @@
+﻿<Window x:Class="CQC.DeleteLotWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Delete LOT" Height="200" Width="320">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <GroupBox
+            Header=" LOT No."
+            Margin="10">
+            <StackPanel>
+                <ComboBox Margin="10 0 60 0"
+                      materialDesign:HintAssist.Hint="Lot No"
+                      Style="{ StaticResource  MaterialDesignFloatingHintComboBox}" />
+            </StackPanel>
+        </GroupBox>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+                <!--<Button Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                        Width="85"
+                        ToolTip="OK">
+                    OK
+                </Button>-->
+
+                <Button Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="OK">
+                    <StackPanel
+                Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                    Margin="0 .5 0 0"
+                    Kind="Check" />
+                        <TextBlock>
+                    OK
+                        </TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <Button Margin="10" HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="Cancel">
+                    <StackPanel
+                        Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                        Margin="0 .5 0 0"
+                        Kind="Close" />
+                        <TextBlock>
+                        Cancel
+                        </TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

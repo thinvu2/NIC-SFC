@@ -1,0 +1,51 @@
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Sfc.Core.dll.config
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Sfc.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Sfc.Core.pdb
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Microsoft.Owin.Security.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Newtonsoft.Json.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\System.Buffers.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\System.Memory.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Core.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Owin.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\bin\Release\Microsoft.Owin.Security.xml
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Release\Sfc.Core.csprojAssemblyReference.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Release\Sfc.Core.csproj.CoreCompileInputs.cache
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Release\Sfc.Core.csproj.CopyComplete
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Release\Sfc.Core.dll
+E:\Workspace\Sfc_Api_Project\Sfc\Sfc.Core\obj\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\System.Buffers.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\System.Memory.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\obj\Release\Sfc.Core.csproj.AssemblyReference.cache
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\obj\Release\Sfc.Core.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\obj\Release\Sfc.Core.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\obj\Release\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC 5.0\SFC_API\Sfc.Core\obj\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Sfc.Core.dll.config
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Newtonsoft.Json.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\System.Buffers.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\System.Memory.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Release\Sfc.Core.csproj.CoreCompileInputs.cache
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Release\Sfc.Core.csproj.CopyComplete
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Release\Sfc.Core.dll
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Release\Sfc.Core.pdb
+C:\Users\V1041643\Desktop\SFC_NIC\SFC_API\Sfc.Core\obj\Release\Sfc.Core.csproj.AssemblyReference.cache

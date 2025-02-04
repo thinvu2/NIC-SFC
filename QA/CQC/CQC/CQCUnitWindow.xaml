@@ -1,0 +1,74 @@
+﻿<Window x:Class="CQC.CQCUnitWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CQC"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="formCQCUnit" Height="200" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <GroupBox
+            Header="Please Input CQC Unit"
+            Margin="10">
+            <StackPanel>
+                <TextBox x:Name="editCQCUnit" Margin="10 0 60 0"
+                      materialDesign:HintAssist.Hint="CQC Unit"
+                      Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+            </StackPanel>
+        </GroupBox>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+
+                <Button x:Name="bbtnOK" Margin="10" HorizontalAlignment="Right"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="OK" Click="bbtnOK_Click">
+                    <StackPanel
+                Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                    Margin="0 .5 0 0"
+                    Kind="Check" />
+                        <TextBlock>
+                    OK
+                        </TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <Button x:Name="bbtnCancel" Margin="10" HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignRaisedButton}"
+                        Width="90"
+                        ToolTip="Cancel" Click="bbtnCancel_Click">
+                    <StackPanel
+                        Orientation="Horizontal">
+                        <materialDesign:PackIcon
+                        Margin="0 .5 0 0"
+                        Kind="Close" />
+                        <TextBlock>
+                        Cancel
+                        </TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

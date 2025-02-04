@@ -1,0 +1,127 @@
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe.config
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fDetail.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainInOutRevert.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainNotice.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Form1.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fPackNotice.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Properties.Resources.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frm_station.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.GenerateResource.cache
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CoreCompileInputs.cache
+C:\SFIS-NIC\FG_CHECK\FG_CHECK.exe.config
+C:\SFIS-NIC\FG_CHECK\FG_CHECK.exe
+C:\SFIS-NIC\FG_CHECK\FG_CHECK.pdb
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CopyComplete
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.pdb
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.MessageError.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frmParam.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainShippingLabel.resources
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.AssemblyReference.cache
+D:\c\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.FFQA.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe.config
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fDetail.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.FFQA.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainInOutRevert.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainNotice.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainShippingLabel.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Form1.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fPackNotice.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frmParam.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.MessageError.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Properties.Resources.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frm_station.resources
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.GenerateResource.cache
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CoreCompileInputs.cache
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CopyComplete
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.pdb
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.exe.config
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.exe
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.pdb
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\Interop.LabelManager2.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\Newtonsoft.Json.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\Oracle.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\Sfc.Core.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\Sfc.Library.HttpClient.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\sfcconnect.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\SFC_Library.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\System.Net.Http.Formatting.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\Newtonsoft.Json.xml
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\bin\Debug\sfcconnect.pdb
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\Interop.WIA.dll
+D:\SFC_NIC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.ResolveComReference.cache
+C:\NIC\FG_CHECK\FG_CHECK.exe.config
+C:\NIC\FG_CHECK\FG_CHECK.exe
+C:\NIC\FG_CHECK\FG_CHECK.pdb
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.AssemblyReference.cache
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\Interop.WIA.dll
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.ResolveComReference.cache
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fDetail.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.FFQA.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainInOutRevert.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainNotice.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainShippingLabel.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Form1.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fPackNotice.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frmParam.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.MessageError.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Properties.Resources.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frm_station.resources
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.GenerateResource.cache
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CoreCompileInputs.cache
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CopyComplete
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.pdb
+E:\FG_CHECK\FG_CHECK\obj\Debug\Interop.WIA.dll
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.ResolveComReference.cache
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fDetail.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.FFQA.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainInOutRevert.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainNotice.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainShippingLabel.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Form1.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fPackNotice.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frmParam.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.MessageError.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Properties.Resources.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frm_station.resources
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.GenerateResource.cache
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CoreCompileInputs.cache
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CopyComplete
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.pdb
+E:\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe.config
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.exe.config
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.exe
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.pdb
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\SFC_Library.dll
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\Newtonsoft.Json.xml
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\sfcconnect.pdb
+E:\NIC Source\5.0\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.exe
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\FG_CHECK.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\SFC_Library.dll
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\bin\Debug\sfcconnect.pdb
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.AssemblyReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe.config
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\Interop.WIA.dll
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.ResolveComReference.cache
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fDetail.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.FFQA.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainInOutRevert.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainNotice.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fMainShippingLabel.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Form1.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.fPackNotice.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frmParam.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.MessageError.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.Properties.Resources.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.frm_station.resources
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.GenerateResource.cache
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CoreCompileInputs.cache
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.csproj.CopyComplete
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.exe
+C:\Users\V1039443\Desktop\NIC_SFC\FG\FG_CHECK\FG_CHECK\obj\Debug\FG_CHECK.pdb

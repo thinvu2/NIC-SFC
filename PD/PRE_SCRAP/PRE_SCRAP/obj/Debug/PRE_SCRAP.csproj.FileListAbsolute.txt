@@ -1,0 +1,146 @@
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\bin\Debug\SFC_Library.pdb
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\bin\Debug\SFC_Library.xml
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.csproj.AssemblyReference.cache
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.MessageError.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.PreS_Modify.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.Info_AB.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.Main_Prescrap.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.Form_Query.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.Option.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.Login.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.csproj.GenerateResource.cache
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.csproj.CoreCompileInputs.cache
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.csproj.CopyComplete
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\bin\Debug\PRE_SCRAP.exe.config
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\bin\Debug\PRE_SCRAP.exe
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\bin\Debug\PRE_SCRAP.pdb
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.exe.config
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.Properties.Resources.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.exe
+C:\Users\V0978924\Desktop\Tranfer\C#\PreScrap\PreScrap\obj\Debug\PRE_SCRAP.pdb
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe.config
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.pdb
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.pdb
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.xml
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.AssemblyReference.cache
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.MessageError.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.PreS_Modify.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Info_AB.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Main_Prescrap.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Form_Query.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Option.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Login.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Properties.Resources.resources
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.GenerateResource.cache
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CoreCompileInputs.cache
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CopyComplete
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.pdb
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe.config
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.pdb
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.pdb
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.xml
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.AssemblyReference.cache
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe.config
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.MessageError.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.PreS_Modify.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Info_AB.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Main_Prescrap.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Form_Query.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Option.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Login.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Properties.Resources.resources
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.GenerateResource.cache
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CoreCompileInputs.cache
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CopyComplete
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe
+C:\Users\V0978924\Desktop\Tranfer\C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.pdb
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\V0978924\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe.config
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe.config
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.pdb
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.pdb
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.xml
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe.config
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.MessageError.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.PreS_Modify.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Info_AB.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Main_Prescrap.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Form_Query.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Option.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Login.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.pdb
+C:\Users\Administrator\Desktop\PRE_SCRAP\PRE_SCRAP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe.config
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.pdb
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.pdb
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\bin\Debug\SFC_Library.xml
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.AssemblyReference.cache
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.MessageError.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.PreS_Modify.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Info_AB.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Main_Prescrap.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Form_Query.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Option.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Login.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Properties.Resources.resources
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.GenerateResource.cache
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CoreCompileInputs.cache
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CopyComplete
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe
+C:\Users\V0990926\Desktop\Convert C#\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.pdb
+D:\Program\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe.config
+D:\Program\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe
+D:\Program\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.pdb
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.MessageError.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.PreS_Modify.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Info_AB.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Main_Prescrap.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Form_Query.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Option.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Login.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Properties.Resources.resources
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.GenerateResource.cache
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CoreCompileInputs.cache
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CopyComplete
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.pdb
+C:\SFIS-NIC\PRE_SCRAP\PRE_SCRAP.exe.config
+C:\SFIS-NIC\PRE_SCRAP\PRE_SCRAP.exe
+C:\SFIS-NIC\PRE_SCRAP\PRE_SCRAP.pdb
+D:\Program\PRE_SCRAP\PRE_SCRAP\bin\Debug\Oracle.dll
+D:\Program\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.AssemblyReference.cache
+E:\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe.config
+E:\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.exe
+E:\PRE_SCRAP\PRE_SCRAP\bin\Debug\PRE_SCRAP.pdb
+E:\PRE_SCRAP\PRE_SCRAP\bin\Debug\Oracle.dll
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.MessageError.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.PreS_Modify.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Info_AB.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Main_Prescrap.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Form_Query.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Option.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Login.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.Properties.Resources.resources
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.GenerateResource.cache
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CoreCompileInputs.cache
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.csproj.CopyComplete
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.exe
+E:\PRE_SCRAP\PRE_SCRAP\obj\Debug\PRE_SCRAP.pdb
